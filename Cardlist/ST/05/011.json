@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Douglas Bullet",
+        "set_name": "Starter Deck 5: Film Edition",
+        "card_text": "[Activate:Main] [Once Per Turn] DON!! -4 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Rest up to 2 of your opponent's Characters with a cost of 6 or less. Then, this Character gains [Double Attack] during this turn. (This card deals 2 damage.)",
+        "set_id": "ST-05",
+        "rarity": "SR",
+        "card_set_id": "ST05-011",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "8",
+        "card_power": "10000",
+        "sub_types": "Film The Pirates Fest",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST05-011",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST05-011.jpg"
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Guard Point",
+        "set_name": "Starter Deck 1: Straw Hat Crew",
+        "card_text": "[Counter] Up to 1 of your Leader or Character cards gains +3000 power during this battle. [Trigger] Up to 1 of your Leader or Character cards gains +1000 power during this turn.",
+        "set_id": "ST-01",
+        "rarity": "C",
+        "card_set_id": "ST01-014",
+        "card_color": "Red",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "Animal Straw Hat Crew",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST01-014",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST01-014.jpg"
+    }
+]

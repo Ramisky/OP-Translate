@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Charlotte Pudding",
+        "set_name": "The World's Strongest Warriors",
+        "card_text": "[Blocker]\n[On Play] If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, add up to 1 DON!! card from your DON!! deck and rest it.",
+        "set_id": "EB-03",
+        "rarity": "R",
+        "card_set_id": "EB03-035",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "4000",
+        "sub_types": "Big Mom Pirates",
+        "counter_amount": 2000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB03-035",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB03-035_YunUEht.jpg"
+    }
+]

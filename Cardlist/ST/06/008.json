@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Hina",
+        "set_name": "Starter Deck 6: Absolute Justice",
+        "card_text": "[On Play] Give up to 1 of your opponent's Characters -4 cost during this turn.",
+        "set_id": "ST-06",
+        "rarity": "C",
+        "card_set_id": "ST06-008",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "5000",
+        "sub_types": "Navy",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST06-008",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST06-008.jpg"
+    }
+]

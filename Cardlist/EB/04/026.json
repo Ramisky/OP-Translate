@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Bluegrass",
+        "set_name": "The Azure Sea's Seven",
+        "card_text": "[On Play] Place up to 1 of your opponent's Characters with a cost of 1 or less at the bottom of the owner's deck.\n[When Attacking] Draw 1 card and trash 1 card from your hand.",
+        "set_id": "OP14-EB04",
+        "rarity": "C",
+        "card_set_id": "EB04-026",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "6000",
+        "sub_types": "Navy Egghead",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB04-026",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB04-026_CE6s1y3.jpg"
+    }
+]

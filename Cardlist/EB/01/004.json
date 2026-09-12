@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Koza",
+        "set_name": "Extra Booster: Memorial Collection",
+        "card_text": "[When Attacking] You may give your 1 active Leader -5000 power during this turn: Give up to 1 of your opponent's Characters -3000 power during this turn.",
+        "set_id": "EB-01",
+        "rarity": "C",
+        "card_set_id": "EB01-004",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "3000",
+        "sub_types": "Alabasta",
+        "counter_amount": 1000,
+        "attribute": "Ranged",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB01-004",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB01-004.jpg"
+    }
+]

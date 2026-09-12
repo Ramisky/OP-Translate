@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Sables",
+        "set_name": "Starter Deck 3: The Seven Warlords of The Sea",
+        "card_text": "[Main] Return up to 1 Character with a cost of 7 or less to the owner's hand. [Trigger] Activate this card's [Main] effect.",
+        "set_id": "ST-03",
+        "rarity": "C",
+        "card_set_id": "ST03-015",
+        "card_color": "Blue",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "4",
+        "card_power": null,
+        "sub_types": "Baroque Works The Seven Warlords of the Sea",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST03-015",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST03-015.jpg"
+    }
+]

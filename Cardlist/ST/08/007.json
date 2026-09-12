@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Nefeltari Vivi",
+        "set_name": "Starter Deck 8: Monkey.D.Luffy",
+        "card_text": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [Trigger] Play this card.",
+        "set_id": "ST-08",
+        "rarity": "C",
+        "card_set_id": "ST08-007",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "1000",
+        "sub_types": "Alabasta",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST08-007",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST08-007.jpg"
+    }
+]

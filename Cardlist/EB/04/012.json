@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Kikunojo - EB04-012 (Alternate Art)",
+        "set_name": "The Azure Sea's Seven",
+        "card_text": "[Activate:Main] [Once Per Turn] If this Character has played on this turn, set your {Land of Wano} type Leader as active.",
+        "set_id": "OP14-EB04",
+        "rarity": "SR",
+        "card_set_id": "EB04-012",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "7",
+        "card_power": "8000",
+        "sub_types": "Land of Wano The Akazaya Nine",
+        "counter_amount": 0,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB04-012_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB04-012_p1_AZlti1j.jpg"
+    },
+    {
+        "card_name": "Kikunojo - EB04-012",
+        "set_name": "The Azure Sea's Seven",
+        "card_text": "[Activate:Main] [Once Per Turn] If this Character has played on this turn, set your {Land of Wano} type Leader as active.",
+        "set_id": "OP14-EB04",
+        "rarity": "SR",
+        "card_set_id": "EB04-012",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "7",
+        "card_power": "8000",
+        "sub_types": "Land of Wano The Akazaya Nine",
+        "counter_amount": 0,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB04-012",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB04-012_tJwjU5P.jpg"
+    }
+]

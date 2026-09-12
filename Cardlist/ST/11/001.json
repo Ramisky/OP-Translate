@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Uta (001)",
+        "set_name": "Starter Deck 11: Uta",
+        "card_text": "[DON!! x1][When Attacking][Once Per Turn] Reveal 1 card from the top of your deck and add up to 1 [FILM] type card to your hand. Then, place the rest at the bottom of your deck.",
+        "set_id": "ST-11",
+        "rarity": "L",
+        "card_set_id": "ST11-001",
+        "card_color": "Green",
+        "card_type": "Leader",
+        "life": "5",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "FILM",
+        "counter_amount": null,
+        "attribute": "Special",
+        "date_scraped": "2026-01-25",
+        "card_image_id": "ST11-001",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST11-001.jpg"
+    },
+    {
+        "card_name": "Uta (ST11-001)",
+        "set_name": "Starter Deck 16: GREEN Uta",
+        "card_text": "[DON!! x1] [When Attacking] [Once Per Turn] Reveal 1 card from the top of your deck and add up to 1 \"FILM\" type card to your hand. Then, place the rest at the bottom of your deck.",
+        "set_id": "ST-16",
+        "rarity": "L",
+        "card_set_id": "ST11-001",
+        "card_color": "Green",
+        "card_type": "Leader",
+        "life": "5",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "FILM",
+        "counter_amount": null,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST11-001_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST11-001_p1.jpg"
+    }
+]

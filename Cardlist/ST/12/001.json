@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Roronoa Zoro & Sanji",
+        "set_name": "Starter Deck 12: Zoro and Sanji",
+        "card_text": "[DON!! x1][When Attacking][Once Per Turn] You may return 1 of your Characters with a cost of 2 or more to the owner's hand: Set up to 1 of your Characters with 7000 power or less as active.",
+        "set_id": "ST-12",
+        "rarity": "L",
+        "card_set_id": "ST12-001",
+        "card_color": "Blue Green",
+        "card_type": "Leader",
+        "life": "4",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Straw Hat Crew",
+        "counter_amount": null,
+        "attribute": "Slash Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST12-001",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST12-001.jpg"
+    }
+]

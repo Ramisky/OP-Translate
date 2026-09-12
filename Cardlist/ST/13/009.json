@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Shanks",
+        "set_name": "Ultra Deck: The Three Brothers",
+        "card_text": "[On Play] You may turn 1 of your face-up Life cards face-down: If your opponent has 7 or more cards in their hand, trash up to 1 card from the top of your opponent's Life cards.",
+        "set_id": "ST-13",
+        "rarity": "C",
+        "card_set_id": "ST13-009",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "7",
+        "card_power": "7000",
+        "sub_types": "The Four Emperors Red-Haired Pirates",
+        "counter_amount": 0,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST13-009",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST13-009_82C1fh7.jpg"
+    },
+    {
+        "card_name": "Shanks (Parallel)",
+        "set_name": "Ultra Deck: The Three Brothers",
+        "card_text": "[On Play] You may turn 1 of your face-up Life cards face-down: If your opponent has 7 or more cards in their hand, trash up to 1 card from the top of your opponent's Life cards.",
+        "set_id": "ST-13",
+        "rarity": "C",
+        "card_set_id": "ST13-009",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "7",
+        "card_power": "7000",
+        "sub_types": "The Four Emperors Red-Haired Pirates",
+        "counter_amount": 0,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST13-009_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST13-009_p1_cdOyggP.jpg"
+    }
+]

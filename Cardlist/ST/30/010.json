@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Crocodile",
+        "set_name": "Starter Deck EX: Luffy & Ace",
+        "card_text": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)\n\n[On Play] Up to 1 of your opponent's rested Characters will not become active in your opponent's next Refresh Phase.",
+        "set_id": "ST-30",
+        "rarity": "C",
+        "card_set_id": "ST30-010",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "6000",
+        "sub_types": "Impel Down Former Baroque Works",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST30-010",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST30-010_YIqqCUS.jpg"
+    },
+    {
+        "card_name": "Crocodile (Full Art)",
+        "set_name": "Starter Deck EX: Luffy & Ace",
+        "card_text": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)\n\n[On Play] Up to 1 of your opponent's rested Characters will not become active in your opponent's next Refresh Phase.",
+        "set_id": "ST-30",
+        "rarity": "C",
+        "card_set_id": "ST30-010",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "6000",
+        "sub_types": "Impel Down Former Baroque Works",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST30-010_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST30-010_p1_MFjOUdA.jpg"
+    }
+]

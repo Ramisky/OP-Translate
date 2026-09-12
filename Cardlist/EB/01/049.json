@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "T-Bone",
+        "set_name": "Extra Booster: Memorial Collection",
+        "card_text": "[On Play] K.O. up to 1 of your opponent's Characters with a cost of 2 or less.",
+        "set_id": "EB-01",
+        "rarity": "R",
+        "card_set_id": "EB01-049",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "5000",
+        "sub_types": "Navy Water Seven",
+        "counter_amount": 2000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB01-049",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB01-049.jpg"
+    },
+    {
+        "card_name": "T-Bone (Alternate Art)",
+        "set_name": "Extra Booster: Memorial Collection",
+        "card_text": "[On Play] K.O. up to 1 of your opponent's Characters with a cost of 2 or less.",
+        "set_id": "EB-01",
+        "rarity": "R",
+        "card_set_id": "EB01-049",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "5000",
+        "sub_types": "Navy Water Seven",
+        "counter_amount": 2000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB01-049_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB01-049_p1.jpg"
+    }
+]

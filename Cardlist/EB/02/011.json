@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Arlong",
+        "set_name": "Extra Booster: Anime 25th Collection",
+        "card_text": "[On Play] If your Leader has the \"Fish-Man\" or \"East Blue\" type, give up to 1 rested DON!! card to 1 of your Leader. Then, up to 1 of your opponent's Characters with a cost of 5 or less cannot be rested until the end of your opponent's next turn.",
+        "set_id": "EB-02",
+        "rarity": "SR",
+        "card_set_id": "EB02-011",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "Fish-Man Arlong Pirates East Blue",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB02-011",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB02-011.jpg"
+    },
+    {
+        "card_name": "Arlong (Alternate Art)",
+        "set_name": "Extra Booster: Anime 25th Collection",
+        "card_text": "[On Play] If your Leader has the \"Fish-Man\" or \"East Blue\" type, give up to 1 rested DON!! card to 1 of your Leader. Then, up to 1 of your opponent's Characters with a cost of 5 or less cannot be rested until the end of your opponent's next turn.",
+        "set_id": "EB-02",
+        "rarity": "SR",
+        "card_set_id": "EB02-011",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "Fish-Man Arlong Pirates East Blue",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB02-011_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB02-011_p1.jpg"
+    }
+]

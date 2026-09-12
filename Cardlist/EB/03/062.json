@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Trafalgar Law (Alternate Art)",
+        "set_name": "Extra Booster: One Piece Heroines Edition",
+        "card_text": "[Rush]\n[Activate: Main] You may trash 1 card from your hand and trash this Character: Add up to 1 card from the top of your deck to the top of your Life cards. Then, play up to 1 [Trafalgar Law] with a cost of 7 or less from your hand.",
+        "set_id": "EB-03",
+        "rarity": "SEC",
+        "card_set_id": "EB03-062",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "8",
+        "card_power": "6000",
+        "sub_types": "Heart Pirates",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB03-062_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB03-062_p1_rVGeO4S.jpg"
+    },
+    {
+        "card_name": "Trafalgar Law",
+        "set_name": "Extra Booster: One Piece Heroines Edition",
+        "card_text": "[Rush] [Activate: Main] You may trash 1 card from your hand and trash this Character: Add up to 1 card from the top of your deck to the top of your Life cards. Then, play up to 1 [Trafalgar Law] with a cost of 7 or less from your hand.",
+        "set_id": "EB-03",
+        "rarity": "SEC",
+        "card_set_id": "EB03-062",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "8",
+        "card_power": "6000",
+        "sub_types": "Heart Pirates",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB03-062",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB03-062_BWvg4OV.jpg"
+    }
+]

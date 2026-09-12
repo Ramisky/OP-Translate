@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Luffy & Ace",
+        "set_name": "Starter Deck EX: Luffy & Ace",
+        "card_text": "If you have a Character with 7000 base power or more, give this Leader -2000 power.\n[Opponent's Turn] All of your [Portgas.D.Ace] and [Monkey.D.Luffy] cards gain +3000 power.",
+        "set_id": "ST-30",
+        "rarity": "L",
+        "card_set_id": "ST30-001",
+        "card_color": "Green Red",
+        "card_type": "Leader",
+        "life": "4",
+        "card_cost": null,
+        "card_power": "6000",
+        "sub_types": "Straw Hat Crew Whitebeard Pirates Impel Down",
+        "counter_amount": 0,
+        "attribute": "Special Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST30-001",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST30-001_LM5IDx5.jpg"
+    },
+    {
+        "card_name": "Luffy & Ace (Parallel)",
+        "set_name": "Starter Deck EX: Luffy & Ace",
+        "card_text": "If you have a Character with 7000 base power or more, give this Leader -2000 power.\n[Opponent's Turn] All of your [Portgas.D.Ace] and [Monkey.D.Luffy] cards gain +3000 power.",
+        "set_id": "ST-30",
+        "rarity": "L",
+        "card_set_id": "ST30-001",
+        "card_color": "Green Red",
+        "card_type": "Leader",
+        "life": "4",
+        "card_cost": null,
+        "card_power": "6000",
+        "sub_types": "Straw Hat Crew Whitebeard Pirates Impel Down",
+        "counter_amount": 0,
+        "attribute": "Special Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST30-001_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST30-001_p1_xVRPPSd.jpg"
+    }
+]

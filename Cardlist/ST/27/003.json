@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Kuzan",
+        "set_name": "Starter Deck 27: BLACK Marshall.D.Teach",
+        "card_text": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)\n[On K.O.] Play up to 1 \"Blackbeard Pirates\" type Character card with a cost of 5 or less from your trash rested.",
+        "set_id": "ST-27",
+        "rarity": "SR",
+        "card_set_id": "ST27-003",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "6000",
+        "sub_types": "Blackbeard Pirates Former Navy",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST27-003",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST27-003.jpg"
+    }
+]

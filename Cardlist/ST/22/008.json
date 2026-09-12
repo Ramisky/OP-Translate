@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Decalvan Brothers (Parallel)",
+        "set_name": "Starter Deck 22: Ace & Newgate",
+        "card_text": null,
+        "set_id": "ST-22",
+        "rarity": "C",
+        "card_set_id": "ST22-008",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "4000",
+        "sub_types": "Whitebeard Pirates Allies",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-09",
+        "card_image_id": "ST22-008_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST22-008_p1_raHwHxD.jpg"
+    },
+    {
+        "card_name": "Decalvan Brothers",
+        "set_name": "Starter Deck 22: Ace & Newgate",
+        "card_text": null,
+        "set_id": "ST-22",
+        "rarity": "C",
+        "card_set_id": "ST22-008",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "4000",
+        "sub_types": "Whitebeard Pirates Allies",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2025-09-18",
+        "card_image_id": "ST22-008",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST22-008_nGxbWvt.jpg"
+    }
+]

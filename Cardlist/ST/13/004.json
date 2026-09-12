@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Edward.Newgate",
+        "set_name": "Ultra Deck: The Three Brothers",
+        "card_text": "[On Play] Add 1 card from the top of your deck to the top of your Life cards. Then, look at all your Life cards; place 1 card at the top of your deck and place the rest back in your Life area in any order.",
+        "set_id": "ST-13",
+        "rarity": "C",
+        "card_set_id": "ST13-004",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "7000",
+        "sub_types": "The Four Emperors Whitebeard Pirates",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-08-29",
+        "card_image_id": "ST13-004",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST13-004_bFAHsxu.jpg"
+    },
+    {
+        "card_name": "Edward.Newgate (Parallel)",
+        "set_name": "Ultra Deck: The Three Brothers",
+        "card_text": "[On Play] Add 1 card from the top of your deck to the top of your Life cards. Then, look at all your Life cards; place 1 card at the top of your deck and place the rest back in your Life area in any order.",
+        "set_id": "ST-13",
+        "rarity": "C",
+        "card_set_id": "ST13-004",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "7000",
+        "sub_types": "The Four Emperors Whitebeard Pirates",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST13-004_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST13-004_p1_SHFtr1o.jpg"
+    }
+]

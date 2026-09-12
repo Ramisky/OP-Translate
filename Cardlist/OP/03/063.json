@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Zambai",
+        "set_name": "Pillars of Strength",
+        "card_text": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] DON!! -1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your Leader has the [Water Seven] type, draw 1 card.",
+        "set_id": "OP-03",
+        "rarity": "UC",
+        "card_set_id": "OP03-063",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "2000",
+        "sub_types": "Water Seven The Franky Family",
+        "counter_amount": 0,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP03-063",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP03-063.jpg"
+    }
+]

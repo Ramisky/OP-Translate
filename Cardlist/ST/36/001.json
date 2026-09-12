@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Cavendish",
+        "set_name": "Starter Deck 36: YELLOW Eustass\"Captain\"Kid",
+        "card_text": "[On K.O.] You may trash 1 card from your hand: Add up to 1 card from the top of your deck to the top of your Life cards.",
+        "set_id": "ST-36",
+        "rarity": "C",
+        "card_set_id": "ST36-001",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "3000",
+        "sub_types": "Beautiful Pirates Supernovas Dressrosa",
+        "counter_amount": 2000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST36-001",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST36-001.jpg"
+    }
+]

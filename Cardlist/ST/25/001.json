@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Alvida",
+        "set_name": "Starter Deck 25: BLUE Buggy",
+        "card_text": "If you have 2 or more Characters with a base cost of 5 or more, this Character gains +1 cost.\n[On Play] If your Leader is [Buggy], draw 3 cards and trash 2 cards from your hand.",
+        "set_id": "ST-25",
+        "rarity": "C",
+        "card_set_id": "ST25-001",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Cross Guild",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST25-001",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST25-001.jpg"
+    },
+    {
+        "card_name": "Alvida",
+        "set_name": "Starter Deck 25: BLUE Buggy",
+        "card_text": "If you have 2 or more Characters with a base cost of 5 or more, this Character gains +1 cost.\n[On Play] If your Leader is [Buggy], draw 3 cards and trash 2 cards from your hand.",
+        "set_id": "ST-25",
+        "rarity": "C",
+        "card_set_id": "ST25-001",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Cross Guild",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST25-001",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST25-001_xelVoJm.jpg"
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Nico Robin",
+        "set_name": "Starter Deck 26: PURPLE/BLACK Monkey.D.Luffy",
+        "card_text": "[On Play] DON!! -2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Add up to 1 DON!! card from your DON!! deck and set it as active.",
+        "set_id": "ST-26",
+        "rarity": "SR",
+        "card_set_id": "ST26-003",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "Straw Hat Crew",
+        "counter_amount": 2000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST26-003",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST26-003.jpg"
+    }
+]

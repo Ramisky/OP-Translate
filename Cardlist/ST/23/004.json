@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Monkey.D.Luffy",
+        "set_name": "Starter Deck 23: RED Shanks",
+        "card_text": "[Activate:Main] You may rest 1 of your DON!! cards and this Character: Give up to 1 of your opponent's Characters-1000 power during this turn.",
+        "set_id": "ST-23",
+        "rarity": "C",
+        "card_set_id": "ST23-004",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "2000",
+        "sub_types": "FILM Straw Hat Crew Supernovas",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST23-004",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST23-004.jpg"
+    },
+    {
+        "card_name": "Monkey.D.Luffy",
+        "set_name": "Starter Deck 31: RED Monkey.D.Luffy",
+        "card_text": "[Activate: Main] You may rest 1 of your DON!! cards and this Character: Give up to 1 of your opponent's Characters \u22121000 power during this turn.",
+        "set_id": "ST-31",
+        "rarity": "C",
+        "card_set_id": "ST23-004",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "2000",
+        "sub_types": "Animal/Straw Hat Crew",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-08-19",
+        "card_image_id": "ST23-004-r1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST23-004_r1.jpg"
+    }
+]

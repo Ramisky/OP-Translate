@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Monkey.D.Luffy (012) (Full Art)",
+        "set_name": "Starter Deck 29: Egghead",
+        "card_text": "[Activate: Main] [Once Per Turn] Give up to 1 rested DON!! card to 1 of your [Monkey.D.Luffy] cards.\n[Trigger] Play this card.",
+        "set_id": "ST-29",
+        "rarity": "C",
+        "card_set_id": "ST29-012",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "0",
+        "sub_types": "Straw Hat Crew The Four Emperors Egghead",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST29-012_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST29-012_p1_SNCwBT6.jpg"
+    },
+    {
+        "card_name": "Monkey.D.Luffy (012)",
+        "set_name": "Starter Deck 29: Egghead",
+        "card_text": "[Activate: Main] [Once Per Turn] Give up to 1 rested DON!! card to 1 of your [Monkey.D.Luffy] cards.\n[Trigger] Play this card.",
+        "set_id": "ST-29",
+        "rarity": "C",
+        "card_set_id": "ST29-012",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "0",
+        "sub_types": "Straw Hat Crew The Four Emperors Egghead",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-08-31",
+        "card_image_id": "ST29-012",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST29-012_82bTo5d.jpg"
+    }
+]

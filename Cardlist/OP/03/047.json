@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Zeff",
+        "set_name": "Pillars of Strength",
+        "card_text": "[DON!! x1] When this Character's attack deals damage to your opponent's Life, you may trash 7 cards from the top of your deck. [On Play] Return up to 1 Character with a cost of 3 or less to the owner's hand, and you may trash 2 cards from the top of your deck.  This card has been officially errata'd.",
+        "set_id": "OP-03",
+        "rarity": "R",
+        "card_set_id": "OP03-047",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "East Blue",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP03-047",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP03-047.jpg"
+    },
+    {
+        "card_name": "Zeff (Alternate Art)",
+        "set_name": "Pillars of Strength",
+        "card_text": "[DON!! x1] When this Character's attack deals damage to your opponent's Life, you may trash 7 cards from the top of your deck. [On Play] Return up to 1 Character with a cost of 3 or less to the owner's hand, and you may trash 2 cards from the top of your deck.  This card has been officially errata'd.",
+        "set_id": "OP-03",
+        "rarity": "R",
+        "card_set_id": "OP03-047",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "East Blue",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP03-047_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP03-047_p1.jpg"
+    }
+]

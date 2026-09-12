@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Igaram",
+        "set_name": "The Azure Sea's Seven",
+        "card_text": "[On Play] If your Leader is [Nefeltari Vivi], draw 2 cards and trash 1 card from your hand.\n[Activate: Main] [Once Per Turn] You may trash 1 card from your hand: Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+        "set_id": "OP14-EB04",
+        "rarity": "C",
+        "card_set_id": "EB04-021",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "Alabasta",
+        "counter_amount": 1000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB04-021",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB04-021_U8kjseP.jpg"
+    }
+]

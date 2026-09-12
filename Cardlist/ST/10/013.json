@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Eustass\"Captain\"Kid (013)",
+        "set_name": "Ultra Deck: The Three Captains",
+        "card_text": "[On Play] / [When Attacking] DON!! -1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Up to 1 of your Leader gains +1000 power until the start of your next turn.",
+        "set_id": "ST-10",
+        "rarity": "SR",
+        "card_set_id": "ST10-013",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "7",
+        "card_power": "8000",
+        "sub_types": "Kid Pirates",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST10-013",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST10-013.jpg"
+    }
+]

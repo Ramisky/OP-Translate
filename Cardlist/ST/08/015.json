@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Gum-Gum Pistol",
+        "set_name": "Starter Deck 8: Monkey.D.Luffy",
+        "card_text": "[Main] K.O. up to 1 of your opponent's Characters with a cost of 2 or less. [Trigger] Draw 1 card.",
+        "set_id": "ST-08",
+        "rarity": "C",
+        "card_set_id": "ST08-015",
+        "card_color": "Black",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "3",
+        "card_power": null,
+        "sub_types": "Straw Hat Crew",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST08-015",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST08-015.jpg"
+    }
+]

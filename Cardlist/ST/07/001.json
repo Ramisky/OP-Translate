@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Charlotte Linlin",
+        "set_name": "Starter Deck 7: Big Mom Pirates",
+        "card_text": "[DON!! x2] [When Attacking] You may add 1 card from the top or bottom of your Life cards to your hand: If you have 2 or less Life cards, add up to 1 card from your hand to the top of your Life cards.",
+        "set_id": "ST-07",
+        "rarity": "L",
+        "card_set_id": "ST07-001",
+        "card_color": "Yellow",
+        "card_type": "Leader",
+        "life": "5",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "The Four Emperors Big Mom Pirates",
+        "counter_amount": null,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST07-001",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST07-001.jpg"
+    }
+]

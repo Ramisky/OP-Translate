@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Monkey.D.Garp",
+        "set_name": "Starter Deck 33: BLUE Kuzan",
+        "card_text": "[On Play] If your Leader has the {Navy} type, play up to 1 blue {Navy} type Character card with 8000 power or less other than [Monkey.D.Garp] from your hand.",
+        "set_id": "ST-33",
+        "rarity": "SR",
+        "card_set_id": "ST33-005",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "6000",
+        "sub_types": "Navy",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-08-16",
+        "card_image_id": "ST33-005",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST33-005.jpg"
+    }
+]

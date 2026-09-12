@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "I'm invincible",
+        "set_name": "Starter Deck 11: Uta",
+        "card_text": "[Main] Set up to 1 of your [Uta] Leader as active. [Trigger] Up to 1 of your Leader or Character cards gains +1000 power during this turn.",
+        "set_id": "ST-11",
+        "rarity": "C",
+        "card_set_id": "ST11-005",
+        "card_color": "Green",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "3",
+        "card_power": null,
+        "sub_types": "FILM Music",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-01-25",
+        "card_image_id": "ST11-005",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST11-005.jpg"
+    },
+    {
+        "card_name": "I'm invincible",
+        "set_name": "Starter Deck 16: GREEN Uta",
+        "card_text": "[Main] Set up to 1 of your [Uta] Leader as active.\n\n[Trigger] Up to 1 of your Leader or Character cards gains +1000 power during this turn.",
+        "set_id": "ST-16",
+        "rarity": "C",
+        "card_set_id": "ST11-005",
+        "card_color": "Green",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "3",
+        "card_power": null,
+        "sub_types": "FILM Music",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST11-005_p2",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST11-005_p2.jpg"
+    }
+]

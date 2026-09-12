@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Ashura Doji",
+        "set_name": "Starter Deck 28: GREEN/YELLOW Yamato",
+        "card_text": "[On Play] If your Leader has the \"Land of Wano\" type and your opponent has 3 or more Life cards, K.O. up to 1 of your opponent's Characters with a base cost of 5 or less.",
+        "set_id": "ST-28",
+        "rarity": "C",
+        "card_set_id": "ST28-001",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "3000",
+        "sub_types": "Land of Wano The Akazaya Nine",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST28-001",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST28-001.jpg"
+    }
+]

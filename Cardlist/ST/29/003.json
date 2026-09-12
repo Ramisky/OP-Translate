@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Kaku (Full Art)",
+        "set_name": "Starter Deck 29: Egghead",
+        "card_text": "If the number of your Life cards is equal to or less than the number of your opponent's Life cards, this Character gains +1000 power.\n[Trigger] K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
+        "set_id": "ST-29",
+        "rarity": "C",
+        "card_set_id": "ST29-003",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "CP0 Egghead",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST29-003_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST29-003_p1_xWatVfO.jpg"
+    },
+    {
+        "card_name": "Kaku",
+        "set_name": "Starter Deck 29: Egghead",
+        "card_text": "If the number of your Life cards is equal to or less than the number of your opponent's Life cards, this Character gains +1000 power.\n[Trigger] K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
+        "set_id": "ST-29",
+        "rarity": "C",
+        "card_set_id": "ST29-003",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "CP0 Egghead",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-01-24",
+        "card_image_id": "ST29-003",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST29-003_H4WaHn3.jpg"
+    }
+]

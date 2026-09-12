@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Yosaku & Johnny",
+        "set_name": "Starter Deck 12: Zoro and Sanji",
+        "card_text": "[DON!! x1][When Attacking] Choose one: \u2022 Rest up to 1 of your opponent's Characters with a cost of 2 or less. \u2022 K.O. up to 1 of your opponent's rested Characters with a cost of 2 or less.",
+        "set_id": "ST-12",
+        "rarity": "C",
+        "card_set_id": "ST12-006",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "3000",
+        "sub_types": "East Blue",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST12-006",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST12-006.jpg"
+    }
+]

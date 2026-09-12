@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Sabo (008)",
+        "set_name": "Ultra Deck: The Three Brothers",
+        "card_text": "[On Play]You may trash 1 card from the top or bottom of your Life cards: K.O. up to 1 of your opponent's Characters with a cost of 5 or less.",
+        "set_id": "ST-13",
+        "rarity": "SR",
+        "card_set_id": "ST13-008",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Revolutionary Army Dressrosa",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST13-008",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST13-008_wSNB66G.jpg"
+    },
+    {
+        "card_name": "Sabo (008) (Parallel)",
+        "set_name": "Ultra Deck: The Three Brothers",
+        "card_text": "[On Play]You may trash 1 card from the top or bottom of your Life cards: K.O. up to 1 of your opponent's Characters with a cost of 5 or less.",
+        "set_id": "ST-13",
+        "rarity": "SR",
+        "card_set_id": "ST13-008",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Revolutionary Army Dressrosa",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-02",
+        "card_image_id": "ST13-008_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST13-008_p1_dkohIfo.jpg"
+    }
+]

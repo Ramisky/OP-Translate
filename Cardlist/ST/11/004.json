@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "New Genesis",
+        "set_name": "Starter Deck 11: Uta",
+        "card_text": "[Main] If your Leader is [Uta], look at 3 cards from the top of your deck, reveal up to 1 [FILM] type card other than [New Genesis] and add it to your hand. Then, place the rest at the bottom of your deck in any order and set up to 1 of your DON!! cards as active.",
+        "set_id": "ST-11",
+        "rarity": "SR",
+        "card_set_id": "ST11-004",
+        "card_color": "Green",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "FILM Music",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-01-25",
+        "card_image_id": "ST11-004",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST11-004.jpg"
+    },
+    {
+        "card_name": "New Genesis",
+        "set_name": "Starter Deck 16: GREEN Uta",
+        "card_text": "[Main] If your Leader is [Uta], look at 3 cards from the top of your deck; reveal up to 1 \"FILM\" type card other than [New Genesis] and add it to your hand. Then, place the rest at the bottom of your deck in any order and set up to 1 of your DON!! cards as active.",
+        "set_id": "ST-16",
+        "rarity": "SR",
+        "card_set_id": "ST11-004",
+        "card_color": "Green",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "FILM Music",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST11-004_p2",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST11-004_p2.jpg"
+    }
+]

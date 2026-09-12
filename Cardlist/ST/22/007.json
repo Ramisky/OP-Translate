@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Squard (Parallel)",
+        "set_name": "Starter Deck 22: Ace & Newgate",
+        "card_text": "[Activate: Main] [Once Per Turn] Reveal 1 card from the top of your deck. If that card's type includes \"Whitebeard Pirates\", give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+        "set_id": "ST-22",
+        "rarity": "C",
+        "card_set_id": "ST22-007",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "2000",
+        "sub_types": "Whitebeard Pirates Allies",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST22-007_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST22-007_p1_3qv6wvS.jpg"
+    },
+    {
+        "card_name": "Squard",
+        "set_name": "Starter Deck 22: Ace & Newgate",
+        "card_text": "[Activate: Main] [Once Per Turn] Reveal 1 card from the top of your deck. If that card's type includes \"Whitebeard Pirates\", give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+        "set_id": "ST-22",
+        "rarity": "C",
+        "card_set_id": "ST22-007",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "2000",
+        "sub_types": "Whitebeard Pirates Allies",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST22-007",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST22-007_5FYuDwo.jpg"
+    }
+]

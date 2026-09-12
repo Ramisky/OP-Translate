@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Franky (Full Art)",
+        "set_name": "Starter Deck 29: Egghead",
+        "card_text": null,
+        "set_id": "ST-29",
+        "rarity": "C",
+        "card_set_id": "ST29-010",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Straw Hat Crew Egghead",
+        "counter_amount": 2000,
+        "attribute": "Ranged",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST29-010_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST29-010_p1_WfN30OD.jpg"
+    },
+    {
+        "card_name": "Franky",
+        "set_name": "Starter Deck 29: Egghead",
+        "card_text": null,
+        "set_id": "ST-29",
+        "rarity": "C",
+        "card_set_id": "ST29-010",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Straw Hat Crew Egghead",
+        "counter_amount": 2000,
+        "attribute": "Ranged",
+        "date_scraped": "2026-09-10",
+        "card_image_id": "ST29-010",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST29-010_5BITkEP.jpg"
+    }
+]

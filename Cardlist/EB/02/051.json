@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Three-Pace Hum Soul Notch Slash",
+        "set_name": "Extra Booster: Anime 25th Collection",
+        "card_text": "[Main] Choose one:\n\u2022 K.O. up to 1 of your opponent's Characters with a cost of 2 or less.\n\u2022 Give up to 1 of your opponent's Characters 4 cost during this turn.",
+        "set_id": "EB-02",
+        "rarity": "C",
+        "card_set_id": "EB02-051",
+        "card_color": "Black",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "3",
+        "card_power": null,
+        "sub_types": "Former Rumbar Pirates",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB02-051",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB02-051.jpg"
+    }
+]

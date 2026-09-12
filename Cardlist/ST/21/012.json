@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Brook",
+        "set_name": "Starter Deck EX: Gear 5",
+        "card_text": "[When Attacking] Give up to 2 rested DON!! cards to your Leader or 1 of your Characters.",
+        "set_id": "ST-21",
+        "rarity": "C",
+        "card_set_id": "ST21-012",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "Straw Hat Crew",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST21-012",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST21-012.jpg"
+    },
+    {
+        "card_name": "Brook (Parallel)",
+        "set_name": "Starter Deck EX: Gear 5",
+        "card_text": "[When Attacking] Give up to 2 rested DON!! cards to your Leader or 1 of your Characters.",
+        "set_id": "ST-21",
+        "rarity": "C",
+        "card_set_id": "ST21-012",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "Straw Hat Crew",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST21-012_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST21-012_p1.jpg"
+    }
+]

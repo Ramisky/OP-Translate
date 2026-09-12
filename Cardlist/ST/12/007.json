@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Rika",
+        "set_name": "Starter Deck 12: Zoro and Sanji",
+        "card_text": "[On Play] (2) (You may rest the specified number of DON!! cards in your cost area.): If your opponent has 3 or more Life cards, set up to 1 of your \"Slash\" attribute Characters with a cost of 4 or less as active.",
+        "set_id": "ST-12",
+        "rarity": "C",
+        "card_set_id": "ST12-007",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "0",
+        "sub_types": "East Blue",
+        "counter_amount": 2000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST12-007",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST12-007.jpg"
+    }
+]

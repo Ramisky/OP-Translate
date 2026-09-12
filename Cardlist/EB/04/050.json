@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "I'll Whip You Into Shape.",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "[Main] Up to 1 of your {SWORD} type Leader or Character cards can also attack active Characters during this turn.[Counter] Your Leader gains +3000 power during this battle.",
+        "set_id": "OP15-EB04",
+        "rarity": "R",
+        "card_set_id": "EB04-050",
+        "card_color": "Black",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "Navy SWORD",
+        "counter_amount": 0,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB04-050",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB04-050_hjCxKaq.jpg"
+    }
+]

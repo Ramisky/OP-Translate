@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Charlotte Katakuri",
+        "set_name": "Starter Deck 7: Big Mom Pirates",
+        "card_text": "[On Play] Look at up to 1 card from the top of your or your opponent's Life cards, and place it at the top or bottom of the Life cards. Then, if you have less Life cards than your opponent, this Character gains [Rush] during this turn. (This card can attack on the turn in which it is played.)",
+        "set_id": "ST-07",
+        "rarity": "SR",
+        "card_set_id": "ST07-003",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "6000",
+        "sub_types": "Big Mom Pirates",
+        "counter_amount": 0,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST07-003",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST07-003.jpg"
+    }
+]

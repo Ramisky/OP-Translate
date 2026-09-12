@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Sasaki",
+        "set_name": "Starter Deck 4: Animal Kingdom Pirates",
+        "card_text": "[On Play] DON!! -1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Draw 1 card.",
+        "set_id": "ST-04",
+        "rarity": "C",
+        "card_set_id": "ST04-006",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "Animal Kingdom Pirates",
+        "counter_amount": 1000,
+        "attribute": "Ranged",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST04-006",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST04-006.jpg"
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Eustass\"Captain\"Kid (ST36-005)",
+        "set_name": "Starter Deck 36: YELLOW Eustass\"Captain\"Kid",
+        "card_text": "[On Your Opponent's Attack] [Once Per Turn] You may turn 1 card from the top or bottom of your Life cards face-down: Change the target of the attack to your [Eustass\"Captain\"Kid] with 5000 base power or more.[Activate: Main] [Once Per Turn] You may turn 1 card from the top or bottom of your Life cards face-up: Give up to 1 rested DON!! card to your Leader.",
+        "set_id": "ST-36",
+        "rarity": "SR",
+        "card_set_id": "ST36-005",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "7000",
+        "sub_types": "Kid Pirates Supernovas",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST36-005",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST36-005.jpg"
+    }
+]

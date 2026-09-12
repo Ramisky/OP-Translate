@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Portgas.D.Ace (007)",
+        "set_name": "Starter Deck EX: Luffy & Ace",
+        "card_text": "[On Play] You may rest 1 of your DON!! cards: This Character gains [Rush] during this turn.\n(This card can attack on the turn in which it is played.)\n[When Attacking] Give up to 1 of your opponent's Characters -1000 power during this turn.",
+        "set_id": "ST-30",
+        "rarity": "SR",
+        "card_set_id": "ST30-007",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "6000",
+        "sub_types": "Whitebeard Pirates",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST30-007",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST30-007_jhTkfPf.jpg"
+    },
+    {
+        "card_name": "Portgas.D.Ace (007) (Parallel)",
+        "set_name": "Starter Deck EX: Luffy & Ace",
+        "card_text": "[On Play] You may rest 1 of your DON!! cards: This Character gains [Rush] during this turn.\n(This card can attack on the turn in which it is played.)\n[When Attacking] Give up to 1 of your opponent's Characters -1000 power during this turn.",
+        "set_id": "ST-30",
+        "rarity": "SR",
+        "card_set_id": "ST30-007",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "6000",
+        "sub_types": "Whitebeard Pirates",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST30-007_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST30-007_p1_IbnwLGy.jpg"
+    }
+]

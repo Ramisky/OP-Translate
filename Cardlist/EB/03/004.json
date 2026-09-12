@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Carina",
+        "set_name": "Extra Booster: One Piece Heroines Edition",
+        "card_text": "[Blocker]\n[Opponent's Turn] If your Leader is multicolored and you have no Characters with 6000 base power or more, this Character gains +4000 power.",
+        "set_id": "EB-03",
+        "rarity": "C",
+        "card_set_id": "EB03-004",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "2000",
+        "sub_types": "FILM Grantesoro",
+        "counter_amount": 1000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB03-004",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB03-004_DWHgzDZ.jpg"
+    }
+]

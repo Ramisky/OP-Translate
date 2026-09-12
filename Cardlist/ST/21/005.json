@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Jinbe (Parallel)",
+        "set_name": "Starter Deck EX: Gear 5",
+        "card_text": null,
+        "set_id": "ST-21",
+        "rarity": "C",
+        "card_set_id": "ST21-005",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "4000",
+        "sub_types": "Fish-Man Straw Hat Crew",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST21-005_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST21-005_p1.jpg"
+    },
+    {
+        "card_name": "Jinbe",
+        "set_name": "Starter Deck EX: Gear 5",
+        "card_text": null,
+        "set_id": "ST-21",
+        "rarity": "C",
+        "card_set_id": "ST21-005",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "4000",
+        "sub_types": "Fish-Man Straw Hat Crew",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-04",
+        "card_image_id": "ST21-005",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST21-005.jpg"
+    }
+]

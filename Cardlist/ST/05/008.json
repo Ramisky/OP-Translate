@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Shiki",
+        "set_name": "Starter Deck 5: Film Edition",
+        "card_text": "If you have 8 or more DON!! cards on your field, this Character cannot be K.O.'d in battle.",
+        "set_id": "ST-05",
+        "rarity": "C",
+        "card_set_id": "ST05-008",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "7000",
+        "sub_types": "Film Golden Lion Pirates",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST05-008",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST05-008.jpg"
+    }
+]

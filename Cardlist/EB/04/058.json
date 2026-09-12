@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Borsalino",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)\n[On Play] If you have 2 or less Life cards, add up to 1 card from the top of your deck to the top of your Life cards.",
+        "set_id": "OP15-EB04",
+        "rarity": "SR",
+        "card_set_id": "EB04-058",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Navy Egghead",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB04-058",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB04-058_LxNnvX2.jpg"
+    },
+    {
+        "card_name": "Borsalino (Alternate Art)",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)\n[On Play] If you have 2 or less Life cards, add up to 1 card from the top of your deck to the top of your Life cards.",
+        "set_id": "OP15-EB04",
+        "rarity": "SR",
+        "card_set_id": "EB04-058",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Navy Egghead",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB04-058_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB04-058_p1_a850zQT.jpg"
+    }
+]

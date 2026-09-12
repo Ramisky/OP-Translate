@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Nami (Full Art)",
+        "set_name": "Starter Deck 29: Egghead",
+        "card_text": "If your {Egghead} type Character would be K.O.'d by your opponent's effect, you may turn 1 card from the top of your Life cards face-up instead.\n[Trigger] If your Leader is [Monkey.D.Luffy], play this card.",
+        "set_id": "ST-29",
+        "rarity": "C",
+        "card_set_id": "ST29-008",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "1000",
+        "sub_types": "Straw Hat Crew Egghead",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST29-008_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST29-008_p1_Fympgpt.jpg"
+    },
+    {
+        "card_name": "Nami",
+        "set_name": "Starter Deck 29: Egghead",
+        "card_text": "If your {Egghead} type Character would be K.O.'d by your opponent's effect, you may turn 1 card from the top of your Life cards face-up instead.\n[Trigger] If your Leader is [Monkey.D.Luffy], play this card.",
+        "set_id": "ST-29",
+        "rarity": "C",
+        "card_set_id": "ST29-008",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "1000",
+        "sub_types": "Straw Hat Crew Egghead",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST29-008",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST29-008_Q6m3ktc.jpg"
+    }
+]

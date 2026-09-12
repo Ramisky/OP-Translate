@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Trafalgar Law",
+        "set_name": "Extra Booster: Anime 25th Collection",
+        "card_text": "[Blocker]\n[On Play] You may place 2 cards from your trash at the bottom of your deck in any order: Choose one:\n\u2022 Draw 1 card.\n\u2022 If your opponent has 5 or more cards in their hand, your opponent trashes 1 card from their hand.",
+        "set_id": "EB-02",
+        "rarity": "SR",
+        "card_set_id": "EB02-045",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Heart Pirates Supernovas Dressrosa",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB02-045",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB02-045.jpg"
+    },
+    {
+        "card_name": "Trafalgar Law (Alternate Art)",
+        "set_name": "Extra Booster: Anime 25th Collection",
+        "card_text": "[Blocker][On Play] You may place 2 cards from your trash at the bottom of your deck in any order: Choose one:\u2022 Draw 1 card.\u2022 If your opponent has 5 or more cards in their hand, your opponent trashes 1 card from their hand.",
+        "set_id": "EB-02",
+        "rarity": "SR",
+        "card_set_id": "EB02-045",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Heart Pirates Supernovas Dressrosa",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB02-045_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB02-045_p1.jpg"
+    }
+]

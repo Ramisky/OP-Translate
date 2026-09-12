@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Doll",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)\n[Opponent's Turn] All of your {Navy} type Characters gain +2 cost.",
+        "set_id": "OP15-EB04",
+        "rarity": "C",
+        "card_set_id": "EB04-046",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "1000",
+        "sub_types": "Navy Egghead",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB04-046",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB04-046_OkJLsc9.jpg"
+    }
+]

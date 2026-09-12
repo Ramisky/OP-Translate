@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Soba Mask",
+        "set_name": "Starter Deck 26: PURPLE/BLACK Monkey.D.Luffy",
+        "card_text": "If you have a [San-Gorou] or [Sanji] Character with 7000 base power or more, give this card in your hand -5 cost.\n[On Play] Return all of your [San-Gorou] and [Sanji] Characters to the owner's hand.",
+        "set_id": "ST-26",
+        "rarity": "C",
+        "card_set_id": "ST26-001",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "7",
+        "card_power": "9000",
+        "sub_types": "Straw Hat Crew",
+        "counter_amount": 0,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST26-001",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST26-001.jpg"
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Gecko Moria",
+        "set_name": "Premium Booster -The Best- Vol. 2",
+        "card_text": "[On Play] If your Leader has the \"Thriller Bark Pirates\" type, play up to 1 Character card with a cost of 4 or less from your trash rested. Then, give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+        "set_id": "PRB-02",
+        "rarity": "R",
+        "card_set_id": "PRB02-013",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "7000",
+        "sub_types": "The Seven Warlords of the Sea Thriller Bark Pirates",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "PRB02-013",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/PRB02-013.jpg"
+    },
+    {
+        "card_name": "Gecko Moria (Alternate Art)",
+        "set_name": "Premium Booster -The Best- Vol. 2",
+        "card_text": "[On Play] If your Leader has the \"Thriller Bark Pirates\" type, play up to 1 Character card with a cost of 4 or less from your trash rested. Then, give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+        "set_id": "PRB-02",
+        "rarity": "R",
+        "card_set_id": "PRB02-013",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "7000",
+        "sub_types": "The Seven Warlords of the Sea Thriller Bark Pirates",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "PRB02-013_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/PRB02-013_p1.jpg"
+    }
+]

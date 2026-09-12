@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Monkey.D.Luffy (Dash Pack)",
+        "set_name": "Kingdoms of Intrigue",
+        "card_text": "[On Play] DON!! -1 (You may return the specified number of DON!! cards from your field to your DON!! deck.) You may trash 1 Character card with a cost of 5 from your hand: This Character gains [Rush] during this turn. (This card can attack on the turn in which it is played.)",
+        "set_id": "OP-04",
+        "rarity": "R",
+        "card_set_id": "OP03-070",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "7000",
+        "sub_types": "Straw Hat Crew Water Seven",
+        "counter_amount": 0,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP03-070",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP03-070_p1.jpg"
+    },
+    {
+        "card_name": "Monkey.D.Luffy",
+        "set_name": "Pillars of Strength",
+        "card_text": "[On Play] DON!! -1 (You may return the specified number of DON!! cards from your field to your DON!! deck.) You may trash 1 Character card with a cost of 5 from your hand: This Character gains [Rush] during this turn. (This card can attack on the turn in which it is played.)",
+        "set_id": "OP-03",
+        "rarity": "R",
+        "card_set_id": "OP03-070",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "7000",
+        "sub_types": "Straw Hat Crew Water Seven",
+        "counter_amount": 0,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP03-070",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP03-070_3BQJvDU.jpg"
+    }
+]

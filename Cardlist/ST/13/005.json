@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Emporio.Ivankov",
+        "set_name": "Ultra Deck: The Three Brothers",
+        "card_text": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)\n[On Play] You may trash 1 card from the top or bottom of your Life cards: Reveal up to 1 Character card with a cost of 5 from your hand and add it to the top of your Life cards face-down.",
+        "set_id": "ST-13",
+        "rarity": "R",
+        "card_set_id": "ST13-005",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "Revolutionary Army",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST13-005",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST13-005_40U3UIU.jpg"
+    },
+    {
+        "card_name": "Emporio.Ivankov (Parallel)",
+        "set_name": "Ultra Deck: The Three Brothers",
+        "card_text": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)\n[On Play] You may trash 1 card from the top or bottom of your Life cards: Reveal up to 1 Character card with a cost of 5 from your hand and add it to the top of your Life cards face-down.",
+        "set_id": "ST-13",
+        "rarity": "R",
+        "card_set_id": "ST13-005",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "Revolutionary Army",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-08-18",
+        "card_image_id": "ST13-005_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST13-005_p1_gPmjvZo.jpg"
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Mr.3(Galdino)",
+        "set_name": "Starter Deck EX: Luffy & Ace",
+        "card_text": "[Activate: Main] You may rest this Character: Give up to 2 of your Characters with 6000 base power up to 2 rested DON!! cards each.",
+        "set_id": "ST-30",
+        "rarity": "C",
+        "card_set_id": "ST30-014",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "3000",
+        "sub_types": "Impel Down Former Baroque Works",
+        "counter_amount": 2000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST30-014",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST30-014_QpWmWtn.jpg"
+    },
+    {
+        "card_name": "Mr.3(Galdino) (Full Art)",
+        "set_name": "Starter Deck EX: Luffy & Ace",
+        "card_text": "[Activate: Main] You may rest this Character: Give up to 2 of your Characters with 6000 base power up to 2 rested DON!! cards each.",
+        "set_id": "ST-30",
+        "rarity": "C",
+        "card_set_id": "ST30-014",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "3000",
+        "sub_types": "Impel Down Former Baroque Works",
+        "counter_amount": 2000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST30-014_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST30-014_p1_O9IjG9G.jpg"
+    }
+]

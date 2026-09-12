@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Bartholomew Kuma (EB04-055)",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "[On K.O.] Play up to 1 {Revolutionary Army} type Character card with a cost of 4 or less from your hand.\n[Trigger] If your Leader has the {Revolutionary Army} type and you and your opponent have a total of 5 or less Life cards, play this card.",
+        "set_id": "OP15-EB04",
+        "rarity": "C",
+        "card_set_id": "EB04-055",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Revolutionary Army The Seven Warlords of the Sea",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB04-055",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB04-055_l4zmFkO.jpg"
+    }
+]

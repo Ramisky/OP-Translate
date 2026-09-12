@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Ginrummy",
+        "set_name": "Starter Deck 4: Animal Kingdom Pirates",
+        "card_text": "NULL",
+        "set_id": "ST-04",
+        "rarity": "C",
+        "card_set_id": "ST04-009",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "3000",
+        "sub_types": "Animal Kingdom Pirates SMILE",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST04-009",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST04-009.jpg"
+    }
+]

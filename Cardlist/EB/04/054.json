@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Bartholomew Kuma (EB04-054)",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "[On Play] If you have 2 or less Life cards, add up to 1 card from the top of your deck to the top of your Life cards.\n[On K.O.] Add up to 1 card from the top of your opponent's Life cards to the owner's hand.",
+        "set_id": "OP15-EB04",
+        "rarity": "R",
+        "card_set_id": "EB04-054",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "7",
+        "card_power": "7000",
+        "sub_types": "Revolutionary Army Egghead",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB04-054",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB04-054_wmLW4Xl.jpg"
+    },
+    {
+        "card_name": "Bartholomew Kuma (SP)",
+        "set_name": "The Time of Battle",
+        "card_text": "[On Play] If you have 2 or less Life cards, add up to 1 card from the top of your deck to the top of your Life cards.[On K.O.] Add up to 1 card from the top of your opponent's Life cards to the owner's hand.",
+        "set_id": "OP-16",
+        "rarity": "R",
+        "card_set_id": "EB04-054",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "7",
+        "card_power": "7000",
+        "sub_types": "Revolutionary Army Egghead",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB04-054_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB04-054_p1_J6Kqfk9.jpg"
+    }
+]

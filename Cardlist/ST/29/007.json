@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Tony Tony.Chopper (Full Art)",
+        "set_name": "Starter Deck 29: Egghead",
+        "card_text": "[On K.O.] You may add 1 card from the top or bottom of your Life cards to your hand: Add up to 1 card from your hand to the top of your Life cards.\n[Trigger] Up to 1 of your [Monkey.D.Luffy] cards gains +2000 power during this turn.",
+        "set_id": "ST-29",
+        "rarity": "C",
+        "card_set_id": "ST29-007",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Animal Straw Hat Crew Egghead",
+        "counter_amount": 1000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST29-007_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST29-007_p1_HKfTfSL.jpg"
+    },
+    {
+        "card_name": "Tony Tony.Chopper",
+        "set_name": "Starter Deck 29: Egghead",
+        "card_text": "[On K.O.] You may add 1 card from the top or bottom of your Life cards to your hand: Add up to 1 card from your hand to the top of your Life cards.\n[Trigger] Up to 1 of your [Monkey.D.Luffy] cards gains +2000 power during this turn.",
+        "set_id": "ST-29",
+        "rarity": "C",
+        "card_set_id": "ST29-007",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Animal Straw Hat Crew Egghead",
+        "counter_amount": 1000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST29-007",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST29-007_hoLBa6L.jpg"
+    }
+]

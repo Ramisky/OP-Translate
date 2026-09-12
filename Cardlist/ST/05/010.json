@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Zephyr",
+        "set_name": "Starter Deck 5: Film Edition",
+        "card_text": "When this Character battles \"Strike\" attribute Characters, this Character gains +3000 power during this turn. [Activate:Main] [Once Per Turn] DON!! -1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): This Character gains +2000 power during this turn.",
+        "set_id": "ST-05",
+        "rarity": "C",
+        "card_set_id": "ST05-010",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "7",
+        "card_power": "8000",
+        "sub_types": "Film Neo Navy",
+        "counter_amount": 0,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST05-010",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST05-010.jpg"
+    }
+]

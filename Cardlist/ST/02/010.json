@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Basil Hawkins",
+        "set_name": "Starter Deck 2: Worst Generation",
+        "card_text": "[DON!! x1] [Once Per Turn] [Your Turn] If this Character battles your opponent's Character, set this card as active.",
+        "set_id": "ST-02",
+        "rarity": "C",
+        "card_set_id": "ST02-010",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Hawkins Pirates Supernovas",
+        "counter_amount": 0,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST02-010",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST02-010.jpg"
+    }
+]

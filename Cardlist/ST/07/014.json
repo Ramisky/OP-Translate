@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Pekoms",
+        "set_name": "Starter Deck 7: Big Mom Pirates",
+        "card_text": "NULL",
+        "set_id": "ST-07",
+        "rarity": "C",
+        "card_set_id": "ST07-014",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "5000",
+        "sub_types": "Minks Big Mom Pirates",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST07-014",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST07-014.jpg"
+    }
+]

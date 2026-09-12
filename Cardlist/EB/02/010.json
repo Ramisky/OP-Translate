@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Monkey.D.Luffy (010)",
+        "set_name": "Extra Booster: Anime 25th Collection",
+        "card_text": "[Activate: Main] [Once Per Turn] DON!! 2: If the only Characters on your field are \"Straw Hat Crew\" type Characters, set up to 2 of your DON!! cards as active. Then, this Leader gains +1000 power until the end of your opponent's next turn.",
+        "set_id": "EB-02",
+        "rarity": "L",
+        "card_set_id": "EB02-010",
+        "card_color": "Green Purple",
+        "card_type": "Leader",
+        "life": "4",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Straw Hat Crew",
+        "counter_amount": null,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB02-010",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB02-010.jpg"
+    },
+    {
+        "card_name": "Monkey.D.Luffy (010) (Alternate Art)",
+        "set_name": "Extra Booster: Anime 25th Collection",
+        "card_text": "[Activate: Main] [Once Per Turn] DON!! 2: If the only Characters on your field are \"Straw Hat Crew\" type Characters, set up to 2 of your DON!! cards as active. Then, this Leader gains +1000 power until the end of your opponent's next turn.",
+        "set_id": "EB-02",
+        "rarity": "L",
+        "card_set_id": "EB02-010",
+        "card_color": "Green Purple",
+        "card_type": "Leader",
+        "life": "4",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Straw Hat Crew",
+        "counter_amount": null,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB02-010_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB02-010_p1.jpg"
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Mr.3(Galdino) - PRB02-009",
+        "set_name": "Premium Booster -The Best- Vol. 2",
+        "card_text": "This effect can be activated when this Character is rested by your opponent's effect. You may trash this Character and draw 2 cards.[Blocker]",
+        "set_id": "PRB-02",
+        "rarity": "R",
+        "card_set_id": "PRB02-009",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "1000",
+        "sub_types": "Former Baroque Works Cross Guild",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "PRB02-009",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/PRB02-009.jpg"
+    },
+    {
+        "card_name": "Mr.3(Galdino) - PRB02-009 (Alternate Art)",
+        "set_name": "Premium Booster -The Best- Vol. 2",
+        "card_text": "This effect can be activated when this Character is rested by your opponent's effect. You may trash this Character and draw 2 cards.[Blocker]",
+        "set_id": "PRB-02",
+        "rarity": "R",
+        "card_set_id": "PRB02-009",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "1000",
+        "sub_types": "Former Baroque Works Cross Guild",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "PRB02-009_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/PRB02-009_p1.jpg"
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Top Knot",
+        "set_name": "Pillars of Strength",
+        "card_text": "[Main] DON!! -1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Place up to 1 of your opponent's Characters with a cost of 4 or less at the bottom of the owner's deck. [Trigger] Activate this card's [Main] effect.",
+        "set_id": "OP-03",
+        "rarity": "UC",
+        "card_set_id": "OP03-074",
+        "card_color": "Purple",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "2",
+        "card_power": null,
+        "sub_types": "Galley-La Company Water Seven",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP03-074",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP03-074.jpg"
+    }
+]

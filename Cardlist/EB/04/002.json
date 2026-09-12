@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Jewelry Bonney (EB04-002)",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "[On Play] Look at 4 cards from the top of your deck; reveal up to 1 {Egghead} or {Straw Hat Crew} type card other than [Jewelry Bonney] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+        "set_id": "OP15-EB04",
+        "rarity": "R",
+        "card_set_id": "EB04-002",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "2000",
+        "sub_types": "Bonney Pirates Egghead",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB04-002",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB04-002_RN47PrV.jpg"
+    },
+    {
+        "card_name": "Jewelry Bonney (EB04-002) (Alternate Art)",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "[On Play] Look at 4 cards from the top of your deck; reveal up to 1 {Egghead} or {Straw Hat Crew} type card other than [Jewelry Bonney] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+        "set_id": "OP15-EB04",
+        "rarity": "R",
+        "card_set_id": "EB04-002",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "2000",
+        "sub_types": "Bonney Pirates Egghead",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB04-002_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB04-002_p1_8j7Zw4U.jpg"
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Lindbergh",
+        "set_name": "Starter Deck 35: RED/BLACK Sabo",
+        "card_text": "[On Play] Give up to 1 of your opponent's Characters 3000 power during this turn.",
+        "set_id": "ST-35",
+        "rarity": "C",
+        "card_set_id": "ST35-002",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "4000",
+        "sub_types": "Minks Revolutionary Army",
+        "counter_amount": 2000,
+        "attribute": "Special",
+        "date_scraped": "2026-08-16",
+        "card_image_id": "ST35-002",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST35-002.jpg"
+    }
+]

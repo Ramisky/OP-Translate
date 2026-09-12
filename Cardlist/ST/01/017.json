@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Thousand Sunny",
+        "set_name": "Starter Deck 1: Straw Hat Crew",
+        "card_text": "[Activate: Main] You may rest this Stage: Up to 1 {Straw Hat Crew} type Leader or Character card on your field gains +1000 power during this turn.",
+        "set_id": "ST-01",
+        "rarity": "C",
+        "card_set_id": "ST01-017",
+        "card_color": "Red",
+        "card_type": "Stage",
+        "life": "NULL",
+        "card_cost": "2",
+        "card_power": "NULL",
+        "sub_types": "Straw Hat Crew",
+        "counter_amount": 0,
+        "attribute": "NULL",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST01-017",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST01-017.jpg"
+    }
+]

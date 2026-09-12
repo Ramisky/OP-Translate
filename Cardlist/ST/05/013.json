@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Bins",
+        "set_name": "Starter Deck 5: Film Edition",
+        "card_text": "NULL",
+        "set_id": "ST-05",
+        "rarity": "C",
+        "card_set_id": "ST05-013",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "6000",
+        "sub_types": "Film Neo Navy",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST05-013",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST05-013.jpg"
+    }
+]

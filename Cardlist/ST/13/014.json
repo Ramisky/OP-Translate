@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Monkey.D.Luffy (014)",
+        "set_name": "Ultra Deck: The Three Brothers",
+        "card_text": "[Activate:Main] You may trash this Character: Reveal 1 card from the top of your Life cards. If that card is a [Monkey.D.Luffy] with a cost of 5, you may play that card. If you do, up to 1 of your Leader gains +2000 power until the end of your opponent's next turn.",
+        "set_id": "ST-13",
+        "rarity": "C",
+        "card_set_id": "ST13-014",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "2000",
+        "sub_types": "Goa Kingdom",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST13-014",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST13-014_s5F6lLd.jpg"
+    },
+    {
+        "card_name": "Monkey.D.Luffy (014) (Parallel)",
+        "set_name": "Ultra Deck: The Three Brothers",
+        "card_text": "[Activate:Main] You may trash this Character: Reveal 1 card from the top of your Life cards. If that card is a [Monkey.D.Luffy] with a cost of 5, you may play that card. If you do, up to 1 of your Leader gains +2000 power until the end of your opponent's next turn.",
+        "set_id": "ST-13",
+        "rarity": "C",
+        "card_set_id": "ST13-014",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "2000",
+        "sub_types": "Goa Kingdom",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST13-014_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST13-014_p1_zo7vyZR.jpg"
+    }
+]

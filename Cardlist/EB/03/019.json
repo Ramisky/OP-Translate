@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Wanda",
+        "set_name": "Extra Booster: One Piece Heroines Edition",
+        "card_text": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+        "set_id": "EB-03",
+        "rarity": "C",
+        "card_set_id": "EB03-019",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "7000",
+        "sub_types": "Minks",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB03-019",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB03-019_yU44hit.jpg"
+    }
+]

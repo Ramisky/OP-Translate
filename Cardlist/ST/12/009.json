@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Elephant True Bluefin",
+        "set_name": "Starter Deck 12: Zoro and Sanji",
+        "card_text": "NULL",
+        "set_id": "ST-12",
+        "rarity": "C",
+        "card_set_id": "ST12-009",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "3000",
+        "sub_types": "Animal",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST12-009",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST12-009.jpg"
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Zeus",
+        "set_name": "Starter Deck 7: Big Mom Pirates",
+        "card_text": "[Activate:Main] You may rest this Character: Up to 1 of your [Charlotte Linlin] cards gains [Banish] during this turn. (When this card deals damage, the target card is trashed without activating its Trigger.) [Trigger] Play this card.",
+        "set_id": "ST-07",
+        "rarity": "C",
+        "card_set_id": "ST07-011",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "3000",
+        "sub_types": "Big Mom Pirates Homies",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST07-011",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST07-011.jpg"
+    }
+]

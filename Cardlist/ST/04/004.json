@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "King",
+        "set_name": "Starter Deck 4: Animal Kingdom Pirates",
+        "card_text": "[On Play] DON!! -1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): K.O. up to 1 of your opponent's Characters with a cost of 4 or less.",
+        "set_id": "ST-04",
+        "rarity": "SR",
+        "card_set_id": "ST04-004",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "7000",
+        "sub_types": "Animal Kingdom Pirates",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST04-004",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST04-004.jpg"
+    }
+]

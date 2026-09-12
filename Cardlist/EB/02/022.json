@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Usopp",
+        "set_name": "Extra Booster: Anime 25th Collection",
+        "card_text": "[On Play] If you have 2 or less Characters with 5000 power or more, play up to 1 Character card with 6000 power or less and no base effect from your hand.",
+        "set_id": "EB-02",
+        "rarity": "R",
+        "card_set_id": "EB02-022",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Straw Hat Crew East Blue",
+        "counter_amount": 1000,
+        "attribute": "Ranged",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB02-022",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB02-022.jpg"
+    },
+    {
+        "card_name": "Usopp (Alternate Art)",
+        "set_name": "Extra Booster: Anime 25th Collection",
+        "card_text": "[On Play] If you have 2 or less Characters with 5000 power or more, play up to 1 Character card with 6000 power or less and no base effect from your hand.",
+        "set_id": "EB-02",
+        "rarity": "R",
+        "card_set_id": "EB02-022",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Straw Hat Crew East Blue",
+        "counter_amount": 1000,
+        "attribute": "Ranged",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB02-022_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB02-022_p1.jpg"
+    }
+]

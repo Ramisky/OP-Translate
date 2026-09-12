@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Backlight",
+        "set_name": "Starter Deck 11: Uta",
+        "card_text": "[Main] If your Leader is [Uta], choose one: \u2022 Rest up to 1 of your opponent's Characters with a cost of 5 or less. \u2022 K.O. up to 1 of your opponent's rested Characters with a cost of 5 or less.",
+        "set_id": "ST-11",
+        "rarity": "C",
+        "card_set_id": "ST11-003",
+        "card_color": "Green",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "2",
+        "card_power": null,
+        "sub_types": "FILM Music",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-01-25",
+        "card_image_id": "ST11-003",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST11-003.jpg"
+    },
+    {
+        "card_name": "Backlight",
+        "set_name": "Starter Deck 16: GREEN Uta",
+        "card_text": "[Main] If your Leader is [Uta], choose one:\n\n\u2022 Rest up to 1 of your opponent's Characters with a cost of 5 or less.\n\n\u2022 K.O. up to 1 of your opponent's rested Characters with a cost of 5 or less.",
+        "set_id": "ST-16",
+        "rarity": "C",
+        "card_set_id": "ST11-003",
+        "card_color": "Green",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "2",
+        "card_power": null,
+        "sub_types": "FILM Music",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST11-003_p2",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST11-003_p2.jpg"
+    }
+]

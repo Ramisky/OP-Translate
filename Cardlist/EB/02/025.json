@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Donquixote Rosinante",
+        "set_name": "Extra Booster: Anime 25th Collection",
+        "card_text": "[Activate: Main] You may rest 1 of your DON!! cards and this Character: If your Leader is [Donquixote Rosinante], look at 5 cards from the top of your deck; play up to 1 Character card with a cost of 2 or less rested. Then, place the rest at the bottom of your deck in any order.",
+        "set_id": "EB-02",
+        "rarity": "R",
+        "card_set_id": "EB02-025",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "3000",
+        "sub_types": "Donquixote Pirates Navy",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB02-025",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB02-025.jpg"
+    }
+]

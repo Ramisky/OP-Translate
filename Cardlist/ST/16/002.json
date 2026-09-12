@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Gordon",
+        "set_name": "Starter Deck 16: GREEN Uta",
+        "card_text": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Your Opponent's Attack] You may trash any number of \"Music\" type cards from your hand. Your Leader or 1 of your Characters gains +1000 power during this battle for every card trashed.",
+        "set_id": "ST-16",
+        "rarity": "C",
+        "card_set_id": "ST16-002",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "0",
+        "sub_types": "FILM",
+        "counter_amount": 1000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST16-002",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST16-002.jpg"
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Gum-Gum Jet Spear",
+        "set_name": "Ultra Deck: The Three Brothers",
+        "card_text": "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, if you have 0 Life cards, draw 1 card.\n[Trigger] You may add 1 card from the top or bottom of your Life cards to your hand: Add up to 1 card from your hand to the top of your Life cards.",
+        "set_id": "ST-13",
+        "rarity": "C",
+        "card_set_id": "ST13-018",
+        "card_color": "Yellow",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "Straw Hat Crew Punk Hazard",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST13-018",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST13-018_cTpeQOx.jpg"
+    }
+]

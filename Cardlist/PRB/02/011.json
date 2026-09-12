@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Donquixote Doflamingo",
+        "set_name": "Premium Booster -The Best- Vol. 2",
+        "card_text": "[Blocker][On Play] If your Leader is multicolored, add up to 1 DON!! card from your DON!! deck and rest it.",
+        "set_id": "PRB-02",
+        "rarity": "R",
+        "card_set_id": "PRB02-011",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Donquixote Pirates The Seven Warlords of the Sea",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "PRB02-011",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/PRB02-011.jpg"
+    },
+    {
+        "card_name": "Donquixote Doflamingo (Alternate Art)",
+        "set_name": "Premium Booster -The Best- Vol. 2",
+        "card_text": "[Blocker][On Play] If your Leader is multicolored, add up to 1 DON!! card from your DON!! deck and rest it.",
+        "set_id": "PRB-02",
+        "rarity": "R",
+        "card_set_id": "PRB02-011",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Donquixote Pirates The Seven Warlords of the Sea",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "PRB02-011_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/PRB02-011_p1.jpg"
+    }
+]

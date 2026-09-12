@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Klabautermann",
+        "set_name": "Extra Booster: Anime 25th Collection",
+        "card_text": "If you have [Merry Go] on your field, this Character gains [Blocker].",
+        "set_id": "EB-02",
+        "rarity": "C",
+        "card_set_id": "EB02-033",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "0",
+        "sub_types": "Sprite",
+        "counter_amount": 1000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB02-033",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB02-033.jpg"
+    }
+]

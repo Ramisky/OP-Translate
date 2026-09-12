@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Hina",
+        "set_name": "Extra Booster: One Piece Heroines Edition",
+        "card_text": "[On Play] You may trash 1 card from your hand: Return up to 1 Character with 6000 base power to the owner's hand.",
+        "set_id": "EB-03",
+        "rarity": "R",
+        "card_set_id": "EB03-025",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Navy",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB03-025",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB03-025_wuuZxJR.jpg"
+    },
+    {
+        "card_name": "Hina (Alternate Art)",
+        "set_name": "Extra Booster: One Piece Heroines Edition",
+        "card_text": "[On Play] You may trash 1 card from your hand: Return up to 1 Character with 6000 base power to the owner's hand.",
+        "set_id": "EB-03",
+        "rarity": "R",
+        "card_set_id": "EB03-025",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Navy",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB03-025_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB03-025_p1_TkJFyRd.jpg"
+    }
+]

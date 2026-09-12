@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "BRAND NEW WORLD",
+        "set_name": "Extra Booster: Anime 25th Collection",
+        "card_text": "[Main] Look at 4 cards from the top of your deck; reveal up to 1 card with a cost of 4 or more and add it to your hand. Then, place the rest at the bottom of your deck in any order.\n[Trigger] Activate this card's [Main] effect.",
+        "set_id": "EB-02",
+        "rarity": "R",
+        "card_set_id": "EB02-040",
+        "card_color": "Purple",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "2",
+        "card_power": null,
+        "sub_types": "Music",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB02-040",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB02-040.jpg"
+    }
+]

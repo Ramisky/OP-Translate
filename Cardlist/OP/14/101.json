@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Oars",
+        "set_name": "The Azure Sea's Seven",
+        "card_text": null,
+        "set_id": "OP14-EB04",
+        "rarity": "C",
+        "card_set_id": "OP14-101",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "8",
+        "card_power": "1000",
+        "sub_types": "Giant Thriller Bark Pirates",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP14-101",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP14-101_hOMo9UV.jpg"
+    }
+]

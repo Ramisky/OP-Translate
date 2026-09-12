@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Crocodile & Mihawk",
+        "set_name": "Starter Deck 25: BLUE Buggy",
+        "card_text": "[On Play] Draw 2 cards and trash 1 card from your hand. Then, play up to 1 \"Cross Guild\" type Character card with a cost of 4 or less from your hand.\n[Once Per Turn] If your \"Cross Guild\" type Character would be removed from the field by your opponent's effect, you may trash 1 card from your hand instead.",
+        "set_id": "ST-25",
+        "rarity": "SR",
+        "card_set_id": "ST25-003",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "8",
+        "card_power": "7000",
+        "sub_types": "Former Baroque Works Cross Guild",
+        "counter_amount": 0,
+        "attribute": "Slash Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST25-003",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST25-003.jpg"
+    },
+    {
+        "card_name": "Crocodile & Mihawk",
+        "set_name": "Starter Deck 25: BLUE Buggy",
+        "card_text": "[On Play] Draw 2 cards and trash 1 card from your hand. Then, play up to 1 \"Cross Guild\" type Character card with a cost of 4 or less from your hand.\n[Once Per Turn] If your \"Cross Guild\" type Character would be removed from the field by your opponent's effect, you may trash 1 card from your hand instead.",
+        "set_id": "ST-25",
+        "rarity": "SR",
+        "card_set_id": "ST25-003",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "8",
+        "card_power": "7000",
+        "sub_types": "Former Baroque Works Cross Guild",
+        "counter_amount": 0,
+        "attribute": "Slash Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST25-003",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST25-003_0QHazIj.jpg"
+    }
+]

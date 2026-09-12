@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Flame Dragon Torch",
+        "set_name": "The Azure Sea's Seven",
+        "card_text": "[Main] You may rest 6 of your DON!! cards: Up to 1 of your [Kaido] cards gains +3000 power during this turn. Then, rest up to 1 of your opponent's Characters.\n[Counter] DON!! 1: Your Leader gains +4000 power during this battle.",
+        "set_id": "OP14-EB04",
+        "rarity": "R",
+        "card_set_id": "EB04-040",
+        "card_color": "Purple",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "Animal Kingdom Pirates The Four Emperors",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB04-040",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB04-040_Hw4CE87.jpg"
+    }
+]

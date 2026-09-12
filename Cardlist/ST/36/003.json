@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Scratchmen Apoo",
+        "set_name": "Starter Deck 36: YELLOW Eustass\"Captain\"Kid",
+        "card_text": "[Trigger] Draw 1 card and your {Supernovas} type Leader's base power becomes 7000 during this turn.",
+        "set_id": "ST-36",
+        "rarity": "C",
+        "card_set_id": "ST36-003",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "4000",
+        "sub_types": "On-Air Pirates Supernovas",
+        "counter_amount": 2000,
+        "attribute": "Ranged",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST36-003",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST36-003.jpg"
+    }
+]

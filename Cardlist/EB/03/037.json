@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Lim",
+        "set_name": "Extra Booster: One Piece Heroines Edition",
+        "card_text": "[On Play] If you have 7 or more DON!! cards on your field, all of your {ODYSSEY} type Leader and Character cards gain +1000 power until the end of your opponent's next End Phase.",
+        "set_id": "EB-03",
+        "rarity": "R",
+        "card_set_id": "EB03-037",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "ODYSSEY",
+        "counter_amount": 2000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB03-037",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB03-037_NYL5iV5.jpg"
+    }
+]

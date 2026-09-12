@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Monkey.D.Luffy (015)",
+        "set_name": "Ultra Deck: The Three Brothers",
+        "card_text": "[Activate:Main][Once Per Turn]This Character gains +2000 power until the start of your next turn. Then, if you have 1 or more Life cards, draw 1 card and trash 1 card from the top of your Life cards.",
+        "set_id": "ST-13",
+        "rarity": "SR",
+        "card_set_id": "ST13-015",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Straw Hat Crew Supernovas",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST13-015",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST13-015_V5oHlxL.jpg"
+    },
+    {
+        "card_name": "Monkey.D.Luffy (015) (Parallel)",
+        "set_name": "Ultra Deck: The Three Brothers",
+        "card_text": "[Activate:Main][Once Per Turn]This Character gains +2000 power until the start of your next turn. Then, if you have 1 or more Life cards, draw 1 card and trash 1 card from the top of your Life cards.",
+        "set_id": "ST-13",
+        "rarity": "SR",
+        "card_set_id": "ST13-015",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Straw Hat Crew Supernovas",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-08-03",
+        "card_image_id": "ST13-015_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST13-015_p1_DL0kiAs.jpg"
+    }
+]

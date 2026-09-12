@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Queen",
+        "set_name": "The Azure Sea's Seven",
+        "card_text": "[On Play] You may trash 1 {Animal Kingdom Pirates} type card from your hand: Draw 2 cards. [Activate: Main] [Once Per Turn] You may rest 2 of your DON!! cards: If your Leader has the {Animal Kingdom Pirates} type, add up to 1 DON!! card from your DON!! deck and rest it.",
+        "set_id": "OP14-EB04",
+        "rarity": "R",
+        "card_set_id": "EB04-032",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "1000",
+        "sub_types": "Animal Kingdom Pirates",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB04-032",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB04-032_lUggG91.jpg"
+    }
+]

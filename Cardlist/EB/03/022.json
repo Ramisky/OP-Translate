@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Isuka",
+        "set_name": "Extra Booster: One Piece Heroines Edition",
+        "card_text": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)\n[On Play] Place up to 1 Character with a cost of 4 or less at the bottom of the owner's deck.",
+        "set_id": "EB-03",
+        "rarity": "R",
+        "card_set_id": "EB03-022",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "6000",
+        "sub_types": "Navy",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB03-022",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB03-022_fSaKtfP.jpg"
+    }
+]

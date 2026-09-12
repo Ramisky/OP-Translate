@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Koby",
+        "set_name": "Starter Deck 6: Absolute Justice",
+        "card_text": "[On Play] You may trash 1 card from your hand: K.O. up to 1 of your opponent's Characters with a cost of 0.",
+        "set_id": "ST-06",
+        "rarity": "C",
+        "card_set_id": "ST06-002",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "2000",
+        "sub_types": "Navy",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST06-002",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST06-002.jpg"
+    }
+]

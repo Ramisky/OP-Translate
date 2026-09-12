@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Patty",
+        "set_name": "Pillars of Strength",
+        "card_text": "[On Play] If you have 20 or less cards in your deck, return up to 1 Character with a cost of 3 or less to the owner's hand.",
+        "set_id": "OP-03",
+        "rarity": "UC",
+        "card_set_id": "OP03-049",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "5000",
+        "sub_types": "East Blue",
+        "counter_amount": 0,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP03-049",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP03-049.jpg"
+    }
+]

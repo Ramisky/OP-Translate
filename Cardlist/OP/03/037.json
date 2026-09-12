@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Tooth Attack",
+        "set_name": "Pillars of Strength",
+        "card_text": "[Main] You may rest 1 of your [East Blue] type Characters: K.O. up to 1 of your opponent's rested Characters with a cost of 3 or less. [Trigger] Play up to 1 Character card with a cost of 4 or less and a [Trigger] from your hand.",
+        "set_id": "OP-03",
+        "rarity": "C",
+        "card_set_id": "OP03-037",
+        "card_color": "Green",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "Fish-Man Arlong Pirates East Blue",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP03-037",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP03-037.jpg"
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Uta",
+        "set_name": "Starter Deck 5: Film Edition",
+        "card_text": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Block] DON!! -1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Rest up to 1 of your opponent's Characters with a cost of 5 or less.",
+        "set_id": "ST-05",
+        "rarity": "SR",
+        "card_set_id": "ST05-004",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Film",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST05-004",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST05-004.jpg"
+    }
+]

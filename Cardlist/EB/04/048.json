@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Rob Lucci",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "If your Leader's type includes \"CP\", this Character gains +1000 power and -2 cost for every 5 cards in your trash.\n[On Play] You may trash 1 of your Characters: Draw 1 card.",
+        "set_id": "OP15-EB04",
+        "rarity": "SR",
+        "card_set_id": "EB04-048",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "6000",
+        "sub_types": "CP0 Egghead",
+        "counter_amount": 0,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB04-048",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB04-048_kr3745G.jpg"
+    },
+    {
+        "card_name": "Rob Lucci (Alternate Art)",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "If your Leader's type includes \"CP\", this Character gains +1000 power and -2 cost for every 5 cards in your trash.\n[On Play] You may trash 1 of your Characters: Draw 1 card.",
+        "set_id": "OP15-EB04",
+        "rarity": "SR",
+        "card_set_id": "EB04-048",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "6000",
+        "sub_types": "CP0 Egghead",
+        "counter_amount": 0,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB04-048_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB04-048_p1_f9OEOVs.jpg"
+    }
+]

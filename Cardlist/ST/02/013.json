@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Eustass\"Captain\"Kid (013)",
+        "set_name": "Starter Deck 2: Worst Generation",
+        "card_text": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [DON!! x1] [End of Your Turn] Set this card as active.  This card has been officially errata'd.",
+        "set_id": "ST-02",
+        "rarity": "SR",
+        "card_set_id": "ST02-013",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "7",
+        "card_power": "7000",
+        "sub_types": "Kid Pirates Supernovas",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST02-013",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST02-013.jpg"
+    }
+]

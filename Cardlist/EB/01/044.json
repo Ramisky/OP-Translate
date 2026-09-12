@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Funkfreed",
+        "set_name": "Extra Booster: Memorial Collection",
+        "card_text": "[Activate:Main] You may rest this Character: Up to 1 of your [Spandam] Characters gains +3000 power during this turn.",
+        "set_id": "EB-01",
+        "rarity": "C",
+        "card_set_id": "EB01-044",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "1000",
+        "sub_types": "CP9",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-05",
+        "card_image_id": "EB01-044",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB01-044.jpg"
+    }
+]

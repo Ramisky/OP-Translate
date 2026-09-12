@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Charlotte Snack",
+        "set_name": "Starter Deck 7: Big Mom Pirates",
+        "card_text": "[DON!! x1] [When Attacking] You may add 1 card from the top or bottom of your Life cards to your hand: This Character gains [Banish] and +1000 power during this battle. (When this card deals damage, the target card is trashed without activating its Trigger.)",
+        "set_id": "ST-07",
+        "rarity": "C",
+        "card_set_id": "ST07-004",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Big Mom Pirates",
+        "counter_amount": 0,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST07-004",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST07-004.jpg"
+    }
+]

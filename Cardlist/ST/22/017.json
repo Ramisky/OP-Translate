@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Fire Fist",
+        "set_name": "Starter Deck 22: Ace & Newgate",
+        "card_text": "[Main] You may reveal 2 cards with a type including \"Whitebeard Pirates\" from your hand: Draw 1 card. Then, place up to 1 Character with a cost of 5 or less at the bottom of the owner's deck.\n[Trigger] Return up to 1 Character with a cost of 3 or less to the owner's hand.",
+        "set_id": "ST-22",
+        "rarity": "C",
+        "card_set_id": "ST22-017",
+        "card_color": "Blue",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "5",
+        "card_power": null,
+        "sub_types": "Whitebeard Pirates",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-09",
+        "card_image_id": "ST22-017",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST22-017_9bIz5J7.jpg"
+    }
+]

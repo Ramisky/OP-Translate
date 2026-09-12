@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Boa Hancock",
+        "set_name": "Starter Deck 3: The Seven Warlords of The Sea",
+        "card_text": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [Trigger] Play this card.",
+        "set_id": "ST-03",
+        "rarity": "C",
+        "card_set_id": "ST03-013",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "1000",
+        "sub_types": "Kuja Pirates The Seven Warlords of the Sea",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST03-013",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST03-013.jpg"
+    }
+]

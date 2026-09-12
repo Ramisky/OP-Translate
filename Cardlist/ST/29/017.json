@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Iai Death Lion Song",
+        "set_name": "Starter Deck 29: Egghead",
+        "card_text": "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, if you have 2 or less Life cards, K.O. up to 1 of your opponent's Characters with a cost of 3 or less.\n[Trigger] Draw 2 cards and trash 1 card from your hand.",
+        "set_id": "ST-29",
+        "rarity": "C",
+        "card_set_id": "ST29-017",
+        "card_color": "Yellow",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "2",
+        "card_power": null,
+        "sub_types": "Straw Hat Crew Egghead",
+        "counter_amount": 0,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST29-017",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST29-017_naeKPlC.jpg"
+    }
+]

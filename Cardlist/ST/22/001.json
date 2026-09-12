@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Ace & Newgate",
+        "set_name": "Starter Deck 22: Ace & Newgate",
+        "card_text": "[Activate: Main] [Once Per Turn] You may reveal 1 card with a type including \"Whitebeard Pirates\" from your hand: Draw 1 card and place the revealed card at the top of your deck.",
+        "set_id": "ST-22",
+        "rarity": "L",
+        "card_set_id": "ST22-001",
+        "card_color": "Blue",
+        "card_type": "Leader",
+        "life": "5",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "The Four Emperors Whitebeard Pirates",
+        "counter_amount": null,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST22-001",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST22-001_asHW7pp.jpg"
+    },
+    {
+        "card_name": "Ace & Newgate (Parallel)",
+        "set_name": "Starter Deck 22: Ace & Newgate",
+        "card_text": "[Activate: Main] [Once Per Turn] You may reveal 1 card with a type including \"Whitebeard Pirates\" from your hand: Draw 1 card and place the revealed card at the top of your deck.",
+        "set_id": "ST-22",
+        "rarity": "L",
+        "card_set_id": "ST22-001",
+        "card_color": "Blue",
+        "card_type": "Leader",
+        "life": "5",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "The Four Emperors Whitebeard Pirates",
+        "counter_amount": null,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST22-001_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST22-001_p1_dolhKse.jpg"
+    }
+]

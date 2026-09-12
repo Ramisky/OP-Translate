@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Yamato (012)",
+        "set_name": "Starter Deck 9: Yamato",
+        "card_text": "[When Attacking] You may add 1 card from the top or bottom of your Life cards to your hand: This Character gains +2000 power until the start of your next turn.",
+        "set_id": "ST-09",
+        "rarity": "C",
+        "card_set_id": "ST09-012",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "3000",
+        "sub_types": "Land of Wano",
+        "counter_amount": 2000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST09-012",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST09-012.jpg"
+    }
+]

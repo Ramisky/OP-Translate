@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Baccarat",
+        "set_name": "Extra Booster: One Piece Heroines Edition",
+        "card_text": "[Blocker] [On K.O.] Play up to 1 Character card with 6000 power or less and no base effect from your hand.",
+        "set_id": "EB-03",
+        "rarity": "C",
+        "card_set_id": "EB03-007",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "FILM Grantesoro",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB03-007",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB03-007_SZkcJpK.jpg"
+    }
+]

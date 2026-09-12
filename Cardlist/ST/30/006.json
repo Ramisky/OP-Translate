@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Jinbe (Full Art)",
+        "set_name": "Starter Deck EX: Luffy & Ace",
+        "card_text": "[On Play] You may trash 1 Character card with 6000 power from your hand: Draw 2 cards.",
+        "set_id": "ST-30",
+        "rarity": "C",
+        "card_set_id": "ST30-006",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Fish-Man The Sun Pirates Impel Down",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST30-006_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST30-006_p1_Oph8EFG.jpg"
+    },
+    {
+        "card_name": "Jinbe",
+        "set_name": "Starter Deck EX: Luffy & Ace",
+        "card_text": "[On Play] You may trash 1 Character card with 6000 power from your hand: Draw 2 cards.",
+        "set_id": "ST-30",
+        "rarity": "C",
+        "card_set_id": "ST30-006",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Fish-Man The Sun Pirates Impel Down",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-06-13",
+        "card_image_id": "ST30-006",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST30-006_bhNYGdJ.jpg"
+    }
+]

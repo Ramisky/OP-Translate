@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Roronoa Zoro",
+        "set_name": "Extra Booster: Anime 25th Collection",
+        "card_text": "If your opponent has 2 or more Characters, this Character can attack Characters on the turn in which it is played.\n[On Play] If your Leader has the \"Straw Hat Crew\" type, rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+        "set_id": "EB-02",
+        "rarity": "R",
+        "card_set_id": "EB02-019",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Straw Hat Crew East Blue",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB02-019",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB02-019.jpg"
+    }
+]

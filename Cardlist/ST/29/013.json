@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Rob Lucci (Full Art)",
+        "set_name": "Starter Deck 29: Egghead",
+        "card_text": "[Trigger] K.O. up to 1 of your opponent's Characters with a cost equal to or less than the total of your and your opponent's Life cards.",
+        "set_id": "ST-29",
+        "rarity": "C",
+        "card_set_id": "ST29-013",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "CP0 Egghead",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-06",
+        "card_image_id": "ST29-013_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST29-013_p1_hQfG2fP.jpg"
+    },
+    {
+        "card_name": "Rob Lucci",
+        "set_name": "Starter Deck 29: Egghead",
+        "card_text": "[Trigger] K.O. up to 1 of your opponent's Characters with a cost equal to or less than the total of your and your opponent's Life cards.",
+        "set_id": "ST-29",
+        "rarity": "C",
+        "card_set_id": "ST29-013",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "CP0 Egghead",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-01-24",
+        "card_image_id": "ST29-013",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST29-013_Codkxhk.jpg"
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Kouzuki Oden",
+        "set_name": "Starter Deck 22: Ace & Newgate",
+        "card_text": "If this Character would be removed from the field by your opponent's effect, you may trash 2 cards from your hand instead.\n[Activate: Main] [Once Per Turn] You may rest 3 of your DON!! cards and return 1 of your Characters other than this Character to the owner's hand: Set this Character as active.",
+        "set_id": "ST-22",
+        "rarity": "SR",
+        "card_set_id": "ST22-005",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "7",
+        "card_power": "8000",
+        "sub_types": "Land of Wano Kouzuki Clan Whitebeard Pirates",
+        "counter_amount": 0,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST22-005",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST22-005_hlRSUwy.jpg"
+    },
+    {
+        "card_name": "Kouzuki Oden (Parallel)",
+        "set_name": "Starter Deck 22: Ace & Newgate",
+        "card_text": "If this Character would be removed from the field by your opponent's effect, you may trash 2 cards from your hand instead.\n[Activate: Main] [Once Per Turn] You may rest 3 of your DON!! cards and return 1 of your Characters other than this Character to the owner's hand: Set this Character as active.",
+        "set_id": "ST-22",
+        "rarity": "SR",
+        "card_set_id": "ST22-005",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "7",
+        "card_power": "8000",
+        "sub_types": "Land of Wano Kouzuki Clan Whitebeard Pirates",
+        "counter_amount": 0,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST22-005_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST22-005_p1_LdzTz4k.jpg"
+    }
+]

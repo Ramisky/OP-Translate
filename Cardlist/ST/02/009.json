@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Trafalgar Law",
+        "set_name": "Starter Deck 2: Worst Generation",
+        "card_text": "[On Play] Set up to 1 of your \"Supernovas\" or \"Heart Pirates\" type rested Characters with a cost of 5 or less as active.",
+        "set_id": "ST-02",
+        "rarity": "SR",
+        "card_set_id": "ST02-009",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Heart Pirates Supernovas",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST02-009",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST02-009.jpg"
+    }
+]

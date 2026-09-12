@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Eleclaw",
+        "set_name": "The Azure Sea's Seven",
+        "card_text": "[Main] You may rest 1 of your cards: If your Leader has the {Minks} type, give up to 1 of your opponent's Characters -3 cost during this turn.\n[Counter] Up to 1 of your {Minks} type Leader or Character cards gains +3000 power during this battle.",
+        "set_id": "OP14-EB04",
+        "rarity": "R",
+        "card_set_id": "EB04-019",
+        "card_color": "Green",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "Minks",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB04-019",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB04-019_1jN3g6R.jpg"
+    }
+]

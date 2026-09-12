@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "The Name of This Era Is \"Whitebeard\"!! (Parallel)",
+        "set_name": "Starter Deck EX: Luffy & Ace",
+        "card_text": "[Counter] If you have 2 or more Characters with 6000 base power, up to 1 of your Leader or Character cards gains +4000 power during this battle.\n\n[Trigger] K.O. up to 1 of your opponent's Characters with 6000 power or less.",
+        "set_id": "ST-30",
+        "rarity": "C",
+        "card_set_id": "ST30-015",
+        "card_color": "Red",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "Whitebeard Pirates",
+        "counter_amount": 0,
+        "attribute": null,
+        "date_scraped": "2026-06-13",
+        "card_image_id": "ST30-015_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST30-015_p1_gWJHpdw.jpg"
+    },
+    {
+        "card_name": "The Name of This Era Is \"Whitebeard\"!!",
+        "set_name": "Starter Deck EX: Luffy & Ace",
+        "card_text": "[Counter] If you have 2 or more Characters with 6000 base power, up to 1 of your Leader or Character cards gains +4000 power during this battle.\n\n[Trigger] K.O. up to 1 of your opponent's Characters with 6000 power or less.",
+        "set_id": "ST-30",
+        "rarity": "C",
+        "card_set_id": "ST30-015",
+        "card_color": "Red",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "Whitebeard Pirates",
+        "counter_amount": 0,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST30-015",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST30-015_LxoFOKR.jpg"
+    }
+]

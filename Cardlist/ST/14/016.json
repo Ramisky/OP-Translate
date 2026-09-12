@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "I Have My Crew!!",
+        "set_name": "Starter Deck 14: 3D2Y",
+        "card_text": "[Main] Draw 1 card. Then, up to 1 of your Characters gains +3 cost until the end of your opponent's next turn.\n[Trigger] K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
+        "set_id": "ST-14",
+        "rarity": "C",
+        "card_set_id": "ST14-016",
+        "card_color": "Black",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "Straw Hat Crew",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST14-016",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST14-016.jpg"
+    }
+]

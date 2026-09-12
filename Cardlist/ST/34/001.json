@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Charlotte Katakuri (ST34-001)",
+        "set_name": "Starter Deck 34: PURPLE Charlotte Katakuri",
+        "card_text": "[Your Turn] [Once Per Turn] When a DON!! card on your field is returned to your DON!! deck, if your Leader has the {Big Mom Pirates} type, add up to 2 DON!! cards from your DON!! deck and rest them.[On K.O.] Play up to 1 Character card with 8000 power or less from your hand.",
+        "set_id": "ST-34",
+        "rarity": "SR",
+        "card_set_id": "ST34-001",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "7000",
+        "sub_types": "Big Mom Pirates",
+        "counter_amount": 0,
+        "attribute": "Strike",
+        "date_scraped": "2026-08-16",
+        "card_image_id": "ST34-001",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST34-001.jpg"
+    }
+]

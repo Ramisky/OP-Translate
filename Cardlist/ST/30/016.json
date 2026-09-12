@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Can You Still Fight, Luffy?! Of Course!! (Parallel)",
+        "set_name": "Starter Deck EX: Luffy & Ace",
+        "card_text": "[Counter] Up to 1 of your Leader or Character cards gains +3000 power during this battle. Then, if you have [Portgas.D.Ace] and [Monkey.D.Luffy] Characters with 6000 base power, draw 1 card.",
+        "set_id": "ST-30",
+        "rarity": "C",
+        "card_set_id": "ST30-016",
+        "card_color": "Red",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "Straw Hat Crew Whitebeard Pirates",
+        "counter_amount": 0,
+        "attribute": null,
+        "date_scraped": "2026-09-10",
+        "card_image_id": "ST30-016_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST30-016_p1_xqYOsWA.jpg"
+    },
+    {
+        "card_name": "Can You Still Fight, Luffy?! Of Course!!",
+        "set_name": "Starter Deck EX: Luffy & Ace",
+        "card_text": "[Counter] Up to 1 of your Leader or Character cards gains +3000 power during this battle. Then, if you have [Portgas.D.Ace] and [Monkey.D.Luffy] Characters with 6000 base power, draw 1 card.",
+        "set_id": "ST-30",
+        "rarity": "C",
+        "card_set_id": "ST30-016",
+        "card_color": "Red",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "Straw Hat Crew Whitebeard Pirates",
+        "counter_amount": 0,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST30-016",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST30-016_Y9NfonK.jpg"
+    }
+]

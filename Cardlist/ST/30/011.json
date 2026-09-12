@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Buggy (Full Art)",
+        "set_name": "Starter Deck EX: Luffy & Ace",
+        "card_text": "If your Character with 6000 base power would be removed from the field by your opponent's effect, you may rest this Character instead.\n\n[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+        "set_id": "ST-30",
+        "rarity": "C",
+        "card_set_id": "ST30-011",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "1000",
+        "sub_types": "Buggy Pirates Impel Down",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST30-011_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST30-011_p1_hgpY8ve.jpg"
+    },
+    {
+        "card_name": "Buggy",
+        "set_name": "Starter Deck EX: Luffy & Ace",
+        "card_text": "If your Character with 6000 base power would be removed from the field by your opponent's effect, you may rest this Character instead.\n\n[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+        "set_id": "ST-30",
+        "rarity": "C",
+        "card_set_id": "ST30-011",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "1000",
+        "sub_types": "Buggy Pirates Impel Down",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-08-27",
+        "card_image_id": "ST30-011",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST30-011_qIYnA1R.jpg"
+    }
+]

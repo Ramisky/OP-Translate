@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Ulti",
+        "set_name": "Starter Deck 9: Yamato",
+        "card_text": "NULL",
+        "set_id": "ST-09",
+        "rarity": "C",
+        "card_set_id": "ST09-003",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "6000",
+        "sub_types": "Animal Kingdom Pirates",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST09-003",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST09-003.jpg"
+    }
+]

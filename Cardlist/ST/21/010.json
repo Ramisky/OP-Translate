@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Nico Robin",
+        "set_name": "Starter Deck EX: Gear 5",
+        "card_text": "[DON!! x2] [When Attacking] K.O. up to 1 of your opponent's Characters with 4000 power or less.",
+        "set_id": "ST-21",
+        "rarity": "C",
+        "card_set_id": "ST21-010",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "Straw Hat Crew",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST21-010",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST21-010.jpg"
+    },
+    {
+        "card_name": "Nico Robin (Parallel)",
+        "set_name": "Starter Deck EX: Gear 5",
+        "card_text": "[DON!! x2] [When Attacking] K.O. up to 1 of your opponent's Characters with 4000 power or less.",
+        "set_id": "ST-21",
+        "rarity": "C",
+        "card_set_id": "ST21-010",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "Straw Hat Crew",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST21-010_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST21-010_p1.jpg"
+    }
+]

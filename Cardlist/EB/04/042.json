@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Alpha",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "[On Play] You may trash 3 cards from the top of your deck: Give up to 1 of your opponent's Characters +1 cost during this turn.",
+        "set_id": "OP15-EB04",
+        "rarity": "C",
+        "card_set_id": "EB04-042",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "2000",
+        "sub_types": "CP8",
+        "counter_amount": 2000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB04-042",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB04-042_jQrxPol.jpg"
+    }
+]

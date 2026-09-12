@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Sanji",
+        "set_name": "Pillars of Strength",
+        "card_text": "[DON!! x2] [When Attacking] You may add 1 card from the top or bottom of your Life cards to your hand: Add up to 1 card from the top of your deck to the top of your Life cards.",
+        "set_id": "OP-03",
+        "rarity": "R",
+        "card_set_id": "OP03-102",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "3000",
+        "sub_types": "The Vinsmoke Family",
+        "counter_amount": 2000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP03-102",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP03-102.jpg"
+    }
+]

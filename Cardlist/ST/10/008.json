@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Shachi & Penguin",
+        "set_name": "Ultra Deck: The Three Captains",
+        "card_text": "[On Play] If you have 3 or less DON!! cards on your field, add up to 2 DON!! cards from your DON!! deck and rest them.",
+        "set_id": "ST-10",
+        "rarity": "C",
+        "card_set_id": "ST10-008",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Heart Pirates",
+        "counter_amount": 2000,
+        "attribute": "Ranged",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST10-008",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST10-008.jpg"
+    }
+]

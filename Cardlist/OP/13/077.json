@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Go All the Way to the Top!!",
+        "set_name": "Carrying On His Will",
+        "card_text": "[Main] You may rest 3 of your DON!! cards: If you have any DON!! cards given, K.O. up to 1 of your opponent's Characters with 4000 base power or less and up to 1 of your opponent's Characters with 3000 base power or less.\n[Counter] Your Leader gains +3000 power during this turn.",
+        "set_id": "OP-13",
+        "rarity": "C",
+        "card_set_id": "OP13-077",
+        "card_color": "Purple",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "Former Roger Pirates",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP13-077",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP13-077_NYPK8cS.jpg"
+    }
+]

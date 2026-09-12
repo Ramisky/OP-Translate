@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Boa Hancock - EB04-027",
+        "set_name": "The Azure Sea's Seven",
+        "card_text": "[On Play] Draw 2 cards and trash 1 card from your hand.\n[Trigger] Play up to 1 Character card with 5000 power or less and a [Trigger] from your hand.",
+        "set_id": "OP14-EB04",
+        "rarity": "R",
+        "card_set_id": "EB04-027",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "7000",
+        "sub_types": "Kuja Pirates The Seven Warlords of the Sea",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB04-027",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB04-027_6rHv2Mj.jpg"
+    }
+]

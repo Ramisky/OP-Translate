@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Vegapunk",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "If you have 2 or less Life cards, all of your yellow {Scientist} type Characters cannot be removed from the field by your opponent's effects.\n[DON!! x1] This Character gains [Blocker].",
+        "set_id": "OP15-EB04",
+        "rarity": "C",
+        "card_set_id": "EB04-057",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "0",
+        "sub_types": "Scientist Ohara",
+        "counter_amount": 1000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB04-057",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB04-057_217902r.jpg"
+    }
+]

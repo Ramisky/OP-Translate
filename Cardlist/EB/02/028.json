@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Portgas.D.Ace",
+        "set_name": "Extra Booster: Anime 25th Collection",
+        "card_text": "[On Play] If your Leader's type includes \"Whitebeard Pirates\", look at 5 cards from the top of your deck; reveal up to 1 Character card with a cost of 2 and add it to your hand. Then, place the rest at the bottom of your deck in any order and play up to 1 Character card with a cost of 2 from your hand rested.",
+        "set_id": "EB-02",
+        "rarity": "R",
+        "card_set_id": "EB02-028",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "5000",
+        "sub_types": "Alabasta Whitebeard Pirates",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB02-028",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB02-028.jpg"
+    },
+    {
+        "card_name": "Portgas.D.Ace - EB02-028 (SP)",
+        "set_name": "Carrying On His Will",
+        "card_text": "[On Play] If your Leader's type includes \"Whitebeard Pirates\", look at 5 cards from the top of your deck; reveal up to 1 Character card with a cost of 2 and add it to your hand. Then, place the rest at the bottom of your deck in any order and play up to 1 Character card with a cost of 2 from your hand rested.",
+        "set_id": "OP-13",
+        "rarity": "R",
+        "card_set_id": "EB02-028",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "5000",
+        "sub_types": "Alabasta Whitebeard Pirates",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB02-028_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB02-028_p1.jpg"
+    }
+]

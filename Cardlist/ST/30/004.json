@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Emporio.Ivankov (Full Art)",
+        "set_name": "Starter Deck EX: Luffy & Ace",
+        "card_text": "[On Play] You may reveal 2 Character cards with 6000 power from your hand: Draw 3 cards and trash 2 cards from your hand.",
+        "set_id": "ST-30",
+        "rarity": "C",
+        "card_set_id": "ST30-004",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "2000",
+        "sub_types": "Revolutionary Army Impel Down",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST30-004_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST30-004_p1_LktBmS3.jpg"
+    },
+    {
+        "card_name": "Emporio.Ivankov",
+        "set_name": "Starter Deck EX: Luffy & Ace",
+        "card_text": "[On Play] You may reveal 2 Character cards with 6000 power from your hand: Draw 3 cards and trash 2 cards from your hand.",
+        "set_id": "ST-30",
+        "rarity": "C",
+        "card_set_id": "ST30-004",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "2000",
+        "sub_types": "Revolutionary Army Impel Down",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST30-004",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST30-004_rJ0j3Nf.jpg"
+    }
+]

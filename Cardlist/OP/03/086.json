@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Spandam",
+        "set_name": "Pillars of Strength",
+        "card_text": "[On Play] If your Leader's type include \"CP\", look at 3 cards from the top of your deck; reveal up to 1 card with a type including \"CP\" other than [Spandam] and add it to your hand. Then, trash the rest.",
+        "set_id": "OP-03",
+        "rarity": "R",
+        "card_set_id": "OP03-086",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "2000",
+        "sub_types": "CP9",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP03-086",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP03-086.jpg"
+    },
+    {
+        "card_name": "Spandam (Alternate Art)",
+        "set_name": "Pillars of Strength",
+        "card_text": "[On Play] If your Leader's type include \"CP\", look at 3 cards from the top of your deck; reveal up to 1 card with a type including \"CP\" other than [Spandam] and add it to your hand. Then, trash the rest.",
+        "set_id": "OP-03",
+        "rarity": "R",
+        "card_set_id": "OP03-086",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "2000",
+        "sub_types": "CP9",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP03-086_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP03-086_p1.jpg"
+    }
+]

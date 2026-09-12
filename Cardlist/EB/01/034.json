@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Ms. Wednesday",
+        "set_name": "Extra Booster: Memorial Collection",
+        "card_text": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Your Opponent's Attack][Once Per Turn] DON!! -1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your Leader's type includes \"Baroque Works\", add up to 1 DON!! card from your DON!! deck and set it as active.",
+        "set_id": "EB-01",
+        "rarity": "SR",
+        "card_set_id": "EB01-034",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "Baroque Works",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB01-034",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB01-034.jpg"
+    },
+    {
+        "card_name": "Ms. Wednesday (Alternate Art)",
+        "set_name": "Extra Booster: Memorial Collection",
+        "card_text": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Your Opponent's Attack][Once Per Turn] DON!! -1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your Leader's type includes \"Baroque Works\", add up to 1 DON!! card from your DON!! deck and set it as active.",
+        "set_id": "EB-01",
+        "rarity": "SR",
+        "card_set_id": "EB01-034",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "Baroque Works",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB01-034_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB01-034_p1.jpg"
+    }
+]

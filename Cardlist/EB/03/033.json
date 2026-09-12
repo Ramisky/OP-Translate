@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Charlotte Brulee",
+        "set_name": "Extra Booster: One Piece Heroines Edition",
+        "card_text": "[Opponent's Turn] [Once Per Turn] When a DON!! card on your field is returned to your DON!! deck by your effect, if your Leader has the {Big Mom Pirates} type, add up to 1 DON!! card from your DON!! deck and rest it.",
+        "set_id": "EB-03",
+        "rarity": "C",
+        "card_set_id": "EB03-033",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Big Mom Pirates",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB03-033",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB03-033_ouN0qDl.jpg"
+    }
+]

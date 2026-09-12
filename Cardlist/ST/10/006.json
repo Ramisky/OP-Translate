@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Monkey.D.Luffy (006)",
+        "set_name": "Ultra Deck: The Three Captains",
+        "card_text": "[Rush] (This card can attack on the turn in which it is played.) [Once Per Turn] When your opponent activates a [Blocker], K.O. up to 1 of your opponent's Characters with 8000 power or less.",
+        "set_id": "ST-10",
+        "rarity": "SR",
+        "card_set_id": "ST10-006",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "10",
+        "card_power": "11000",
+        "sub_types": "Straw Hat Crew",
+        "counter_amount": 0,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST10-006",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST10-006.jpg"
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Boodle (Dash Pack)",
+        "set_name": "Kingdoms of Intrigue",
+        "card_text": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On K.O.] You may trash 1 card from the top of your deck.",
+        "set_id": "OP-04",
+        "rarity": "UC",
+        "card_set_id": "OP03-050",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "0",
+        "sub_types": "East Blue",
+        "counter_amount": 1000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP03-050_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP03-050_p1.jpg"
+    },
+    {
+        "card_name": "Boodle",
+        "set_name": "Pillars of Strength",
+        "card_text": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On K.O.] You may trash 1 card from the top of your deck.",
+        "set_id": "OP-03",
+        "rarity": "UC",
+        "card_set_id": "OP03-050",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "0",
+        "sub_types": "East Blue",
+        "counter_amount": 1000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP03-050",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP03-050_aRpUUzt.jpg"
+    }
+]

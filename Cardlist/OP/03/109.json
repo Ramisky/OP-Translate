@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Charlotte Chiffon",
+        "set_name": "Pillars of Strength",
+        "card_text": "[On Play] You may trash 1 card from the top or bottom of your Life cards: Add up to 1 card from the top of your deck to the top of your Life cards.",
+        "set_id": "OP-03",
+        "rarity": "C",
+        "card_set_id": "OP03-109",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "3000",
+        "sub_types": "Big Mom Pirates",
+        "counter_amount": 0,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP03-109",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP03-109.jpg"
+    }
+]

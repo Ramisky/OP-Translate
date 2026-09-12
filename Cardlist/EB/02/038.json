@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Magellan",
+        "set_name": "Extra Booster: Anime 25th Collection",
+        "card_text": "[On Play] Play up to 1 \"Impel Down\" type Character card with a cost of 2 or less from your hand.",
+        "set_id": "EB-02",
+        "rarity": "C",
+        "card_set_id": "EB02-038",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "Impel Down",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB02-038",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB02-038.jpg"
+    }
+]

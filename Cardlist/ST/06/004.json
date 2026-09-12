@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Smoker",
+        "set_name": "Starter Deck 6: Absolute Justice",
+        "card_text": "This Character cannot be K.O.'d by effects. [DON!! x1] If there is a Character with a cost of 0, this Character gains [Double Attack]. (This card deals 2 damage.)",
+        "set_id": "ST-06",
+        "rarity": "SR",
+        "card_set_id": "ST06-004",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "7000",
+        "sub_types": "Navy",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST06-004",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST06-004.jpg"
+    }
+]

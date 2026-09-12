@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Jinbe - EB04-015",
+        "set_name": "The Azure Sea's Seven",
+        "card_text": "[Blocker]\n[On K.O.] You may rest 1 of your cards: If your Leader has the {Fish-Man} or {Merfolk} type, play up to 1 green Character card with a cost of 6 or less from your hand.",
+        "set_id": "OP14-EB04",
+        "rarity": "R",
+        "card_set_id": "EB04-015",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "7",
+        "card_power": "8000",
+        "sub_types": "Fish-Man The Sun Pirates Fish-Man Island",
+        "counter_amount": 0,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB04-015",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB04-015_Ar3ocXi.jpg"
+    }
+]

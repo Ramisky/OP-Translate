@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Kouzuki Oden",
+        "set_name": "Starter Deck 9: Yamato",
+        "card_text": "[DON!! x1] This Character gains [Double Attack]. (This card deals 2 damage.) [On K.O.] You may trash 2 cards from your hand: Add up to 1 card from the top of your deck to the top of your Life cards.",
+        "set_id": "ST-09",
+        "rarity": "SR",
+        "card_set_id": "ST09-005",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "7",
+        "card_power": "7000",
+        "sub_types": "Land of Wano Kouzuki Clan",
+        "counter_amount": 0,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST09-005",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST09-005.jpg"
+    }
+]

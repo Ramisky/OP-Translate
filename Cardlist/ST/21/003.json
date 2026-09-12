@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Sanji",
+        "set_name": "Starter Deck EX: Gear 5",
+        "card_text": "[On Play] Select up to 1 of your {Straw Hat Crew} type Characters with 6000 power or more. If the selected Character attacks during this turn, your opponent cannot activate [Blocker].",
+        "set_id": "ST-21",
+        "rarity": "C",
+        "card_set_id": "ST21-003",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "3000",
+        "sub_types": "Straw Hat Crew",
+        "counter_amount": 2000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST21-003",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST21-003.jpg"
+    },
+    {
+        "card_name": "Sanji (Parallel)",
+        "set_name": "Starter Deck EX: Gear 5",
+        "card_text": "[On Play] Select up to 1 of your {Straw Hat Crew} type Characters with 6000 power or more. If the selected Character attacks during this turn, your opponent cannot activate [Blocker].",
+        "set_id": "ST-21",
+        "rarity": "C",
+        "card_set_id": "ST21-003",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "3000",
+        "sub_types": "Straw Hat Crew",
+        "counter_amount": 2000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-08",
+        "card_image_id": "ST21-003_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST21-003_p1.jpg"
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Killer",
+        "set_name": "Starter Deck 36: YELLOW Eustass\"Captain\"Kid",
+        "card_text": "[Your Turn] [On Play] If your Leader has the {Kid Pirates} type, add up to 1 card from the top of your deck to the top of your Life cards.[Trigger] If your opponent has 3 or less Life cards, play this card.",
+        "set_id": "ST-36",
+        "rarity": "SR",
+        "card_set_id": "ST36-002",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "6000",
+        "sub_types": "Kid Pirates Supernovas",
+        "counter_amount": 0,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST36-002",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST36-002.jpg"
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Pacifista",
+        "set_name": "Starter Deck 3: The Seven Warlords of The Sea",
+        "card_text": "NULL",
+        "set_id": "ST-03",
+        "rarity": "C",
+        "card_set_id": "ST03-012",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "6000",
+        "sub_types": "Biological Weapon Navy",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST03-012",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST03-012.jpg"
+    }
+]

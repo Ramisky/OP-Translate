@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Gum-Gum Hawk Gatling",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "[Main] You may add 1 card from the top or bottom of your Life cards to your hand: Add up to 1 {Egghead} type Character card from your hand to the top of your Life cards face-up. Then, give up to 1 of your opponent's Characters -1000 power during this turn.[Trigger] Draw 2 cards and trash 1 card from your hand.",
+        "set_id": "OP15-EB04",
+        "rarity": "C",
+        "card_set_id": "EB04-060",
+        "card_color": "Yellow",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "2",
+        "card_power": null,
+        "sub_types": "Straw Hat Crew The Four Emperors Egghead",
+        "counter_amount": 0,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB04-060",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB04-060_HhzAaHv.jpg"
+    }
+]

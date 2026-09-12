@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Streusen",
+        "set_name": "Pillars of Strength",
+        "card_text": "[On Play] You may trash 1 card with a [Trigger] from your hand: K.O. up to 1 of your opponent's Characters with a cost of 1 or less.",
+        "set_id": "OP-03",
+        "rarity": "R",
+        "card_set_id": "OP03-115",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "1000",
+        "sub_types": "Big Mom Pirates",
+        "counter_amount": 2000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP03-115",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP03-115.jpg"
+    }
+]

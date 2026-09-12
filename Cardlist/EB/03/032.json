@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Charlotte Flampe",
+        "set_name": "Extra Booster: One Piece Heroines Edition",
+        "card_text": "[Your Turn] [On Play] Up to 1 of your [Charlotte Katakuri] cards gains +2000 power during this turn.",
+        "set_id": "EB-03",
+        "rarity": "C",
+        "card_set_id": "EB03-032",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "2000",
+        "sub_types": "Big Mom Pirates",
+        "counter_amount": 1000,
+        "attribute": "Ranged",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB03-032",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB03-032_1U6q0Vd.jpg"
+    }
+]

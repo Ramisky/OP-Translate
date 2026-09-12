@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Lulucia Kingdom",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "[Opponent's Turn] All of your Characters with a base cost of 1 gain +5000 power.[On Play] Set the power of up to 1 of your opponent's Characters to 0 during this turn.",
+        "set_id": "OP15-EB04",
+        "rarity": "C",
+        "card_set_id": "EB04-010",
+        "card_color": "Red",
+        "card_type": "Stage",
+        "life": null,
+        "card_cost": "7",
+        "card_power": null,
+        "sub_types": "Lulucia Kingdom",
+        "counter_amount": 0,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB04-010",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB04-010_jBjnlAt.jpg"
+    }
+]

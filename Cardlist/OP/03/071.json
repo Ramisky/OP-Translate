@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Rob Lucci (071)",
+        "set_name": "Pillars of Strength",
+        "card_text": "[When Attacking] DON!! -1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Rest up to 1 of your opponent's Characters with a cost of 5 or less.",
+        "set_id": "OP-03",
+        "rarity": "R",
+        "card_set_id": "OP03-071",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Galley-La Company Water Seven",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP03-071",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP03-071.jpg"
+    }
+]

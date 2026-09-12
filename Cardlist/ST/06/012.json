@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Monkey.D.Garp",
+        "set_name": "Starter Deck 6: Absolute Justice",
+        "card_text": "[Activate:Main] You may trash 1 card from your hand and rest this Character: K.O. up to 1 of your opponent's Characters with a cost of 4 or less.",
+        "set_id": "ST-06",
+        "rarity": "SR",
+        "card_set_id": "ST06-012",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Navy",
+        "counter_amount": 0,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST06-012",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST06-012.jpg"
+    }
+]

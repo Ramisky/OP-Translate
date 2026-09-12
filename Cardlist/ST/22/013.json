@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "LittleOars Jr. (Parallel)",
+        "set_name": "Starter Deck 22: Ace & Newgate",
+        "card_text": null,
+        "set_id": "ST-22",
+        "rarity": "C",
+        "card_set_id": "ST22-013",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "7000",
+        "sub_types": "Giant Whitebeard Pirates Allies",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST22-013_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST22-013_p1_PXx13TA.jpg"
+    },
+    {
+        "card_name": "LittleOars Jr.",
+        "set_name": "Starter Deck 22: Ace & Newgate",
+        "card_text": null,
+        "set_id": "ST-22",
+        "rarity": "C",
+        "card_set_id": "ST22-013",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "7000",
+        "sub_types": "Giant Whitebeard Pirates Allies",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST22-013",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST22-013_YPvVGjK.jpg"
+    }
+]

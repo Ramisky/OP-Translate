@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Sanji",
+        "set_name": "Extra Booster: Anime 25th Collection",
+        "card_text": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)\n[On Play] If you have 2 or less Life cards, draw 2 cards and trash 1 card from your hand.",
+        "set_id": "EB-02",
+        "rarity": "R",
+        "card_set_id": "EB02-054",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Straw Hat Crew East Blue",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB02-054",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB02-054.jpg"
+    },
+    {
+        "card_name": "Sanji (Alternate Art)",
+        "set_name": "Extra Booster: Anime 25th Collection",
+        "card_text": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] If you have 2 or less Life cards, draw 2 cards and trash 1 card from your hand.",
+        "set_id": "EB-02",
+        "rarity": "R",
+        "card_set_id": "EB02-054",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Straw Hat Crew East Blue",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB02-054_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB02-054_p1.jpg"
+    }
+]

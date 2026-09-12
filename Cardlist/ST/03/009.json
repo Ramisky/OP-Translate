@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Donquixote Doflamingo",
+        "set_name": "Starter Deck 3: The Seven Warlords of The Sea",
+        "card_text": "[On Play] Return up to 1 Character with a cost of 7 or less to the owner's hand.",
+        "set_id": "ST-03",
+        "rarity": "SR",
+        "card_set_id": "ST03-009",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "7",
+        "card_power": "7000",
+        "sub_types": "Donquixote Pirates The Seven Warlords of the Sea",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST03-009",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST03-009.jpg"
+    }
+]

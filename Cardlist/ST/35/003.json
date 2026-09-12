@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Karasu",
+        "set_name": "Starter Deck 35: RED/BLACK Sabo",
+        "card_text": "[When Attacking] You may trash 2 cards from the top of your deck: If your opponent has 7 or more cards in their hand, your opponent trashes 1 card from their hand.",
+        "set_id": "ST-35",
+        "rarity": "C",
+        "card_set_id": "ST35-003",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "Revolutionary Army",
+        "counter_amount": 2000,
+        "attribute": "Special",
+        "date_scraped": "2026-08-16",
+        "card_image_id": "ST35-003",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST35-003.jpg"
+    }
+]

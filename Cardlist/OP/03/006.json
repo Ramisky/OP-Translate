@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Speed Jil (Dash Pack)",
+        "set_name": "Kingdoms of Intrigue",
+        "card_text": "NULL",
+        "set_id": "OP-04",
+        "rarity": "C",
+        "card_set_id": "OP03-006",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "6000",
+        "sub_types": "Whitebeard Pirates",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP03-006_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP03-006_p1.jpg"
+    },
+    {
+        "card_name": "Speed Jil",
+        "set_name": "Pillars of Strength",
+        "card_text": "NULL",
+        "set_id": "OP-03",
+        "rarity": "C",
+        "card_set_id": "OP03-006",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "6000",
+        "sub_types": "Whitebeard Pirates",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-11",
+        "card_image_id": "OP03-006",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP03-006_tqFRtL6.jpg"
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Conis",
+        "set_name": "Extra Booster: One Piece Heroines Edition",
+        "card_text": "[On Play] Up to 1 of your {Sky Island} type Characters gains [Double Attack] during this turn.\n(This card deals 2 damage.)",
+        "set_id": "EB-03",
+        "rarity": "C",
+        "card_set_id": "EB03-050",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "Sky Island",
+        "sub_types": "1000",
+        "counter_amount": 0,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB03-050",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB03-050_sOGpx3U.jpg"
+    }
+]

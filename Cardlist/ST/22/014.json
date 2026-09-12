@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "A.O. (Parallel)",
+        "set_name": "Starter Deck 22: Ace & Newgate",
+        "card_text": null,
+        "set_id": "ST-22",
+        "rarity": "C",
+        "card_set_id": "ST22-014",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "6000",
+        "sub_types": "Whitebeard Pirates Allies",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST22-014_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST22-014_p1_2LMpdQ0.jpg"
+    },
+    {
+        "card_name": "A.O.",
+        "set_name": "Starter Deck 22: Ace & Newgate",
+        "card_text": null,
+        "set_id": "ST-22",
+        "rarity": "C",
+        "card_set_id": "ST22-014",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "6000",
+        "sub_types": "Whitebeard Pirates Allies",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST22-014",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST22-014_lR5EUaR.jpg"
+    }
+]

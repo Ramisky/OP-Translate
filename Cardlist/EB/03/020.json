@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "There You Are, Sore Loser!",
+        "set_name": "Extra Booster: One Piece Heroines Edition",
+        "card_text": "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, if you have 2 or more {FILM} type Characters, that card gains an additional +2000 power during this battle.",
+        "set_id": "EB-03",
+        "rarity": "C",
+        "card_set_id": "EB03-020",
+        "card_color": "Green",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "FILM",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB03-020",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB03-020_nMEgf3n.jpg"
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Monkey.D.Luffy (003)",
+        "set_name": "Ultra Deck: The Three Brothers",
+        "card_text": "Your face-up Life cards are placed at the bottom of your deck instead of being added to your hand, according to the rules.\n[DON!! x2][Activate: Main][Once Per Turn]You may trash 1 card from your hand: If you have 0 Life cards, add up to 2 Character cards with a cost of 5 from your hand or trash to the top of your Life cards face-up.",
+        "set_id": "ST-13",
+        "rarity": "L",
+        "card_set_id": "ST13-003",
+        "card_color": "Yellow",
+        "card_type": "Leader",
+        "life": "4",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Straw Hat Crew Supernovas",
+        "counter_amount": null,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST13-003",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST13-003_a7Gzwsz.jpg"
+    },
+    {
+        "card_name": "Monkey.D.Luffy (003) (Parallel)",
+        "set_name": "Ultra Deck: The Three Brothers",
+        "card_text": "Your face-up Life cards are placed at the bottom of your deck instead of being added to your hand, according to the rules.\n[DON!! x2][Activate: Main][Once Per Turn]You may trash 1 card from your hand: If you have 0 Life cards, add up to 2 Character cards with a cost of 5 from your hand or trash to the top of your Life cards face-up.",
+        "set_id": "ST-13",
+        "rarity": "L",
+        "card_set_id": "ST13-003",
+        "card_color": "Yellow",
+        "card_type": "Leader",
+        "life": "4",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Straw Hat Crew Supernovas",
+        "counter_amount": null,
+        "attribute": "Strike",
+        "date_scraped": "2026-08-31",
+        "card_image_id": "ST13-003_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST13-003_p1_z2jSOyv.jpg"
+    }
+]

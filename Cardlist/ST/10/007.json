@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Killer",
+        "set_name": "Ultra Deck: The Three Captains",
+        "card_text": "[Your Turn] [Once Per Turn] When a DON!! card on your field is returned to your DON!! deck, K.O. up to 1 of your opponent's rested Characters with a cost of 3 or less.",
+        "set_id": "ST-10",
+        "rarity": "C",
+        "card_set_id": "ST10-007",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Kid Pirates",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST10-007",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST10-007.jpg"
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Curly.Dadan (Parallel)",
+        "set_name": "Ultra Deck: The Three Brothers",
+        "card_text": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)\n[On Play] Play up to 1 each of [Sabo], [Portgas.D.Ace], and [Monkey.D.Luffy] with a cost of 2 from your hand.",
+        "set_id": "ST-13",
+        "rarity": "C",
+        "card_set_id": "ST13-006",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "4000",
+        "sub_types": "Mountain Bandits",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-08-25",
+        "card_image_id": "ST13-006_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST13-006_p1_iOzHANL.jpg"
+    },
+    {
+        "card_name": "Curly.Dadan",
+        "set_name": "Ultra Deck: The Three Brothers",
+        "card_text": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)\n[On Play] Play up to 1 each of [Sabo], [Portgas.D.Ace], and [Monkey.D.Luffy] with a cost of 2 from your hand.",
+        "set_id": "ST-13",
+        "rarity": "C",
+        "card_set_id": "ST13-006",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "4000",
+        "sub_types": "Mountain Bandits",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST13-006",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST13-006_brsBGn2.jpg"
+    }
+]

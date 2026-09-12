@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "I Am Whitebeard!!",
+        "set_name": "Starter Deck 22: Ace & Newgate",
+        "card_text": "[Main] If your Leader's type includes \"Whitebeard Pirates\", play up to 1 [Edward.Newgate] from your hand. Then, you may add 1 card from the top or bottom of your Life cards to your hand. If you do, up to 1 of your Leader gains +2000 power until the end of your opponent's next turn.",
+        "set_id": "ST-22",
+        "rarity": "C",
+        "card_set_id": "ST22-015",
+        "card_color": "Blue",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "8",
+        "card_power": null,
+        "sub_types": "The Four Emperors Whitebeard Pirates",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST22-015",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST22-015_BW30ro7.jpg"
+    }
+]

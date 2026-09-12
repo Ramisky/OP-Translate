@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Monkey.D.Garp",
+        "set_name": "Ultra Deck: The Three Brothers",
+        "card_text": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 [Sabo], [Portgas.D.Ace], or [Monkey.D.Luffy] with a cost of 5 or less and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+        "set_id": "ST-13",
+        "rarity": "SR",
+        "card_set_id": "ST13-013",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "2000",
+        "sub_types": "Navy",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST13-013",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST13-013_UmmTC2r.jpg"
+    },
+    {
+        "card_name": "Monkey.D.Garp (Parallel)",
+        "set_name": "Ultra Deck: The Three Brothers",
+        "card_text": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 [Sabo], [Portgas.D.Ace], or [Monkey.D.Luffy] with a cost of 5 or less and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+        "set_id": "ST-13",
+        "rarity": "SR",
+        "card_set_id": "ST13-013",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "2000",
+        "sub_types": "Navy",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-08-31",
+        "card_image_id": "ST13-013_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST13-013_p1_CACRD4O.jpg"
+    }
+]

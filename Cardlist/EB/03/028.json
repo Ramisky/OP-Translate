@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Yu",
+        "set_name": "Extra Booster: One Piece Heroines Edition",
+        "card_text": "[On Play] Trash 1 card from your hand. [Activate: Main] You may trash this Character: If you have 4 or less cards in your hand, draw 2 cards.",
+        "set_id": "EB-03",
+        "rarity": "C",
+        "card_set_id": "EB03-028",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "0",
+        "sub_types": "East Blue",
+        "counter_amount": 1000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB03-028",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB03-028_Uovlwlw.jpg"
+    }
+]

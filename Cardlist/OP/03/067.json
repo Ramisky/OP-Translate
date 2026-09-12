@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Peepley Lulu",
+        "set_name": "Pillars of Strength",
+        "card_text": "[DON!! x1] [When Attacking] If your Leader has the [Galley-La Company] type, add up to 1 DON!! card from your DON!! deck and rest it.",
+        "set_id": "OP-03",
+        "rarity": "UC",
+        "card_set_id": "OP03-067",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "5000",
+        "sub_types": "Galley-La Company Water Seven",
+        "counter_amount": 1000,
+        "attribute": "Ranged",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP03-067",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP03-067.jpg"
+    }
+]

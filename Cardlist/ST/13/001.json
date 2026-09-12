@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Sabo (001)",
+        "set_name": "Ultra Deck: The Three Brothers",
+        "card_text": "[DON!! x1][Activate: Main][Once Per Turn] You may add 1 of your Characters with a cost of 3 or more and 7000 power or more to the top of your Life cards face-up: Up to 1 of your Characters gains +2000 power until the start of your next turn.",
+        "set_id": "ST-13",
+        "rarity": "L",
+        "card_set_id": "ST13-001",
+        "card_color": "Red Yellow",
+        "card_type": "Leader",
+        "life": "4",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Revolutionary Army Dressrosa",
+        "counter_amount": null,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST13-001",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST13-001_wV6zdZw.jpg"
+    },
+    {
+        "card_name": "Sabo (001) (Parallel)",
+        "set_name": "Ultra Deck: The Three Brothers",
+        "card_text": "[DON!! x1][Activate: Main][Once Per Turn] You may add 1 of your Characters with a cost of 3 or more and 7000 power or more to the top of your Life cards face-up: Up to 1 of your Characters gains +2000 power until the start of your next turn.",
+        "set_id": "ST-13",
+        "rarity": "L",
+        "card_set_id": "ST13-001",
+        "card_color": "Red Yellow",
+        "card_type": "Leader",
+        "life": "4",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Revolutionary Army Dressrosa",
+        "counter_amount": null,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST13-001_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST13-001_p1_r1DAPJ3.jpg"
+    }
+]

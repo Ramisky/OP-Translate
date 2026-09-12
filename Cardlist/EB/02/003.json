@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Tony Tony.Chopper",
+        "set_name": "Extra Booster: Anime 25th Collection",
+        "card_text": "[DON!! x2] [Opponent's Turn] This Character gains +2000 power.\n[On Play] If your Leader has the \"Straw Hat Crew\" type, give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+        "set_id": "EB-02",
+        "rarity": "R",
+        "card_set_id": "EB02-003",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "3000",
+        "sub_types": "Animal Straw Hat Crew Drum Kingdom",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB02-003",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB02-003.jpg"
+    },
+    {
+        "card_name": "Tony Tony.Chopper (Alternate Art)",
+        "set_name": "Extra Booster: Anime 25th Collection",
+        "card_text": "[DON!! x2] [Opponent's Turn] This Character gains +2000 power.[On Play] If your Leader has the \"Straw Hat Crew\" type, give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+        "set_id": "EB-02",
+        "rarity": "R",
+        "card_set_id": "EB02-003",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "3000",
+        "sub_types": "Animal Straw Hat Crew Drum Kingdom",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB02-003_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB02-003_p1.jpg"
+    }
+]

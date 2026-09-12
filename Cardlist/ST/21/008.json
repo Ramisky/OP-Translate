@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Tony Tony.Chopper",
+        "set_name": "Starter Deck EX: Gear 5",
+        "card_text": null,
+        "set_id": "ST-21",
+        "rarity": "C",
+        "card_set_id": "ST21-008",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "6000",
+        "sub_types": "Animal Straw Hat Crew",
+        "counter_amount": 1000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST21-008",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST21-008.jpg"
+    },
+    {
+        "card_name": "Tony Tony.Chopper (Parallel)",
+        "set_name": "Starter Deck EX: Gear 5",
+        "card_text": null,
+        "set_id": "ST-21",
+        "rarity": "C",
+        "card_set_id": "ST21-008",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "6000",
+        "sub_types": "Animal Straw Hat Crew",
+        "counter_amount": 1000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST21-008_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST21-008_p1.jpg"
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Kingdew",
+        "set_name": "Starter Deck 15: RED Edward.Newgate",
+        "card_text": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)\n\n[Opponent's Turn] When this Character is K.O.'d by an effect, up to 1 of your Leader gains +2000 power during this turn.",
+        "set_id": "ST-15",
+        "rarity": "C",
+        "card_set_id": "ST15-003",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "Whitebeard Pirates",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST15-003",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST15-003.jpg"
+    }
+]

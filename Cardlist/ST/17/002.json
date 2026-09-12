@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Trafalgar Law (ST17-002)",
+        "set_name": "Starter Deck 17: BLUE Donquixote Doflamingo",
+        "card_text": "[On Play] You may return 1 of your Characters to the owner's hand: If your Leader has the \"The Seven Warlords of the Sea\" type, return up to 1 Character with a cost of 4 or less to the owner's hand.",
+        "set_id": "ST-17",
+        "rarity": "SR",
+        "card_set_id": "ST17-002",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Heart Pirates The Seven Warlords of the Sea",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-01-25",
+        "card_image_id": "ST17-002",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST17-002.jpg"
+    }
+]

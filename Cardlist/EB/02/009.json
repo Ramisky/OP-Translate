@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Thousand Sunny",
+        "set_name": "Extra Booster: Anime 25th Collection",
+        "card_text": "[Activate: Main] You may rest this Stage: Give up to 1 of your currently given DON!! cards to 1 of your \"Straw Hat Crew\" type Characters.",
+        "set_id": "EB-02",
+        "rarity": "C",
+        "card_set_id": "EB02-009",
+        "card_color": "Red",
+        "card_type": "Stage",
+        "life": null,
+        "card_cost": "2",
+        "card_power": null,
+        "sub_types": "Straw Hat Crew",
+        "counter_amount": 0,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB02-009",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB02-009.jpg"
+    }
+]

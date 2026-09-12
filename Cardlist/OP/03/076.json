@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Rob Lucci (076)",
+        "set_name": "Pillars of Strength",
+        "card_text": "[Your Turn] [Once Per Turn] You may trash 2 cards from your hand: When your opponent's Character is K.O.'d, set this Leader as active.",
+        "set_id": "OP-03",
+        "rarity": "L",
+        "card_set_id": "OP03-076",
+        "card_color": "Black",
+        "card_type": "Leader",
+        "life": "5",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "CP9",
+        "counter_amount": null,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP03-076",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP03-076.jpg"
+    },
+    {
+        "card_name": "Rob Lucci (076) (Alternate Art)",
+        "set_name": "Pillars of Strength",
+        "card_text": "[Your Turn] [Once Per Turn] You may trash 2 cards from your hand: When your opponent's Character is K.O.'d, set this Leader as active.",
+        "set_id": "OP-03",
+        "rarity": "L",
+        "card_set_id": "OP03-076",
+        "card_color": "Black",
+        "card_type": "Leader",
+        "life": "5",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "CP9",
+        "counter_amount": null,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP03-076_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP03-076_p1.jpg"
+    }
+]

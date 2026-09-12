@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Dracule Mihawk",
+        "set_name": "Starter Deck 12: Zoro and Sanji",
+        "card_text": "[On Play] If you have 2 or less Characters, play up to 1 [Muggy Kingdom] type or \"Slash\" attribute Character card with a cost of 4 or less other than [Dracule Mihawk] from your hand rested.",
+        "set_id": "ST-12",
+        "rarity": "SR",
+        "card_set_id": "ST12-003",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "The Seven Warlords of the Sea Muggy Kingdom",
+        "counter_amount": 2000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST12-003",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST12-003.jpg"
+    }
+]

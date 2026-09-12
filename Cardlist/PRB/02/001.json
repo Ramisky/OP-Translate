@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Koby",
+        "set_name": "Premium Booster -The Best- Vol. 2",
+        "card_text": "[Opponent's Turn] If your Leader has the \"Navy\" type, this Character gains +1000 power.[When Attacking] K.O. up to 1 of your opponent's Characters with 3000 base power or less. Then, if you have 6 or less cards in your hand, draw 1 card.",
+        "set_id": "PRB-02",
+        "rarity": "R",
+        "card_set_id": "PRB02-001",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Navy SWORD",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "PRB02-001",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/PRB02-001.jpg"
+    },
+    {
+        "card_name": "Koby (Alternate Art)",
+        "set_name": "Premium Booster -The Best- Vol. 2",
+        "card_text": "[Opponent's Turn] If your Leader has the \"Navy\" type, this Character gains +1000 power.[When Attacking] K.O. up to 1 of your opponent's Characters with 3000 base power or less. Then, if you have 6 or less cards in your hand, draw 1 card.",
+        "set_id": "PRB-02",
+        "rarity": "R",
+        "card_set_id": "PRB02-001",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Navy SWORD",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "PRB02-001_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/PRB02-001_p1.jpg"
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Ann",
+        "set_name": "Starter Deck 5: Film Edition",
+        "card_text": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+        "set_id": "ST-05",
+        "rarity": "C",
+        "card_set_id": "ST05-003",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "3000",
+        "sub_types": "Film The Pirates Fest",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST05-003",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST05-003.jpg"
+    }
+]

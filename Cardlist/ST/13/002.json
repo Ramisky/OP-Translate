@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Portgas.D.Ace (002)",
+        "set_name": "Ultra Deck: The Three Brothers",
+        "card_text": "[DON!! x2][Activate: Main][Once Per Turn] Look at 5 cards from the top of your deck and add up to 1 Character card with a cost of 5 to the top of your Life cards face-up. Then, place the rest at the bottom of your deck in any order.\n[End of Your Turn] Trash all your face-up Life cards.",
+        "set_id": "ST-13",
+        "rarity": "L",
+        "card_set_id": "ST13-002",
+        "card_color": "Blue Yellow",
+        "card_type": "Leader",
+        "life": "4",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Whitebeard Pirates",
+        "counter_amount": null,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST13-002",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST13-002_1UL55Ec.jpg"
+    },
+    {
+        "card_name": "Portgas.D.Ace (002) (Parallel)",
+        "set_name": "Ultra Deck: The Three Brothers",
+        "card_text": "[DON!! x2][Activate: Main][Once Per Turn] Look at 5 cards from the top of your deck and add up to 1 Character card with a cost of 5 to the top of your Life cards face-up. Then, place the rest at the bottom of your deck in any order.\n[End of Your Turn] Trash all your face-up Life cards.",
+        "set_id": "ST-13",
+        "rarity": "L",
+        "card_set_id": "ST13-002",
+        "card_color": "Blue Yellow",
+        "card_type": "Leader",
+        "life": "4",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Whitebeard Pirates",
+        "counter_amount": null,
+        "attribute": "Special",
+        "date_scraped": "2026-09-01",
+        "card_image_id": "ST13-002_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST13-002_p1_oKJEjjw.jpg"
+    }
+]

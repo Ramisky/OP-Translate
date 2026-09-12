@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Jinbe",
+        "set_name": "Starter Deck 14: 3D2Y",
+        "card_text": "[Activate:Main] [Once Per Turn] Up to 1 of your black \"Straw Hat Crew\" type Characters gains +2 cost until the end of your opponent's next turn.",
+        "set_id": "ST-14",
+        "rarity": "C",
+        "card_set_id": "ST14-004",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "Fish-Man The Sun Pirates",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST14-004",
+        "card_image": null
+    }
+]

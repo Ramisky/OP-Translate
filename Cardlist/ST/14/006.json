@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Nami",
+        "set_name": "Starter Deck 14: 3D2Y",
+        "card_text": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)\n[On Play] If you have 6 or less cards in your hand and a Character with a cost of 8 or more, draw 1 card.",
+        "set_id": "ST-14",
+        "rarity": "SR",
+        "card_set_id": "ST14-006",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "2000",
+        "sub_types": "Straw Hat Crew",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST14-006",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST14-006.jpg"
+    }
+]

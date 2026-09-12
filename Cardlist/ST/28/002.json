@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Izo",
+        "set_name": "Starter Deck 28: GREEN/YELLOW Yamato",
+        "card_text": "[DON!! x2] This Character gains [Blocker].\n[On Play] Your \"Land of Wano\" type Leader gains [Banish] during this turn.",
+        "set_id": "ST-28",
+        "rarity": "C",
+        "card_set_id": "ST28-002",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "1000",
+        "sub_types": "Former Whitebeard Pirates Land of Wano",
+        "counter_amount": 1000,
+        "attribute": "Ranged",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST28-002",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST28-002.jpg"
+    }
+]

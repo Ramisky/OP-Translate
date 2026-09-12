@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Avalo Pizarro",
+        "set_name": "Starter Deck 27: BLACK Marshall.D.Teach",
+        "card_text": "[Activate:Main] [Once Per Turn] You may rest 1 of your [Fullalead] cards: If your Leader has the \"Blackbeard Pirates\" type, this Character gains +4000 power during this turn.\n[On K.O.] Draw 1 card.",
+        "set_id": "ST-27",
+        "rarity": "C",
+        "card_set_id": "ST27-001",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "1000",
+        "sub_types": "Blackbeard Pirates",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST27-001",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST27-001.jpg"
+    }
+]

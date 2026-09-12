@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Lead Performer \"Disaster\"",
+        "set_name": "Starter Deck 4: Animal Kingdom Pirates",
+        "card_text": "[Main] Draw 1 card, then add up to 1 DON!! card from your DON!! deck and set it as active. [Trigger] Activate this card's [Main] effect.",
+        "set_id": "ST-04",
+        "rarity": "C",
+        "card_set_id": "ST04-014",
+        "card_color": "Purple",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "4",
+        "card_power": null,
+        "sub_types": "Animal Kingdom Pirates",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST04-014",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST04-014.jpg"
+    }
+]

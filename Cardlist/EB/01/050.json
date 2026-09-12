@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "...I Want to Live!!",
+        "set_name": "Extra Booster: Memorial Collection",
+        "card_text": "[Counter] If you have 30 or more cards in your trash, add up to 1 card from the top of your deck to the top of your Life cards.",
+        "set_id": "EB-01",
+        "rarity": "C",
+        "card_set_id": "EB01-050",
+        "card_color": "Black",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "3",
+        "card_power": null,
+        "sub_types": "Straw Hat Crew",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB01-050",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB01-050.jpg"
+    }
+]

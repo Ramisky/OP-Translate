@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Spandine",
+        "set_name": "Extra Booster: Memorial Collection",
+        "card_text": "[On Play] You may place 3 cards with a type including \"CP\" from your trash at the bottom of your deck in any order: Play up to 1 Character card with a type including \"CP\" and a cost of 4 or less other than [Spandine] from your trash rested.",
+        "set_id": "EB-01",
+        "rarity": "R",
+        "card_set_id": "EB01-043",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "2000",
+        "sub_types": "CP9",
+        "counter_amount": 1000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB01-043",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB01-043.jpg"
+    }
+]

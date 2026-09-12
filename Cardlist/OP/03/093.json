@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Wanze",
+        "set_name": "Pillars of Strength",
+        "card_text": "[On Play] You may trash 1 card from your hand: If your Leader's type includes \"CP\", K.O. up to 1 of your opponent's Characters with a cost of 1 or less.",
+        "set_id": "OP-03",
+        "rarity": "UC",
+        "card_set_id": "OP03-093",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "4000",
+        "sub_types": "CP7",
+        "counter_amount": 0,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-10",
+        "card_image_id": "OP03-093",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP03-093.jpg"
+    }
+]

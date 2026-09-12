@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Marco (Full Art)",
+        "set_name": "Starter Deck EX: Luffy & Ace",
+        "card_text": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)\n\n[On K.O.] You may trash 1 Character card with 6000 power from your hand: Play this Character card from your trash rested.",
+        "set_id": "ST-30",
+        "rarity": "C",
+        "card_set_id": "ST30-008",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Whitebeard Pirates",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST30-008_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST30-008_p1_XSBrNbc.jpg"
+    },
+    {
+        "card_name": "Marco",
+        "set_name": "Starter Deck EX: Luffy & Ace",
+        "card_text": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)\n\n[On K.O.] You may trash 1 Character card with 6000 power from your hand: Play this Character card from your trash rested.",
+        "set_id": "ST-30",
+        "rarity": "C",
+        "card_set_id": "ST30-008",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Whitebeard Pirates",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-06-13",
+        "card_image_id": "ST30-008",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST30-008_LVz47gC.jpg"
+    }
+]

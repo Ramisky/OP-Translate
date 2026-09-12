@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Gan.Fall",
+        "set_name": "Extra Booster: Memorial Collection",
+        "card_text": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] If your opponent has 1 or less Life cards, K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
+        "set_id": "EB-01",
+        "rarity": "R",
+        "card_set_id": "EB01-054",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "Sky Island",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-11",
+        "card_image_id": "EB01-054",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB01-054.jpg"
+    }
+]

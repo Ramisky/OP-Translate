@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Emet",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "This Character cannot attack unless there is a Character with 12000 base power or more.\n[Trigger] Give all of your opponent's Characters -3000 power during this turn. Then, if you have 0 Life cards, play this card.",
+        "set_id": "OP15-EB04",
+        "rarity": "C",
+        "card_set_id": "EB04-051",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "8",
+        "card_power": "7000",
+        "sub_types": "Egghead",
+        "counter_amount": 0,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB04-051",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB04-051_9av30QW.jpg"
+    }
+]

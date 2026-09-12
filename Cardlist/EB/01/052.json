@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Viola",
+        "set_name": "Extra Booster: Memorial Collection",
+        "card_text": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play]Choose one:\u2022 Look at all of your opponent's Life cards and place them back in their Life area in any order.\u2022 Turn all of your Life cards face-down.",
+        "set_id": "EB-01",
+        "rarity": "SR",
+        "card_set_id": "EB01-052",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "0",
+        "sub_types": "Dressrosa",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB01-052",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB01-052.jpg"
+    },
+    {
+        "card_name": "Viola (Alternate Art)",
+        "set_name": "Extra Booster: Memorial Collection",
+        "card_text": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play]Choose one:\u2022 Look at all of your opponent's Life cards and place them back in their Life area in any order.\u2022 Turn all of your Life cards face-down.",
+        "set_id": "EB-01",
+        "rarity": "SR",
+        "card_set_id": "EB01-052",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "0",
+        "sub_types": "Dressrosa",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB01-052_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB01-052_p1.jpg"
+    }
+]

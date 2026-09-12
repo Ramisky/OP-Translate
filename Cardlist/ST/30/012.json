@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Monkey.D.Luffy",
+        "set_name": "Starter Deck EX: Luffy & Ace",
+        "card_text": "[On Play] You may rest 1 of your DON!! cards: This Character gains [Rush] during this turn. (This card can attack on the turn in which it is played.)\n[When Attacking] Rest up to 1 of your opponent's [Blocker] Characters.",
+        "set_id": "ST-30",
+        "rarity": "SR",
+        "card_set_id": "ST30-012",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "6000",
+        "sub_types": "Straw Hat Crew Impel Down",
+        "counter_amount": 0,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST30-012",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST30-012_3cEcufv.jpg"
+    },
+    {
+        "card_name": "Monkey.D.Luffy (Parallel)",
+        "set_name": "Starter Deck EX: Luffy & Ace",
+        "card_text": "[On Play] You may rest 1 of your DON!! cards: This Character gains [Rush] during this turn. (This card can attack on the turn in which it is played.)\n[When Attacking] Rest up to 1 of your opponent's [Blocker] Characters.",
+        "set_id": "ST-30",
+        "rarity": "SR",
+        "card_set_id": "ST30-012",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "6000",
+        "sub_types": "Straw Hat Crew Impel Down",
+        "counter_amount": 0,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST30-012_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST30-012_p1_iKaA9vb.jpg"
+    }
+]

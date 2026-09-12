@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Sakazuki",
+        "set_name": "Starter Deck 6: Absolute Justice",
+        "card_text": "[Activate:Main] [Once Per Turn] (3) (You may rest the specified number of DON!! cards in your cost area.) You may trash 1 card from your hand: K.O. up to 1 of your opponent's Characters with a cost of 0.",
+        "set_id": "ST-06",
+        "rarity": "L",
+        "card_set_id": "ST06-001",
+        "card_color": "Black",
+        "card_type": "Leader",
+        "life": "5",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Navy",
+        "counter_amount": null,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "ST06-001",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/ST06-001.jpg"
+    }
+]

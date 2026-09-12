@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Nefeltari Vivi",
+        "set_name": "The Azure Sea's Seven",
+        "card_text": "[On Play] Play up to 1 {Alabasta} type Character card with a cost of 8 or less other than [Nefeltari Vivi] from your hand. Then, your opponent places 1 card from your hand at the bottom of their deck.",
+        "set_id": "OP14-EB04",
+        "rarity": "SR",
+        "card_set_id": "EB04-025",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "7",
+        "card_power": "4000",
+        "sub_types": "Alabasta",
+        "counter_amount": 0,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB04-025",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB04-025_fwno3ms.jpg"
+    },
+    {
+        "card_name": "Nefeltari Vivi (Alternate Art)",
+        "set_name": "The Azure Sea's Seven",
+        "card_text": "[On Play] Play up to 1 {Alabasta} type Character card with a cost of 8 or less other than [Nefeltari Vivi] from your hand. Then, your opponent places 1 card from your hand at the bottom of their deck.",
+        "set_id": "OP14-EB04",
+        "rarity": "SR",
+        "card_set_id": "EB04-025",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "7",
+        "card_power": "4000",
+        "sub_types": "Alabasta",
+        "counter_amount": 0,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB04-025_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB04-025_p1_9mhjRwC.jpg"
+    }
+]
