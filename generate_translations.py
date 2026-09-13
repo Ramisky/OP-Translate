@@ -20,7 +20,8 @@ IMAGE_START_X = 0
 IMAGE_START_Y = 500
 IMAGE_END_X = 600
 IMAGE_END_Y = 838
-DPI_DEFAULT = 240
+DPI_DEFAULT = 300
+scale_factor = DPI_DEFAULT / 240
 
 # Enum class for Release Types
 class Release(Enum):
@@ -89,16 +90,19 @@ def downloadImage(imageURL: str, tmpdir: str, number: int):
         file_name = f"{stem}_{i}{suffix}"
         full_path = os.path.join(tmpdir, file_name)
         urllib.request.urlretrieve(imageURL, full_path)
-        cropImage(full_path)
+        cropAndScaleImage(full_path)
 
-def cropImage(imagePath: str):
+def cropAndScaleImage(imagePath: str):
     with Image.open(imagePath) as img:
         # (left, upper, right, lower)
         cropped_img = img.crop((IMAGE_START_X, IMAGE_START_Y, IMAGE_START_X + IMAGE_END_X, IMAGE_START_Y + IMAGE_END_Y))
         bbox = cropped_img.getbbox()
         if bbox:
             cropped_img = cropped_img.crop(bbox)
-        cropped_img.convert('RGB').save(imagePath)
+        new_width = int(cropped_img.width * scale_factor)
+        new_height = int(cropped_img.height * scale_factor)
+        resized_img = cropped_img.resize((new_width, new_height), Image.LANCZOS)
+        resized_img.convert('RGB').save(imagePath, dpi=(300, 300))
 
 def findDownloadedImages(tempFolder: str) -> list[str]:
     cards = [file for file in Path(tempFolder).glob("*.jpg")]
