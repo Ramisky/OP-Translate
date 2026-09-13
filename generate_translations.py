@@ -238,7 +238,7 @@ if __name__ == "__main__":
             
             while (user_input := input("\nDo you want to add another card? (y/n): ").strip().lower()) not in ('y', 'n', 'yes', 'no'):
                 print("Invalid choice!")
-            if user_input in ('y', 'yes'):
+            if user_input in ('n', 'no'):
                 combineImages(tmpdir)
                 break
                 
