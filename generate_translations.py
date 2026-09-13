@@ -105,16 +105,23 @@ def findDownloadedImages(tempFolder: str) -> list[str]:
     cards.sort()
     return cards
 
-def combineImagesToA4(image_paths, dpi=DPI_DEFAULT, cols=3, rows=7):
+def combineImagesToA4(image_paths, dpi=DPI_DEFAULT, cols=3, rows=7, gap=40):
     # A4 dimensions in pixels at given DPI (Standard A4: 8.27 x 11.69 inches)
     a4_width = int(8.27 * dpi)
     a4_height = int(11.69 * dpi)
-    
+
+    # 1. Calculate the total width/height available for actual cells by accounting for gaps
+    # For N columns, there are N-1 gaps between them. 
+    # We add 2 extra gaps to account for the outer page margins (left, right, top, bottom).
+    total_gap_w = gap * (cols + 1)
+    total_gap_h = gap * (rows + 1)
+
     # Create white A4 background canvas
     canvas = Image.new("RGB", (a4_width, a4_height), (255, 255, 255))
-    
-    cell_width = a4_width // cols
-    cell_height = a4_height // rows
+
+    # 2. Derive the exact maximum size each image container can be
+    cell_width = (a4_width - total_gap_w) // cols
+    cell_height = (a4_height - total_gap_h) // rows
     
     for index, path in enumerate(image_paths[:cols * rows]):
         img = Image.open(path)
@@ -124,9 +131,11 @@ def combineImagesToA4(image_paths, dpi=DPI_DEFAULT, cols=3, rows=7):
         col_idx = index % cols
         row_idx = index // cols
         
-        x = col_idx * cell_width + (cell_width - img.width) // 2
-        y = row_idx * cell_height + (cell_height - img.height) // 2
-        
+        # 3. Calculate position by stepping forward by (cell size + gap size)
+        # Plus an initial 'gap' offset so images don't hug the very edge of the A4 page
+        x = gap + col_idx * (cell_width + gap) + (cell_width - img.width) // 2
+        y = gap + row_idx * (cell_height + gap) + (cell_height - img.height) // 2
+         
         canvas.paste(img, (x, y))
 
     return canvas
