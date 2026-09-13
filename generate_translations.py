@@ -173,12 +173,18 @@ def grabCardArtPairs(releaseType: str, releaseNumber: str, releaseCard: str):
         print(f"Invalid JSON format. Error on line {e.lineno}, column {e.colno}: {e.msg}")
 
 def pickCardArtPair(cardArtPairs: dict):
-    print('Pick a Card from the following')
-    for i in range(1, len(cardArtPairs.keys()) + 1):
-        print (str(i) + ': ' + list(cardArtPairs)[i - 1])
-    while (user_input := int(input("Enter Selection: " ).strip().upper())) not in range(1, len(cardArtPairs.keys()) + 1):
-        print("Invalid choice!")
-    return cardArtPairs.get(list(cardArtPairs)[user_input - 1])
+    if (len(cardArtPairs.keys()) > 1):
+        print('Pick a Card from the following')
+        for i in range(1, len(cardArtPairs.keys()) + 1):
+            print (str(i) + ': ' + list(cardArtPairs)[i - 1])
+        while (user_input := int(input("Enter Selection: " ).strip().upper())) not in range(1, len(cardArtPairs.keys()) + 1):
+            print("Invalid choice!")
+        return cardArtPairs.get(list(cardArtPairs)[user_input - 1])
+    elif (len(cardArtPairs.keys()) == 1):
+        return cardArtPairs.get(list(cardArtPairs)[0])
+    else:
+        print("No Images Available for Card")
+        return ""
 
 def main(tmpdir: str):
     releaseType = selectReleaseType()
@@ -188,11 +194,11 @@ def main(tmpdir: str):
     releaseCard = grabReleaseCard(releaseCards)
     cardArtPairs = grabCardArtPairs(releaseType, releaseNumber, releaseCard)
     imageURL = pickCardArtPair(cardArtPairs)
-    numberOfCard = grabNumberOfCard()
-    downloadImage(imageURL, tmpdir, numberOfCard)
-
-    print(releaseType.name + releaseNumber + "-" + releaseCard)
-
+    if (imageURL != ''):
+        numberOfCard = grabNumberOfCard()
+        downloadImage(imageURL, tmpdir, numberOfCard)
+        print(releaseType.name + releaseNumber + "-" + releaseCard)
+  
 if __name__ == "__main__":
     tmpdir = createTempFolder()
     OUT_DIR.mkdir(parents=True, exist_ok=True)
