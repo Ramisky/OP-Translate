@@ -5,6 +5,7 @@ from pathlib import Path, PurePosixPath
 from PIL import Image
 from itertools import batched
 
+import json
 import os
 import shutil
 import tempfile
@@ -88,7 +89,7 @@ def formImageURL(releaseType: Release, releaseNumber: str, releaseCard: str) -> 
 def downloadImage(imageURL: str, tmpdir: str, number: int):
     for i in range(number):
         file_name = os.path.basename(imageURL)
-        file_path = p = Path(file_name)
+        file_path = Path(file_name)
 
         stem = file_path.stem  # "document"
         suffix = file_path.suffix  # ".txt"
@@ -105,10 +106,10 @@ def cropImage(imagePath: str):
         bbox = cropped_img.getbbox()
         if bbox:
             cropped_img = cropped_img.crop(bbox)
-        cropped_img.save(imagePath)
+        cropped_img.convert('RGB').save(imagePath)
 
 def findDownloadedImages(tempFolder: str) -> list[str]:
-    cards = [file for file in Path(tempFolder).glob("*.webp")]
+    cards = [file for file in Path(tempFolder).glob("*.jpg")]
     cards.sort()
     return cards
 
@@ -146,6 +147,52 @@ def combineImages(tempFolder: str):
         OUT_FILE = (OUT_DIR / PurePosixPath(str(iteration + 1))).with_suffix(".pdf")
         combineImagesToA4(batch, OUT_FILE)
 
+def find_pairs_recursively(data, key1="card_image_id", key2="card_image"):
+    results = {}
+    
+    if isinstance(data, dict):
+        # Look for matching target keys at the exact same hierarchy level
+        if key1 in data and key2 in data:
+            results[data[key1]] = data[key2]
+        
+        # Keep searching deeper branches
+        for value in data.values():
+            results.update(find_pairs_recursively(value, key1, key2))
+            
+    elif isinstance(data, list):
+        for item in data:
+            results.update(find_pairs_recursively(item, key1, key2))
+            
+    return results
+
+def grabCardArtPairs(releaseType: str, releaseNumber: str, releaseCard: str):
+    jsonName = releaseCard + ".json"
+    filename = CARDLIST_DIR / releaseType.name / releaseNumber / jsonName
+    try:
+        # 1. Safely open the file using a context manager and proper encoding
+        with open(filename, "r", encoding="utf-8") as file:
+            # 2. Parse the JSON safely
+            data = json.load(file)
+            print(find_pairs_recursively(data))
+            return find_pairs_recursively(data)
+
+    except FileNotFoundError:
+        print(error=f"The file '{filename}' could not be found.")
+
+    except json.JSONDecodeError as e:
+        # 3. Handle malformed or corrupted JSON safely without crashing
+        print(f"Invalid JSON format. Error on line {e.lineno}, column {e.colno}: {e.msg}")
+    image_mapping = {card["card_image_id"]: card["card_image"] for card in cards_list}
+
+def pickCardArtPair(cardArtPairs: dict, numberOfCard: int):
+    print('Pick a Card from the following')
+    for i in range(1, len(cardArtPairs.keys()) + 1):
+        print (str(i) + ': ' + list(cardArtPairs)[i - 1])
+    while (user_input := int(input("Enter Selection: " ).strip().upper())) not in range(1, len(cardArtPairs.keys()) + 1):
+        print("Invalid choice!")
+    print(f"You successfully selected: {user_input}")
+    downloadImage(cardArtPairs.get(list(cardArtPairs)[user_input - 1]), tmpdir, numberOfCard)
+
 
 def main(tmpdir: str):
     releaseType = selectReleaseType()
@@ -155,7 +202,8 @@ def main(tmpdir: str):
     releaseCard = grabReleaseCard(releaseCards)
     numberOfCard = grabNumberOfCard()
     imageURL = formImageURL(releaseType, releaseNumber, releaseCard)
-    downloadImage(imageURL, tmpdir, numberOfCard)
+    cardArtPairs = grabCardArtPairs(releaseType, releaseNumber, releaseCard)
+    pickCardArtPair(cardArtPairs, numberOfCard)
 
     print(releaseType.name + releaseNumber + "-" + releaseCard)
     print(imageURL)
