@@ -4,6 +4,7 @@ from enum import Enum
 from pathlib import Path, PurePosixPath
 from PIL import Image
 from itertools import batched
+from datetime import datetime
 
 import json
 import os
@@ -103,7 +104,7 @@ def findDownloadedImages(tempFolder: str) -> list[str]:
     cards.sort()
     return cards
 
-def combineImagesToA4(image_paths, output_pdf_path, dpi=300, cols=3, rows=7):
+def combineImagesToA4(image_paths, dpi=300, cols=3, rows=7):
     # A4 dimensions in pixels at given DPI (Standard A4: 8.27 x 11.69 inches)
     a4_width = int(8.27 * dpi)
     a4_height = int(11.69 * dpi)
@@ -126,16 +127,30 @@ def combineImagesToA4(image_paths, output_pdf_path, dpi=300, cols=3, rows=7):
         y = row_idx * cell_height + (cell_height - img.height) // 2
         
         canvas.paste(img, (x, y))
-    
-    # Save as PDF or image
-    canvas.save(output_pdf_path, "PDF", resolution=dpi)
+
+    return canvas
+
+def combineA4ToPDF(images, output_pdf_path, dpi=300):
+    images[0].save(
+        output_pdf_path, 
+        "PDF", 
+        append_images=images[1:], 
+        resolution=dpi
+    )
 
 def combineImages(tempFolder: str):
+    now = datetime.now()
+    # 2. Format it into a safe string (e.g., "20261024-153045")
+    timestamp = now.strftime("%Y%m%d-%H%M%S")
+    file_name = f"op-tcg-print_{timestamp}.pdf"
+
     downloadImages = findDownloadedImages(tempFolder)
+    combinedImages = []
     batch_size = 21
-    for iteration, batch in enumerate(batched(downloadImages, batch_size)):
-        OUT_FILE = (OUT_DIR / PurePosixPath(str(iteration + 1))).with_suffix(".pdf")
-        combineImagesToA4(batch, OUT_FILE)
+    OUT_FILE = OUT_DIR / PurePosixPath(file_name)
+    for batch in batched(downloadImages, batch_size):
+        combinedImages.append(combineImagesToA4(batch))
+    combineA4ToPDF(combinedImages, OUT_FILE)
 
 def find_pairs_recursively(data, key1="card_image_id", key2="card_image"):
     results = {}
