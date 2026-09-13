@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 96 seconds."
-}
+[
+    {
+        "card_name": "Sugar (065)",
+        "set_name": "Royal Blood",
+        "card_text": "[Activate: Main] You may rest 1 of your DON!! cards and this Character: Look at 5 cards from the top of your deck; reveal up to 1 \"Donquixote Pirates\" type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+        "set_id": "OP-10",
+        "rarity": "R",
+        "card_set_id": "OP10-065",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "1000",
+        "sub_types": "Donquixote Pirates",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP10-065",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP10-065.jpg"
+    },
+    {
+        "card_name": "Sugar - OP10-065 (SP)",
+        "set_name": "The Azure Sea's Seven",
+        "card_text": "[Activate: Main] Rest 1 of your DON!! cards and you may rest this Character: Look at 5 cards from the top of your deck; reveal up to 1 {Donquixote Pirates} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+        "set_id": "OP14-EB04",
+        "rarity": "R",
+        "card_set_id": "OP10-065",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "1000",
+        "sub_types": "Donquixote Pirates",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP10-065_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP10-065_p1.jpg"
+    }
+]

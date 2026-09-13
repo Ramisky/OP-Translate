@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 103 seconds."
-}
+[
+    {
+        "card_name": "Taralan",
+        "set_name": "Wings of the Captain",
+        "card_text": "[On Play] / [On K.O.] Trash 3 cards from the top of your deck.",
+        "set_id": "OP-06",
+        "rarity": "C",
+        "card_set_id": "OP06-089",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "3000",
+        "sub_types": "Thriller Bark Pirates",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP06-089",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP06-089.jpg"
+    }
+]

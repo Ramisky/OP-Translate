@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 12 seconds."
-}
+[
+    {
+        "card_name": "Nico Robin (OP15-109)",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "[On Play] You may add 1 card from the top of your Life cards to your hand: If your Leader has the {Straw Hat Crew} type, add up to 1 card from the top of your deck to the top of your Life cards. Then, play up to 1 {Sky Island} type Character card with a cost of 5 or less from your hand.",
+        "set_id": "OP15-EB04",
+        "rarity": "R",
+        "card_set_id": "OP15-109",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "7",
+        "card_power": "7000",
+        "sub_types": "Straw Hat Crew Sky Island",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP15-109",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP15-109_4HJxA9I.jpg"
+    },
+    {
+        "card_name": "Nico Robin (OP15-109) (Alternate Art)",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "[On Play] You may add 1 card from the top of your Life cards to your hand: If your Leader has the {Straw Hat Crew} type, add up to 1 card from the top of your deck to the top of your Life cards. Then, play up to 1 {Sky Island} type Character card with a cost of 5 or less from your hand.",
+        "set_id": "OP15-EB04",
+        "rarity": "R",
+        "card_set_id": "OP15-109",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "7",
+        "card_power": "7000",
+        "sub_types": "Straw Hat Crew Sky Island",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP15-109_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP15-109_p1_9JCAmRw.jpg"
+    }
+]

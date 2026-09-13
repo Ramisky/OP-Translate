@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 5 seconds."
-}
+[
+    {
+        "card_name": "Ga Ha Ha Ha!!",
+        "set_name": "The World's Strongest Warriors",
+        "card_text": "[Counter] Up to 1 of your Leader with a type including \"Whitebeard Pirates\" or up to 1 of your Characters with a type including \"Whitebeard Pirates\" gains +2000 power during this battle. Then, give up to 1 of your opponent's Leader or Characters 2000 power during this turn.",
+        "set_id": "OP-17",
+        "rarity": "C",
+        "card_set_id": "OP17-017",
+        "card_color": "Red",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "The Four Emperors Whitebeard Pirates",
+        "counter_amount": 0,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP17-017",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP17-017_d0fhw4t.jpg"
+    }
+]

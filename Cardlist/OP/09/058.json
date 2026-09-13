@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 28 seconds."
-}
+[
+    {
+        "card_name": "Special Muggy Ball",
+        "set_name": "Emperors in the New World",
+        "card_text": "[Main] Your opponent chooses 1 of their Character with a cost of 6 or less and return to the owner's hand. [Trigger] Return up to 1 Character with a cost of 3 or less to the owner's hand.",
+        "set_id": "OP-09",
+        "rarity": "C",
+        "card_set_id": "OP09-058",
+        "card_color": "Blue",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "2",
+        "card_power": null,
+        "sub_types": "Buggy Pirates",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-058",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/SPECIAL_BUGGY_BALL.jpg"
+    }
+]

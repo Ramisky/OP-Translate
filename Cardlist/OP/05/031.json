@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 93 seconds."
-}
+[
+    {
+        "card_name": "Buffalo",
+        "set_name": "Awakening of the New Era",
+        "card_text": "[When Attacking][Once Per Turn] If you have 2 or more rested Characters, set up to 1 of your rested Characters with a cost of 1 as active.",
+        "set_id": "OP-05",
+        "rarity": "C",
+        "card_set_id": "OP05-031",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "Donquixote Pirates",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP05-031",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP05-031.jpg"
+    }
+]

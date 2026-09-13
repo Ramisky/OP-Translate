@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 31 seconds."
-}
+[
+    {
+        "card_name": "Slow-Slow Beam",
+        "set_name": "500 Years in the Future",
+        "card_text": "[Counter] DON!! -1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Give up to 1 each of your opponent's Leader and Character cards -2000 power during this turn.",
+        "set_id": "OP-07",
+        "rarity": "UC",
+        "card_set_id": "OP07-075",
+        "card_color": "Purple",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "Foxy Pirates",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP07-075",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-075.jpg"
+    }
+]

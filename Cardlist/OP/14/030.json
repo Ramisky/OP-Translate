@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 130 seconds."
-}
+[
+    {
+        "card_name": "Chaka & Pell - OP14-030",
+        "set_name": "The Azure Sea's Seven",
+        "card_text": null,
+        "set_id": "OP14-EB04",
+        "rarity": "C",
+        "card_set_id": "OP14-030",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "7000",
+        "sub_types": "Alabasta",
+        "counter_amount": 2000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP14-030",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP14-030_uMTfWdw.jpg"
+    }
+]

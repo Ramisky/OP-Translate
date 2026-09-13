@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 16 seconds."
-}
+[
+    {
+        "card_name": "Monkey.D.Luffy (OP15-092)",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "Apply each of the following effects based on the number of cards in your trash:\n\u2022 If there are 10 or more cards, this Character's base power becomes 9000 and it gains +10 cost.\n\u2022 If you have 20 or more cards, during your opponent's turn, your Leader's base power becomes 7000.\n\u2022 If you have 30 or more cards, this Character gains +1000 power.",
+        "set_id": "OP15-EB04",
+        "rarity": "R",
+        "card_set_id": "OP15-092",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "7",
+        "card_power": "7000",
+        "sub_types": "Straw Hat Crew",
+        "counter_amount": 1000,
+        "attribute": "",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP15-092",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP15-092_wfsrbT6.jpg"
+    },
+    {
+        "card_name": "Monkey.D.Luffy (OP15-092) (Alternate Art)",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "Apply each of the following effects based on the number of cards in your trash:\n\u2022 If there are 10 or more cards, this Character's base power becomes 9000 and it gains +10 cost.\n\u2022 If you have 20 or more cards, during your opponent's turn, your Leader's base power becomes 7000.\n\u2022 If you have 30 or more cards, this Character gains +1000 power.",
+        "set_id": "OP15-EB04",
+        "rarity": "R",
+        "card_set_id": "OP15-092",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "7",
+        "card_power": "7000",
+        "sub_types": "Straw Hat Crew",
+        "counter_amount": 1000,
+        "attribute": "",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP15-092_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP15-092_p1_wvjuF0D.jpg"
+    }
+]

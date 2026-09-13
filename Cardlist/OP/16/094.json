@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 78 seconds."
-}
+[
+    {
+        "card_name": "Portgas.D.Ace (094)",
+        "set_name": "The Time of Battle",
+        "card_text": "[On K.O.] Your opponent trashes 2 cards from their hand.\n[Activate: Main] [Once Per Turn] Give up to 1 rested DON!! card to 1 of your {Land of Wano} type Leader or Character cards.",
+        "set_id": "OP-16",
+        "rarity": "UC",
+        "card_set_id": "OP16-094",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Land of Wano Spade Pirates",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP16-094",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP16-094_u87ACT9.jpg"
+    }
+]

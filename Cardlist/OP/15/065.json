@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 16 seconds."
-}
+[
+    {
+        "card_name": "Goro",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "[On Play] Reveal 1 card from the top of your deck. If the revealed card has a cost of 2 or less, add up to 1 DON!! card from your DON!! deck and rest it.",
+        "set_id": "OP15-EB04",
+        "rarity": "C",
+        "card_set_id": "OP15-065",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "0",
+        "sub_types": "Alabasta Hot Springs Island",
+        "counter_amount": 2000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP15-065",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP15-065_6OiXDZB.jpg"
+    }
+]

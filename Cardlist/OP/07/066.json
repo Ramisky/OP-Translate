@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 82 seconds."
-}
+[
+    {
+        "card_name": "Tony Tony.Chopper (066)",
+        "set_name": "500 Years in the Future",
+        "card_text": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, add up to 1 DON!! card from your DON!! deck and rest it.",
+        "set_id": "OP-07",
+        "rarity": "R",
+        "card_set_id": "OP07-066",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "0",
+        "sub_types": "Animal Foxy Pirates",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP07-066",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-066.jpg"
+    }
+]

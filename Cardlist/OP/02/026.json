@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 10 seconds."
-}
+[
+    {
+        "card_name": "Sanji",
+        "set_name": "Paramount War",
+        "card_text": "[Once Per Turn] When you play a Character with no base effect from your hand, if you have 3 or less Characters, set up to 2 of your DON!! cards as active.",
+        "set_id": "OP-02",
+        "rarity": "L",
+        "card_set_id": "OP02-026",
+        "card_color": "Blue Green",
+        "card_type": "Leader",
+        "life": "4",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Straw Hat Crew",
+        "counter_amount": null,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP02-026",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP02-026.jpg"
+    },
+    {
+        "card_name": "Sanji (Alternate Art)",
+        "set_name": "Paramount War",
+        "card_text": "[Once Per Turn] When you play a Character with no base effect from your hand, if you have 3 or less Characters, set up to 2 of your DON!! cards as active.",
+        "set_id": "OP-02",
+        "rarity": "L",
+        "card_set_id": "OP02-026",
+        "card_color": "Blue Green",
+        "card_type": "Leader",
+        "life": "4",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Straw Hat Crew",
+        "counter_amount": null,
+        "attribute": "Strike",
+        "date_scraped": "2026-07-13",
+        "card_image_id": "OP02-026_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP02-026_p1.jpg"
+    }
+]

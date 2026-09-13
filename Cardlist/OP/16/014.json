@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 58 seconds."
-}
+[
+    {
+        "card_name": "Marco",
+        "set_name": "The Time of Battle",
+        "card_text": "If one of your Characters would be removed from the field by your opponent's effect, you may K.O. this character instead.\n[On K.O.] You may trash 1 Character card with 8000 power from your hand: Play this Character card from your trash.",
+        "set_id": "OP-16",
+        "rarity": "R",
+        "card_set_id": "OP16-014",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "8000",
+        "sub_types": "Whitebeard Pirates",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP16-014",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP16-014_g0EgQrF.jpg"
+    },
+    {
+        "card_name": "Marco (Alternate Art)",
+        "set_name": "The Time of Battle",
+        "card_text": "If one of your Characters would be removed from the field by your opponent's effect, you may K.O. this character instead.\n[On K.O.] You may trash 1 Character card with 8000 power from your hand: Play this Character card from your trash.",
+        "set_id": "OP-16",
+        "rarity": "R",
+        "card_set_id": "OP16-014",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "8000",
+        "sub_types": "Whitebeard Pirates",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP16-014_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP16-014_p1_W6pXmYz.jpg"
+    }
+]

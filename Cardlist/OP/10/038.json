@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 115 seconds."
-}
+[
+    {
+        "card_name": "Roronoa Zoro (038)",
+        "set_name": "Royal Blood",
+        "card_text": "[Opponent's Turn] If you have 2 or more rested Characters, this Character gains +2000 power.",
+        "set_id": "OP-10",
+        "rarity": "C",
+        "card_set_id": "OP10-038",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Straw Hat Crew Supernovas ODYSSEY",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP10-038",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP10-038.jpg"
+    }
+]

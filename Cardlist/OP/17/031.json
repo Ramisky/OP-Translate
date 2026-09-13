@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 24 seconds."
-}
+[
+    {
+        "card_name": "Yasopp",
+        "set_name": "The World's Strongest Warriors",
+        "card_text": "[On Play] Draw 1 card and rest up to 1 of your opponent's Characters with a cost of 8 or less.\n[End of Your Turn] Set up to 1 of your Characters with a type including \"Red-Haired Pirates\" as active.",
+        "set_id": "OP-17",
+        "rarity": "SR",
+        "card_set_id": "OP17-031",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Red-Haired Pirates",
+        "counter_amount": 1000,
+        "attribute": "Ranged",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP17-031",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP17-031_GaiJBWQ.jpg"
+    },
+    {
+        "card_name": "Yasopp (Alternate Art)",
+        "set_name": "The World's Strongest Warriors",
+        "card_text": "[On Play] Draw 1 card and rest up to 1 of your opponent's Characters with a cost of 8 or less.\n[End of Your Turn] Set up to 1 of your Characters with a type including \"Red-Haired Pirates\" as active.",
+        "set_id": "OP-17",
+        "rarity": "SR",
+        "card_set_id": "OP17-031",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Red-Haired Pirates",
+        "counter_amount": 1000,
+        "attribute": "Ranged",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP17-031_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP17-031_p1_NVOGP7a.jpg"
+    }
+]

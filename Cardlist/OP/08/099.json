@@ -1,3 +1,59 @@
-{
-    "detail": "Request was throttled. Expected available in 250 seconds."
-}
+[
+    {
+        "card_name": "Kalgara (099)",
+        "set_name": "Two Legends",
+        "card_text": "NULL",
+        "set_id": "OP-08",
+        "rarity": "C",
+        "card_set_id": "OP08-099",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "8000",
+        "sub_types": "Sky Island Shandian Warrior Jaya",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-10",
+        "card_image_id": "OP08-099",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-099.jpg"
+    },
+    {
+        "card_name": "Kalgara (Pirate Foil)",
+        "set_name": "Premium Booster -The Best- Vol. 2",
+        "card_text": null,
+        "set_id": "PRB-02",
+        "rarity": "C",
+        "card_set_id": "OP08-099",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "8000",
+        "sub_types": "Sky Island Shandian Warrior Jaya",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-099_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-099_p1.jpg"
+    },
+    {
+        "card_name": "Kalgara (Reprint)",
+        "set_name": "Premium Booster -The Best- Vol. 2",
+        "card_text": "Disclaimer: This card was reprinted from the original set with changes to the copyright information (Note: the original print did not include \"EN\" at the end of the copyright).Disclaimer: This card was reprinted from the original set with changes to the copyright information (Note: the original print did not include \"EN\" at the end of the copyright).",
+        "set_id": "PRB-02",
+        "rarity": "C",
+        "card_set_id": "OP08-099",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "8000",
+        "sub_types": "Sky Island Shandian Warrior Jaya",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-099_r1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-099_r1.jpg"
+    }
+]

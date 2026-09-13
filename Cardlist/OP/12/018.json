@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 116 seconds."
-}
+[
+    {
+        "card_name": "Color of the Supreme King Haki",
+        "set_name": "Legacy of the Master",
+        "card_text": "[Counter] Up to 1 of your Characters or [Silvers Rayleigh] gains +2000 power during this battle. Then, you may rest 1 of your DON!! cards. If you do, give your opponent's Leader and all of their Characters 1000 power during this turn.",
+        "set_id": "OP-12",
+        "rarity": "R",
+        "card_set_id": "OP12-018",
+        "card_color": "Red",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "Former Roger Pirates",
+        "card_power": null,
+        "sub_types": null,
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP12-018",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP12-018_okNcO1t.jpg"
+    }
+]

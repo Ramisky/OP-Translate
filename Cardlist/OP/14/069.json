@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 69 seconds."
-}
+[
+    {
+        "card_name": "Donquixote Doflamingo - OP14-069",
+        "set_name": "The Azure Sea's Seven",
+        "card_text": "[On Play] DON!! -3: Choose one:\n\u2022If your Leader has the {Donquixote Pirates} type, K.O. up to 1 of your opponent's Characters with a cost of 8 or less.\n\u2022Up to 3 of your opponent's Characters with a cost of 7 or less cannot be rested until the end of your opponent's next End Phase.",
+        "set_id": "OP14-EB04",
+        "rarity": "SR",
+        "card_set_id": "OP14-069",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "10",
+        "card_power": "10000",
+        "sub_types": "Donquixote Pirates The Seven Warlords of the Sea",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP14-069",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP14-069_NfkEOhR.jpg"
+    },
+    {
+        "card_name": "Donquixote Doflamingo - OP14-069 (Alternate Art)",
+        "set_name": "The Azure Sea's Seven",
+        "card_text": "[On Play] DON!! -3: Choose one:\n\u2022If your Leader has the {Donquixote Pirates} type, K.O. up to 1 of your opponent's Characters with a cost of 8 or less.\n\u2022Up to 3 of your opponent's Characters with a cost of 7 or less cannot be rested until the end of your opponent's next End Phase.",
+        "set_id": "OP14-EB04",
+        "rarity": "SR",
+        "card_set_id": "OP14-069",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "10",
+        "card_power": "10000",
+        "sub_types": "Donquixote Pirates The Seven Warlords of the Sea",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP14-069_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP14-069_p1_ueX6tig.jpg"
+    }
+]

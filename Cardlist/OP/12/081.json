@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 128 seconds."
-}
+[
+    {
+        "card_name": "Koala (081)",
+        "set_name": "Legacy of the Master",
+        "card_text": "When this Leader attacks your opponent's Leader, if you have 2 or more Characters with a cost of 8 or more, draw 1 card.\n[Once Per Turn] This effect can be activated when your opponent plays a Character with a base cost of 8 or more, or when your opponent plays a Character using a Character's effect. Your opponent adds 1 card from the top of their Life cards to their hand.",
+        "set_id": "OP-12",
+        "rarity": "L",
+        "card_set_id": "OP12-081",
+        "card_color": "Black Yellow",
+        "card_type": "Leader",
+        "life": "4",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Revolutionary Army Dressrosa",
+        "counter_amount": null,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP12-081",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP12-081_t43rOwN.jpg"
+    },
+    {
+        "card_name": "Koala (081) (Alternate Art)",
+        "set_name": "Legacy of the Master",
+        "card_text": "When this Leader attacks your opponent's Leader, if you have 2 or more Characters with a cost of 8 or more, draw 1 card.\n[Once Per Turn] This effect can be activated when your opponent plays a Character with a base cost of 8 or more, or when your opponent plays a Character using a Character's effect. Your opponent adds 1 card from the top of their Life cards to their hand.",
+        "set_id": "OP-12",
+        "rarity": "L",
+        "card_set_id": "OP12-081",
+        "card_color": "Black Yellow",
+        "card_type": "Leader",
+        "life": "4",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Revolutionary Army Dressrosa",
+        "counter_amount": null,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP12-081_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP12-081_p1_DTPVK4N.jpg"
+    }
+]

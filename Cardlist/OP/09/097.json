@@ -1,3 +1,59 @@
-{
-    "detail": "Request was throttled. Expected available in 28 seconds."
-}
+[
+    {
+        "card_name": "Black Vortex",
+        "set_name": "Emperors in the New World",
+        "card_text": "[Counter] Negate the effect of up to 1 of your opponent's Leader or Character cards and give that card 4000 power during this turn.\n[Trigger] Negate the effect of up to 1 of your opponent's Leader or Character cards during this turn.",
+        "set_id": "OP-09",
+        "rarity": "C",
+        "card_set_id": "OP09-097",
+        "card_color": "Black",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "2",
+        "card_power": null,
+        "sub_types": "Blackbeard Pirates",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-097",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-097.jpg"
+    },
+    {
+        "card_name": "Black Vortex (Pirate Foil)",
+        "set_name": "Premium Booster -The Best- Vol. 2",
+        "card_text": "[Counter] Negate the effect of up to 1 of your opponent's Leader or Character cards and give that card 4000 power during this turn.[Trigger] Negate the effect of up to 1 of your opponent's Leader or Character cards during this turn.",
+        "set_id": "PRB-02",
+        "rarity": "C",
+        "card_set_id": "OP09-097",
+        "card_color": "Black",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "2",
+        "card_power": null,
+        "sub_types": "Blackbeard Pirates",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-097_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-097_p1.jpg"
+    },
+    {
+        "card_name": "Black Vortex (Reprint)",
+        "set_name": "Premium Booster -The Best- Vol. 2",
+        "card_text": "[Counter] Negate the effect of up to 1 of your opponent's Leader or Character cards and give that card 4000 power during this turn.[Trigger] Negate the effect of up to 1 of your opponent's Leader or Character cards during this turn.Disclaimer: This card was reprinted from the original set with changes to the copyright information (Note: the original print did not include \"EN\" at the end of the copyright).",
+        "set_id": "PRB-02",
+        "rarity": "C",
+        "card_set_id": "OP09-097",
+        "card_color": "Black",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "2",
+        "card_power": null,
+        "sub_types": "Blackbeard Pirates",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-097_r1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-097_r1.jpg"
+    }
+]

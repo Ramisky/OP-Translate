@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 68 seconds."
-}
+[
+    {
+        "card_name": "Monkey.D.Luffy (001)",
+        "set_name": "Carrying On His Will",
+        "card_text": "[DON!! x1] [On Your Opponent's Attack] If you have 5 or less active DON!! cards, you may rest any number of your DON!! cards. For every DON!! card rested this way, this Leader or up to 1 of your \"Straw Hat Crew\" type Characters gains +2000 power during this battle.",
+        "set_id": "OP-13",
+        "rarity": "L",
+        "card_set_id": "OP13-001",
+        "card_color": "Green Red",
+        "card_type": "Leader",
+        "life": "4",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Straw Hat Crew Supernovas",
+        "counter_amount": null,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP13-001",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP13-001_8pgvmZO.jpg"
+    },
+    {
+        "card_name": "Monkey.D.Luffy (001) (Alternate Art)",
+        "set_name": "Carrying On His Will",
+        "card_text": "[DON!! x1] [On Your Opponent's Attack] If you have 5 or less active DON!! cards, you may rest any number of your DON!! cards. For every DON!! card rested this way, this Leader or up to 1 of your \"Straw Hat Crew\" type Characters gains +2000 power during this battle.",
+        "set_id": "OP-13",
+        "rarity": "L",
+        "card_set_id": "OP13-001",
+        "card_color": "Green Red",
+        "card_type": "Leader",
+        "life": "4",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Straw Hat Crew Supernovas",
+        "counter_amount": null,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP13-001_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP13-001_p1_ovgL62d.jpg"
+    }
+]

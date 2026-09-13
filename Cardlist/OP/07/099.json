@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 70 seconds."
-}
+[
+    {
+        "card_name": "Usopp",
+        "set_name": "500 Years in the Future",
+        "card_text": "[Trigger] Up to 1 of your {Egghead} type Leader or Character cards gains +2000 power until the end of your next turn.",
+        "set_id": "OP-07",
+        "rarity": "C",
+        "card_set_id": "OP07-099",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "2000",
+        "sub_types": "Straw Hat Crew Egghead",
+        "counter_amount": 2000,
+        "attribute": "Ranged",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP07-099",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-099.jpg"
+    }
+]

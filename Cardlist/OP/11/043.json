@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 128 seconds."
-}
+[
+    {
+        "card_name": "Vinsmoke Ichiji",
+        "set_name": "A Fist of Divine Speed",
+        "card_text": "[Blocker]\n[On Your Opponent's Attack] [Once Per Turn] This effect can be activated when you only have Characters with a type including \"GERMA\". Up to 1 of your Leader or Character cards gains +1000 power during this battle. Then, trash 2 cards from the top of your deck.",
+        "set_id": "OP-11",
+        "rarity": "C",
+        "card_set_id": "OP11-043",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "7",
+        "card_power": "7000",
+        "sub_types": "The Vinsmoke Family GERMA 66",
+        "counter_amount": 0,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP11-043",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP11-043.jpg"
+    }
+]

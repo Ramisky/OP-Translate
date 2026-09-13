@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 11 seconds."
-}
+[
+    {
+        "card_name": "Nico Olvia",
+        "set_name": "Emperors in the New World",
+        "card_text": "[On Play] Up to 1 of your [Nico Robin] Leader gains +3000 power during this turn.[Trigger] If your Leader is [Nico Robin], draw 3 cards and trash 2 cards from your hand.",
+        "set_id": "OP-09",
+        "rarity": "C",
+        "card_set_id": "OP09-106",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "0",
+        "sub_types": "Ohara",
+        "counter_amount": 2000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-106",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-106.jpg"
+    }
+]

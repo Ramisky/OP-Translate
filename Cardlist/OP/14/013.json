@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 83 seconds."
-}
+[
+    {
+        "card_name": "Monkey.D.Luffy - OP14-013",
+        "set_name": "The Azure Sea's Seven",
+        "card_text": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Supernovas} type card other than [Monkey.D.Luffy] and add it to your hand. Then, place the rest at the bottom of your deck in any order.\n[When Attacking] Give up to 1 of your opponent's Characters -1000 power during this turn.",
+        "set_id": "OP14-EB04",
+        "rarity": "SR",
+        "card_set_id": "OP14-013",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "0",
+        "sub_types": "Straw Hat Crew Supernovas",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP14-013",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP14-013_3PlMyyC.jpg"
+    },
+    {
+        "card_name": "Monkey.D.Luffy - OP14-013 (Alternate Art)",
+        "set_name": "The Azure Sea's Seven",
+        "card_text": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Supernovas} type card other than [Monkey.D.Luffy] and add it to your hand. Then, place the rest at the bottom of your deck in any order.[When Attacking] Give up to 1 of your opponent's Characters -1000 power during this turn.",
+        "set_id": "OP14-EB04",
+        "rarity": "SR",
+        "card_set_id": "OP14-013",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "0",
+        "sub_types": "Straw Hat Crew Supernovas",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP14-013_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP14-013_p1_0wTWlNh.jpg"
+    }
+]

@@ -1,3 +1,59 @@
-{
-    "detail": "Request was throttled. Expected available in 96 seconds."
-}
+[
+    {
+        "card_name": "Charlotte Pudding",
+        "set_name": "Wings of the Captain",
+        "card_text": "[On Play] Your opponent returns all cards in their hand to their deck and shuffles their deck. Then, your opponent draws 5 cards.",
+        "set_id": "OP-06",
+        "rarity": "R",
+        "card_set_id": "OP06-047",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "4000",
+        "sub_types": "Big Mom Pirates",
+        "counter_amount": 1000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP06-047",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP06-047.jpg"
+    },
+    {
+        "card_name": "Charlotte Pudding (Reprint)",
+        "set_name": "Premium Booster -The Best- Vol. 2",
+        "card_text": "[On Play] Your opponent returns all cards in their hand to their deck and shuffles their deck. Then, your opponent draws 5 cards.Disclaimer: This card was reprinted from the original set with changes to the copyright information (Note: the original print did not include \"EN\" at the end of the copyright).",
+        "set_id": "PRB-02",
+        "rarity": "R",
+        "card_set_id": "OP06-047",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "4000",
+        "sub_types": "Big Mom Pirates",
+        "counter_amount": 1000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP06-047_r1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP06-047_r1.jpg"
+    },
+    {
+        "card_name": "Charlotte Pudding (SP)",
+        "set_name": "Premium Booster -The Best- Vol. 2",
+        "card_text": "[On Play] Your opponent returns all cards in their hand to their deck and shuffles their deck. Then, your opponent draws 5 cards.",
+        "set_id": "PRB-02",
+        "rarity": "R",
+        "card_set_id": "OP06-047",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "4000",
+        "sub_types": "Big Mom Pirates",
+        "counter_amount": 1000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP06-047",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP06-047_p1.jpg"
+    }
+]

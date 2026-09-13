@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 16 seconds."
-}
+[
+    {
+        "card_name": "Blaze Slice",
+        "set_name": "500 Years in the Future",
+        "card_text": "[Main] / [Counter] Up to 1 of your Leader or Character cards gains +1000 power during this turn. Then, if your opponent has 2 or less Life cards, rest up to 1 of your opponent's Characters with a cost of 4 or less. [Trigger] Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+        "set_id": "OP-07",
+        "rarity": "R",
+        "card_set_id": "OP07-116",
+        "card_color": "Yellow",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "Land of Wano The Akazaya Nine",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP07-116",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-116.jpg"
+    }
+]

@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 113 seconds."
-}
+[
+    {
+        "card_name": "Charlotte Mont-d'or",
+        "set_name": "A Fist of Divine Speed",
+        "card_text": "[Activate: Main] [Once Per Turn] DON!! 1, You may rest this Character: Your opponent places 2 cards from their trash at the bottom of their deck in any order. Then, add 1 card from the top of your Life cards to your hand.",
+        "set_id": "OP-11",
+        "rarity": "UC",
+        "card_set_id": "OP11-072",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "Big Mom Pirates",
+        "counter_amount": 2000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP11-072",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP11-072.jpg"
+    }
+]

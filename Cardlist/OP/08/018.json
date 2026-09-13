@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 219 seconds."
-}
+[
+    {
+        "card_name": "Cloven Rose",
+        "set_name": "Two Legends",
+        "card_text": "[Main] Up to 3 of your Characters gain +1000 power during this turn. Then, give up to 1 of your opponent's Characters 2000 power during this turn. [Trigger] Give up to 1 of your opponent's Leader or Character cards 3000 power during this turn.",
+        "set_id": "OP-08",
+        "rarity": "R",
+        "card_set_id": "OP08-018",
+        "card_color": "Red",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "2",
+        "card_power": null,
+        "sub_types": "Animal Straw Hat Crew Drum Kingdom",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-018",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-018.jpg"
+    }
+]

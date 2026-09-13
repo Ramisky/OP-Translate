@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 74 seconds."
-}
+[
+    {
+        "card_name": "Fossa",
+        "set_name": "Carrying On His Will",
+        "card_text": "If your Character with a type including \"Whitebeard Pirates\" would be K.O.'d by your opponent's effect, you may trash this Character instead.",
+        "set_id": "OP-13",
+        "rarity": "C",
+        "card_set_id": "OP13-047",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "3000",
+        "sub_types": "Whitebeard Pirates",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP13-047",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP13-047_ttYExC8.jpg"
+    }
+]

@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 73 seconds."
-}
+[
+    {
+        "card_name": "Older Brother Marine",
+        "set_name": "The Time of Battle",
+        "card_text": null,
+        "set_id": "OP-16",
+        "rarity": "C",
+        "card_set_id": "OP16-061",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "7000",
+        "sub_types": "Navy",
+        "counter_amount": 1000,
+        "attribute": "Ranged",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP16-061",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP16-061_IOhUqvw.jpg"
+    }
+]

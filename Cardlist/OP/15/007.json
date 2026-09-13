@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 28 seconds."
-}
+[
+    {
+        "card_name": "Gin",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "[On Play] If your Leader has the {East Blue} type, play up to 1 Character card with a cost of 5 or less from your hand.",
+        "set_id": "OP15-EB04",
+        "rarity": "SR",
+        "card_set_id": "OP15-007",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "7000",
+        "sub_types": "Krieg Pirates East Blue",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP15-007",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP15-007_TUo5WSO.jpg"
+    },
+    {
+        "card_name": "Gin (Alternate Art)",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "[On Play] If your Leader has the {East Blue} type, play up to 1 Character card with a cost of 5 or less from your hand.",
+        "set_id": "OP15-EB04",
+        "rarity": "SR",
+        "card_set_id": "OP15-007",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "7000",
+        "sub_types": "Krieg Pirates East Blue",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP15-007_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP15-007_p1_3a0c7Wn.jpg"
+    }
+]

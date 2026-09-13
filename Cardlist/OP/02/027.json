@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 20 seconds."
-}
+[
+    {
+        "card_name": "Inuarashi",
+        "set_name": "Paramount War",
+        "card_text": "If all of your DON!! cards are rested, this Character cannot be removed from the field by your opponent's effects.",
+        "set_id": "OP-02",
+        "rarity": "UC",
+        "card_set_id": "OP02-027",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "Land of Wano Minks The Akazaya Nine",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP02-027",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP02-027.jpg"
+    }
+]

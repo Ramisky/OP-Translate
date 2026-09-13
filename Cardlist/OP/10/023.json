@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 126 seconds."
-}
+[
+    {
+        "card_name": "Issho",
+        "set_name": "Royal Blood",
+        "card_text": "[On Play] If your Leader has the \"Navy\" type, rest up to 2 of your opponent's Characters with a cost of 5 or less.",
+        "set_id": "OP-10",
+        "rarity": "C",
+        "card_set_id": "OP10-023",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Navy Dressrosa",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP10-023",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP10-023.jpg"
+    }
+]

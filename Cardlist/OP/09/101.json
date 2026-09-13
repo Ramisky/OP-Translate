@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 7 seconds."
-}
+[
+    {
+        "card_name": "Kuzan",
+        "set_name": "Emperors in the New World",
+        "card_text": "[On Play] Place 1 of your opponent's Characters with a cost of 3 or less at the top or bottom of your opponent's Life cards face-up: Your opponent trashes 1 card from their hand.",
+        "set_id": "OP-09",
+        "rarity": "R",
+        "card_set_id": "OP09-101",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Navy",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-101",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-101.jpg"
+    }
+]

@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 83 seconds."
-}
+[
+    {
+        "card_name": "Mr.3(Galdino) (056)",
+        "set_name": "The Time of Battle",
+        "card_text": "[Activate: Main] You may trash this Character: Draw 2 cards, and up to 1 of your opponent's Characters with a cost of 9 or less cannot attack until the end of your opponent's next End Phase.",
+        "set_id": "OP-16",
+        "rarity": "SR",
+        "card_set_id": "OP16-056",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Impel Down Former Baroque Works",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP16-056",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP16-056_eJ8kOw4.jpg"
+    },
+    {
+        "card_name": "Mr.3(Galdino) (056) (Alternate Art)",
+        "set_name": "The Time of Battle",
+        "card_text": "[Activate: Main] You may trash this Character: Draw 2 cards, and up to 1 of your opponent's Characters with a cost of 9 or less cannot attack until the end of your opponent's next End Phase.",
+        "set_id": "OP-16",
+        "rarity": "SR",
+        "card_set_id": "OP16-056",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Impel Down Former Baroque Works",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP16-056_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP16-056_p1_lCCqPWh.jpg"
+    }
+]

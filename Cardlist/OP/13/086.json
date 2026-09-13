@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 143 seconds."
-}
+[
+    {
+        "card_name": "Saint Shalria",
+        "set_name": "Carrying On His Will",
+        "card_text": "[On Play] Look at 3 cards from the top of your deck; reveal up to 1 \"Celestial Dragons\" type card other than [Saint Shalria] and add it to your hand. Then, trash the rest and trash 1 card from your hand.",
+        "set_id": "OP-13",
+        "rarity": "UC",
+        "card_set_id": "OP13-086",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "0",
+        "sub_types": "Celestial Dragons",
+        "counter_amount": 1000,
+        "attribute": "Ranged",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP13-086",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP13-086_Yli6slR.jpg"
+    }
+]

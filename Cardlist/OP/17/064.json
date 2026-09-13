@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 171 seconds."
-}
+[
+    {
+        "card_name": "King",
+        "set_name": "The World's Strongest Warriors",
+        "card_text": "[Blocker] [On Your Opponent's Attack] [Once Per Turn] You may trash 1 card from your hand: Up to 1 of your Leader or Characters gains +2000 power during this battle.",
+        "set_id": "OP-17",
+        "rarity": "C",
+        "card_set_id": "OP17-064",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "9",
+        "card_power": "10000",
+        "sub_types": "Lunarian Animal Kingdom Pirates",
+        "counter_amount": null,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP17-064",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP17-064.jpg"
+    }
+]

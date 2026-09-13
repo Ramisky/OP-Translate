@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 113 seconds."
-}
+[
+    {
+        "card_name": "Jewelry Bonney (101)",
+        "set_name": "Legacy of the Master",
+        "card_text": "[Activate: Main] You may rest this Character: Your \"Supernovas\" type Leader gains +1000 power until the end of your opponent's next turn.",
+        "set_id": "OP-12",
+        "rarity": "C",
+        "card_set_id": "OP12-101",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "1000",
+        "sub_types": "Bonney Pirates Supernovas",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP12-101",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP12-101_2LBx03n.jpg"
+    }
+]

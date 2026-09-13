@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 188 seconds."
-}
+[
+    {
+        "card_name": "Venom Road",
+        "set_name": "Paramount War",
+        "card_text": "[Main] Add up to 1 DON!! card from your DON!! deck and set it as active. [Trigger] If your opponent has 6 or more DON!! cards on their field, your opponent returns 1 DON!! card from their field to their DON!! deck.",
+        "set_id": "OP-02",
+        "rarity": "C",
+        "card_set_id": "OP02-091",
+        "card_color": "Purple",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "3",
+        "card_power": null,
+        "sub_types": "Impel Down",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP02-091",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP02-091.jpg"
+    }
+]

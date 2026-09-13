@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 23 seconds."
-}
+[
+    {
+        "card_name": "Heso!!",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "[Main] Draw 1 card. Then, give up to 1 rested DON!! card to 1 of your {Sky Island} type Leader or Character cards.\n[Trigger] If your Leader has the {Sky Island} type, draw 2 cards.",
+        "set_id": "OP15-EB04",
+        "rarity": "UC",
+        "card_set_id": "OP15-117",
+        "card_color": "Yellow",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "Sky Island",
+        "counter_amount": 0,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP15-117",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP15-117_VaI6rE3.jpg"
+    }
+]

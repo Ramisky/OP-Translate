@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 146 seconds."
-}
+[
+    {
+        "card_name": "Perona (092)",
+        "set_name": "Royal Blood",
+        "card_text": "[Activate: Main] [Once Per Turn] You may place 2 \"Thriller Bark Pirates\" type cards from your trash at the bottom of your deck in any order: Up to 1 of your Characters other than [Perona] gains +2000 power during this turn.",
+        "set_id": "OP-10",
+        "rarity": "C",
+        "card_set_id": "OP10-092",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Thriller Bark Pirates",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP10-092",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP10-092.jpg"
+    }
+]

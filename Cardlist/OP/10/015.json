@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 120 seconds."
-}
+[
+    {
+        "card_name": "Mocha",
+        "set_name": "Royal Blood",
+        "card_text": "[On Play] Give up to 1 of your opponent's Characters 1000 power during this turn.",
+        "set_id": "OP-10",
+        "rarity": "UC",
+        "card_set_id": "OP10-015",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "3000",
+        "sub_types": "Punk Hazard",
+        "counter_amount": 2000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP10-015",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP10-015.jpg"
+    }
+]

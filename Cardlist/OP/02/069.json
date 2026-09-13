@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 172 seconds."
-}
+[
+    {
+        "card_name": "DEATH WINK",
+        "set_name": "Paramount War",
+        "card_text": "[Counter] Up to 1 of your Leader or Character cards gains +6000 power during this battle. Then, draw cards so that you have 2 cards in your hand. [Trigger] Return up to 1 Character with a cost of 7 or less to the owner's hand.",
+        "set_id": "OP-02",
+        "rarity": "C",
+        "card_set_id": "OP02-069",
+        "card_color": "Blue",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "3",
+        "card_power": null,
+        "sub_types": "Revolutionary Army Impel Down",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP02-069",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP02-069.jpg"
+    }
+]

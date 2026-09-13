@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 4 seconds."
-}
+[
+    {
+        "card_name": "Nefeltari Cobra",
+        "set_name": "Kingdoms of Intrigue",
+        "card_text": "[Your Turn] All of your [Alabasta] type Characters other than this Character gain +1000 power.",
+        "set_id": "OP-04",
+        "rarity": "C",
+        "card_set_id": "OP04-012",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "0",
+        "sub_types": "Alabasta",
+        "counter_amount": 1000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP04-012",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP04-012.jpg"
+    }
+]

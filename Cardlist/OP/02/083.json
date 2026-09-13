@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 188 seconds."
-}
+[
+    {
+        "card_name": "Hannyabal",
+        "set_name": "Paramount War",
+        "card_text": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 purple [Impel Down] type card other than [Hannyabal] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+        "set_id": "OP-02",
+        "rarity": "R",
+        "card_set_id": "OP02-083",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "2000",
+        "sub_types": "Impel Down",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP02-083",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP02-083.jpg"
+    }
+]

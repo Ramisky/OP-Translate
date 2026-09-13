@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 8 seconds."
-}
+[
+    {
+        "card_name": "Arabesque Brick Fist",
+        "set_name": "Paramount War",
+        "card_text": "[Main] Return up to 1 Character with a cost of 4 or less to the owner's hand. [Trigger] Activate this card's [Main] effect.",
+        "set_id": "OP-02",
+        "rarity": "UC",
+        "card_set_id": "OP02-067",
+        "card_color": "Blue",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "2",
+        "card_power": null,
+        "sub_types": "Fish-Man Impel Down",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP02-067",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP02-067.jpg"
+    }
+]

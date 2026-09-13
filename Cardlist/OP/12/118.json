@@ -1,3 +1,59 @@
-{
-    "detail": "Request was throttled. Expected available in 2 seconds."
-}
+[
+    {
+        "card_name": "Jewelry Bonney (118)",
+        "set_name": "Legacy of the Master",
+        "card_text": "[Blocker]\n[On Play] If you have 8 or more rested cards, draw 2 cards and trash 1 card from your hand. Then, set up to 1 of your DON!! cards as active.",
+        "set_id": "OP-12",
+        "rarity": "SEC",
+        "card_set_id": "OP12-118",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Bonney Pirates Supernovas",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP12-118",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP12-118_WaSgkqN.jpg"
+    },
+    {
+        "card_name": "Jewelry Bonney (118) (Alternate Art)",
+        "set_name": "Legacy of the Master",
+        "card_text": "[Blocker]\n[On Play] If you have 8 or more rested cards, draw 2 cards and trash 1 card from your hand. Then, set up to 1 of your DON!! cards as active.",
+        "set_id": "OP-12",
+        "rarity": "SEC",
+        "card_set_id": "OP12-118",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Bonney Pirates Supernovas",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP12-118_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP12-118_p1_2XxNAy0.jpg"
+    },
+    {
+        "card_name": "Jewelry Bonney (118) (Manga)",
+        "set_name": "Legacy of the Master",
+        "card_text": "[Blocker]\n[On Play] If you have 8 or more rested cards, draw 2 cards and trash 1 card from your hand. Then, set up to 1 of your DON!! cards as active.",
+        "set_id": "OP-12",
+        "rarity": "SEC",
+        "card_set_id": "OP12-118",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Bonney Pirates Supernovas",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP12-118_p2",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP12-118_p2_Xxs1TDY.jpg"
+    }
+]

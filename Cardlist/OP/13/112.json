@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 58 seconds."
-}
+[
+    {
+        "card_name": "Vegapunk",
+        "set_name": "Carrying On His Will",
+        "card_text": "If you have a total of 2 or more given DON!! cards, this Character gains [Blocker].\n(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+        "set_id": "OP-13",
+        "rarity": "C",
+        "card_set_id": "OP13-112",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "1000",
+        "sub_types": "Scientist Egghead",
+        "counter_amount": 1000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP13-112",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP13-112_HNVPF9X.jpg"
+    }
+]

@@ -1,3 +1,59 @@
-{
-    "detail": "Request was throttled. Expected available in 67 seconds."
-}
+[
+    {
+        "card_name": "Monkey.D.Dragon (001)",
+        "set_name": "500 Years in the Future",
+        "card_text": "[Activate:Main][Once Per Turn]Give up to 2 total of your currently given DON!! cards to 1 of your Characters.",
+        "set_id": "OP-07",
+        "rarity": "L",
+        "card_set_id": "OP07-001",
+        "card_color": "Red",
+        "card_type": "Leader",
+        "life": "5",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Revolutionary Army",
+        "counter_amount": null,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP07-001",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-001.jpg"
+    },
+    {
+        "card_name": "Monkey.D.Dragon (001) (Parallel)",
+        "set_name": "500 Years in the Future",
+        "card_text": "[Activate:Main][Once Per Turn]Give up to 2 total of your currently given DON!! cards to 1 of your Characters.",
+        "set_id": "OP-07",
+        "rarity": "L",
+        "card_set_id": "OP07-001",
+        "card_color": "Red",
+        "card_type": "Leader",
+        "life": "5",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Revolutionary Army",
+        "counter_amount": null,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP07-001_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-001_p1.jpg"
+    },
+    {
+        "card_name": "Monkey.D.Dragon (SPR)",
+        "set_name": "Extra Booster: Anime 25th Collection",
+        "card_text": "[Activate: Main] [Once Per Turn] Give up to 2 total of your currently given DON!! cards to 1 of your Characters.",
+        "set_id": "EB-02",
+        "rarity": "L",
+        "card_set_id": "OP07-001",
+        "card_color": "Red",
+        "card_type": "Leader",
+        "life": "5",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Revolutionary Army",
+        "counter_amount": null,
+        "attribute": "Special",
+        "date_scraped": "2025-06-29",
+        "card_image_id": "OP07-001_p2",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-001_p2.jpg"
+    }
+]

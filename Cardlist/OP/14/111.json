@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 99 seconds."
-}
+[
+    {
+        "card_name": "Perona - OP14-111",
+        "set_name": "The Azure Sea's Seven",
+        "card_text": "[On Play]/[On K.O.] Up to 1 of your opponent's Characters with a cost of 6 or less cannot attack until the end of your opponent's next End Phase.\n[Trigger] Play up to 1 {Thriller Bark Pirates} type Character card with a cost of 4 or less from your trash rested.",
+        "set_id": "OP14-EB04",
+        "rarity": "R",
+        "card_set_id": "OP14-111",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Thriller Bark Pirates",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP14-111",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP14-111_hWZq5nk.jpg"
+    },
+    {
+        "card_name": "Perona - OP14-111 (Alternate Art)",
+        "set_name": "The Azure Sea's Seven",
+        "card_text": "[On Play]/[On K.O] Up to 1 of your opponent's Characters with a cost of 6 or less cannot attack until the end of your opponent's next End Phase.\n[Trigger] Play up to 1 {Thriller Bark Pirates} type Character card with a cost of 4 or less from your trash rested.",
+        "set_id": "OP14-EB04",
+        "rarity": "R",
+        "card_set_id": "OP14-111",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Thriller Bark Pirates",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP14-111_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP14-111_p1_NcAFI0k.jpg"
+    }
+]

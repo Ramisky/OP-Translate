@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 172 seconds."
-}
+[
+    {
+        "card_name": "Maser Saber",
+        "set_name": "The World's Strongest Warriors",
+        "card_text": "[Counter] Up to 1 of your [Charlotte Linlin] gains +3000 power during this battle.\n[Trigger] Your opponent may trash 3 cards from their hand. If they do not, K.O. up to 1 of your opponent's Characters with a cost of 6 or less.",
+        "set_id": "OP-17",
+        "rarity": "C",
+        "card_set_id": "OP17-117",
+        "card_color": "Yellow",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "The Four Emperors Big Mom Pirates",
+        "counter_amount": 0,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP17-117",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP17-117_mzAwgkO.jpg"
+    }
+]

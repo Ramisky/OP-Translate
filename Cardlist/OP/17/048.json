@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 168 seconds."
-}
+[
+    {
+        "card_name": "Shiki (048)",
+        "set_name": "The World's Strongest Warriors",
+        "card_text": "[Rush: Character]\n[When Attacking]/[On Your Opponent's Attack] [Once Per Turn] You may trash 1 cards with a type including \"Rocks Pirates\" from your hand: Give up to 1 of your opponent's Characters -3000 power during this turn.",
+        "set_id": "OP-17",
+        "rarity": "SR",
+        "card_set_id": "OP17-048",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "7",
+        "card_power": "9000",
+        "sub_types": "Rocks Pirates",
+        "counter_amount": 0,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP17-048",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP17-048_q65awE1.jpg"
+    },
+    {
+        "card_name": "Shiki (048) (Alternate Art)",
+        "set_name": "The World's Strongest Warriors",
+        "card_text": "[Rush: Character]\n[When Attacking]/[On Your Opponent's Attack] [Once Per Turn] You may trash 1 cards with a type including \"Rocks Pirates\" from your hand: Give up to 1 of your opponent's Characters -3000 power during this turn.",
+        "set_id": "OP-17",
+        "rarity": "SR",
+        "card_set_id": "OP17-048",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "7",
+        "card_power": "9000",
+        "sub_types": "Rocks Pirates",
+        "counter_amount": 0,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP17-048_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP17-048_p1_zEYWhz7.jpg"
+    }
+]

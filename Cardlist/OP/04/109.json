@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 1 second."
-}
+[
+    {
+        "card_name": "Tonoyasu",
+        "set_name": "Kingdoms of Intrigue",
+        "card_text": "[Activate:Main] You may trash this Character: Up to 1 of your [Land of Wano] type Leader or Character cards gains +3000 power during this turn.",
+        "set_id": "OP-04",
+        "rarity": "C",
+        "card_set_id": "OP04-109",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "2000",
+        "sub_types": "Land of Wano",
+        "counter_amount": 1000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP04-109",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP04-109.jpg"
+    }
+]

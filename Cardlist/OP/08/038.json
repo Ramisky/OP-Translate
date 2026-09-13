@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 141 seconds."
-}
+[
+    {
+        "card_name": "We Would Never Sell a Comrade to an Enemy!!!",
+        "set_name": "Two Legends",
+        "card_text": "[Main] You may rest 2 of your Characters: None of your Characters can be K.O.'d by your opponent's effects until the end of your opponent's next turn. [Trigger] Rest up to 1 of your opponent's Characters with a cost of 3 or less.",
+        "set_id": "OP-08",
+        "rarity": "C",
+        "card_set_id": "OP08-038",
+        "card_color": "Green",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "Minks The Akazaya Nine",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-038",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-038.jpg"
+    }
+]

@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 33 seconds."
-}
+[
+    {
+        "card_name": "Gladius",
+        "set_name": "Awakening of the New Era",
+        "card_text": "[Activate:Main] You may rest this Character: Rest up to 1 of your opponent's Characters with a cost of 3 or less.",
+        "set_id": "OP-05",
+        "rarity": "C",
+        "card_set_id": "OP05-025",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Donquixote Pirates",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP05-025",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP05-025.jpg"
+    }
+]

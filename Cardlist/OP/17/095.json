@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 5 seconds."
-}
+[
+    {
+        "card_name": "Roronoa Zoro (095)",
+        "set_name": "The World's Strongest Warriors",
+        "card_text": "If there is a Character with a cost of 12 or more, this Character gains +3000 power.\nIf one of your Characters would be removed from the field by your opponent's effect, you may place 3 cards from your trash at the bottom of your deck in any order instead.",
+        "set_id": "OP-17",
+        "rarity": "C",
+        "card_set_id": "OP17-095",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "2000",
+        "sub_types": "Straw Hat Crew Elbaph",
+        "counter_amount": 2000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP17-095",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP17-095_xEqkpXR.jpg"
+    }
+]

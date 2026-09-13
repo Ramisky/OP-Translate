@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 1 second."
-}
+[
+    {
+        "card_name": "Silvers Rayleigh",
+        "set_name": "Legacy of the Master",
+        "card_text": "Under the rules of this game, you cannot include cards with a cost of 5 or more in your deck.\n[Activate: Main] [Once Per Turn] You may reveal 2 Events from your hand: Up to 1 of your Characters with 4000 base power or less gains +2000 power during this turn.",
+        "set_id": "OP-12",
+        "rarity": "L",
+        "card_set_id": "OP12-001",
+        "card_color": "Red",
+        "card_type": "Leader",
+        "life": "5",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Former Roger Pirates",
+        "counter_amount": null,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP12-001",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP12-001_084ObtK.jpg"
+    },
+    {
+        "card_name": "Silvers Rayleigh (Alternate Art)",
+        "set_name": "Legacy of the Master",
+        "card_text": "Under the rules of this game, you cannot include cards with a cost of 5 or more in your deck.\n[Activate: Main] [Once Per Turn] You may reveal 2 Events from your hand: Up to 1 of your Characters with 4000 base power or less gains +2000 power during this turn.",
+        "set_id": "OP-12",
+        "rarity": "L",
+        "card_set_id": "OP12-001",
+        "card_color": "Red",
+        "card_type": "Leader",
+        "life": "5",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Former Roger Pirates",
+        "counter_amount": null,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP12-001_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP12-001_p1_z6pLkgf.jpg"
+    }
+]

@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 68 seconds."
-}
+[
+    {
+        "card_name": "Fire Fist",
+        "set_name": "Awakening of the New Era",
+        "card_text": "[Main] Give up to 1 of your opponent's Characters -4000 power during this turn. Then, if you have 2 or less Life cards, K.O. up to 1 of your opponent's Characters with 0 power or less. [Trigger] Activate this card's [Main] effect.",
+        "set_id": "OP-05",
+        "rarity": "R",
+        "card_set_id": "OP05-019",
+        "card_color": "Red",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "2",
+        "card_power": null,
+        "sub_types": "Revolutionary Army",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP05-019",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP05-019.jpg"
+    }
+]

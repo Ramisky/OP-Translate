@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 117 seconds."
-}
+[
+    {
+        "card_name": "Capone\"Gang\"Bege (101)",
+        "set_name": "A Fist of Divine Speed",
+        "card_text": "[Blocker]\n[Once Per Turn] If your \"Supernovas\" type Character other than [Capone\"Gang\"Bege] would be removed from the field by your opponent's effect, you may add it to the top of your Life cards face-down instead.",
+        "set_id": "OP-11",
+        "rarity": "SR",
+        "card_set_id": "OP11-101",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "1000",
+        "sub_types": "Firetank Pirates Supernovas",
+        "counter_amount": 1000,
+        "attribute": "Ranged",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP11-101",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP11-101.jpg"
+    },
+    {
+        "card_name": "Capone\"Gang\"Bege (101) (Alternate Art)",
+        "set_name": "A Fist of Divine Speed",
+        "card_text": "[Blocker]\n[Once Per Turn] If your \"Supernovas\" type Character other than [Capone\"Gang\"Bege] would be removed from the field by your opponent's effect, you may add it to the top of your Life cards face-down instead.",
+        "set_id": "OP-11",
+        "rarity": "SR",
+        "card_set_id": "OP11-101",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "1000",
+        "sub_types": "Firetank Pirates Supernovas",
+        "counter_amount": 1000,
+        "attribute": "Ranged",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP11-101_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP11-101_p1.jpg"
+    }
+]

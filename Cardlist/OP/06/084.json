@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 14 seconds."
-}
+[
+    {
+        "card_name": "Jigoro of the Wind",
+        "set_name": "Wings of the Captain",
+        "card_text": "[On K.O.] Up to 1 of your Leader or Character cards gains +1000 power during this turn.",
+        "set_id": "OP-06",
+        "rarity": "C",
+        "card_set_id": "OP06-084",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "3000",
+        "sub_types": "Thriller Bark Pirates",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP06-084",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP06-084.jpg"
+    }
+]

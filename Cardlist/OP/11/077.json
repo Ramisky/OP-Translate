@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 141 seconds."
-}
+[
+    {
+        "card_name": "Randolph",
+        "set_name": "A Fist of Divine Speed",
+        "card_text": "[Your Turn] [Once Per Turn] When a DON!! card on your field is returned to your DON!! deck, up to 1 of your \"Big Mom Pirates\" type Characters gains +2 cost until the end of your opponent's next turn.",
+        "set_id": "OP-11",
+        "rarity": "C",
+        "card_set_id": "OP11-077",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "2000",
+        "sub_types": "Big Mom Pirates Homies",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP11-077",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP11-077.jpg"
+    }
+]

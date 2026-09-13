@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 90 seconds."
-}
+[
+    {
+        "card_name": "Usopp",
+        "set_name": "The Azure Sea's Seven",
+        "card_text": "[End of Your Turn] If your Leader has the {FILM} or {Straw Hat Crew} type, set up to 2 of your DON!! cards as active.",
+        "set_id": "OP14-EB04",
+        "rarity": "UC",
+        "card_set_id": "OP14-022",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "FILM Straw Hat Crew",
+        "counter_amount": 1000,
+        "attribute": "Ranged",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP14-022",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP14-022_aH2rLrv.jpg"
+    }
+]

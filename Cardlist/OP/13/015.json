@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 174 seconds."
-}
+[
+    {
+        "card_name": "Makino",
+        "set_name": "Carrying On His Will",
+        "card_text": "[Activate: Main] You may rest this Character: Up to 1 of your [Monkey.D.Luffy] cards gains +2000 power during this turn.",
+        "set_id": "OP-13",
+        "rarity": "UC",
+        "card_set_id": "OP13-015",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "0",
+        "sub_types": "Windmill Village",
+        "counter_amount": 2000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP13-015",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP13-015_kUxGSoS.jpg"
+    }
+]

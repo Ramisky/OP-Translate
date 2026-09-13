@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 252 seconds."
-}
+[
+    {
+        "card_name": "King (060)",
+        "set_name": "Two Legends",
+        "card_text": "[On Play] DON!! 1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your opponent has 5 or more DON!! cards on their field, this Character gains [Rush] during this turn. (This card can attack on the turn in which it is played.)",
+        "set_id": "OP-08",
+        "rarity": "R",
+        "card_set_id": "OP08-060",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "7",
+        "card_power": "8000",
+        "sub_types": "Animal Kingdom Pirates",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-060",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-060.jpg"
+    }
+]

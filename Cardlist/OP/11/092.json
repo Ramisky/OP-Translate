@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 157 seconds."
-}
+[
+    {
+        "card_name": "Helmeppo",
+        "set_name": "A Fist of Divine Speed",
+        "card_text": "[On Play] You may trash 1 card from your hand: Draw 1 card and play up to 1 \"SWORD\" type Character card with a cost of 8 or less other than [Helmeppo] from your trash. Then, place the 1 Character played by this effect at the bottom of the owner's deck at the end of this turn.",
+        "set_id": "OP-11",
+        "rarity": "SR",
+        "card_set_id": "OP11-092",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "7000",
+        "sub_types": "Navy SWORD",
+        "counter_amount": 0,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP11-092",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP11-092.jpg"
+    },
+    {
+        "card_name": "Helmeppo (Alternate Art)",
+        "set_name": "A Fist of Divine Speed",
+        "card_text": "[On Play] You may trash 1 card from your hand: Draw 1 card and play up to 1 \"SWORD\" type Character card with a cost of 8 or less other than [Helmeppo] from your trash. Then, place the 1 Character played by this effect at the bottom of the owner's deck at the end of this turn.",
+        "set_id": "OP-11",
+        "rarity": "SR",
+        "card_set_id": "OP11-092",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "7000",
+        "sub_types": "Navy SWORD",
+        "counter_amount": 0,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP11-092_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP11-092_p1.jpg"
+    }
+]

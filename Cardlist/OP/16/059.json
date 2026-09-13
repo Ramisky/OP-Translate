@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 54 seconds."
-}
+[
+    {
+        "card_name": "We'll Change This Mission from Sneaky to Flashy!",
+        "set_name": "The Time of Battle",
+        "card_text": "[Main] You may rest 7 of your DON!! cards: Look at 5 cards from the top of your deck; play up to 2 {Impel Down} type Character cards with 6000 power or less. Then, place the rest at the bottom of your deck in any order.\n[Counter] Your Leader gains +3000 power during this battle.",
+        "set_id": "OP-16",
+        "rarity": "UC",
+        "card_set_id": "OP16-059",
+        "card_color": "Blue",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "Buggy Pirates Impel Down",
+        "counter_amount": 0,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP16-059",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP16-059_yoLahzo.jpg"
+    }
+]

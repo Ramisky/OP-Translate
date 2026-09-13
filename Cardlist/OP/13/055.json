@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 172 seconds."
-}
+[
+    {
+        "card_name": "Rakuyo",
+        "set_name": "Carrying On His Will",
+        "card_text": "[When Attacking] If you have 4 or less cards in your hand, all of your Characters with a type including \"Whitebeard Pirates\" gain +1000 power during this turn.",
+        "set_id": "OP-13",
+        "rarity": "C",
+        "card_set_id": "OP13-055",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "Whitebeard Pirates",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP13-055",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP13-055_3hg2dZz.jpg"
+    }
+]

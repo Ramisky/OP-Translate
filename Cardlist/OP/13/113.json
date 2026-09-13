@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 70 seconds."
-}
+[
+    {
+        "card_name": "Lilith",
+        "set_name": "Carrying On His Will",
+        "card_text": "[On Play] Look at 4 cards from the top of your deck; reveal up to 1 card with a [Trigger] other than [Lilith] and add it to your hand. Then, place the rest at the bottom of your deck in any order.\n[Trigger] Activate this card's [On Play] effect.",
+        "set_id": "OP-13",
+        "rarity": "R",
+        "card_set_id": "OP13-113",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "2000",
+        "sub_types": "Scientist Egghead",
+        "counter_amount": 1000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP13-113",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP13-113_7rwG6l3.jpg"
+    },
+    {
+        "card_name": "Lilith (Alternate Art)",
+        "set_name": "Carrying On His Will",
+        "card_text": "[On Play] Look at 4 cards from the top of your deck; reveal up to 1 card with a [Trigger] other than [Lilith] and add it to your hand. Then, place the rest at the bottom of your deck in any order.\n[Trigger] Activate this card's [On Play] effect.",
+        "set_id": "OP-13",
+        "rarity": "R",
+        "card_set_id": "OP13-113",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "2000",
+        "sub_types": "Scientist Egghead",
+        "counter_amount": 1000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP13-113_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP13-113_p1_Tn6Q6cv.jpg"
+    }
+]

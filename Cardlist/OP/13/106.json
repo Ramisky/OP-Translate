@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 43 seconds."
-}
+[
+    {
+        "card_name": "Conney",
+        "set_name": "Carrying On His Will",
+        "card_text": "[Opponent's Turn] When a [Trigger] activates, this Character gains [Blocker] during this turn.\n[Trigger] Play this card.",
+        "set_id": "OP-13",
+        "rarity": "C",
+        "card_set_id": "OP13-106",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "1000",
+        "sub_types": "Bonney Pirates",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP13-106",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP13-106_mNTwrvF.jpg"
+    }
+]

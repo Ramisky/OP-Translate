@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 78 seconds."
-}
+[
+    {
+        "card_name": "Hattori",
+        "set_name": "500 Years in the Future",
+        "card_text": "[Your Turn] [On Play] Up to 1 of your [Rob Lucci] cards gains +2000 power during this turn.",
+        "set_id": "OP-07",
+        "rarity": "UC",
+        "card_set_id": "OP07-088",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "0",
+        "sub_types": "Animal CP0",
+        "counter_amount": 2000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP07-088",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-088.jpg"
+    }
+]

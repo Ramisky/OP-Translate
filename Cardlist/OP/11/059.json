@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 123 seconds."
-}
+[
+    {
+        "card_name": "Gum-Gum King Cobra",
+        "set_name": "A Fist of Divine Speed",
+        "card_text": "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, if you have 4 or less cards in your hand, that card gains an additional +2000 power during this battle.\n[Trigger] Return up to 1 Character with a cost of 2 or less to the owner's hand.",
+        "set_id": "OP-11",
+        "rarity": "C",
+        "card_set_id": "OP11-059",
+        "card_color": "Blue",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "Straw Hat Crew",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP11-059",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP11-059.jpg"
+    }
+]

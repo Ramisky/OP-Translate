@@ -1,3 +1,59 @@
-{
-    "detail": "Request was throttled. Expected available in 241 seconds."
-}
+[
+    {
+        "card_name": "King (057)",
+        "set_name": "Two Legends",
+        "card_text": "[Activate:Main] [Once Per Turn] DON!! 2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Choose one: \u2022 If you have 5 or less cards in your hand, draw 1 card. \u2022 Give up to 1 of your opponent's Characters 2 cost during this turn.",
+        "set_id": "OP-08",
+        "rarity": "L",
+        "card_set_id": "OP08-057",
+        "card_color": "Blue Purple",
+        "card_type": "Leader",
+        "life": "4",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Animal Kingdom Pirates",
+        "counter_amount": null,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-057",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-057.jpg"
+    },
+    {
+        "card_name": "King (057) (Parallel)",
+        "set_name": "Two Legends",
+        "card_text": "[Activate:Main] [Once Per Turn] DON!! 2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Choose one: \u2022 If you have 5 or less cards in your hand, draw 1 card. \u2022 Give up to 1 of your opponent's Characters 2 cost during this turn.",
+        "set_id": "OP-08",
+        "rarity": "L",
+        "card_set_id": "OP08-057",
+        "card_color": "Blue Purple",
+        "card_type": "Leader",
+        "life": "4",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Animal Kingdom Pirates",
+        "counter_amount": null,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-057_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-057_p1.jpg"
+    },
+    {
+        "card_name": "King (SPR)",
+        "set_name": "Extra Booster: Anime 25th Collection",
+        "card_text": "[Activate: Main] [Once Per Turn] DON!! 2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Choose one:\u2022 If you have 5 or less cards in your hand, draw 1 card.\u2022 Give up to 1 of your opponent's Characters 2 cost during this turn.",
+        "set_id": "EB-02",
+        "rarity": "L",
+        "card_set_id": "OP08-057",
+        "card_color": "Purple Black",
+        "card_type": "Leader",
+        "life": "4",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Animal Kingdom Pirates",
+        "counter_amount": null,
+        "attribute": "Special",
+        "date_scraped": "2025-06-29",
+        "card_image_id": "OP08-057_p2",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-057_p2.jpg"
+    }
+]

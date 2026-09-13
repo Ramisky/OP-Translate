@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 31 seconds."
-}
+[
+    {
+        "card_name": "Baby 5 (033)",
+        "set_name": "Awakening of the New Era",
+        "card_text": "[Activate:Main] (1) (You may rest the specified number of DON!! cards in your cost area.) You may rest this Character: Play up to 1 [Donquixote Pirates] type Character card with a cost of 2 or less from your hand.",
+        "set_id": "OP-05",
+        "rarity": "C",
+        "card_set_id": "OP05-033",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "1000",
+        "sub_types": "Donquixote Pirates",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP05-033",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP05-033.jpg"
+    }
+]

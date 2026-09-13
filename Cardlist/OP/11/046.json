@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 166 seconds."
-}
+[
+    {
+        "card_name": "Vinsmoke Yonji",
+        "set_name": "A Fist of Divine Speed",
+        "card_text": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)\nIf you only have Characters with a type including \"GERMA\", this Character cannot be K.O.'d or rested by your opponent's effects.",
+        "set_id": "OP-11",
+        "rarity": "C",
+        "card_set_id": "OP11-046",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "The Vinsmoke Family GERMA 66",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP11-046",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP11-046.jpg"
+    }
+]

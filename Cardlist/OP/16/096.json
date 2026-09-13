@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 56 seconds."
-}
+[
+    {
+        "card_name": "Yamato (096)",
+        "set_name": "The Time of Battle",
+        "card_text": "[Unblockable] (This card cannot be blocked.) [On K.O.] Play up to 1 [Yamato] with a cost of 6 or less from your trash.",
+        "set_id": "OP-16",
+        "rarity": "R",
+        "card_set_id": "OP16-096",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "8",
+        "card_power": "8000",
+        "sub_types": "Land of Wano",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP16-096",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP16-096_rU3xjhR.jpg"
+    }
+]

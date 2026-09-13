@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 9 seconds."
-}
+[
+    {
+        "card_name": "Lightning Beast Kiten",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "[Main] DON!! 1: If your Leader is [Enel], draw 1 card. Then, give up to 1 of your opponent's Characters 1000 power during this turn.\n[Counter] Up to 1 of your [Enel] cards gains +2000 power during this battle.",
+        "set_id": "OP15-EB04",
+        "rarity": "UC",
+        "card_set_id": "OP15-076",
+        "card_color": "Purple",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "0",
+        "card_power": null,
+        "sub_types": "Sky Island",
+        "counter_amount": 0,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP15-076",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP15-076_S16zn7C.jpg"
+    },
+    {
+        "card_name": "Lightning Beast Kiten (Dash Pack)",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "[Main] DON!! 1: If your Leader is [Enel], draw 1 card. Then, give up to 1 of your opponent's Characters 1000 power during this turn.\n[Counter] Up to 1 of your [Enel] cards gains +2000 power during this battle.",
+        "set_id": "OP15-EB04",
+        "rarity": "UC",
+        "card_set_id": "OP15-076",
+        "card_color": "Purple",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "0",
+        "card_power": null,
+        "sub_types": "Sky Island",
+        "counter_amount": 0,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP15-076",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP15-076_SWU4TiL.jpg"
+    }
+]

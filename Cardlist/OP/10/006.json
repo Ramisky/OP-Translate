@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 145 seconds."
-}
+[
+    {
+        "card_name": "Caesar Clown (006)",
+        "set_name": "Royal Blood",
+        "card_text": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 [Smiley] and add it to your hand. Then, place the rest at the bottom of your deck in any order and play up to 1 [Smiley] from your hand.",
+        "set_id": "OP-10",
+        "rarity": "UC",
+        "card_set_id": "OP10-006",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "7",
+        "card_power": "7000",
+        "sub_types": "Punk Hazard Scientist",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP10-006",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP10-006.jpg"
+    }
+]

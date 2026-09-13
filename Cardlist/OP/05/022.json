@@ -1,3 +1,59 @@
-{
-    "detail": "Request was throttled. Expected available in 40 seconds."
-}
+[
+    {
+        "card_name": "Donquixote Rosinante (022)",
+        "set_name": "Awakening of the New Era",
+        "card_text": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [End of Your Turn] If you have 6 or less cards in your hand, set this Leader as active.",
+        "set_id": "OP-05",
+        "rarity": "L",
+        "card_set_id": "OP05-022",
+        "card_color": "Blue Green",
+        "card_type": "Leader",
+        "life": "4",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Donquixote Pirates Navy",
+        "counter_amount": null,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP05-022",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP05-022.jpg"
+    },
+    {
+        "card_name": "Donquixote Rosinante (022) (Alternate Art)",
+        "set_name": "Awakening of the New Era",
+        "card_text": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [End of Your Turn] If you have 6 or less cards in your hand, set this Leader as active.",
+        "set_id": "OP-05",
+        "rarity": "L",
+        "card_set_id": "OP05-022",
+        "card_color": "Blue Green",
+        "card_type": "Leader",
+        "life": "4",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Donquixote Pirates Navy",
+        "counter_amount": null,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP05-022_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP05-022_p1.jpg"
+    },
+    {
+        "card_name": "Donquixote Rosinante (SPR)",
+        "set_name": "Extra Booster: Anime 25th Collection",
+        "card_text": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[End of Your Turn] If you have 6 or less cards in your hand, set this Leader as active.",
+        "set_id": "EB-02",
+        "rarity": "L",
+        "card_set_id": "OP05-022",
+        "card_color": "Blue Green",
+        "card_type": "Leader",
+        "life": "4",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Donquixote Pirates Navy",
+        "counter_amount": null,
+        "attribute": "Special",
+        "date_scraped": "2025-06-29",
+        "card_image_id": "OP05-022_p2",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP05-022_p2.jpg"
+    }
+]

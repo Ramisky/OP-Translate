@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 102 seconds."
-}
+[
+    {
+        "card_name": "Gild Tesoro",
+        "set_name": "Wings of the Captain",
+        "card_text": "[On Play] DON!! -1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your Leader has the [FILM] type, add up to 2 [FILM] type Character cards with a cost of 4 or less from your trash to your hand.",
+        "set_id": "OP-06",
+        "rarity": "UC",
+        "card_set_id": "OP06-071",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "FILM Grantesoro",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP06-071",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP06-071.jpg"
+    }
+]

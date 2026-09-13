@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 110 seconds."
-}
+[
+    {
+        "card_name": "Penta-Chromatic String",
+        "set_name": "The Azure Sea's Seven",
+        "card_text": "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, if your opponent has a Character with 6000 power or more, add up to 1 DON!! card from your DON!! deck and rest it.",
+        "set_id": "OP14-EB04",
+        "rarity": "UC",
+        "card_set_id": "OP14-077",
+        "card_color": "Purple",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "2",
+        "card_power": null,
+        "sub_types": "Donquixote Pirates The Seven Warlords of the Sea",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP14-077",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP14-077_dLO1jjp.jpg"
+    }
+]

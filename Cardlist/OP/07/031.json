@@ -1,3 +1,59 @@
-{
-    "detail": "Request was throttled. Expected available in 85 seconds."
-}
+[
+    {
+        "card_name": "Bartolomeo",
+        "set_name": "500 Years in the Future",
+        "card_text": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [Your Turn] [Once Per Turn] If a Character is rested by your effect, draw 1 card and trash 1 card from your hand.",
+        "set_id": "OP-07",
+        "rarity": "UC",
+        "card_set_id": "OP07-031",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "Supernovas Barto Club",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP07-031",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-031.jpg"
+    },
+    {
+        "card_name": "Bartolomeo (Pirate Foil)",
+        "set_name": "Premium Booster -The Best- Vol. 2",
+        "card_text": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[Your Turn] [Once Per Turn] If a Character is rested by your effect, draw 1 card and trash 1 card from your hand.",
+        "set_id": "PRB-02",
+        "rarity": "UC",
+        "card_set_id": "OP07-031",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "Supernovas Barto Club",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP07-031_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-031_p1.jpg"
+    },
+    {
+        "card_name": "Bartolomeo (Reprint)",
+        "set_name": "Premium Booster -The Best- Vol. 2",
+        "card_text": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[Your Turn] [Once Per Turn] If a Character is rested by your effect, draw 1 card and trash 1 card from your hand.Disclaimer: This card was reprinted from the original set with changes to the copyright information (Note: the original print did not include \"EN\" at the end of the copyright).",
+        "set_id": "PRB-02",
+        "rarity": "UC",
+        "card_set_id": "OP07-031",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "Supernovas Barto Club",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP07-031_r2",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-031_r2.jpg"
+    }
+]

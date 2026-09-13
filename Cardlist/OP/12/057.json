@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 137 seconds."
-}
+[
+    {
+        "card_name": "Ice Block Pheasant Peck",
+        "set_name": "Legacy of the Master",
+        "card_text": "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, trash 1 card from your hand.\n[Trigger] You may trash 1 card from your hand: Draw 1 card.",
+        "set_id": "OP-12",
+        "rarity": "C",
+        "card_set_id": "OP12-057",
+        "card_color": "Blue",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "Navy",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP12-057",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP12-057_T9tmHBg.jpg"
+    }
+]

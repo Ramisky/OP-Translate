@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 25 seconds."
-}
+[
+    {
+        "card_name": "Kalgara",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "[On Play] You may trash 1 card from your hand: Look at 5 cards from the top of your deck; reveal up to a total of 2 [Mont Blanc Noland] or {Shandian Warrior} type cards and add them to your hand. Then, place the rest at the bottom of your deck in any order.",
+        "set_id": "OP15-EB04",
+        "rarity": "UC",
+        "card_set_id": "OP15-101",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "5000",
+        "sub_types": "Sky Island Shandian Warrior Jaya",
+        "counter_amount": null,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP15-101",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP15-101.jpg"
+    }
+]

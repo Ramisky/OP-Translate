@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 93 seconds."
-}
+[
+    {
+        "card_name": "Fighting Fish",
+        "set_name": "Royal Blood",
+        "card_text": "[DON!! x1] [When Attacking] DON!! 1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): K.O. up to 1 of your opponent's Characters with a cost of 1 or less.",
+        "set_id": "OP-10",
+        "rarity": "C",
+        "card_set_id": "OP10-069",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "6000",
+        "sub_types": "Animal Dressrosa",
+        "counter_amount": 0,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP10-069",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP10-069.jpg"
+    }
+]

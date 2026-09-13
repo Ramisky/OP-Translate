@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 94 seconds."
-}
+[
+    {
+        "card_name": "Urouge",
+        "set_name": "The Azure Sea's Seven",
+        "card_text": "[When Attacking] If this Character has 5000 power or more, draw 1 card and K.O. up to 1 of your opponent's Characters with 3000 base power or less.",
+        "set_id": "OP14-EB04",
+        "rarity": "UC",
+        "card_set_id": "OP14-002",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "2000",
+        "sub_types": "Fallen Monk Pirates Supernovas",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP14-002",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP14-002_AiXjO5s.jpg"
+    }
+]

@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 10 seconds."
-}
+[
+    {
+        "card_name": "Tony Tony.Chopper",
+        "set_name": "Emperors in the New World",
+        "card_text": "[End of Your Turn] Set up to 1 of your \"ODYSSEY\" type Characters with a cost of 4 or less as active.",
+        "set_id": "OP-09",
+        "rarity": "C",
+        "card_set_id": "OP09-029",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "Animal Straw Hat Crew ODYSSEY",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-029",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-029.jpg"
+    }
+]

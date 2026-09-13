@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 13 seconds."
-}
+[
+    {
+        "card_name": "Gum-Gum Golden Rifle",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "[Main] If your Leader has the {Straw Hat Crew} type, trash 1 card from the top of your Life cards. Then, add up to 1 card from the top of your deck to the top of your Life cards and trash 1 card from your hand.\n[Counter] Your Leader gains +4000 power during this battle.",
+        "set_id": "OP15-EB04",
+        "rarity": "R",
+        "card_set_id": "OP15-116",
+        "card_color": "Yellow",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "Straw Hat Crew Sky Island",
+        "counter_amount": 0,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP15-116",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP15-116_Yi5jrOu.jpg"
+    },
+    {
+        "card_name": "Gum-Gum Golden Rifle (Alternate Art)",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "[Main] If your Leader has the {Straw Hat Crew} type, trash 1 card from the top of your Life cards. Then, add up to 1 card from the top of your deck to the top of your Life cards and trash 1 card from your hand.\n[Counter] Your Leader gains +4000 power during this battle.",
+        "set_id": "OP15-EB04",
+        "rarity": "R",
+        "card_set_id": "OP15-116",
+        "card_color": "Yellow",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "Straw Hat Crew Sky Island",
+        "counter_amount": 0,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP15-116_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP15-116_p1_WxTxrNj.jpg"
+    }
+]

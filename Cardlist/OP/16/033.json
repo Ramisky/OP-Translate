@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 42 seconds."
-}
+[
+    {
+        "card_name": "Morley",
+        "set_name": "The Time of Battle",
+        "card_text": "If this Character would be K.O'd, you may rest 2 of your cards instead.\n\n[Unblockable] (This card cannot be blocked.)",
+        "set_id": "OP-16",
+        "rarity": "C",
+        "card_set_id": "OP16-033",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Giant Revolutionary Army",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP16-033",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP16-033_QK66Rgf.jpg"
+    }
+]

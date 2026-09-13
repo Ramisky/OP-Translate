@@ -1,3 +1,59 @@
-{
-    "detail": "Request was throttled. Expected available in 221 seconds."
-}
+[
+    {
+        "card_name": "Emporio.Ivankov",
+        "set_name": "Awakening of the New Era",
+        "card_text": "[Activate:Main][Once Per Turn] If this Character has 7000 power or more, play up to 1 [Revolutionary Army] type Character card with 5000 power or less other than [Emporio.Ivankov] from your hand.",
+        "set_id": "OP-05",
+        "rarity": "UC",
+        "card_set_id": "OP05-004",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Revolutionary Army",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP05-004",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP05-004.jpg"
+    },
+    {
+        "card_name": "Emporio.Ivankov (Pirate Foil)",
+        "set_name": "Premium Booster -The Best- Vol. 2",
+        "card_text": "[Activate:Main][Once Per Turn] If this Character has 7000 power or more, play up to 1 [Revolutionary Army] type Character card with 5000 power or less other than [Emporio.Ivankov] from your hand.",
+        "set_id": "PRB-02",
+        "rarity": "UC",
+        "card_set_id": "OP05-004",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Revolutionary Army",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP05-004_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP05-004_p1.jpg"
+    },
+    {
+        "card_name": "Emporio.Ivankov (Reprint)",
+        "set_name": "Premium Booster -The Best- Vol. 2",
+        "card_text": "[Activate:Main][Once Per Turn] If this Character has 7000 power or more, play up to 1 [Revolutionary Army] type Character card with 5000 power or less other than [Emporio.Ivankov] from your hand.Disclaimer: This card was reprinted from the original set with changes to the copyright information (Note: the original print did not include \"EN\" at the end of the copyright) and the Artist Credit (Note: there is no pencil design on top of the artist name).",
+        "set_id": "PRB-02",
+        "rarity": "UC",
+        "card_set_id": "OP05-004",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Revolutionary Army",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP05-004_r1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP05-004_r1.jpg"
+    }
+]

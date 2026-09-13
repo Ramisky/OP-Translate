@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 44 seconds."
-}
+[
+    {
+        "card_name": "I Bid 500 Million!!",
+        "set_name": "Awakening of the New Era",
+        "card_text": "[Main] Choose one: \u2022 K.O. up to 1 of your opponent's Characters with a cost of 1 or less. \u2022 Return up to 1 of your opponent's Characters with a cost of 1 or less to the owner's hand. \u2022 Place up to 1 of your opponent's Characters with a cost of 1 or less at the top or bottom of their Life cards face-up. Then, if you have a [Celestial Dragons] type Character, draw 1 card. [Trigger] K.O. up to 1 of your opponent's Characters with a cost of 6 or less, or return it to the owner's hand.",
+        "set_id": "OP-05",
+        "rarity": "UC",
+        "card_set_id": "OP05-096",
+        "card_color": "Black",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "3",
+        "card_power": null,
+        "sub_types": "",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP05-096",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP05-096.jpg"
+    }
+]

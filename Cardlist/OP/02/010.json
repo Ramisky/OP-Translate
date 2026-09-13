@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 201 seconds."
-}
+[
+    {
+        "card_name": "Dogura",
+        "set_name": "Paramount War",
+        "card_text": "[Activate:Main] You may rest this Character: Play up to 1 red Character other than [Dogura] with a cost of 1 from your hand.",
+        "set_id": "OP-02",
+        "rarity": "C",
+        "card_set_id": "OP02-010",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "2000",
+        "sub_types": "Mountain Bandits",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP02-010",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP02-010.jpg"
+    }
+]

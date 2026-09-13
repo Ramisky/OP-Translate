@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 111 seconds."
-}
+[
+    {
+        "card_name": "Fullbody",
+        "set_name": "Legacy of the Master",
+        "card_text": null,
+        "set_id": "OP-12",
+        "rarity": "C",
+        "card_set_id": "OP12-052",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "6000",
+        "sub_types": "Navy",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP12-052",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP12-052_6iV382y.jpg"
+    }
+]

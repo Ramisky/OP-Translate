@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 213 seconds."
-}
+[
+    {
+        "card_name": "Kingdew",
+        "set_name": "Two Legends",
+        "card_text": "[Activate:Main] [Once Per Turn] You may reveal 2 cards with a type including \"Whitebeard Piratess\" from your hand: This Character gains +2000 power during this turn.",
+        "set_id": "OP-08",
+        "rarity": "UC",
+        "card_set_id": "OP08-044",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "4000",
+        "sub_types": "Whitebeard Pirates",
+        "counter_amount": 2000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-044",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-044.jpg"
+    }
+]

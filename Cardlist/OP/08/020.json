@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 158 seconds."
-}
+[
+    {
+        "card_name": "Drum Kingdom",
+        "set_name": "Two Legends",
+        "card_text": "[Opponent's Turn] All of your [Drum Kingdom] type Characters gain +1000 power.",
+        "set_id": "OP-08",
+        "rarity": "C",
+        "card_set_id": "OP08-020",
+        "card_color": "Red",
+        "card_type": "Stage",
+        "life": "NULL",
+        "card_cost": "1",
+        "card_power": "NULL",
+        "sub_types": "Drum Kingdom",
+        "counter_amount": 0,
+        "attribute": "NULL",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-020",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-020.jpg"
+    }
+]

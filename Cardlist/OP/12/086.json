@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 221 seconds."
-}
+[
+    {
+        "card_name": "Koala (086)",
+        "set_name": "Legacy of the Master",
+        "card_text": "[On Play] If your Leader has the \"Revolutionary Army\" type, look at 3 cards from the top of your deck; reveal up to 1 \"Revolutionary Army\" type card other than [Koala] or up to 1 [Nico Robin] and add it to your hand. Then, trash the rest.",
+        "set_id": "OP-12",
+        "rarity": "R",
+        "card_set_id": "OP12-086",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "2000",
+        "sub_types": "Revolutionary Army Dressrosa",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP12-086",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP12-086_m7d9Rsp.jpg"
+    },
+    {
+        "card_name": "Koala (086) (Alternate Art)",
+        "set_name": "Legacy of the Master",
+        "card_text": "[On Play] If your Leader has the \"Revolutionary Army\" type, look at 3 cards from the top of your deck; reveal up to 1 \"Revolutionary Army\" type card other than [Koala] or up to 1 [Nico Robin] and add it to your hand. Then, trash the rest.",
+        "set_id": "OP-12",
+        "rarity": "R",
+        "card_set_id": "OP12-086",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "2000",
+        "sub_types": "Revolutionary Army Dressrosa",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP12-086_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP12-086_p1_MnG1Gpi.jpg"
+    }
+]

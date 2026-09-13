@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 10 seconds."
-}
+[
+    {
+        "card_name": "Nola",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "If your Character with 7000 base power or less would be removed from the field by your opponent's effect, you may return 1 DON!! card from your field to your DON!! deck instead.",
+        "set_id": "OP15-EB04",
+        "rarity": "UC",
+        "card_set_id": "OP15-069",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "2000",
+        "sub_types": "Animal Sky Island",
+        "counter_amount": 2000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP15-069",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP15-069.jpg"
+    }
+]

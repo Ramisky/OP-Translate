@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 1 second."
-}
+[
+    {
+        "card_name": "Red Force",
+        "set_name": "Emperors in the New World",
+        "card_text": "[Activate: Main] You may rest this Stage: If your Leader has the \"Red-Haired Pirates\" type, give up to 1 of your opponent's Characters 1000 power during this turn.",
+        "set_id": "OP-09",
+        "rarity": "C",
+        "card_set_id": "OP09-021",
+        "card_color": "Red",
+        "card_type": "Stage",
+        "life": null,
+        "card_cost": "2",
+        "card_power": null,
+        "sub_types": "Red-Haired Pirates",
+        "counter_amount": 0,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-021",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-021.jpg"
+    }
+]

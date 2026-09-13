@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 57 seconds."
-}
+[
+    {
+        "card_name": "Sanjuan.Wolf",
+        "set_name": "The Time of Battle",
+        "card_text": "[On K.O.] If your Leader has the {Blackbeard Pirates} type, draw 1 card, then up to 1 of your Leader or Character cards' base power becomes 7000 during this turn.\n[Trigger] Activate this card's [On K.O.] effect.",
+        "set_id": "OP-16",
+        "rarity": "R",
+        "card_set_id": "OP16-106",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Blackbeard Pirates Giant Impel Down",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP16-106",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP16-106_xJucH9N.jpg"
+    }
+]

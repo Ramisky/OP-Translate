@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 221 seconds."
-}
+[
+    {
+        "card_name": "Queen",
+        "set_name": "Two Legends",
+        "card_text": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Animal Kingdom Pirates} type card other than [Queen] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+        "set_id": "OP-08",
+        "rarity": "R",
+        "card_set_id": "OP08-080",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "2000",
+        "sub_types": "Animal Kingdom Pirates",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-080",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-080.jpg"
+    },
+    {
+        "card_name": "Queen (Parallel)",
+        "set_name": "Two Legends",
+        "card_text": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Animal Kingdom Pirates} type card other than [Queen] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+        "set_id": "OP-08",
+        "rarity": "R",
+        "card_set_id": "OP08-080",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "2000",
+        "sub_types": "Animal Kingdom Pirates",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-080_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-080_p1.jpg"
+    }
+]

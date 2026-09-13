@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 201 seconds."
-}
+[
+    {
+        "card_name": "Lord of the Coast",
+        "set_name": "Carrying On His Will",
+        "card_text": null,
+        "set_id": "OP-13",
+        "rarity": "C",
+        "card_set_id": "OP13-010",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "8000",
+        "sub_types": "East Blue Neptunian",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP13-010",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP13-010_5hyWBG8.jpg"
+    }
+]

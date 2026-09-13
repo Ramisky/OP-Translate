@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 78 seconds."
-}
+[
+    {
+        "card_name": "Pappag",
+        "set_name": "500 Years in the Future",
+        "card_text": "If you have a [Camie] Character, this Character gains [Blocker]. (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+        "set_id": "OP-07",
+        "rarity": "C",
+        "card_set_id": "OP07-030",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "0",
+        "sub_types": "Animal",
+        "counter_amount": 2000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP07-030",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-030.jpg"
+    }
+]

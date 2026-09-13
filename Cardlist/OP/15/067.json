@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 19 seconds."
-}
+[
+    {
+        "card_name": "Shura",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "If you have 6 or less DON!! cards on your field, this Character gains [Rush].\n(This card can attack on the turn in which it is played.)\n[On Play] DON!! 1: Draw 1 card.",
+        "set_id": "OP15-EB04",
+        "rarity": "R",
+        "card_set_id": "OP15-067",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "2000",
+        "sub_types": "Sky Island Vassals",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP15-067",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP15-067_JazvZKF.jpg"
+    }
+]

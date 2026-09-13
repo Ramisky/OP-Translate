@@ -1,3 +1,59 @@
-{
-    "detail": "Request was throttled. Expected available in 31 seconds."
-}
+[
+    {
+        "card_name": "Gum-Gum Lightning",
+        "set_name": "Emperors in the New World",
+        "card_text": "[Main] DON!! 2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): K.O. up to 1 of your opponent's Characters with 6000 power or less.\n[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
+        "set_id": "OP-09",
+        "rarity": "UC",
+        "card_set_id": "OP09-077",
+        "card_color": "Purple",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "2",
+        "card_power": null,
+        "sub_types": "Straw Hat Crew The Four Emperors",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-077",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-077.jpg"
+    },
+    {
+        "card_name": "Gum-Gum Lightning (Pirate Foil)",
+        "set_name": "Premium Booster -The Best- Vol. 2",
+        "card_text": "[Main] DON!! 2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): K.O. up to 1 of your opponent's Characters with 6000 power or less.[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
+        "set_id": "PRB-02",
+        "rarity": "UC",
+        "card_set_id": "OP09-077",
+        "card_color": "Purple",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "2",
+        "card_power": null,
+        "sub_types": "Straw Hat Crew The Four Emperors",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-077_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-077_p1.jpg"
+    },
+    {
+        "card_name": "Gum-Gum Lightning (Reprint)",
+        "set_name": "Premium Booster -The Best- Vol. 2",
+        "card_text": "[Main] DON!! 2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): K.O. up to 1 of your opponent's Characters with 6000 power or less.[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.Disclaimer: This card was reprinted from the original set with changes to the copyright information (Note: the original print did not include \"EN\" at the end of the copyright).",
+        "set_id": "PRB-02",
+        "rarity": "UC",
+        "card_set_id": "OP09-077",
+        "card_color": "Purple",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "2",
+        "card_power": null,
+        "sub_types": "Straw Hat Crew The Four Emperors",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-077_r2",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-077_r2.jpg"
+    }
+]

@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 80 seconds."
-}
+[
+    {
+        "card_name": "Sterry",
+        "set_name": "Awakening of the New Era",
+        "card_text": "NULL",
+        "set_id": "OP-05",
+        "rarity": "C",
+        "card_set_id": "OP05-083",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "4000",
+        "sub_types": "Goa Kingdom",
+        "counter_amount": 1000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP05-083",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP05-083.jpg"
+    }
+]

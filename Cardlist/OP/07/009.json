@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 21 seconds."
-}
+[
+    {
+        "card_name": "Dogura & Magura",
+        "set_name": "500 Years in the Future",
+        "card_text": "[On Play] Up to 1 of your red Characters with a cost of 1 gains [Double Attack] during this turn. (This card deals 2 damage.)",
+        "set_id": "OP-07",
+        "rarity": "C",
+        "card_set_id": "OP07-009",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "3000",
+        "sub_types": "Mountain Bandits Mountain Bandits",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP07-009",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-009.jpg"
+    }
+]

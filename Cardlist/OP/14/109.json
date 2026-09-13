@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 126 seconds."
-}
+[
+    {
+        "card_name": "Victoria Cindry",
+        "set_name": "The Azure Sea's Seven",
+        "card_text": "[Blocker]\n[Trigger] Play up to 1 {Thriller Bark Pirates} type Character card with a cost of 4 or less from your trash rested.",
+        "set_id": "OP14-EB04",
+        "rarity": "C",
+        "card_set_id": "OP14-109",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "1000",
+        "sub_types": "Thriller Bark Pirates",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP14-109",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP14-109_4wYat9N.jpg"
+    }
+]

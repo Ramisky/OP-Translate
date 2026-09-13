@@ -1,3 +1,59 @@
-{
-    "detail": "Request was throttled. Expected available in 47 seconds."
-}
+[
+    {
+        "card_name": "O-Nami (SP)",
+        "set_name": "500 Years in the Future",
+        "card_text": "[On Play] Up to 1 of your Leader or Character cards gains [Banish] during this turn. (When this card deals damage, the target card is trashed without activating its Trigger.) [Trigger] K.O. up to 1 of your opponent's Characters with a cost of 5 or less.",
+        "set_id": "OP-07",
+        "rarity": "R",
+        "card_set_id": "OP06-101",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "3000",
+        "sub_types": "Straw Hat Crew",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-07-12",
+        "card_image_id": "OP06-101_p2",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP06-101_p2.jpg"
+    },
+    {
+        "card_name": "O-Nami",
+        "set_name": "Wings of the Captain",
+        "card_text": "[On Play] Up to 1 of your Leader or Character cards gains [Banish] during this turn.\n(When this card deals damage, the target card is trashed without activating its Trigger.)\n[Trigger] K.O. up to 1 of your opponent's Characters with a cost of 5 or less.",
+        "set_id": "OP-06",
+        "rarity": "R",
+        "card_set_id": "OP06-101",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "3000",
+        "sub_types": "Straw Hat Crew",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP06-101",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP06-101.jpg"
+    },
+    {
+        "card_name": "O-Nami (Alternate Art)",
+        "set_name": "Wings of the Captain",
+        "card_text": "[On Play] Up to 1 of your Leader or Character cards gains [Banish] during this turn.\n(When this card deals damage, the target card is trashed without activating its Trigger.)\n[Trigger] K.O. up to 1 of your opponent's Characters with a cost of 5 or less.",
+        "set_id": "OP-06",
+        "rarity": "R",
+        "card_set_id": "OP06-101",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "3000",
+        "sub_types": "Straw Hat Crew",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP06-101_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP06-101_p1.jpg"
+    }
+]

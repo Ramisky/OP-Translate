@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 44 seconds."
-}
+[
+    {
+        "card_name": "Snake Dance",
+        "set_name": "500 Years in the Future",
+        "card_text": "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, return up to 1 of your Characters to the owner's hand. [Trigger] You may return 1 of your Characters to the owner's hand: Return up to 1 of your opponent's Characters with a cost of 5 or less to the owner's hand.",
+        "set_id": "OP-07",
+        "rarity": "C",
+        "card_set_id": "OP07-055",
+        "card_color": "Blue",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "2",
+        "card_power": null,
+        "sub_types": "Kuja Pirates",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP07-055",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-055.jpg"
+    }
+]

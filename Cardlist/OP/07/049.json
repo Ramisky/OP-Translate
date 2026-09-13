@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 20 seconds."
-}
+[
+    {
+        "card_name": "Buckin",
+        "set_name": "500 Years in the Future",
+        "card_text": "[On Play] Play up to 1 [Edward Weevil] with a cost of 4 or less from your hand rested.",
+        "set_id": "OP-07",
+        "rarity": "C",
+        "card_set_id": "OP07-049",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "0",
+        "sub_types": "Weevil's Mother",
+        "counter_amount": 0,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP07-049",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-049.jpg"
+    }
+]

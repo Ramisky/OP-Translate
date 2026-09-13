@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 106 seconds."
-}
+[
+    {
+        "card_name": "Zeff",
+        "set_name": "Legacy of the Master",
+        "card_text": "When a DON!! card on your field is returned to your DON!! deck, if your Leader is [Sanji], this Character gains [Rush] during this turn.\n(This card can attack on the turn in which it is played.)",
+        "set_id": "OP-12",
+        "rarity": "UC",
+        "card_set_id": "OP12-072",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "East Blue",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP12-072",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP12-072_pDgUOG6.jpg"
+    }
+]

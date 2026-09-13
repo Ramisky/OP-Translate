@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 111 seconds."
-}
+[
+    {
+        "card_name": "Dracule Mihawk - OP14-020",
+        "set_name": "The Azure Sea's Seven",
+        "card_text": "If your opponent's Leader has the \"Slash\" attribute, this leader gains +1000 power.\n[Activate:Main] [Once Per Turn] You may rest 1 of your cards: If there is a Character with a cost of 5 or more, set up to 3 of your DON!! cards as active. Then, you cannot play character cards during this turn.",
+        "set_id": "OP14-EB04",
+        "rarity": "L",
+        "card_set_id": "OP14-020",
+        "card_color": "Green",
+        "card_type": "Leader",
+        "life": "5",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "The Seven Warlords of the Sea",
+        "counter_amount": null,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP14-020",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP14-020_rldSh09.jpg"
+    },
+    {
+        "card_name": "Dracule Mihawk - OP14-020 (Alternate Art)",
+        "set_name": "The Azure Sea's Seven",
+        "card_text": "If your opponent's Leader has the \"Slash\" attribute, this leader gains +1000 power.\n[Activate:Main] [Once Per Turn] You may rest 1 of your cards: If there is a Character with a cost of 5 or more, set up to 3 of your DON!! cards as active. Then, you cannot play character cards during this turn.",
+        "set_id": "OP14-EB04",
+        "rarity": "L",
+        "card_set_id": "OP14-020",
+        "card_color": "Green",
+        "card_type": "Leader",
+        "life": "5",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "The Seven Warlords of the Sea",
+        "counter_amount": null,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP14-020_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP14-020_p1_jDSsWWh.jpg"
+    }
+]

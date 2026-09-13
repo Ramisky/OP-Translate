@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 127 seconds."
-}
+[
+    {
+        "card_name": "Kumacy",
+        "set_name": "The Azure Sea's Seven",
+        "card_text": "[Trigger] Play up to 1 {Thriller Bark Pirates} type Character card with a cost of 4 or less from your trash rested.",
+        "set_id": "OP14-EB04",
+        "rarity": "C",
+        "card_set_id": "OP14-102",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "2000",
+        "sub_types": "Thriller Bark Pirates",
+        "counter_amount": 2000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP14-102",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP14-102_zIuEXKV.jpg"
+    }
+]

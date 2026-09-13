@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 196 seconds."
-}
+[
+    {
+        "card_name": "Whitey Bay",
+        "set_name": "Paramount War",
+        "card_text": "[DON!! x1] This Character can also attack your opponent's active Characters.",
+        "set_id": "OP-02",
+        "rarity": "UC",
+        "card_set_id": "OP02-014",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "2000",
+        "sub_types": "Whitebeard Pirates Allies",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP02-014",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP02-014.jpg"
+    }
+]

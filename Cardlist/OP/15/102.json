@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 15 seconds."
-}
+[
+    {
+        "card_name": "Gan.Fall",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "If you have a {Sky Island} type Character with 7000 power or more, give this card in your hand 3 cost.\n[On Play] Rest up to 1 of your opponent's Characters with a cost equal to or less than the number of your opponent's Life cards.",
+        "set_id": "OP15-EB04",
+        "rarity": "R",
+        "card_set_id": "OP15-102",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "4000",
+        "sub_types": "Sky Island",
+        "counter_amount": 2000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP15-102",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP15-102_zQbPBzl.jpg"
+    }
+]

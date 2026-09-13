@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 159 seconds."
-}
+[
+    {
+        "card_name": "S-Snake (Parallel)",
+        "set_name": "Two Legends",
+        "card_text": "[On Play] Up to 1 of your opponent's Characters with a cost of 6 or less other than [Monkey.D.Luffy] cannot attack until the end of your opponent's next turn. [Trigger] Activate this card's [On Play] effect.",
+        "set_id": "OP-08",
+        "rarity": "SR",
+        "card_set_id": "OP08-112",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Egghead Seraphim",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-112_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-112_p1.jpg"
+    },
+    {
+        "card_name": "S-Snake",
+        "set_name": "Two Legends",
+        "card_text": "[On Play] Up to 1 of your opponent's Characters with a cost of 6 or less other than [Monkey.D.Luffy] cannot attack until the end of your opponent's next turn. [Trigger] Activate this card's [On Play] effect.",
+        "set_id": "OP-08",
+        "rarity": "SR",
+        "card_set_id": "OP08-112",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Egghead Seraphim",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-112",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-112.jpg"
+    }
+]

@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 2 seconds."
-}
+[
+    {
+        "card_name": "Kaku (059)",
+        "set_name": "Pillars of Strength",
+        "card_text": "[When Attacking] DON!! -1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): This Character gains [Banish] during this battle. (When this card deals damage, the target card is trashed without activating its Trigger.)",
+        "set_id": "OP-03",
+        "rarity": "UC",
+        "card_set_id": "OP03-059",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Galley-La Company Water Seven",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP03-059",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP03-059.jpg"
+    }
+]

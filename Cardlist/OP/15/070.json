@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 22 seconds."
-}
+[
+    {
+        "card_name": "Fuza",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "All of your [Shura] cards and this Character gain [Unblockable].\n(This card cannot be blocked.)\n[Opponent's Turn] All of your [Shura] cards' base power and this Character's base power become 6000.",
+        "set_id": "OP15-EB04",
+        "rarity": "C",
+        "card_set_id": "OP15-070",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "Animal Sky Island",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP15-070",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP15-070_qB1w3q6.jpg"
+    }
+]

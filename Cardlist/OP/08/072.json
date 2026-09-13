@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 210 seconds."
-}
+[
+    {
+        "card_name": "Biscuit Warrior",
+        "set_name": "Two Legends",
+        "card_text": "Under the rules of this game, you may have any number of this card in your deck. [Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+        "set_id": "OP-08",
+        "rarity": "C",
+        "card_set_id": "OP08-072",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "5000",
+        "sub_types": "Big Mom Pirates",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-072",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-072.jpg"
+    }
+]

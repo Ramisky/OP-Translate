@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 49 seconds."
-}
+[
+    {
+        "card_name": "Donquixote Doflamingo (029)",
+        "set_name": "Awakening of the New Era",
+        "card_text": "[On Your Opponent's Attack][Once Per Turn] (1) (You may rest the specified number of DON!! cards in your cost area.): Rest up to 1 of your opponent's Characters with a cost of 6 or less.",
+        "set_id": "OP-05",
+        "rarity": "UC",
+        "card_set_id": "OP05-029",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "7",
+        "card_power": "8000",
+        "sub_types": "Donquixote Pirates",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP05-029",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP05-029.jpg"
+    }
+]

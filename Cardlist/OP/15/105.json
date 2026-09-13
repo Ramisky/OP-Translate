@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 5 seconds."
-}
+[
+    {
+        "card_name": "Jewelry Bonney (OP15-105)",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "If your Character with 7000 base power or less would be removed from the field by your opponent's effect, you may add 1 card from the top of your Life cards to your hand instead.",
+        "set_id": "OP15-EB04",
+        "rarity": "UC",
+        "card_set_id": "OP15-105",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "2000",
+        "sub_types": "Bonney Pirates Supernovas",
+        "counter_amount": 2000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP15-105",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP15-105_yt4eqp4.jpg"
+    }
+]

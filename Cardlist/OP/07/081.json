@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 48 seconds."
-}
+[
+    {
+        "card_name": "Kalifa",
+        "set_name": "500 Years in the Future",
+        "card_text": "[DON!! x1] [Your Turn] Give all of your opponent's Characters -1 cost.",
+        "set_id": "OP-07",
+        "rarity": "C",
+        "card_set_id": "OP07-081",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "CP0",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP07-081",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-081.jpg"
+    }
+]

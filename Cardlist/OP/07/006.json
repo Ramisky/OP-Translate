@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 75 seconds."
-}
+[
+    {
+        "card_name": "Sterry",
+        "set_name": "500 Years in the Future",
+        "card_text": "[On Play] You may give your 1 active Leader -5000 power during this turn: Draw 1 card and trash 1 card from your hand.",
+        "set_id": "OP-07",
+        "rarity": "C",
+        "card_set_id": "OP07-006",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "1000",
+        "sub_types": "Goa Kingdom",
+        "counter_amount": 1000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP07-006",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-006.jpg"
+    }
+]

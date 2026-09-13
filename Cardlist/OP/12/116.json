@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 97 seconds."
-}
+[
+    {
+        "card_name": "We'll Ring the Bell Waiting for You!!",
+        "set_name": "Legacy of the Master",
+        "card_text": "[Main] Look at 5 cards from the top of your deck; reveal a total of up to 2 \"Shandian Warrior\" type Character cards or [Mont Blanc Noland] and add them to your hand. Then, place the rest at the bottom of your deck in any order.\n[Trigger] Draw 1 card.",
+        "set_id": "OP-12",
+        "rarity": "C",
+        "card_set_id": "OP12-116",
+        "card_color": "Yellow",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "3",
+        "card_power": null,
+        "sub_types": "Sky Island Shandian Warrior Jaya",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP12-116",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP12-116_wDTQKI0.jpg"
+    }
+]

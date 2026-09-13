@@ -1,3 +1,59 @@
-{
-    "detail": "Request was throttled. Expected available in 168 seconds."
-}
+[
+    {
+        "card_name": "Carrot (021)",
+        "set_name": "Two Legends",
+        "card_text": "[Activate:Main] [Once Per Turn] If you have a [Minks] type Character, rest up to 1 of your opponent's Characters with a cost of 5 or less.",
+        "set_id": "OP-08",
+        "rarity": "L",
+        "card_set_id": "OP08-021",
+        "card_color": "Green",
+        "card_type": "Leader",
+        "life": "5",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Minks",
+        "counter_amount": null,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-021",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-021.jpg"
+    },
+    {
+        "card_name": "Carrot (021) (Parallel)",
+        "set_name": "Two Legends",
+        "card_text": "[Activate:Main] [Once Per Turn] If you have a [Minks] type Character, rest up to 1 of your opponent's Characters with a cost of 5 or less.",
+        "set_id": "OP-08",
+        "rarity": "L",
+        "card_set_id": "OP08-021",
+        "card_color": "Green",
+        "card_type": "Leader",
+        "life": "5",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Minks",
+        "counter_amount": null,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-021_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-021_p1.jpg"
+    },
+    {
+        "card_name": "Carrot (SPR)",
+        "set_name": "Extra Booster: Anime 25th Collection",
+        "card_text": "[Activate: Main] [Once Per Turn] If you have a \"Minks\" type Character, rest up to 1 of your opponent's Characters with a cost of 5 or less.",
+        "set_id": "EB-02",
+        "rarity": "L",
+        "card_set_id": "OP08-021",
+        "card_color": "Green",
+        "card_type": "Leader",
+        "life": "5",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Minks",
+        "counter_amount": null,
+        "attribute": "Special",
+        "date_scraped": "2025-06-29",
+        "card_image_id": "OP08-021_p2",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-021_p2.jpg"
+    }
+]

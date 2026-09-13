@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 131 seconds."
-}
+[
+    {
+        "card_name": "Sanji",
+        "set_name": "Romance Dawn",
+        "card_text": "[Activate:Main] [Once Per Turn] You may add 1 card from your Life area to your hand: This Character gains +2000 power during this turn. Then, give this Character up to 2 rested DON!! cards.",
+        "set_id": "OP-01",
+        "rarity": "R",
+        "card_set_id": "OP01-013",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "3000",
+        "sub_types": "Straw Hat Crew",
+        "counter_amount": 2000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP01-013",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP01-013.jpg"
+    },
+    {
+        "card_name": "Sanji (Parallel)",
+        "set_name": "Romance Dawn",
+        "card_text": "[Activate:Main] [Once Per Turn] You may add 1 card from your Life area to your hand: This Character gains +2000 power during this turn. Then, give this Character up to 2 rested DON!! cards.",
+        "set_id": "OP-01",
+        "rarity": "R",
+        "card_set_id": "OP01-013",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "3000",
+        "sub_types": "Straw Hat Crew",
+        "counter_amount": 2000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP01-013_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP01-013_p1.jpg"
+    }
+]

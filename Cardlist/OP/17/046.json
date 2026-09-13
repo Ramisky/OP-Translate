@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 29 seconds."
-}
+[
+    {
+        "card_name": "Gloriosa",
+        "set_name": "The World's Strongest Warriors",
+        "card_text": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)\n[On Play] Place up to 1 Character with a cost of 5 or less at the bottom of the owner's deck.",
+        "set_id": "OP-17",
+        "rarity": "SR",
+        "card_set_id": "OP17-046",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "1000",
+        "sub_types": "Amazon Lily Rocks Pirates",
+        "counter_amount": 0,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP17-046",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP17-046_lp8fYOT.jpg"
+    },
+    {
+        "card_name": "Gloriosa (Alternate Art)",
+        "set_name": "The World's Strongest Warriors",
+        "card_text": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)\n[On Play] Place up to 1 Character with a cost of 5 or less at the bottom of the owner's deck.",
+        "set_id": "OP-17",
+        "rarity": "SR",
+        "card_set_id": "OP17-046",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "1000",
+        "sub_types": "Amazon Lily Rocks Pirates",
+        "counter_amount": 0,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP17-046_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP17-046_p1_PEPU2kF.jpg"
+    }
+]

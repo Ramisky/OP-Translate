@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 218 seconds."
-}
+[
+    {
+        "card_name": "Charlotte Katakuri (063)",
+        "set_name": "Two Legends",
+        "card_text": "[On Play] You may turn 1 card from the top of your Life cards face-down: Add up to 1 DON!! card from your DON!! deck and set it as active.",
+        "set_id": "OP-08",
+        "rarity": "R",
+        "card_set_id": "OP08-063",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "7000",
+        "sub_types": "Big Mom Pirates",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-063",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-063.jpg"
+    }
+]

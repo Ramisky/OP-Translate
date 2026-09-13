@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 93 seconds."
-}
+[
+    {
+        "card_name": "Jinbe",
+        "set_name": "Awakening of the New Era",
+        "card_text": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [Opponent's Turn] If you have 10 DON!! cards on your field, this Character gains +1000 power.",
+        "set_id": "OP-05",
+        "rarity": "C",
+        "card_set_id": "OP05-066",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Fish-Man Straw Hat Crew",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP05-066",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP05-066.jpg"
+    }
+]

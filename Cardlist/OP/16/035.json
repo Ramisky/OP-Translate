@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 68 seconds."
-}
+[
+    {
+        "card_name": "Roronoa Zoro (035)",
+        "set_name": "The Time of Battle",
+        "card_text": "[On Play] Rest up to 1 of your opponent's cards. Then, you may trash 1 card from your hand. If you do, give up to 3 rested DON!! cards to your Leader.",
+        "set_id": "OP-16",
+        "rarity": "C",
+        "card_set_id": "OP16-035",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "7",
+        "card_power": "9000",
+        "sub_types": "Straw Hat Crew",
+        "counter_amount": 0,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP16-035",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP16-035_cKIOLrf.jpg"
+    }
+]

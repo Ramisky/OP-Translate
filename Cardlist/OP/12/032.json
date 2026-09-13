@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 229 seconds."
-}
+[
+    {
+        "card_name": "Nekomamushi",
+        "set_name": "Legacy of the Master",
+        "card_text": null,
+        "set_id": "OP-12",
+        "rarity": "UC",
+        "card_set_id": "OP12-032",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "7000",
+        "sub_types": "Land of Wano Minks The Akazaya Nine",
+        "counter_amount": 2000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP12-032",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP12-032_ZtIpWP2.jpg"
+    }
+]

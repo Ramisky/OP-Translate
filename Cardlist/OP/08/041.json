@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 243 seconds."
-}
+[
+    {
+        "card_name": "Aphelandra",
+        "set_name": "Two Legends",
+        "card_text": "[Activate:Main] You may return this Character to the owner's hand: If your Leader has the {Kuja Pirates} type, place up to 1 of your opponent's Characters with a cost of 1 or less at the bottom of the owner's deck.",
+        "set_id": "OP-08",
+        "rarity": "C",
+        "card_set_id": "OP08-041",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "Amazon Lily",
+        "counter_amount": 2000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-041",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-041.jpg"
+    }
+]

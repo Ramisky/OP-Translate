@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 20 seconds."
-}
+[
+    {
+        "card_name": "Holly",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "All of your [Ohm] cards and this Character gain [Double Attack].\n(This card deals 2 damage.)\n[Opponent's Turn] All of your [Ohm] cards' base power and this Character's base power become 6000.",
+        "set_id": "OP15-EB04",
+        "rarity": "C",
+        "card_set_id": "OP15-071",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "Animal Sky Island",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP15-071",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP15-071_6gGIXlN.jpg"
+    }
+]

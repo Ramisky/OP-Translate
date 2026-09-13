@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 228 seconds."
-}
+[
+    {
+        "card_name": "S-Shark",
+        "set_name": "Two Legends",
+        "card_text": "[DON!! x1] [When Attacking] Your opponent cannot activate [Blocker] during this battle. [Trigger] You may trash 1 card from your hand: If you have 2 or less Life cards, play this card.",
+        "set_id": "OP-08",
+        "rarity": "UC",
+        "card_set_id": "OP08-111",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Egghead Seraphim",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-111",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-111.jpg"
+    }
+]

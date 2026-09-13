@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 53 seconds."
-}
+[
+    {
+        "card_name": "Vinsmoke Reiju",
+        "set_name": "500 Years in the Future",
+        "card_text": "[On Play] If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, return up to 1 of your [The Vinsmoke Family] type Characters with a cost of 1 to the owner's hand.",
+        "set_id": "OP-07",
+        "rarity": "C",
+        "card_set_id": "OP07-062",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "2000",
+        "sub_types": "The Vinsmoke Family Kingdom of GERMA",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP07-062",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-062.jpg"
+    }
+]

@@ -1,3 +1,59 @@
-{
-    "detail": "Request was throttled. Expected available in 223 seconds."
-}
+[
+    {
+        "card_name": "Nami (Parallel)",
+        "set_name": "Two Legends",
+        "card_text": "[On Play] You may trash 1 card with a [Trigger] from your hand: K.O. up to 1 of your opponent's Characters with a cost of 5 or less. Then, if you have 3 or less cards in your hand, draw 1 card. [Trigger] Activate this card's [On Play] effect.",
+        "set_id": "OP-08",
+        "rarity": "SR",
+        "card_set_id": "OP08-106",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "5000",
+        "sub_types": "Straw Hat Crew Egghead",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-106_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-106_p1.jpg"
+    },
+    {
+        "card_name": "Nami",
+        "set_name": "Two Legends",
+        "card_text": "[On Play] You may trash 1 card with a [Trigger] from your hand: K.O. up to 1 of your opponent's Characters with a cost of 5 or less. Then, if you have 3 or less cards in your hand, draw 1 card. [Trigger] Activate this card's [On Play] effect.",
+        "set_id": "OP-08",
+        "rarity": "SR",
+        "card_set_id": "OP08-106",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "5000",
+        "sub_types": "Straw Hat Crew Egghead",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-106",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-106.jpg"
+    },
+    {
+        "card_name": "Nami (SP)",
+        "set_name": "Emperors in the New World",
+        "card_text": "[On Play] You may trash 1 card with a [Trigger] from your hand: K.O. up to 1 of your opponent's Characters with a cost of 5 or less. Then, if you have 3 or less cards in your hand, draw 1 card.\n[Trigger] Activate this card's [On Play] effect.",
+        "set_id": "OP-09",
+        "rarity": "SR",
+        "card_set_id": "OP08-106",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "5000",
+        "sub_types": "Straw Hat Crew Egghead",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-03",
+        "card_image_id": "OP08-106_p2",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-106_p2.jpg"
+    }
+]

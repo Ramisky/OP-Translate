@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 249 seconds."
-}
+[
+    {
+        "card_name": "S-Bear",
+        "set_name": "Two Legends",
+        "card_text": "[Trigger] You may trash 1 card from your hand: If you have 2 or less Life cards, play this card and K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
+        "set_id": "OP-08",
+        "rarity": "C",
+        "card_set_id": "OP08-113",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "Egghead Seraphim",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-113",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-113.jpg"
+    }
+]

@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 9 seconds."
-}
+[
+    {
+        "card_name": "Withdraw Now and Allow Me to Save Face",
+        "set_name": "The World's Strongest Warriors",
+        "card_text": "[Main] You may rest 6 of your DON!! cards: Rest up to 1 of your opponent's Characters. Then, K.O. up to 2 of your opponent's rested Characters with a cost of 6 or less.\n\n[Counter] Up to 1 of your [Shanks] gains +4000 power during this battle.",
+        "set_id": "OP-17",
+        "rarity": "UC",
+        "card_set_id": "OP17-036",
+        "card_color": "Green",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "The Four Emperors Red-Haired Pirates",
+        "counter_amount": 0,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP17-036",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP17-036_sck9Dv5.jpg"
+    }
+]

@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 113 seconds."
-}
+[
+    {
+        "card_name": "Boa Hancock - OP14-041",
+        "set_name": "The Azure Sea's Seven",
+        "card_text": "[Opponent's Turn] When you play a Character, draw 1 card. [DON!!x1] [Once Per Turn] When one of your {Amazon Lily} or {Kuja Pirates} type Characters with 5000 base power or more is K.O.'d add up to 1 card from the top of your opponent's Life cards to the owner's hand.",
+        "set_id": "OP14-EB04",
+        "rarity": "L",
+        "card_set_id": "OP14-041",
+        "card_color": "Blue Yellow",
+        "card_type": "Leader",
+        "life": "4",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Kuja Pirates The Seven Warlords of the Sea",
+        "counter_amount": null,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP14-041",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP14-041_MBtOATa.jpg"
+    },
+    {
+        "card_name": "Boa Hancock - OP14-041 (Alternate Art)",
+        "set_name": "The Azure Sea's Seven",
+        "card_text": "[Opponent's Turn] When you play a Character, draw 1 card. [DON!!x1] [Once Per Turn] When one of your {Amazon Lily} or {Kuja Pirates} type Characters with 5000 base power or more is K.O.'d add up to 1 card from the top of your opponent's Life cards to the owner's hand.",
+        "set_id": "OP14-EB04",
+        "rarity": "L",
+        "card_set_id": "OP14-041",
+        "card_color": "Blue Yellow",
+        "card_type": "Leader",
+        "life": "4",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Kuja Pirates The Seven Warlords of the Sea",
+        "counter_amount": null,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP14-041_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP14-041_p1_waNoiMm.jpg"
+    }
+]

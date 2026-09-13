@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 27 seconds."
-}
+[
+    {
+        "card_name": "Brook (OP15-022)",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "Under the rules of this game, you do not lose when your deck has 0 cards. You lose at the end of the turn in which your deck becomes 0 cards. [Activate: Main] [Once Per Turn] Trash 4 cards from the top of your deck. Then, if your deck has 0 cards, set up to 1 of your Characters as active.",
+        "set_id": "OP15-EB04",
+        "rarity": "L",
+        "card_set_id": "OP15-022",
+        "card_color": "Green Black",
+        "card_type": "Leader",
+        "life": "4",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Straw Hat Crew",
+        "counter_amount": null,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP15-022",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP15-022.jpg"
+    },
+    {
+        "card_name": "Brook (OP15-022) (Alternate Art)",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "Under the rules of this game, you do not lose when your deck has 0 cards. You lose at the end of the turn in which your deck becomes 0 cards. [Activate: Main] [Once Per Turn] Trash 4 cards from the top of your deck. Then, if your deck has 0 cards, set up to 1 of your Characters as active.",
+        "set_id": "OP15-EB04",
+        "rarity": "L",
+        "card_set_id": "OP15-022",
+        "card_color": "Green Black",
+        "card_type": "Leader",
+        "life": "4",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Straw Hat Crew",
+        "counter_amount": null,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP15-022_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP15-022_p1.jpg"
+    }
+]

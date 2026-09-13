@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 153 seconds."
-}
+[
+    {
+        "card_name": "Saint Homing",
+        "set_name": "Royal Blood",
+        "card_text": "[Activate: Main] You may trash this Character: Up to 1 of your black Characters gains +3 cost until the end of your opponent's next turn.",
+        "set_id": "OP-10",
+        "rarity": "C",
+        "card_set_id": "OP10-093",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "0",
+        "sub_types": "Celestial Dragons",
+        "counter_amount": 1000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP10-093",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP10-093.jpg"
+    }
+]

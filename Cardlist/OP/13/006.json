@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 73 seconds."
-}
+[
+    {
+        "card_name": "Woop Slap",
+        "set_name": "Carrying On His Will",
+        "card_text": "[On Play] Give up to 2 rested DON!! cards to 1 of your [Monkey.D.Luffy] cards.",
+        "set_id": "OP-13",
+        "rarity": "C",
+        "card_set_id": "OP13-006",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "0",
+        "sub_types": "Windmill Village",
+        "counter_amount": 1000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP13-006",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP13-006_7BIDucC.jpg"
+    }
+]

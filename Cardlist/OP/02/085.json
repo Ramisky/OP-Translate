@@ -1,3 +1,59 @@
-{
-    "detail": "Request was throttled. Expected available in 15 seconds."
-}
+[
+    {
+        "card_name": "Magellan (SP)",
+        "set_name": "Kingdoms of Intrigue",
+        "card_text": "[On Play] DON!! -1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Your opponent returns 1 DON!! card from their field to their DON!! deck. [Opponent's Turn] When this Character is K.O.'d, your opponent returns 2 DON!! cards from their field to their DON!! deck.",
+        "set_id": "OP-04",
+        "rarity": "SR",
+        "card_set_id": "OP02-085",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Impel Down",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP02-085_p2",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP02-085_p2.jpg"
+    },
+    {
+        "card_name": "Magellan (085)",
+        "set_name": "Paramount War",
+        "card_text": "[On Play] DON!! -1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Your opponent returns 1 DON!! card from their field to their DON!! deck. [Opponent's Turn] When this Character is K.O.'d, your opponent returns 2 DON!! cards from their field to their DON!! deck.",
+        "set_id": "OP-02",
+        "rarity": "SR",
+        "card_set_id": "OP02-085",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Impel Down",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP02-085",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP02-085.jpg"
+    },
+    {
+        "card_name": "Magellan (085) (Alternate Art)",
+        "set_name": "Paramount War",
+        "card_text": "[On Play] DON!! -1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Your opponent returns 1 DON!! card from their field to their DON!! deck. [Opponent's Turn] When this Character is K.O.'d, your opponent returns 2 DON!! cards from their field to their DON!! deck.",
+        "set_id": "OP-02",
+        "rarity": "SR",
+        "card_set_id": "OP02-085",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Impel Down",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP02-085_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP02-085_p1.jpg"
+    }
+]

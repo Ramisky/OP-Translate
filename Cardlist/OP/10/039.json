@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 121 seconds."
-}
+[
+    {
+        "card_name": "Gum-Gum Dragon Fire Pistol Twister Star",
+        "set_name": "Royal Blood",
+        "card_text": "[Main] If your Leader has the \"ODYSSEY\" type, look at 5 cards from the top of your deck; reveal up to 2 \"ODYSSEY\" type Character cards and add them to your hand. Then, place the rest at the bottom of your deck in any order.\n[Trigger] Rest up to 1 of your opponent's Characters with a cost of 5 or less.",
+        "set_id": "OP-10",
+        "rarity": "UC",
+        "card_set_id": "OP10-039",
+        "card_color": "Green",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "3",
+        "card_power": null,
+        "sub_types": "Straw Hat Crew Supernovas ODYSSEY",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP10-039",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP10-039.jpg"
+    }
+]

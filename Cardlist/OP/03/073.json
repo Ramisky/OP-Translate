@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 2 seconds."
-}
+[
+    {
+        "card_name": "Hull Dismantler Slash",
+        "set_name": "Pillars of Strength",
+        "card_text": "[Main] DON!! -1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your Leader has the [Water Seven] type, K.O. up to 1 of your opponent's Characters with a cost of 2 or less. [Trigger] Activate this card's [Main] effect.",
+        "set_id": "OP-03",
+        "rarity": "C",
+        "card_set_id": "OP03-073",
+        "card_color": "Purple",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "Water Seven The Franky Family",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP03-073",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP03-073.jpg"
+    }
+]

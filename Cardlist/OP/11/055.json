@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 129 seconds."
-}
+[
+    {
+        "card_name": "Bartolomeo",
+        "set_name": "A Fist of Divine Speed",
+        "card_text": null,
+        "set_id": "OP-11",
+        "rarity": "UC",
+        "card_set_id": "OP11-055",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "7000",
+        "sub_types": "Supernovas Dressrosa",
+        "counter_amount": 2000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP11-055",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP11-055.jpg"
+    }
+]

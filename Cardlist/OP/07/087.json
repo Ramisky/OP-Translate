@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 28 seconds."
-}
+[
+    {
+        "card_name": "Baskerville",
+        "set_name": "500 Years in the Future",
+        "card_text": "[Your Turn] If your opponent has a Character with a cost of 0, this Character gains +3000 power.",
+        "set_id": "OP-07",
+        "rarity": "C",
+        "card_set_id": "OP07-087",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "3000",
+        "sub_types": "World Government",
+        "counter_amount": 2000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP07-087",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-087.jpg"
+    }
+]

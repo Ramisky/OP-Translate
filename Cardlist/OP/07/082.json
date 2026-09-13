@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 64 seconds."
-}
+[
+    {
+        "card_name": "Captain John",
+        "set_name": "500 Years in the Future",
+        "card_text": "[On Play] Trash 2 cards from the top of your deck and give up to 1 of your opponent's Characters -1 cost during this turn.",
+        "set_id": "OP-07",
+        "rarity": "UC",
+        "card_set_id": "OP07-082",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "3000",
+        "sub_types": "Thriller Bark Pirates Former Rocks Pirates",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP07-082",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-082.jpg"
+    }
+]

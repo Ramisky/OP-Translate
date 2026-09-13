@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 180 seconds."
-}
+[
+    {
+        "card_name": "Shishilian",
+        "set_name": "Paramount War",
+        "card_text": "[On Play] (2) (You may rest the specified number of DON!! cards in your cost area.): Set up to 1 of your [Minks] type Characters with a cost of 5 or less as active.",
+        "set_id": "OP-02",
+        "rarity": "UC",
+        "card_set_id": "OP02-032",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "3000",
+        "sub_types": "Minks",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP02-032",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP02-032.jpg"
+    }
+]

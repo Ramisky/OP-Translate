@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 68 seconds."
-}
+[
+    {
+        "card_name": "Roronoa Zoro (113)",
+        "set_name": "500 Years in the Future",
+        "card_text": "[Trigger] If your Leader has the [Egghead] type, rest up to 1 of your opponent's Leader or Character cards.",
+        "set_id": "OP-07",
+        "rarity": "UC",
+        "card_set_id": "OP07-113",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Straw Hat Crew Egghead",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP07-113",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-113.jpg"
+    }
+]

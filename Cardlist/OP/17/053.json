@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 165 seconds."
-}
+[
+    {
+        "card_name": "Barbell",
+        "set_name": "The World's Strongest Warriors",
+        "card_text": "[On K.O.] Your opponent places 2 cards from their hand at the bottom of their deck in any order.\n\n[Activate: Main] [Once Per Turn] You may trash 1 card from your hand: This Character gains +3000 power during this turn",
+        "set_id": "OP-17",
+        "rarity": "C",
+        "card_set_id": "OP17-053",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "7000",
+        "sub_types": "Fish-Man Rocks Pirates",
+        "counter_amount": 0,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP17-053",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP17-053_E1I7iXr.jpg"
+    }
+]

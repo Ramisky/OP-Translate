@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 4 seconds."
-}
+[
+    {
+        "card_name": "Koushirou",
+        "set_name": "Legacy of the Master",
+        "card_text": "If your (Slash) attribute Character with a cost of 5 or less other than this Character would be K.O.'d by your opponent's effect, you may rest this Character instead.\n[Blocker]",
+        "set_id": "OP-12",
+        "rarity": "UC",
+        "card_set_id": "OP12-027",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "1000",
+        "sub_types": "East Blue Frost Moon Village",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP12-027",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP12-027_A8N5PiE.jpg"
+    }
+]

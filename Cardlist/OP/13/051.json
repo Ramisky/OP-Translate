@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 71 seconds."
-}
+[
+    {
+        "card_name": "Boa Hancock",
+        "set_name": "Carrying On His Will",
+        "card_text": "[On K.O.] If your Leader is [Boa Hancock] or multicolored, draw 2 cards.",
+        "set_id": "OP-13",
+        "rarity": "R",
+        "card_set_id": "OP13-051",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "5000",
+        "sub_types": "Kuja Pirates The Seven Warlords of the Sea",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP13-051",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP13-051_gxxw7PU.jpg"
+    },
+    {
+        "card_name": "Boa Hancock (Alternate Art)",
+        "set_name": "Carrying On His Will",
+        "card_text": "[On K.O.] If your Leader is [Boa Hancock] or multicolored, draw 2 cards.",
+        "set_id": "OP-13",
+        "rarity": "R",
+        "card_set_id": "OP13-051",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "5000",
+        "sub_types": "Kuja Pirates The Seven Warlords of the Sea",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP13-051_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP13-051_p1_vuQ63Jj.jpg"
+    }
+]

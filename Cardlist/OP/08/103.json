@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 1 second."
-}
+[
+    {
+        "card_name": "Charlotte Custard",
+        "set_name": "Two Legends",
+        "card_text": "[Activate:Main] [Once Per Turn] You may add 1 card from the top of your Life cards to your hand: Up to 1 of your Characters gains +1000 power until the end of your opponent's next turn.",
+        "set_id": "OP-08",
+        "rarity": "UC",
+        "card_set_id": "OP08-103",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "3000",
+        "sub_types": "Big Mom Pirates",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-103",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-103.jpg"
+    }
+]

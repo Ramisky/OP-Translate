@@ -1,3 +1,59 @@
-{
-    "detail": "Request was throttled. Expected available in 73 seconds."
-}
+[
+    {
+        "card_name": "He Possesses the World's Most Brilliant Mind",
+        "set_name": "500 Years in the Future",
+        "card_text": "[Main] Look at 5 cards from the top of your deck; reveal up to 1 [Egghead] type card other than [He Possesses the World's Most Brilliant Mind] and add it to your hand. Then, place the rest at the bottom of your deck in any order. [Trigger] Draw 1 card.",
+        "set_id": "OP-07",
+        "rarity": "UC",
+        "card_set_id": "OP07-114",
+        "card_color": "Yellow",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "Scientist Egghead",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP07-114",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-114.jpg"
+    },
+    {
+        "card_name": "He Possesses the World's Most Brilliant Mind (Pirate Foil)",
+        "set_name": "Premium Booster -The Best- Vol. 2",
+        "card_text": "[Main] Look at 5 cards from the top of your deck; reveal up to 1 [Egghead] type card other than [He Possesses the World's Most Brilliant Mind] and add it to your hand. Then, place the rest at the bottom of your deck in any order.[Trigger] Draw 1 card.",
+        "set_id": "PRB-02",
+        "rarity": "UC",
+        "card_set_id": "OP07-114",
+        "card_color": "Yellow",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "Scientist Egghead",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP07-114_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-114_p1.jpg"
+    },
+    {
+        "card_name": "He Possesses the World's Most Brilliant Mind (Reprint)",
+        "set_name": "Premium Booster -The Best- Vol. 2",
+        "card_text": "[Main] Look at 5 cards from the top of your deck; reveal up to 1 [Egghead] type card other than [He Possesses the World's Most Brilliant Mind] and add it to your hand. Then, place the rest at the bottom of your deck in any order.[Trigger] Draw 1 card.Disclaimer: This card was reprinted from the original set with changes to the copyright information (Note: the original print did not include \"EN\" at the end of the copyright).",
+        "set_id": "PRB-02",
+        "rarity": "UC",
+        "card_set_id": "OP07-114",
+        "card_color": "Yellow",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "Scientist Egghead",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP07-114_r1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-114_r1.jpg"
+    }
+]

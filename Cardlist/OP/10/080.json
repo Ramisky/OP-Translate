@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 113 seconds."
-}
+[
+    {
+        "card_name": "Little Black Bears",
+        "set_name": "Royal Blood",
+        "card_text": "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, if you have 7 or more DON!! cards on your field and 5 or less cards in your hand, draw 1 card.\n[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
+        "set_id": "OP-10",
+        "rarity": "C",
+        "card_set_id": "OP10-080",
+        "card_color": "Purple",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "3",
+        "card_power": null,
+        "sub_types": "Donquixote Pirates",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP10-080",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP10-080.jpg"
+    }
+]

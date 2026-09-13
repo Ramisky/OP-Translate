@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 133 seconds."
-}
+[
+    {
+        "card_name": "Vagabond Drill",
+        "set_name": "A Fist of Divine Speed",
+        "card_text": "[Counter] Up to 1 of your \"Fish-Man\" or \"Merfolk\" type Leader or Character cards gains +3000 power during this battle. Then, rest up to 1 of your opponent's Characters with a cost of 3 or less.\n[Trigger] Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+        "set_id": "OP-11",
+        "rarity": "C",
+        "card_set_id": "OP11-039",
+        "card_color": "Green",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "Fish-Man The Sun Pirates Fish-Man Island",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP11-039",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP11-039.jpg"
+    }
+]

@@ -1,3 +1,59 @@
-{
-    "detail": "Request was throttled. Expected available in 94 seconds."
-}
+[
+    {
+        "card_name": "Gedatsu",
+        "set_name": "Awakening of the New Era",
+        "card_text": "[On Play] K.O. up to 1 of your opponent's Characters with a cost equal to or less than the number of your opponent's Life cards.",
+        "set_id": "OP-05",
+        "rarity": "R",
+        "card_set_id": "OP05-102",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Sky Island Vassals",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP05-102",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP05-102.jpg"
+    },
+    {
+        "card_name": "Gedatsu (Alternate Art)",
+        "set_name": "Awakening of the New Era",
+        "card_text": "[On Play] K.O. up to 1 of your opponent's Characters with a cost equal to or less than the number of your opponent's Life cards.",
+        "set_id": "OP-05",
+        "rarity": "R",
+        "card_set_id": "OP05-102",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Sky Island Vassals",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP05-102_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP05-102_p1.jpg"
+    },
+    {
+        "card_name": "Gedatsu (Reprint)",
+        "set_name": "Premium Booster -The Best- Vol. 2",
+        "card_text": "[On Play] K.O. up to 1 of your opponent's Characters with a cost equal to or less than the number of your opponent's Life cards.Disclaimer: This card was reprinted from the original set with changes to the copyright information (Note: the original print did not include \"EN\" at the end of the copyright) and the Artist Credit (Note: there is no pencil design on top of the artist name).",
+        "set_id": "PRB-02",
+        "rarity": "R",
+        "card_set_id": "OP05-102",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Sky Island Vassals",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP05-102_r1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP05-102_r1.jpg"
+    }
+]

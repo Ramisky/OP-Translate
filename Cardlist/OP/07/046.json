@@ -1,3 +1,59 @@
-{
-    "detail": "Request was throttled. Expected available in 87 seconds."
-}
+[
+    {
+        "card_name": "Sengoku",
+        "set_name": "500 Years in the Future",
+        "card_text": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 [The Seven Warlords of the Sea] type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+        "set_id": "OP-07",
+        "rarity": "R",
+        "card_set_id": "OP07-046",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "2000",
+        "sub_types": "Navy",
+        "counter_amount": 1000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP07-046",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-046.jpg"
+    },
+    {
+        "card_name": "Sengoku (Parallel)",
+        "set_name": "500 Years in the Future",
+        "card_text": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 [The Seven Warlords of the Sea] type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+        "set_id": "OP-07",
+        "rarity": "R",
+        "card_set_id": "OP07-046",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "2000",
+        "sub_types": "Navy",
+        "counter_amount": 1000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP07-046_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-046_p1.jpg"
+    },
+    {
+        "card_name": "Sengoku - OP07-046 (SP)",
+        "set_name": "The Azure Sea's Seven",
+        "card_text": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {The Seven Warlords of the Sea} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+        "set_id": "OP14-EB04",
+        "rarity": "R",
+        "card_set_id": "OP07-046",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "2000",
+        "sub_types": "Navy",
+        "counter_amount": 1000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP07-046_p2",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-046_p2.jpg"
+    }
+]

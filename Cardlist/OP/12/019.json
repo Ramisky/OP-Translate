@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 131 seconds."
-}
+[
+    {
+        "card_name": "Color of Arms Haki",
+        "set_name": "Legacy of the Master",
+        "card_text": "[Main] You may give 1 active DON!! card to 1 of your [Silvers Rayleigh]: Up to 1 of your Leader or Character cards gains +1000 power during this turn.\n[Counter] Up to 1 of your Characters or [Silvers Rayleigh] gains +2000 power during this battle.",
+        "set_id": "OP-12",
+        "rarity": "C",
+        "card_set_id": "OP12-019",
+        "card_color": "Red",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "Former Roger Pirates",
+        "card_power": null,
+        "sub_types": null,
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP12-019",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP12-019_uT5oPbh.jpg"
+    }
+]

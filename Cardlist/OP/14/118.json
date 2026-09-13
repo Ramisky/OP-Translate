@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 1 second."
-}
+[
+    {
+        "card_name": "You'll Frighten Me...",
+        "set_name": "The Azure Sea's Seven",
+        "card_text": "[Counter] If you have 2 or less Life cards, up to 1 of your opponent's active Characters cannot attack during this turn.\n[Trigger] Play up to 1 Character card with 6000 power or less and a [Trigger] from your hand.",
+        "set_id": "OP14-EB04",
+        "rarity": "R",
+        "card_set_id": "OP14-118",
+        "card_color": "Yellow",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "Kuja Pirates The Seven Warlords of the Sea",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP14-118",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP14-118_4AgRRKu.jpg"
+    },
+    {
+        "card_name": "You'll Frighten Me... (Alternate Art)",
+        "set_name": "The Azure Sea's Seven",
+        "card_text": "[Counter] If you have 2 or less Life cards, up to 1 of your opponent's active Characters cannot attack during this turn.[Trigger] Play up to 1 Character card with 6000 power or less and a [Trigger] from your hand.",
+        "set_id": "OP14-EB04",
+        "rarity": "R",
+        "card_set_id": "OP14-118",
+        "card_color": "Yellow",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "Kuja Pirates The Seven Warlords of the Sea",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP14-118_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP14-118_p1_h4F7bDJ.jpg"
+    }
+]

@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 11 seconds."
-}
+[
+    {
+        "card_name": "Gum-Gum Kong Gun",
+        "set_name": "The World's Strongest Warriors",
+        "card_text": "[Main] You may rest 6 of your DON!! cards: If there is a Character with a cost of 12 or more, K.O. up to 2 of your opponent's Characters with a cost of 6 or less.\n[Counter] Your Leader gains +3000 power during this battle.",
+        "set_id": "OP-17",
+        "rarity": "C",
+        "card_set_id": "OP17-098",
+        "card_color": "Black",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "Elbaph The Four Emperors Straw Hat Crew",
+        "counter_amount": 0,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP17-098",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP17-098_mDUugf5.jpg"
+    }
+]

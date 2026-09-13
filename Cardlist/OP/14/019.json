@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 103 seconds."
-}
+[
+    {
+        "card_name": "I Have a Plan to Take Down One of the Four Emperors!!",
+        "set_name": "The Azure Sea's Seven",
+        "card_text": "[Main] Look at 4 cards from the top of your deck; reveal up to 1 {Supernovas} or {Straw Hat Crew} type Character card and add it to your hand. Then, place the rest at the bottom of your deck in any order.[Trigger] Draw 1 card.",
+        "set_id": "OP14-EB04",
+        "rarity": "UC",
+        "card_set_id": "OP14-019",
+        "card_color": "Red",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "Heart Pirates Supernovas The Seven Warlords of the Sea",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP14-019",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP14-019_drkS6oa.jpg"
+    }
+]

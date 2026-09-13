@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 1 second."
-}
+[
+    {
+        "card_name": "Sasaki",
+        "set_name": "Kingdoms of Intrigue",
+        "card_text": "[On Play] Return all cards in your hand to your deck and shuffle your deck. Then, draw cards equal to the number you returned to your deck.",
+        "set_id": "OP-04",
+        "rarity": "UC",
+        "card_set_id": "OP04-048",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "Animal Kingdom Pirates",
+        "counter_amount": 2000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP04-048",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP04-048.jpg"
+    }
+]

@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 22 seconds."
-}
+[
+    {
+        "card_name": "Porche",
+        "set_name": "500 Years in the Future",
+        "card_text": "[On Play] DON!! -1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Look at 5 cards from the top of your deck; reveal up to 1 [Foxy Pirates] type card and add it to your hand. Then, place the rest at the bottom of your deck in any order and play up to 1 purple Character card with 4000 power or less from your hand.",
+        "set_id": "OP-07",
+        "rarity": "SR",
+        "card_set_id": "OP07-072",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "5000",
+        "sub_types": "Foxy Pirates",
+        "counter_amount": 0,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP07-072",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-072.jpg"
+    },
+    {
+        "card_name": "Porche (Parallel)",
+        "set_name": "500 Years in the Future",
+        "card_text": "[On Play] DON!! -1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Look at 5 cards from the top of your deck; reveal up to 1 [Foxy Pirates] type card and add it to your hand. Then, place the rest at the bottom of your deck in any order and play up to 1 purple Character card with 4000 power or less from your hand.",
+        "set_id": "OP-07",
+        "rarity": "SR",
+        "card_set_id": "OP07-072",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "5000",
+        "sub_types": "Foxy Pirates",
+        "counter_amount": 0,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP07-072_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-072_p1.jpg"
+    }
+]

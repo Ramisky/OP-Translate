@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 62 seconds."
-}
+[
+    {
+        "card_name": "York",
+        "set_name": "Carrying On His Will",
+        "card_text": "[On Play] Up to 1 of your \"Celestial Dragons\" type Characters gains +2000 power during this turn.",
+        "set_id": "OP-13",
+        "rarity": "C",
+        "card_set_id": "OP13-094",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "1000",
+        "sub_types": "Scientist Egghead",
+        "counter_amount": 1000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP13-094",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP13-094_xsMhQ1k.jpg"
+    }
+]

@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 199 seconds."
-}
+[
+    {
+        "card_name": "Thatch",
+        "set_name": "Two Legends",
+        "card_text": "If this Character would be removed from the field by your opponent's effect or K.O.'d, trash this Character and draw 1 card instead.",
+        "set_id": "OP-08",
+        "rarity": "UC",
+        "card_set_id": "OP08-045",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Whitebeard Pirates",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-11",
+        "card_image_id": "OP08-045",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-045.jpg"
+    }
+]

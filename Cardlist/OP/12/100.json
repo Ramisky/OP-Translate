@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 94 seconds."
-}
+[
+    {
+        "card_name": "Sabo",
+        "set_name": "Legacy of the Master",
+        "card_text": "If you have 3 or less Life cards, this Character gains [Blocker] and +3 cost.\n[On Play] You may add 1 card from the top of your Life cards to your hand: Draw 2 cards and trash 1 card from your hand.",
+        "set_id": "OP-12",
+        "rarity": "R",
+        "card_set_id": "OP12-100",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Revolutionary Army Dressrosa",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP12-100",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP12-100_vI7MvSC.jpg"
+    }
+]

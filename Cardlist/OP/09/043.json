@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 13 seconds."
-}
+[
+    {
+        "card_name": "Alvida",
+        "set_name": "Emperors in the New World",
+        "card_text": "[On K.O.] If your Leader has the \"Cross Guild\" type, play up to 1 Character card with a cost of 5 or less other than [Alvida] from your hand.",
+        "set_id": "OP-09",
+        "rarity": "UC",
+        "card_set_id": "OP09-043",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Cross Guild",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-043",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-043.jpg"
+    }
+]

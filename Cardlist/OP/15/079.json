@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 32 seconds."
-}
+[
+    {
+        "card_name": "Absalom",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "[On K.O.] Add up to 1 {Thriller Bark Pirates} type card from your trash to your hand.\n[Trigger] Activate this card's [On K.O.] effect.",
+        "set_id": "OP15-EB04",
+        "rarity": "C",
+        "card_set_id": "OP15-079",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Thriller Bark Pirates",
+        "counter_amount": 1000,
+        "attribute": "Ranged",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP15-079",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP15-079_Uqa09kR.jpg"
+    }
+]

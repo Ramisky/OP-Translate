@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 86 seconds."
-}
+[
+    {
+        "card_name": "Tashigi",
+        "set_name": "The Azure Sea's Seven",
+        "card_text": "[Opponent's Turn] If this Character would be removed from the field by your opponent's effect, you may rest 1 of your cards instead.\n[Activate: Main] [Once Per Turn] You may rest 2 of your cards: This Character gains +2000 power until the end of your opponent's next End Phase.",
+        "set_id": "OP14-EB04",
+        "rarity": "R",
+        "card_set_id": "OP14-029",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Navy",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP14-029",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP14-029_MfInjhQ.jpg"
+    },
+    {
+        "card_name": "Tashigi (SP)",
+        "set_name": "The Time of Battle",
+        "card_text": "[Opponent's Turn] If this Character would be removed from the field by your opponent's effect, you may rest 1 of your cards instead.[Activate: Main] [Once Per Turn] You may rest 2 of your cards: This Character gains +2000 power until the end of your opponent's next End Phase.",
+        "set_id": "OP-16",
+        "rarity": "R",
+        "card_set_id": "OP14-029",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Navy",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP14-029_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP14-029_p1_WiwHK6N.jpg"
+    }
+]

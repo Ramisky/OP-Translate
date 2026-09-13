@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 27 seconds."
-}
+[
+    {
+        "card_name": "Emporio.Ivankov",
+        "set_name": "Carrying On His Will",
+        "card_text": "If your \"Revolutionary Army\" type Character would be K.O.'d by your opponent's effect, you may trash this Character instead.",
+        "set_id": "OP-13",
+        "rarity": "C",
+        "card_set_id": "OP13-008",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "3000",
+        "sub_types": "Revolutionary Army",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP13-008",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP13-008_VwdC444.jpg"
+    }
+]

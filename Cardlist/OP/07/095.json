@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 63 seconds."
-}
+[
+    {
+        "card_name": "Iron Body",
+        "set_name": "500 Years in the Future",
+        "card_text": "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, if you have 10 or more cards in your trash, that card gains an additional +2000 power during this battle. [Trigger] Up to 1 of your Leader or Character cards gains +1000 power during this turn.",
+        "set_id": "OP-07",
+        "rarity": "C",
+        "card_set_id": "OP07-095",
+        "card_color": "Black",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "2",
+        "card_power": null,
+        "sub_types": "CP9",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP07-095",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-095.jpg"
+    }
+]

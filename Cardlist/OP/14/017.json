@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 119 seconds."
-}
+[
+    {
+        "card_name": "Chambres",
+        "set_name": "The Azure Sea's Seven",
+        "card_text": "[Main] Select 2 of your opponent's Characters with 9000 base power or less. Swap the base power of the selected Characters with each other during this turn.",
+        "set_id": "OP14-EB04",
+        "rarity": "C",
+        "card_set_id": "OP14-017",
+        "card_color": "Red",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "3",
+        "card_power": null,
+        "sub_types": "Heart Pirates Supernovas The Seven Warlords of the Sea",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP14-017",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP14-017_QkgSFTU.jpg"
+    }
+]

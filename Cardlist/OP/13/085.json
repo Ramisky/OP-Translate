@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 89 seconds."
-}
+[
+    {
+        "card_name": "Saint Jalmac",
+        "set_name": "Carrying On His Will",
+        "card_text": null,
+        "set_id": "OP-13",
+        "rarity": "C",
+        "card_set_id": "OP13-085",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "4000",
+        "sub_types": "Celestial Dragons",
+        "counter_amount": 1000,
+        "attribute": "Ranged",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP13-085",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP13-085_Lfy7m2J.jpg"
+    }
+]

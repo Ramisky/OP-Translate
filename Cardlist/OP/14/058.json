@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 106 seconds."
-}
+[
+    {
+        "card_name": "Ocean Current Shoulder Throw",
+        "set_name": "The Azure Sea's Seven",
+        "card_text": "[Main] You may rest 3 of your DON!! cards: Play up to 1 {Fish-Man} type Character card with a cost of 3 or less from your hand. Then, return up to 1 Character with 6000 base power to the owner's hand.\n[Counter] Draw 1 card and your Leader gains +3000 power during this battle.",
+        "set_id": "OP14-EB04",
+        "rarity": "R",
+        "card_set_id": "OP14-058",
+        "card_color": "Blue",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "2",
+        "card_power": null,
+        "sub_types": "Fish-Man The Seven Warlords of the Sea The Sun Pirates",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP14-058",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP14-058_yrh94mX.jpg"
+    }
+]

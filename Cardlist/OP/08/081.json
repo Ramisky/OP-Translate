@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 232 seconds."
-}
+[
+    {
+        "card_name": "Guernica",
+        "set_name": "Two Legends",
+        "card_text": "[When Attacking] You may place 3 cards with a type including \"CP\" from your trash at the bottom of your deck in any order: K.O. up to 1 of your opponent's Characters with a cost of 0.",
+        "set_id": "OP-08",
+        "rarity": "C",
+        "card_set_id": "OP08-081",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "2000",
+        "sub_types": "CP0",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-081",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-081.jpg"
+    }
+]

@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 98 seconds."
-}
+[
+    {
+        "card_name": "Fisher Tiger",
+        "set_name": "The Azure Sea's Seven",
+        "card_text": "[On Play] If your Leader has the {Fish-Man} type, draw 3 cards.\n[End of Your Turn] Trash cards from your hand until you have 5 cards in your hand.",
+        "set_id": "OP14-EB04",
+        "rarity": "UC",
+        "card_set_id": "OP14-054",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "7000",
+        "sub_types": "Fish-Man The Sun Pirates",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP14-054",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP14-054_GnHUmPp.jpg"
+    }
+]

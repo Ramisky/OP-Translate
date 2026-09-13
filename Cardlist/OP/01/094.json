@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 168 seconds."
-}
+[
+    {
+        "card_name": "Kaido (094)",
+        "set_name": "Romance Dawn",
+        "card_text": "[On Play] DON!! -6 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your Leader has the \"Animal Kingdom Pirates\" type, K.O. all Characters other than this Character.",
+        "set_id": "OP-01",
+        "rarity": "SR",
+        "card_set_id": "OP01-094",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "10",
+        "card_power": "12000",
+        "sub_types": "Animal Kingdom Pirates The Four Emperors",
+        "counter_amount": 0,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP01-094",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP01-094.jpg"
+    },
+    {
+        "card_name": "Kaido (094) (Parallel)",
+        "set_name": "Romance Dawn",
+        "card_text": "[On Play] DON!! -6 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your Leader has the \"Animal Kingdom Pirates\" type, K.O. all Characters other than this Character.",
+        "set_id": "OP-01",
+        "rarity": "SR",
+        "card_set_id": "OP01-094",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "10",
+        "card_power": "12000",
+        "sub_types": "Animal Kingdom Pirates The Four Emperors",
+        "counter_amount": 0,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP01-094_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP01-094_p1.jpg"
+    }
+]

@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 23 seconds."
-}
+[
+    {
+        "card_name": "Gordon",
+        "set_name": "Carrying On His Will",
+        "card_text": "[On Play] You may reveal 1 \"Music\" or \"FILM\" type card from your hand: Set up to 2 of your DON!! cards as active at the end of this turn.",
+        "set_id": "OP-13",
+        "rarity": "C",
+        "card_set_id": "OP13-024",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "0",
+        "sub_types": "FILM",
+        "counter_amount": 2000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP13-024",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP13-024_gyMopd2.jpg"
+    }
+]

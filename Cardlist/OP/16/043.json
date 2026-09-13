@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 58 seconds."
-}
+[
+    {
+        "card_name": "Usopp",
+        "set_name": "The World's Strongest Warriors",
+        "card_text": "[Blocker]\n\n[On K.O.] Return up to 1 of tour opponent's Characters with a cost of 5 or less to the owner's hand.",
+        "set_id": "OP-16",
+        "rarity": "UC",
+        "card_set_id": "OP16-043",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "1000",
+        "sub_types": "Straw Hat Crew Dressrosa",
+        "counter_amount": 1000,
+        "attribute": "Ranged",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP16-043",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP16-043_Q3Lbfck.jpg"
+    }
+]

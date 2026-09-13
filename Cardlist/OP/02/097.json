@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 204 seconds."
-}
+[
+    {
+        "card_name": "Komille",
+        "set_name": "Paramount War",
+        "card_text": "NULL",
+        "set_id": "OP-02",
+        "rarity": "C",
+        "card_set_id": "OP02-097",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "3000",
+        "sub_types": "Navy",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP02-097",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP02-097.jpg"
+    }
+]

@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 160 seconds."
-}
+[
+    {
+        "card_name": "Marco",
+        "set_name": "Romance Dawn",
+        "card_text": "NULL",
+        "set_id": "OP-01",
+        "rarity": "C",
+        "card_set_id": "OP01-023",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "5000",
+        "sub_types": "Former Whitebeard Pirates",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP01-023",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP01-023.jpg"
+    }
+]

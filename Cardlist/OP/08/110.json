@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 144 seconds."
-}
+[
+    {
+        "card_name": "Wyper (Parallel)",
+        "set_name": "Two Legends",
+        "card_text": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 [Upper Yard] and add it to your hand. Then, place the rest at the bottom of your deck in any order and play up to 1 [Upper Yard] from your hand.",
+        "set_id": "OP-08",
+        "rarity": "R",
+        "card_set_id": "OP08-110",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Sky Island Shandian Warrior",
+        "counter_amount": 2000,
+        "attribute": "Ranged",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-110_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-110_p1.jpg"
+    },
+    {
+        "card_name": "Wyper",
+        "set_name": "Two Legends",
+        "card_text": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 [Upper Yard] and add it to your hand. Then, place the rest at the bottom of your deck in any order and play up to 1 [Upper Yard] from your hand.",
+        "set_id": "OP-08",
+        "rarity": "R",
+        "card_set_id": "OP08-110",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Sky Island Shandian Warrior",
+        "counter_amount": 2000,
+        "attribute": "Ranged",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-110",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-110.jpg"
+    }
+]

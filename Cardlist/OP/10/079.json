@@ -1,3 +1,59 @@
-{
-    "detail": "Request was throttled. Expected available in 113 seconds."
-}
+[
+    {
+        "card_name": "God Thread",
+        "set_name": "Royal Blood",
+        "card_text": "[Main] K.O. up to 1 of your opponent's Characters with a cost 5 or less. Then, add up to 1 DON!! card from your DON!! deck and set it as active.\n[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
+        "set_id": "OP-10",
+        "rarity": "UC",
+        "card_set_id": "OP10-079",
+        "card_color": "Purple",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "5",
+        "card_power": null,
+        "sub_types": "Donquixote Pirates The Seven Warlords of the Sea",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP10-079",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP10-079.jpg"
+    },
+    {
+        "card_name": "God Thread (Pirate Foil)",
+        "set_name": "Premium Booster -The Best- Vol. 2",
+        "card_text": "[Main] K.O. up to 1 of your opponent's Characters with a cost 5 or less. Then, add up to 1 DON!! card from your DON!! deck and set it as active.[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
+        "set_id": "PRB-02",
+        "rarity": "UC",
+        "card_set_id": "OP10-079",
+        "card_color": "Purple",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "5",
+        "card_power": null,
+        "sub_types": "Donquixote Pirates The Seven Warlords of the Sea",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP10-079_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP10-079_p1.jpg"
+    },
+    {
+        "card_name": "God Thread (Reprint)",
+        "set_name": "Premium Booster -The Best- Vol. 2",
+        "card_text": "[Main] K.O. up to 1 of your opponent's Characters with a cost 5 or less. Then, add up to 1 DON!! card from your DON!! deck and set it as active.[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.Disclaimer: This card was reprinted from the original set with changes to the copyright information (Note: the original print did not include \"EN\" at the end of the copyright).",
+        "set_id": "PRB-02",
+        "rarity": "UC",
+        "card_set_id": "OP10-079",
+        "card_color": "Purple",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "5",
+        "card_power": null,
+        "sub_types": "Donquixote Pirates The Seven Warlords of the Sea",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP10-079_r1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP10-079_r1.jpg"
+    }
+]

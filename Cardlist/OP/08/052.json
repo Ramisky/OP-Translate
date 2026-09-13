@@ -1,3 +1,59 @@
-{
-    "detail": "Request was throttled. Expected available in 212 seconds."
-}
+[
+    {
+        "card_name": "Portgas.D.Ace",
+        "set_name": "Two Legends",
+        "card_text": "[On Play] Reveal 1 card from the top of your deck and play up to 1 Character card with a type including \"Whitebeard Pirates\" and a cost of 4 or less. Then, place the rest at the top or bottom of your deck.",
+        "set_id": "OP-08",
+        "rarity": "R",
+        "card_set_id": "OP08-052",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Whitebeard Pirates",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-052",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-052.jpg"
+    },
+    {
+        "card_name": "Portgas.D.Ace (Parallel)",
+        "set_name": "Two Legends",
+        "card_text": "[On Play] Reveal 1 card from the top of your deck and play up to 1 Character card with a type including \"Whitebeard Piratess\" and a cost of 4 or less. Then, place the rest at the top or bottom of your deck.",
+        "set_id": "OP-08",
+        "rarity": "R",
+        "card_set_id": "OP08-052",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Whitebeard Pirates",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-052_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-052_p1.jpg"
+    },
+    {
+        "card_name": "Portgas.D.Ace (TR)",
+        "set_name": "Royal Blood",
+        "card_text": "[On Play] Reveal 1 card from the top of your deck and play up to 1 Character card with a type including \"Whitebeard Pirates\" and a cost of 4 or less. Then, place the rest at the top or bottom of your deck.",
+        "set_id": "OP-10",
+        "rarity": "TR",
+        "card_set_id": "OP08-052",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Whitebeard Pirates",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-052_p2",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-052_p2.jpg"
+    }
+]

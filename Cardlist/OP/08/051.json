@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 254 seconds."
-}
+[
+    {
+        "card_name": "Buckin",
+        "set_name": "Two Legends",
+        "card_text": "[Your Turn] [On Play] Up to 1 of your [Edward Weevil] cards gains +2000 power during this turn.",
+        "set_id": "OP-08",
+        "rarity": "C",
+        "card_set_id": "OP08-051",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "2000",
+        "sub_types": "Former Rocks Pirates",
+        "counter_amount": 1000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-051",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-051.jpg"
+    }
+]

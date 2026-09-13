@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 199 seconds."
-}
+[
+    {
+        "card_name": "South Bird",
+        "set_name": "Two Legends",
+        "card_text": "[On Play] Look at 7 cards from the top of your deck and play up to 1 [Upper Yard]. Then, place the rest at the bottom of your deck in any order.",
+        "set_id": "OP-08",
+        "rarity": "UC",
+        "card_set_id": "OP08-100",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "2000",
+        "sub_types": "Animal Sky Island Jaya",
+        "counter_amount": 1000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-100",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-100.jpg"
+    }
+]

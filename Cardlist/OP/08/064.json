@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 209 seconds."
-}
+[
+    {
+        "card_name": "Charlotte Cracker",
+        "set_name": "Two Legends",
+        "card_text": "[Activate:Main] [Once Per Turn] DON!! 1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Play up to 1 [Biscuit Warrior] from your hand.",
+        "set_id": "OP-08",
+        "rarity": "C",
+        "card_set_id": "OP08-064",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Big Mom Pirates",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-064",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-064.jpg"
+    }
+]

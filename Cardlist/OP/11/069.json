@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 104 seconds."
-}
+[
+    {
+        "card_name": "Charlotte Brulee",
+        "set_name": "A Fist of Divine Speed",
+        "card_text": "[On Play] You may add 1 card from the top of your Life cards to your hand: If your Leader has the \"Big Mom Pirates\" type, add up to 1 DON!! card from your DON!! deck and set it as active.",
+        "set_id": "OP-11",
+        "rarity": "R",
+        "card_set_id": "OP11-069",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "Big Mom Pirates",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP11-069",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP11-069.jpg"
+    }
+]

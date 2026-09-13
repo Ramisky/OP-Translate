@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 7 seconds."
-}
+[
+    {
+        "card_name": "Eustass\"Captain\"Kid",
+        "set_name": "Emperors in the New World",
+        "card_text": "[On Play] You may add 1 card from the top of your Life cards to your hand: If your Leader has the \"Kid Pirates\" type, add up to 1 DON!! card from your DON!! deck and set it as active.",
+        "set_id": "OP-09",
+        "rarity": "UC",
+        "card_set_id": "OP09-075",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "5000",
+        "sub_types": "Kid Pirates",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-075",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-075.jpg"
+    }
+]

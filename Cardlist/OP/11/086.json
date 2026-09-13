@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 104 seconds."
-}
+[
+    {
+        "card_name": "Coribou",
+        "set_name": "A Fist of Divine Speed",
+        "card_text": "[On Play] Trash 1 card from your hand.\n[Activate: Main] You may trash this Character: Play up to 1 [Caribou] with a cost of 4 or less from your trash.",
+        "set_id": "OP-11",
+        "rarity": "C",
+        "card_set_id": "OP11-086",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "5000",
+        "sub_types": "Caribou Pirates",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP11-086",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP11-086.jpg"
+    }
+]

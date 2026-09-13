@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 11 seconds."
-}
+[
+    {
+        "card_name": "Kamakiri",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "[On Play] You may trash this Character and add 1 card from the top of your Life cards to your hand: K.O. up to 1 of your opponent's Characters with a cost of 6 or less.",
+        "set_id": "OP15-EB04",
+        "rarity": "C",
+        "card_set_id": "OP15-100",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Sky Island Shandian Warrior",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP15-100",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP15-100_nMpHHQw.jpg"
+    }
+]

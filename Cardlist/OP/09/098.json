@@ -1,3 +1,59 @@
-{
-    "detail": "Request was throttled. Expected available in 35 seconds."
-}
+[
+    {
+        "card_name": "Black Hole",
+        "set_name": "Emperors in the New World",
+        "card_text": "[Main] If your Leader has the \"Blackbeard Pirates\" type, negate the effect of up to 1 of your opponent's Characters during this turn. Then, if that Character has a cost of 4 or less, K.O. it.\n[Trigger] Negate the effect of up to 1 of your opponent's Leader or Character cards during this turn.",
+        "set_id": "OP-09",
+        "rarity": "UC",
+        "card_set_id": "OP09-098",
+        "card_color": "Black",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "4",
+        "card_power": null,
+        "sub_types": "Blackbeard Pirates",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-098",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-098.jpg"
+    },
+    {
+        "card_name": "Black Hole (Pirate Foil)",
+        "set_name": "Premium Booster -The Best- Vol. 2",
+        "card_text": "[Main] If your Leader has the \"Blackbeard Pirates\" type, negate the effect of up to 1 of your opponent's Characters during this turn. Then, if that Character has a cost of 4 or less, K.O. it.[Trigger] Negate the effect of up to 1 of your opponent's Leader or Character cards during this turn.",
+        "set_id": "PRB-02",
+        "rarity": "UC",
+        "card_set_id": "OP09-098",
+        "card_color": "Black",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "4",
+        "card_power": null,
+        "sub_types": "Blackbeard Pirates",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-098_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-098_p1.jpg"
+    },
+    {
+        "card_name": "Black Hole (Reprint)",
+        "set_name": "Premium Booster -The Best- Vol. 2",
+        "card_text": "[Main] If your Leader has the \"Blackbeard Pirates\" type, negate the effect of up to 1 of your opponent's Characters during this turn. Then, if that Character has a cost of 4 or less, K.O. it.[Trigger] Negate the effect of up to 1 of your opponent's Leader or Character cards during this turn.Disclaimer: This card was reprinted from the original set with changes to the copyright information (Note: the original print did not include \"EN\" at the end of the copyright).",
+        "set_id": "PRB-02",
+        "rarity": "UC",
+        "card_set_id": "OP09-098",
+        "card_color": "Black",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "4",
+        "card_power": null,
+        "sub_types": "Blackbeard Pirates",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-098_r1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-098_r1.jpg"
+    }
+]

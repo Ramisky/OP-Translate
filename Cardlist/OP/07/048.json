@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 20 seconds."
-}
+[
+    {
+        "card_name": "Donquixote Doflamingo",
+        "set_name": "500 Years in the Future",
+        "card_text": "[Activate:Main] [Once Per Turn] (2) (You may rest the specified number of DON!! cards in your cost area.): Reveal 1 card from the top of your deck. If that card is a [The Seven Warlords of the Sea] type Character card with a cost of 4 or less, you may play that card rested. Then, place the rest at the bottom of your deck.",
+        "set_id": "OP-07",
+        "rarity": "UC",
+        "card_set_id": "OP07-048",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "Donquixote Pirates The Seven Warlords of the Sea",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP07-048",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-048.jpg"
+    }
+]

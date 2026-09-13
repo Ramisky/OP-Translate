@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 71 seconds."
-}
+[
+    {
+        "card_name": "More Pizza!!",
+        "set_name": "500 Years in the Future",
+        "card_text": "[Main] Look at 5 cards from the top of your deck; reveal up to 1 [Supernovas] type card other than [More Pizza!!] and add it to your hand. Then, place the rest at the bottom of your deck in any order. [Trigger] Draw 1 card.",
+        "set_id": "OP-07",
+        "rarity": "UC",
+        "card_set_id": "OP07-037",
+        "card_color": "Green",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "Bonney Pirates Supernovas",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP07-037",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-037.jpg"
+    }
+]

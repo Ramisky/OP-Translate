@@ -1,3 +1,59 @@
-{
-    "detail": "Request was throttled. Expected available in 133 seconds."
-}
+[
+    {
+        "card_name": "Kuzan",
+        "set_name": "Royal Blood",
+        "card_text": "This Character cannot be removed from the field by your opponent's effects.\n[Activate: Main] You may trash this Character: Draw 1 card. Then, play up to 1 \"Blackbeard Pirates\" type Character card with a cost of 5 or less other than [Kuzan] from your trash.",
+        "set_id": "OP-10",
+        "rarity": "SR",
+        "card_set_id": "OP10-082",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "5000",
+        "sub_types": "Blackbeard Pirates Former Navy",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP10-082",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP10-082.jpg"
+    },
+    {
+        "card_name": "Kuzan (Parallel)",
+        "set_name": "Royal Blood",
+        "card_text": "This Character cannot be removed from the field by your opponent's effects.\n[Activate: Main] You may trash this Character: Draw 1 card. Then, play up to 1 \"Blackbeard Pirates\" type Character card with a cost of 5 or less other than [Kuzan] from your trash.",
+        "set_id": "OP-10",
+        "rarity": "SR",
+        "card_set_id": "OP10-082",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "5000",
+        "sub_types": "Blackbeard Pirates Former Navy",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP10-082_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP10-082_p1.jpg"
+    },
+    {
+        "card_name": "Kuzan (SP)",
+        "set_name": "Legacy of the Master",
+        "card_text": "This Character cannot be removed from the field by your opponent's effects.\n[Activate: Main] You may trash this Character: Draw 1 card. Then, play up to 1 \"Blackbeard Pirates\" type Character card with a cost of 5 or less other than [Kuzan] from your trash.",
+        "set_id": "OP-12",
+        "rarity": "SR",
+        "card_set_id": "OP10-082",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "5000",
+        "sub_types": "Blackbeard Pirates Former Navy",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP10-082_p2",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP10-082_p2_0rQ9fvR.jpg"
+    }
+]

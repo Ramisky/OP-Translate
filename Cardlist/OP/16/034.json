@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 53 seconds."
-}
+[
+    {
+        "card_name": "Monkey.D.Luffy (034)",
+        "set_name": "The Time of Battle",
+        "card_text": "[DON!! x1] [Your Turn] This Character gains +1000 power for each of your Characters with a different card name.\n\n[On Play] Look at 3 cards from the top of your deck; reveal up to 1 {Impel Down} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+        "set_id": "OP-16",
+        "rarity": "R",
+        "card_set_id": "OP16-034",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "0",
+        "sub_types": "Straw Hat Crew Impel Down",
+        "counter_amount": 1000,
+        "attribute": "",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP16-034",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP16-034_pi7IfhS.jpg"
+    },
+    {
+        "card_name": "Monkey.D.Luffy (034) (Alternate Art)",
+        "set_name": "The Time of Battle",
+        "card_text": "[DON!! x1] [Your Turn] This Character gains +1000 power for each of your Characters with a different card name.\n\n[On Play] Look at 3 cards from the top of your deck; reveal up to 1 {Impel Down} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+        "set_id": "OP-16",
+        "rarity": "R",
+        "card_set_id": "OP16-034",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "0",
+        "sub_types": "Straw Hat Crew Impel Down",
+        "counter_amount": 1000,
+        "attribute": "",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP16-034_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP16-034_p1_rYPd1n8.jpg"
+    }
+]

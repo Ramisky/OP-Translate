@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 13 seconds."
-}
+[
+    {
+        "card_name": "Charlotte Pudding",
+        "set_name": "The World's Strongest Warriors",
+        "card_text": "[On Play] You may trash 1 card with a [Trigger] from your hand: Draw 3 cards.\n[Trigger] Look at 5 cards from the top of your deck; reveal up to 1 {Big Mom Pirates} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+        "set_id": "OP-17",
+        "rarity": "R",
+        "card_set_id": "OP17-109",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "Big Mom Pirates",
+        "counter_amount": 1000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP17-109",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP17-109_brUDWS0.jpg"
+    }
+]

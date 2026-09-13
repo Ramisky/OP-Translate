@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 24 seconds."
-}
+[
+    {
+        "card_name": "Purinpurin",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "[On Play] Select up to 1 of your opponent's rested Characters. If the chosen Character has a cost equal to the number of DON!! cards given to it, K.O. it.",
+        "set_id": "OP15-EB04",
+        "rarity": "C",
+        "card_set_id": "OP15-031",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "2000",
+        "sub_types": "Navy East Blue",
+        "counter_amount": 1000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP15-031",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP15-031_9mLTRez.jpg"
+    }
+]

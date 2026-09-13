@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 4 seconds."
-}
+[
+    {
+        "card_name": "Charlotte Amande",
+        "set_name": "Kingdoms of Intrigue",
+        "card_text": "[Activate:Main] [Once Per Turn] You may trash 1 card with a [Trigger] from your hand: Rest up to 1 of your opponent's Characters with a cost of 2 or less.",
+        "set_id": "OP-04",
+        "rarity": "R",
+        "card_set_id": "OP04-105",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "3000",
+        "sub_types": "Big Mom Pirates",
+        "counter_amount": 2000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP04-105",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP04-105.jpg"
+    }
+]

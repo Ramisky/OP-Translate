@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 151 seconds."
-}
+[
+    {
+        "card_name": "Hannyabal",
+        "set_name": "A Fist of Divine Speed",
+        "card_text": "[Blocker]\n[On Play] If your Leader has the \"Impel Down\" type, play up to 1 \"Impel Down\" type Character card with a cost of 3 or less from your hand.",
+        "set_id": "OP-11",
+        "rarity": "C",
+        "card_set_id": "OP11-076",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "5000",
+        "sub_types": "Impel Down",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP11-076",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP11-076.jpg"
+    }
+]

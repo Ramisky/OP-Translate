@@ -1,3 +1,59 @@
-{
-    "detail": "Request was throttled. Expected available in 136 seconds."
-}
+[
+    {
+        "card_name": "Cavendish (105)",
+        "set_name": "Royal Blood",
+        "card_text": null,
+        "set_id": "OP-10",
+        "rarity": "C",
+        "card_set_id": "OP10-105",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "8000",
+        "sub_types": "Beautiful Pirates Supernovas Dressrosa",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP10-105",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP10-105.jpg"
+    },
+    {
+        "card_name": "Cavendish - OP10-105 (Pirate Foil)",
+        "set_name": "Premium Booster -The Best- Vol. 2",
+        "card_text": null,
+        "set_id": "PRB-02",
+        "rarity": "C",
+        "card_set_id": "OP10-105",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "8000",
+        "sub_types": "Beautiful Pirates Supernovas Dressrosa",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP10-105_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP10-105_p1.jpg"
+    },
+    {
+        "card_name": "Cavendish - OP10-105 (Reprint)",
+        "set_name": "Premium Booster -The Best- Vol. 2",
+        "card_text": "Disclaimer: This card was reprinted from the original set with changes to the copyright information (Note: the original print did not include \"EN\" at the end of the copyright).",
+        "set_id": "PRB-02",
+        "rarity": "C",
+        "card_set_id": "OP10-105",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "8000",
+        "sub_types": "Beautiful Pirates Supernovas Dressrosa",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP10-105_r1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP10-105_r1.jpg"
+    }
+]

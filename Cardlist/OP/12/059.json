@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 244 seconds."
-}
+[
+    {
+        "card_name": "Concasser",
+        "set_name": "Legacy of the Master",
+        "card_text": "[Main] If your Leader is [Sanji], draw 1 card.\n[Counter] If you have 4 or more Events in your trash, up to 1 of your Leader gains +4000 power during this battle.",
+        "set_id": "OP-12",
+        "rarity": "UC",
+        "card_set_id": "OP12-059",
+        "card_color": "Blue",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "Straw Hat Crew Sky Island",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP12-059",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP12-059_mD2d62p.jpg"
+    }
+]

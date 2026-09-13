@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 55 seconds."
-}
+[
+    {
+        "card_name": "Monda",
+        "set_name": "500 Years in the Future",
+        "card_text": "[Activate: Main] You may trash this Character: If your Leader has the [Foxy Pirates] type, add up to 1 DON!! card from your DON!! deck and rest it.",
+        "set_id": "OP-07",
+        "rarity": "C",
+        "card_set_id": "OP07-074",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "3000",
+        "sub_types": "Animal Foxy Pirates",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP07-074",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-074.jpg"
+    }
+]

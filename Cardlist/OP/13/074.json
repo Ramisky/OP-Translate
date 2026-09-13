@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 53 seconds."
-}
+[
+    {
+        "card_name": "Hera",
+        "set_name": "Carrying On His Will",
+        "card_text": "[On Play] Play up to 1 [Homies] type Character card with 3000 power or less from your hand.",
+        "set_id": "OP-13",
+        "rarity": "C",
+        "card_set_id": "OP13-074",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Big Mom Pirates Homies",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP13-074",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP13-074_lIyM5hL.jpg"
+    }
+]

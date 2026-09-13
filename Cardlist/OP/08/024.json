@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 120 seconds."
-}
+[
+    {
+        "card_name": "Concelot",
+        "set_name": "Two Legends",
+        "card_text": "[When Attacking] Up to 1 of your opponent's rested Characters with a cost of 4 or less will not become active in your opponent's next Refresh Phase.",
+        "set_id": "OP-08",
+        "rarity": "UC",
+        "card_set_id": "OP08-024",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "Minks",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-024",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-024.jpg"
+    }
+]

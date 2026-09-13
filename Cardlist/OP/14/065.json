@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 75 seconds."
-}
+[
+    {
+        "card_name": "Senor Pink",
+        "set_name": "The Azure Sea's Seven",
+        "card_text": "[On K.O.] Your opponent returns 1 DON!! card from their field to their DON!! deck.",
+        "set_id": "OP14-EB04",
+        "rarity": "C",
+        "card_set_id": "OP14-065",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Donquixote Pirates",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP14-065",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP14-065_wIMpJ4o.jpg"
+    }
+]

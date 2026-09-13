@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 21 seconds."
-}
+[
+    {
+        "card_name": "Benn.Beckman",
+        "set_name": "The World's Strongest Warriors",
+        "card_text": "[Rush Character] (This card can attack Characters on the turn in which it is played.)\n[On Play] If your Leader has the {Red-Haired Pirates} type, draw 1 card and rest up to 2 of your opponent's Characters.",
+        "set_id": "OP-17",
+        "rarity": "R",
+        "card_set_id": "OP17-027",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "7",
+        "card_power": "9000",
+        "sub_types": "Red-Haired Pirates",
+        "counter_amount": 9000,
+        "attribute": "Ranged",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP17-027",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP17-027_TGT0QIl.jpg"
+    },
+    {
+        "card_name": "Benn.Beckman (Alternate Art)",
+        "set_name": "The World's Strongest Warriors",
+        "card_text": "[Rush Character] (This card can attack Characters on the turn in which it is played.)\n[On Play] If your Leader has the {Red-Haired Pirates} type, draw 1 card and rest up to 2 of your opponent's Characters.",
+        "set_id": "OP-17",
+        "rarity": "R",
+        "card_set_id": "OP17-027",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "7",
+        "card_power": "9000",
+        "sub_types": "Red-Haired Pirates",
+        "counter_amount": 9000,
+        "attribute": "Ranged",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP17-027_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP17-027_p1_Nsw0pyo.jpg"
+    }
+]

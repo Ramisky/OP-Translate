@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 178 seconds."
-}
+[
+    {
+        "card_name": "The World's Equilibrium Cannot Be Maintained Forever",
+        "set_name": "Carrying On His Will",
+        "card_text": "[Main] You may rest 5 of your DON!! cards: If the only Characters on your field are \"Celestial Dragons\" type Characters, K.O. up to 1 of your opponent's Characters with a base cost of 6 or less.\n[Counter] Your Leader gains +3000 power during this battle.",
+        "set_id": "OP-13",
+        "rarity": "C",
+        "card_set_id": "OP13-097",
+        "card_color": "Black",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "Celestial Dragons Five Elders",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP13-097",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP13-097_w3lAhtv.jpg"
+    }
+]

@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 82 seconds."
-}
+[
+    {
+        "card_name": "LittleOars Jr.",
+        "set_name": "The Time of Battle",
+        "card_text": "If you have no Characters with a type including \"Whitebeard Pirates\" and a cost of 8 or more give this Character -4000 power.\n\n[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+        "set_id": "OP-16",
+        "rarity": "R",
+        "card_set_id": "OP16-017",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "8000",
+        "sub_types": "Giant Whitebeard Pirates Allies",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP16-017",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP16-017_btMadr9.jpg"
+    }
+]

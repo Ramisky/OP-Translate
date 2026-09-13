@@ -1,3 +1,59 @@
-{
-    "detail": "Request was throttled. Expected available in 49 seconds."
-}
+[
+    {
+        "card_name": "Vegapunk",
+        "set_name": "500 Years in the Future",
+        "card_text": "This Leader cannot attack. [Activate: Main][Once Per Turn] (1) (You may rest the specified number of DON!! cards in your cost area.): Select up to 1 [Egghead] type card with a cost of 5 or less from your hand and play it or add it to the top of your Life cards face-up.",
+        "set_id": "OP-07",
+        "rarity": "L",
+        "card_set_id": "OP07-097",
+        "card_color": "Yellow",
+        "card_type": "Leader",
+        "life": "2",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Scientist Egghead",
+        "counter_amount": null,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP07-097",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-097.jpg"
+    },
+    {
+        "card_name": "Vegapunk (Parallel)",
+        "set_name": "500 Years in the Future",
+        "card_text": "This Leader cannot attack. [Activate: Main][Once Per Turn] (1) (You may rest the specified number of DON!! cards in your cost area.): Select up to 1 [Egghead] type card with a cost of 5 or less from your hand and play it or add it to the top of your Life cards face-up.",
+        "set_id": "OP-07",
+        "rarity": "L",
+        "card_set_id": "OP07-097",
+        "card_color": "Yellow",
+        "card_type": "Leader",
+        "life": "2",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Scientist Egghead",
+        "counter_amount": null,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP07-097_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-097_p1.jpg"
+    },
+    {
+        "card_name": "Vegapunk (SPR)",
+        "set_name": "Extra Booster: Anime 25th Collection",
+        "card_text": "This Leader cannot attack.[Activate: Main] [Once Per Turn] 1 (You may rest the specified number of DON!! cards in your cost area.): Select up to 1 \"Egghead\" type card with a cost of 5 or less from your hand and play it or add it to the top of your Life cards face-up.",
+        "set_id": "EB-02",
+        "rarity": "L",
+        "card_set_id": "OP07-097",
+        "card_color": "Yellow",
+        "card_type": "Leader",
+        "life": "2",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Scientist Egghead",
+        "counter_amount": null,
+        "attribute": "Wisdom",
+        "date_scraped": "2025-06-29",
+        "card_image_id": "OP07-097_p2",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-097_p2.jpg"
+    }
+]

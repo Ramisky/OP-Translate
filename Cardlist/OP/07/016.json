@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 60 seconds."
-}
+[
+    {
+        "card_name": "Galaxy Wink",
+        "set_name": "500 Years in the Future",
+        "card_text": "[Main] Up to 1 of your [Revolutionary Army] type Characters gains +2000 power during this turn. Then, give up to 1 of your opponent's Characters -1000 power during this turn. [Trigger] Activate this card's [Main] effect.",
+        "set_id": "OP-07",
+        "rarity": "R",
+        "card_set_id": "OP07-016",
+        "card_color": "Red",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "Revolutionary Army",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP07-016",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-016.jpg"
+    }
+]

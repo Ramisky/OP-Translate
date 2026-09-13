@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 61 seconds."
-}
+[
+    {
+        "card_name": "Monkey.D.Garp",
+        "set_name": "Awakening of the New Era",
+        "card_text": "[On Play] Draw 2 cards and place 2 cards from your hand at the bottom of your deck in any order.",
+        "set_id": "OP-05",
+        "rarity": "UC",
+        "card_set_id": "OP05-054",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "3000",
+        "sub_types": "Navy",
+        "counter_amount": 2000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP05-054",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP05-054.jpg"
+    }
+]

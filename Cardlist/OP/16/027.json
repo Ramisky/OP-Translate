@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 95 seconds."
-}
+[
+    {
+        "card_name": "Jinbe (027)",
+        "set_name": "The Time of Battle",
+        "card_text": "[DON!! X1] This Character gains +2000 power.",
+        "set_id": "OP-16",
+        "rarity": "R",
+        "card_set_id": "OP16-027",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "2000",
+        "sub_types": "Fish-Man The Sun Pirates Impel Down",
+        "counter_amount": 2000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP16-027",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP16-027_FoA9ykm.jpg"
+    }
+]

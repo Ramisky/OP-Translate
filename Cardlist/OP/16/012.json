@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 35 seconds."
-}
+[
+    {
+        "card_name": "Benn.Beckman",
+        "set_name": "The Time of Battle",
+        "card_text": "[Blocker] [On Play] You may rest 1 of your DON!! cards: If your Leader has the {Red-Haired Pirates} type and have 10 DON!! cards on your field, play up to 1 [Shanks] from your hand.",
+        "set_id": "OP-16",
+        "rarity": "R",
+        "card_set_id": "OP16-012",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Red-Haired Pirates",
+        "counter_amount": 1000,
+        "attribute": "Ranged",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP16-012",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP16-012_SflylJE.jpg"
+    }
+]

@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 213 seconds."
-}
+[
+    {
+        "card_name": "Diable Jambe Venaison Shoot",
+        "set_name": "Paramount War",
+        "card_text": "[Main] K.O. up to 1 of your opponent's rested Characters with a cost of 4 or less. [Trigger] Play up to 1 Character card with a cost of 4 or less and no base effect from your hand.",
+        "set_id": "OP-02",
+        "rarity": "UC",
+        "card_set_id": "OP02-046",
+        "card_color": "Green",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "2",
+        "card_power": null,
+        "sub_types": "Film Straw Hat Crew",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP02-046",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP02-046.jpg"
+    }
+]

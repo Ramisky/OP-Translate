@@ -1,3 +1,59 @@
-{
-    "detail": "Request was throttled. Expected available in 131 seconds."
-}
+[
+    {
+        "card_name": "Eustass\"Captain\"Kid (112)",
+        "set_name": "Royal Blood",
+        "card_text": "[On Play] You may rest this Character: Trash up to 1 card from the top of your opponent's Life cards.\n[End of Your Turn] If your opponent has 2 or less Life cards, draw 1 card and trash 1 card from your hand.",
+        "set_id": "OP-10",
+        "rarity": "SR",
+        "card_set_id": "OP10-112",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "8",
+        "card_power": "9000",
+        "sub_types": "Kid Pirates Supernovas",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP10-112",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP10-112.jpg"
+    },
+    {
+        "card_name": "Eustass\"Captain\"Kid (112) (Parallel)",
+        "set_name": "Royal Blood",
+        "card_text": "[On Play] You may rest this Character: Trash up to 1 card from the top of your opponent's Life cards.\n[End of Your Turn] If your opponent has 2 or less Life cards, draw 1 card and trash 1 card from your hand.",
+        "set_id": "OP-10",
+        "rarity": "SR",
+        "card_set_id": "OP10-112",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "8",
+        "card_power": "9000",
+        "sub_types": "Kid Pirates Supernovas",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP10-112_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP10-112_p1.jpg"
+    },
+    {
+        "card_name": "Eustass\"Captain\"Kid (Reprint)",
+        "set_name": "Premium Booster -The Best- Vol. 2",
+        "card_text": "[On Play] You may rest this Character: Trash up to 1 card from the top of your opponent's Life cards.[End of Your Turn] If your opponent has 2 or less Life cards, draw 1 card and trash 1 card from your hand.Disclaimer: This card was reprinted from the original set with changes to the copyright information (Note: the original print did not include \"EN\" at the end of the copyright).",
+        "set_id": "PRB-02",
+        "rarity": "SR",
+        "card_set_id": "OP10-112",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "8",
+        "card_power": "9000",
+        "sub_types": "Kid Pirates Supernovas",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP10-112_r1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP10-112_r1.jpg"
+    }
+]

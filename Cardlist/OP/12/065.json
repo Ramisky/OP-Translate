@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 100 seconds."
-}
+[
+    {
+        "card_name": "Emporio.Ivankov (065)",
+        "set_name": "Legacy of the Master",
+        "card_text": "If you have 4 or more Events in your trash, this Character gains [Blocker].\n[On K.O.] Add up to 1 Event from your trash to your hand.",
+        "set_id": "OP-12",
+        "rarity": "UC",
+        "card_set_id": "OP12-065",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "7000",
+        "sub_types": "Revolutionary Army Impel Down",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP12-065",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP12-065_U89BQiQ.jpg"
+    }
+]

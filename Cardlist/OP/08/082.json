@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 244 seconds."
-}
+[
+    {
+        "card_name": "Sasaki",
+        "set_name": "Two Legends",
+        "card_text": "[Activate:Main] Rest 1 of your DON!! cards and you may rest this Character: Give up to 1 of your opponent's Characters 2 cost during this turn.",
+        "set_id": "OP-08",
+        "rarity": "R",
+        "card_set_id": "OP08-082",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "1000",
+        "sub_types": "Animal Kingdom Pirates",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-082",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-082.jpg"
+    }
+]

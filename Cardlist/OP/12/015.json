@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 254 seconds."
-}
+[
+    {
+        "card_name": "Monkey.D.Luffy",
+        "set_name": "Legacy of the Master",
+        "card_text": "If you have a total of 2 or more given DON!! cards, this Character gains +2000 power.\n[On Play] You may reveal 2 Events from your hand: Play up to 1 red Character card with 3000 power or less from your hand. Then, give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+        "set_id": "OP-12",
+        "rarity": "SR",
+        "card_set_id": "OP12-015",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "4000",
+        "sub_types": "Straw Hat Crew Supernovas",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP12-015",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP12-015_v4cyDJA.jpg"
+    },
+    {
+        "card_name": "Monkey.D.Luffy (Alternate Art)",
+        "set_name": "Legacy of the Master",
+        "card_text": "If you have a total of 2 or more given DON!! cards, this Character gains +2000 power.\n[On Play] You may reveal 2 Events from your hand: Play up to 1 red Character card with 3000 power or less from your hand. Then, give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+        "set_id": "OP-12",
+        "rarity": "SR",
+        "card_set_id": "OP12-015",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "4000",
+        "sub_types": "Straw Hat Crew Supernovas",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP12-015_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP12-015_p1_J5H7muC.jpg"
+    }
+]

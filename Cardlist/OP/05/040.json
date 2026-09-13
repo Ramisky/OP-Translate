@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 269 seconds."
-}
+[
+    {
+        "card_name": "Birdcage",
+        "set_name": "Awakening of the New Era",
+        "card_text": "If your Leader is [Donquixote Doflamingo], all Characters with a cost of 5 or less do not become active in your and your opponent's Refresh Phases. [End of Your Turn] If you have 10 DON!! cards on your field, K.O. all rested Characters with a cost of 5 or less. Then, trash this SAtage.",
+        "set_id": "OP-05",
+        "rarity": "C",
+        "card_set_id": "OP05-040",
+        "card_color": "Green",
+        "card_type": "Stage",
+        "life": "NULL",
+        "card_cost": "5",
+        "card_power": "NULL",
+        "sub_types": "NULL",
+        "counter_amount": 0,
+        "attribute": "NULL",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP05-040",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP05-040.jpg"
+    }
+]

@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 194 seconds."
-}
+[
+    {
+        "card_name": "Boa Hancock",
+        "set_name": "Paramount War",
+        "card_text": "[When Attacking] Draw 1 card and trash 1 card from your hand. Then, trash up to 3 cards from your hand.",
+        "set_id": "OP-02",
+        "rarity": "UC",
+        "card_set_id": "OP02-059",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Kuja Pirates The Seven Warlords of the Sea Impel Down",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP02-059",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP02-059.jpg"
+    },
+    {
+        "card_name": "Boa Hancock (Box Topper)",
+        "set_name": "Paramount War",
+        "card_text": "[When Attacking] Draw 1 card and trash 1 card from your hand. Then, trash up to 3 cards from your hand.",
+        "set_id": "OP-02",
+        "rarity": "UC",
+        "card_set_id": "OP02-059",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Kuja Pirates The Seven Warlords of the Sea Impel Down",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP02-059_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP02-059_p1.jpg"
+    }
+]

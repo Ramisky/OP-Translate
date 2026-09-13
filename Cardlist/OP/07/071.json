@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 81 seconds."
-}
+[
+    {
+        "card_name": "Foxy (071)",
+        "set_name": "500 Years in the Future",
+        "card_text": "[Opponent's Turn] If your Leader has the [Foxy Pirates] type, give all of your opponent's Characters -1000 power. [Activate: Main] [Once Per Turn] Add up to 1 DON!! card from your DON!! deck and rest it.",
+        "set_id": "OP-07",
+        "rarity": "R",
+        "card_set_id": "OP07-071",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "7",
+        "card_power": "7000",
+        "sub_types": "Foxy Pirates",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP07-071",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-071.jpg"
+    },
+    {
+        "card_name": "Foxy (071) (Parallel)",
+        "set_name": "500 Years in the Future",
+        "card_text": "[Opponent's Turn] If your Leader has the [Foxy Pirates] type, give all of your opponent's Characters -1000 power. [Activate: Main] [Once Per Turn] Add up to 1 DON!! card from your DON!! deck and rest it.",
+        "set_id": "OP-07",
+        "rarity": "R",
+        "card_set_id": "OP07-071",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "7",
+        "card_power": "7000",
+        "sub_types": "Foxy Pirates",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP07-071_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-071_p1.jpg"
+    }
+]

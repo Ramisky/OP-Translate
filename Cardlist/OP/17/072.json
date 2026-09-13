@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 171 seconds."
-}
+[
+    {
+        "card_name": "Black Maria",
+        "set_name": "The World's Strongest Warriors",
+        "card_text": "[Blocker]\n[On Your Opponent's Attack] [Once Per Turn] You may trash 1 card from your hand: Up to 1 of your Leader or Characters gains +1000 power during this battle.",
+        "set_id": "OP-17",
+        "rarity": "C",
+        "card_set_id": "OP17-072",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "1000",
+        "sub_types": "Animal Kingdom Pirates",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP17-072",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP17-072_p6wvPeZ.jpg"
+    }
+]

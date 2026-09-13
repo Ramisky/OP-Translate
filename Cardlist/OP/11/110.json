@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 128 seconds."
-}
+[
+    {
+        "card_name": "Fukaboshi",
+        "set_name": "A Fist of Divine Speed",
+        "card_text": "If this Character would be K.O.'d, you may rest 1 of your [Fish-Man Island] or your [Shirahoshi] Leader instead.\n[On Play] You may add 1 card from the top or bottom of your Life cards to your hand: K.O. up to 1 of your opponent's Characters with a cost of 1 or less.",
+        "set_id": "OP-11",
+        "rarity": "C",
+        "card_set_id": "OP11-110",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "5000",
+        "sub_types": "Merfolk Fish-Man Island",
+        "counter_amount": 0,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP11-110",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP11-110.jpg"
+    }
+]

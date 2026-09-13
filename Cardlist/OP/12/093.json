@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 5 seconds."
-}
+[
+    {
+        "card_name": "Morley",
+        "set_name": "Legacy of the Master",
+        "card_text": "If your Leader has the \"Revolutionary Army\" type, this Character gains +4 cost.",
+        "set_id": "OP-12",
+        "rarity": "UC",
+        "card_set_id": "OP12-093",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Giant Revolutionary Army",
+        "counter_amount": 2000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP12-093",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP12-093_V7o4OwX.jpg"
+    }
+]

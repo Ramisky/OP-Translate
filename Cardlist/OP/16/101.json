@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 49 seconds."
-}
+[
+    {
+        "card_name": "Mahoroba",
+        "set_name": "The Time of Battle",
+        "card_text": "[Main] Up to 1 of your Leader or Character cards gains +3000 power during this turn. Then, if you have 10 or more cards in your trash, K.O. up to 1 of your opponent's Characters with a cost of 2 or less.\n[Trigger] Add up to 1 [Yamato] from your trash to your hand.",
+        "set_id": "OP-16",
+        "rarity": "C",
+        "card_set_id": "OP16-101",
+        "card_color": "Black",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "2",
+        "card_power": null,
+        "sub_types": "Land of Wano",
+        "counter_amount": 0,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP16-101",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP16-101_YfEpHnx.jpg"
+    }
+]

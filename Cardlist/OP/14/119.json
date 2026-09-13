@@ -1,3 +1,59 @@
-{
-    "detail": "Request was throttled. Expected available in 136 seconds."
-}
+[
+    {
+        "card_name": "Dracule Mihawk - OP14-119 (Alternate Art)",
+        "set_name": "The Azure Sea's Seven",
+        "card_text": "[Your Turn] When this Character becomes rested, up to 1 of your opponent's Characters with a cost or 9 or less cannot be rested until the end of your opponent's next End Phase.\n[On Your Opponent's Attack] [Once Per Turn] You may trash 1 card from your hand: Up to 1 of your Leader or Character cards gains +2000 power during this battle.",
+        "set_id": "OP14-EB04",
+        "rarity": "SEC",
+        "card_set_id": "OP14-119",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "9",
+        "card_power": "10000",
+        "sub_types": "The Seven Warlords of the Sea",
+        "counter_amount": 0,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP14-119_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP14-119_p1_msFsNgZ.jpg"
+    },
+    {
+        "card_name": "Dracule Mihawk (Manga)",
+        "set_name": "The Azure Sea's Seven",
+        "card_text": "[Your Turn] When this Character becomes rested, up to 1 of your opponent's Characters with a cost of 9 or less cannot be rested until the end of your opponent's next End Phase.[On Your Opponent's Attack] [Once Per Turn] You may trash 1 card from your hand: Up to 1 of your Leader or Character cards gains +2000 power during this battle.",
+        "set_id": "OP14-EB04",
+        "rarity": "SEC",
+        "card_set_id": "OP14-119",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "9",
+        "card_power": "10000",
+        "sub_types": "The Seven Warlords of the Sea",
+        "counter_amount": 0,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP14-119_p2",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP14-119_p2.jpg"
+    },
+    {
+        "card_name": "Dracule Mihawk - OP14-119",
+        "set_name": "The Azure Sea's Seven",
+        "card_text": "[Your Turn] When this Character becomes rested, up to 1 of your opponent's Characters with a cost or 9 or less cannot be rested until the end of your opponent's next End Phase. [On Your Opponent's Attack] [Once Per Turn] You may trash 1 card from your hand: Up to 1 of your Leader or Character cards gains +2000 power during this battle.",
+        "set_id": "OP14-EB04",
+        "rarity": "SEC",
+        "card_set_id": "OP14-119",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "9",
+        "card_power": "10000",
+        "sub_types": "The Seven Warlords of the Sea",
+        "counter_amount": 0,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP14-119",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP14-119_OkSnUtV.jpg"
+    }
+]

@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 113 seconds."
-}
+[
+    {
+        "card_name": "Don't Worry!! I'm Here!!",
+        "set_name": "The Azure Sea's Seven",
+        "card_text": "[Main] All of your {Fish-Man} or {Merfolk} type Leader and Character cards gain +1000 power during this turn.\n[Trigger] Draw 2 cards.",
+        "set_id": "OP14-EB04",
+        "rarity": "C",
+        "card_set_id": "OP14-057",
+        "card_color": "Blue",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "2",
+        "card_power": null,
+        "sub_types": "Fish-Man The Seven Warlords of the Sea The Sun Pirates",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP14-057",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP14-057_vxm7oHn.jpg"
+    }
+]

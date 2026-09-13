@@ -1,3 +1,59 @@
-{
-    "detail": "Request was throttled. Expected available in 225 seconds."
-}
+[
+    {
+        "card_name": "Marco",
+        "set_name": "Two Legends",
+        "card_text": "[DON!! x1] [Activate: Main] [Once Per Turn] Draw 1 card and place 1 card from your hand at the top or bottom of your deck. Then, give up to 1 of your opponent's Characters -2000 power during this turn.",
+        "set_id": "OP-08",
+        "rarity": "L",
+        "card_set_id": "OP08-002",
+        "card_color": "Blue Red",
+        "card_type": "Leader",
+        "life": "4",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Whitebeard Pirates",
+        "counter_amount": null,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-002",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-002.jpg"
+    },
+    {
+        "card_name": "Marco (Parallel)",
+        "set_name": "Two Legends",
+        "card_text": "[DON!! x1] [Activate: Main] [Once Per Turn] Draw 1 card and place 1 card from your hand at the top or bottom of your deck. Then, give up to 1 of your opponent's Characters 2000 power during this turn.",
+        "set_id": "OP-08",
+        "rarity": "L",
+        "card_set_id": "OP08-002",
+        "card_color": "Blue Red",
+        "card_type": "Leader",
+        "life": "4",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Whitebeard Pirates",
+        "counter_amount": null,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-002_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-002_p1.jpg"
+    },
+    {
+        "card_name": "Marco (SPR)",
+        "set_name": "Extra Booster: Anime 25th Collection",
+        "card_text": "[DON!! x1] [Activate: Main] [Once Per Turn] Draw 1 card and place 1 card from your hand at the top or bottom of your deck. Then, give up to 1 of your opponent's Characters 2000 power during this turn.",
+        "set_id": "EB-02",
+        "rarity": "L",
+        "card_set_id": "OP08-002",
+        "card_color": "Blue Red",
+        "card_type": "Leader",
+        "life": "4",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Whitebeard Pirates",
+        "counter_amount": null,
+        "attribute": "Special",
+        "date_scraped": "2025-06-29",
+        "card_image_id": "OP08-002_p2",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-002_p2.jpg"
+    }
+]

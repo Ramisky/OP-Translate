@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 160 seconds."
-}
+[
+    {
+        "card_name": "Charlotte Perospero",
+        "set_name": "A Fist of Divine Speed",
+        "card_text": "[Activate: Main] [Once Per Turn] You may trash 1 card from your hand: Choose a cost and reveal 1 card from the top of your opponent's deck. If the revealed card has the chosen cost, draw 1 card and add up to 1 DON!! card from your DON!! deck and set it as active.",
+        "set_id": "OP-11",
+        "rarity": "R",
+        "card_set_id": "OP11-071",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "7000",
+        "sub_types": "Big Mom Pirates",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP11-071",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP11-071.jpg"
+    }
+]

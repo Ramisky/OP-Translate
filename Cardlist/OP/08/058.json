@@ -1,3 +1,59 @@
-{
-    "detail": "Request was throttled. Expected available in 151 seconds."
-}
+[
+    {
+        "card_name": "Charlotte Pudding (058)",
+        "set_name": "Two Legends",
+        "card_text": "[When Attacking] You may turn 2 cards from the top of your Life cards face-up: Add up to 1 DON!! card from your DON!! deck and rest it.",
+        "set_id": "OP-08",
+        "rarity": "L",
+        "card_set_id": "OP08-058",
+        "card_color": "Purple Yellow",
+        "card_type": "Leader",
+        "life": "4",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Big Mom Pirates",
+        "counter_amount": null,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-058",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-058.jpg"
+    },
+    {
+        "card_name": "Charlotte Pudding (058) (Parallel)",
+        "set_name": "Two Legends",
+        "card_text": "[When Attacking] You may turn 2 cards from the top of your Life cards face-up: Add up to 1 DON!! card from your DON!! deck and rest it.",
+        "set_id": "OP-08",
+        "rarity": "L",
+        "card_set_id": "OP08-058",
+        "card_color": "Purple Yellow",
+        "card_type": "Leader",
+        "life": "4",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Big Mom Pirates",
+        "counter_amount": null,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-058_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-058_p1.jpg"
+    },
+    {
+        "card_name": "Charlotte Pudding (SPR)",
+        "set_name": "Extra Booster: Anime 25th Collection",
+        "card_text": "[When Attacking] You may turn 2 cards from the top of your Life cards face-up: Add up to 1 DON!! card from your DON!! deck and rest it.",
+        "set_id": "EB-02",
+        "rarity": "L",
+        "card_set_id": "OP08-058",
+        "card_color": "Purple Yellow",
+        "card_type": "Leader",
+        "life": "4",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Big Mom Pirates",
+        "counter_amount": null,
+        "attribute": "Wisdom",
+        "date_scraped": "2025-06-29",
+        "card_image_id": "OP08-058_p2",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-058_p2.jpg"
+    }
+]

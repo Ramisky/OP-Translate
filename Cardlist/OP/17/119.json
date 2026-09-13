@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 25 seconds."
-}
+[
+    {
+        "card_name": "Loki",
+        "set_name": "The World's Strongest Warriors",
+        "card_text": "This Character gains +12 cost, and if it is your opponent's turn, this Character gains +3000 power.\n[On Play] K.O. your opponent's Characters with a total cost of 4 or less.",
+        "set_id": "OP-17",
+        "rarity": "SEC",
+        "card_set_id": "OP17-119",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "8000",
+        "sub_types": "Giant Elbaph",
+        "counter_amount": 0,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP17-119",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP17-119_UhxVfTG.jpg"
+    },
+    {
+        "card_name": "Loki (Alternate Art)",
+        "set_name": "The World's Strongest Warriors",
+        "card_text": "This Character gains +12 cost, and if it is your opponent's turn, this Character gains +3000 power.\n[On Play] K.O. your opponent's Characters with a total cost of 4 or less.",
+        "set_id": "OP-17",
+        "rarity": "SEC",
+        "card_set_id": "OP17-119",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "8000",
+        "sub_types": "Giant Elbaph",
+        "counter_amount": 0,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP17-119_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP17-119_p1_leUYdJN.jpg"
+    }
+]

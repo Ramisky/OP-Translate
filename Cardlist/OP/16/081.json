@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 66 seconds."
-}
+[
+    {
+        "card_name": "Otama",
+        "set_name": "The Time of Battle",
+        "card_text": "[Activate: Main] You may rest this Character: If you have a Character with a cost of 8 or more, give up to 1 of your opponent's Characters 2000 power during this turn.",
+        "set_id": "OP-16",
+        "rarity": "C",
+        "card_set_id": "OP16-081",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "0",
+        "sub_types": "Land of Wano",
+        "counter_amount": 2000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP16-081",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP16-081_yyBVNXW.jpg"
+    }
+]

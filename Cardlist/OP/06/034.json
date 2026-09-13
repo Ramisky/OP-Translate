@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 54 seconds."
-}
+[
+    {
+        "card_name": "Hyouzou",
+        "set_name": "Wings of the Captain",
+        "card_text": "[Activate:Main][Once Per Turn] Rest up to 1 of your opponent's Characters with a cost of 4 or less and this Character gains +1000 power during this turn. Then, add 1 card from the top of your Life cards to your hand.",
+        "set_id": "OP-06",
+        "rarity": "UC",
+        "card_set_id": "OP06-034",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "6000",
+        "sub_types": "Fish-Man",
+        "counter_amount": 0,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP06-034",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP06-034.jpg"
+    }
+]

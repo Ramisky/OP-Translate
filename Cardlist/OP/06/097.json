@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 69 seconds."
-}
+[
+    {
+        "card_name": "Negative Hollow",
+        "set_name": "Wings of the Captain",
+        "card_text": "[Main] Trash 1 card from your opponent's hand.\n[Trigger] Activate this card's [Main] effect.",
+        "set_id": "OP-06",
+        "rarity": "R",
+        "card_set_id": "OP06-097",
+        "card_color": "Black",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "2",
+        "card_power": null,
+        "sub_types": "Thriller Bark Pirates",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP06-097",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP06-097.jpg"
+    }
+]

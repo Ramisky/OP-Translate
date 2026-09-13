@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 32 seconds."
-}
+[
+    {
+        "card_name": "Boa Marigold",
+        "set_name": "Carrying On His Will",
+        "card_text": "[Blocker]\n[On Play] If your Leader is [Boa Hancock], play up to 1 [Boa Hancock] with a cost of 6 or less from your hand.",
+        "set_id": "OP-13",
+        "rarity": "UC",
+        "card_set_id": "OP13-052",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "4000",
+        "sub_types": "Kuja Pirates",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP13-052",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP13-052_dEx8k6x.jpg"
+    }
+]

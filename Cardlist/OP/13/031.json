@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 87 seconds."
-}
+[
+    {
+        "card_name": "Trafalgar Law",
+        "set_name": "Carrying On His Will",
+        "card_text": "If you have 1 or less Life cards, this Character gains [Blocker].\n[On Play] You may return 1 of your Characters to the owner's hand: Play up to 1 Character card with a cost of 5 or less from your hand rested.",
+        "set_id": "OP-13",
+        "rarity": "R",
+        "card_set_id": "OP13-031",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "6000",
+        "sub_types": "FILM Heart Pirates Supernovas",
+        "counter_amount": 0,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP13-031",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP13-031_RqMf0Sh.jpg"
+    },
+    {
+        "card_name": "Trafalgar Law (SP)",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "If you have 1 or less Life cards, this Character gains [Blocker].[On Play] You may return 1 of your Characters to the owner's hand: Play up to 1 Character card with a cost of 5 or less from your hand rested.",
+        "set_id": "OP15-EB04",
+        "rarity": "R",
+        "card_set_id": "OP13-031",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "6000",
+        "sub_types": "FILM Heart Pirates Supernovas",
+        "counter_amount": 0,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP13-031_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP13-031_p1.jpg"
+    }
+]

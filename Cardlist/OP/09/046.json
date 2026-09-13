@@ -1,3 +1,59 @@
-{
-    "detail": "Request was throttled. Expected available in 5 seconds."
-}
+[
+    {
+        "card_name": "Crocodile (046)",
+        "set_name": "Emperors in the New World",
+        "card_text": "[On Play] Play up to 1 \"Cross Guild\" type Character card or Character card with a type including \"Baroque Works\" with a cost of 5 or less from your hand.",
+        "set_id": "OP-09",
+        "rarity": "SR",
+        "card_set_id": "OP09-046",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "7",
+        "card_power": "7000",
+        "sub_types": "Former Baroque Works Cross Guild",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-046",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-046.jpg"
+    },
+    {
+        "card_name": "Crocodile (046) (Parallel)",
+        "set_name": "Emperors in the New World",
+        "card_text": "[On Play] Play up to 1 \"Cross Guild\" type Character card or Character card with a type including \"Baroque Works\" with a cost of 5 or less from your hand.",
+        "set_id": "OP-09",
+        "rarity": "SR",
+        "card_set_id": "OP09-046",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "7",
+        "card_power": "7000",
+        "sub_types": "Former Baroque Works Cross Guild",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-046_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-046_p1.jpg"
+    },
+    {
+        "card_name": "Crocodile - OP09-046 (Reprint)",
+        "set_name": "Premium Booster -The Best- Vol. 2",
+        "card_text": "[On Play] Play up to 1 \"Cross Guild\" type Character card or Character card with a type including \"Baroque Works\" with a cost of 5 or less from your hand.Disclaimer: This card was reprinted from the original set with changes to the copyright information (Note: the original print did not include \"EN\" at the end of the copyright).",
+        "set_id": "PRB-02",
+        "rarity": "SR",
+        "card_set_id": "OP09-046",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "7",
+        "card_power": "7000",
+        "sub_types": "Former Baroque Works Cross Guild",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-046_r1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-046_r1.jpg"
+    }
+]

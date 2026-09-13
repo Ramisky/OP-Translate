@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 122 seconds."
-}
+[
+    {
+        "card_name": "Honesty Impact",
+        "set_name": "A Fist of Divine Speed",
+        "card_text": "[Main] Give up to 1 of your opponent's Characters 4000 power during this turn. Then, K.O. up to 1 of your opponent's Characters with 6000 power or less.\n[Trigger] K.O. up to 1 of your opponent's Characters with 6000 power or less.",
+        "set_id": "OP-11",
+        "rarity": "R",
+        "card_set_id": "OP11-018",
+        "card_color": "Red",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "6",
+        "card_power": null,
+        "sub_types": "Navy SWORD",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP11-018",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP11-018.jpg"
+    },
+    {
+        "card_name": "Honesty Impact (Alternate Art)",
+        "set_name": "A Fist of Divine Speed",
+        "card_text": "[Main] Give up to 1 of your opponent's Characters 4000 power during this turn. Then, K.O. up to 1 of your opponent's Characters with 6000 power or less.\n[Trigger] K.O. up to 1 of your opponent's Characters with 6000 power or less.",
+        "set_id": "OP-11",
+        "rarity": "R",
+        "card_set_id": "OP11-018",
+        "card_color": "Red",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "6",
+        "card_power": null,
+        "sub_types": "Navy SWORD",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP11-018_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP11-018_p1.jpg"
+    }
+]

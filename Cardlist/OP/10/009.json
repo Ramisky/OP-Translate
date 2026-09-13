@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 99 seconds."
-}
+[
+    {
+        "card_name": "Smiley",
+        "set_name": "Royal Blood",
+        "card_text": "[On Play] If your Leader has the \"Punk Hazard\" type, give up to 1 of your opponent's Characters 3000 power during this turn.",
+        "set_id": "OP-10",
+        "rarity": "R",
+        "card_set_id": "OP10-009",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Biological Weapon Punk Hazard",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP10-009",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP10-009.jpg"
+    }
+]

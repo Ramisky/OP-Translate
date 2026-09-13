@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 66 seconds."
-}
+[
+    {
+        "card_name": "You Ain't Even Worth Killing Time!!",
+        "set_name": "Wings of the Captain",
+        "card_text": "[Main] Choose one:\n\u2022 Rest up to 1 of your opponent's Characters with a cost of 6 or less.\n\u2022 K.O. up to 1 of your opponent's rested Characters with a cost of 6 or less.\n[Trigger] Activate this card's [Main] effect.",
+        "set_id": "OP-06",
+        "rarity": "R",
+        "card_set_id": "OP06-039",
+        "card_color": "Green",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "4",
+        "card_power": null,
+        "sub_types": "Straw Hat Crew",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP06-039",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP06-039.jpg"
+    }
+]

@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 77 seconds."
-}
+[
+    {
+        "card_name": "Buggy (041)",
+        "set_name": "The Time of Battle",
+        "card_text": "[DON!! X1] [Once Per Turn] This effect can be activated when your {Impel Down} type Character card is removed from the field. Play up to 1 [Prisoner of Impel Down] card from your hand.",
+        "set_id": "OP-16",
+        "rarity": "L",
+        "card_set_id": "OP16-041",
+        "card_color": "Blue",
+        "card_type": "Leader",
+        "life": "5",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Buggy Pirates Impel Down",
+        "counter_amount": 0,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP16-041",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP16-041_TbocLEZ.jpg"
+    },
+    {
+        "card_name": "Buggy (041) (Alternate Art)",
+        "set_name": "The Time of Battle",
+        "card_text": "[DON!! X1] [Once Per Turn] This effect can be activated when your {Impel Down} type Character card is removed from the field. Play up to 1 [Prisoner of Impel Down] card from your hand.",
+        "set_id": "OP-16",
+        "rarity": "L",
+        "card_set_id": "OP16-041",
+        "card_color": "Blue",
+        "card_type": "Leader",
+        "life": "5",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Buggy Pirates Impel Down",
+        "counter_amount": 0,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP16-041_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP16-041_p1_XzwbnlK.jpg"
+    }
+]

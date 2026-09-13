@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 18 seconds."
-}
+[
+    {
+        "card_name": "Tom",
+        "set_name": "Carrying On His Will",
+        "card_text": "[On Play] DON!! -1: Add up to 1 Stage card with a cost of 3 or less from your trash to your hand.",
+        "set_id": "OP-13",
+        "rarity": "C",
+        "card_set_id": "OP13-069",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "2000",
+        "sub_types": "Fish-Man Water Seven",
+        "counter_amount": 1000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP13-069",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP13-069_vCk65mp.jpg"
+    }
+]

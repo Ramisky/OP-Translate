@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 197 seconds."
-}
+[
+    {
+        "card_name": "Hamlet",
+        "set_name": "Two Legends",
+        "card_text": "[On Play] Play up to 1 [SMILE] type Character card with a cost of 2 or less from your trash.",
+        "set_id": "OP-08",
+        "rarity": "C",
+        "card_set_id": "OP08-090",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "Animal Kingdom Pirates SMILE",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-090",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-090.jpg"
+    }
+]

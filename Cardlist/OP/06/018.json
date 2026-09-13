@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 54 seconds."
-}
+[
+    {
+        "card_name": "Gum-Gum King Kong Gatling",
+        "set_name": "Wings of the Captain",
+        "card_text": "[Main] Up to 1 of your Leader or Character cards gains +3000 power during this turn. Then, if your opponent has a Character with 7000 power or more, up to 1 of your Leader or Character cards gains +1000 power during this turn.\n[Trigger] K.O. up to 1 of your opponent's Characters with 5000 power or less.",
+        "set_id": "OP-06",
+        "rarity": "R",
+        "card_set_id": "OP06-018",
+        "card_color": "Red",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "2",
+        "card_power": null,
+        "sub_types": "FILM Straw Hat Crew",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP06-018",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP06-018.jpg"
+    }
+]

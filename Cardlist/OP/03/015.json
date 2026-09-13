@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 10 seconds."
-}
+[
+    {
+        "card_name": "Lim",
+        "set_name": "Pillars of Strength",
+        "card_text": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+        "set_id": "OP-03",
+        "rarity": "UC",
+        "card_set_id": "OP03-015",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "2000",
+        "sub_types": "ODYSSEY",
+        "counter_amount": 0,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP03-015",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP03-015.jpg"
+    }
+]

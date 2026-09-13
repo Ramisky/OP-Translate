@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 73 seconds."
-}
+[
+    {
+        "card_name": "Vista",
+        "set_name": "The Azure Sea's Seven",
+        "card_text": "[Blocker]\n[Opponent's Turn] If you have 7 or less cards in your hand, this Character's base power becomes the same as your Leader's base power.",
+        "set_id": "OP14-EB04",
+        "rarity": "C",
+        "card_set_id": "OP14-053",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "Whitebeard Pirates",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP14-053",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP14-053_hqH99hz.jpg"
+    }
+]

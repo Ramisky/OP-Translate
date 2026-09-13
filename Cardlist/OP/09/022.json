@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 5 seconds."
-}
+[
+    {
+        "card_name": "Lim (022) (Parallel)",
+        "set_name": "Emperors in the New World",
+        "card_text": "Your Character cards are played rested.\n[Activate: Main] [Once Per Turn] You may rest 3 of your DON!! cards: Add up to 1 DON!! card from your DON!! deck and rest it, and play up to 1 \"ODYSSEY\" type Character card with a cost of 5 or less from your hand.",
+        "set_id": "OP-09",
+        "rarity": "L",
+        "card_set_id": "OP09-022",
+        "card_color": "Green Purple",
+        "card_type": "Leader",
+        "life": "4",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "ODYSSEY",
+        "counter_amount": null,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-022_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-022_p1.jpg"
+    },
+    {
+        "card_name": "Lim (022)",
+        "set_name": "Emperors in the New World",
+        "card_text": "Your Character cards are played rested.\n[Activate: Main] [Once Per Turn] You may rest 3 of your DON!! cards: Add up to 1 DON!! card from your DON!! deck and rest it, and play up to 1 \"ODYSSEY\" type Character card with a cost of 5 or less from your hand.",
+        "set_id": "OP-09",
+        "rarity": "L",
+        "card_set_id": "OP09-022",
+        "card_color": "Green Purple",
+        "card_type": "Leader",
+        "life": "4",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "ODYSSEY",
+        "counter_amount": null,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-022",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-022.jpg"
+    }
+]

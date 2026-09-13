@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 93 seconds."
-}
+[
+    {
+        "card_name": "Crocodile",
+        "set_name": "Legacy of the Master",
+        "card_text": "[On Your Opponent's Attack] [Once Per Turn] DON!! 1: If your Leader's type includes \"Baroque Works\", up to 1 of your Leader or Character cards gains +2000 power during this battle.",
+        "set_id": "OP-12",
+        "rarity": "C",
+        "card_set_id": "OP12-069",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "8000",
+        "sub_types": "Baroque Works The Seven Warlords of the Sea",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP12-069",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP12-069_uufcH21.jpg"
+    }
+]

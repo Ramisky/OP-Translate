@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 65 seconds."
-}
+[
+    {
+        "card_name": "Four Thousand-Brick Fist",
+        "set_name": "Awakening of the New Era",
+        "card_text": "[Main] Up to 1 of your Leader or Character cards gains +2000 power during this turn. Then, K.O. up to 1 of your opponent's Characters with 2000 power or less. [Trigger] Up to 1 of your Leader or Character cards gains +1000 power during this turn.",
+        "set_id": "OP-05",
+        "rarity": "UC",
+        "card_set_id": "OP05-020",
+        "card_color": "Red",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "2",
+        "card_power": null,
+        "sub_types": "Fish-Man Revolutionary Army",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP05-020",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP05-020.jpg"
+    }
+]

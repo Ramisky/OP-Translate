@@ -1,3 +1,59 @@
-{
-    "detail": "Request was throttled. Expected available in 216 seconds."
-}
+[
+    {
+        "card_name": "Scratchmen Apoo",
+        "set_name": "Two Legends",
+        "card_text": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [Activate:Main] [Once Per Turn] Give up to 1 of your opponent's Characters 1 cost during this turn.",
+        "set_id": "OP-08",
+        "rarity": "UC",
+        "card_set_id": "OP08-087",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Animal Kingdom Pirates On-Air Pirates",
+        "counter_amount": 1000,
+        "attribute": "Ranged",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-087",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-087.jpg"
+    },
+    {
+        "card_name": "Scratchmen Apoo - OP08-087 (Pirate Foil)",
+        "set_name": "Premium Booster -The Best- Vol. 2",
+        "card_text": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[Activate:Main] [Once Per Turn] Give up to 1 of your opponent's Characters 1 cost during this turn.",
+        "set_id": "PRB-02",
+        "rarity": "UC",
+        "card_set_id": "OP08-087",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Animal Kingdom Pirates On-Air Pirates",
+        "counter_amount": 1000,
+        "attribute": "Ranged",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-087_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-087_p1.jpg"
+    },
+    {
+        "card_name": "Scratchmen Apoo - OP08-087 (Reprint)",
+        "set_name": "Premium Booster -The Best- Vol. 2",
+        "card_text": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[Activate:Main] [Once Per Turn] Give up to 1 of your opponent's Characters 1 cost during this turn.Disclaimer: This card was reprinted from the original set with changes to the copyright information (Note: the original print did not include \"EN\" at the end of the copyright).",
+        "set_id": "PRB-02",
+        "rarity": "UC",
+        "card_set_id": "OP08-087",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Animal Kingdom Pirates On-Air Pirates",
+        "counter_amount": 1000,
+        "attribute": "Ranged",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-087_r1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-087_r1.jpg"
+    }
+]

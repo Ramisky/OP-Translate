@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 10 seconds."
-}
+[
+    {
+        "card_name": "Emporio.Ivankov (051)",
+        "set_name": "Paramount War",
+        "card_text": "[On Play] Draw card(s) so that you have 3 cards in your hand and then play up to 1 blue [Impel Down] type Character card with a cost of 6 or less from your hand.",
+        "set_id": "OP-02",
+        "rarity": "SR",
+        "card_set_id": "OP02-051",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "7",
+        "card_power": "7000",
+        "sub_types": "Revolutionary Army Impel Down",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP02-051",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP02-051.jpg"
+    },
+    {
+        "card_name": "Emporio.Ivankov (051) (Alternate Art)",
+        "set_name": "Paramount War",
+        "card_text": "[On Play] Draw card(s) so that you have 3 cards in your hand and then play up to 1 blue [Impel Down] type Character card with a cost of 6 or less from your hand.",
+        "set_id": "OP-02",
+        "rarity": "SR",
+        "card_set_id": "OP02-051",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "7",
+        "card_power": "7000",
+        "sub_types": "Revolutionary Army Impel Down",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP02-051_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP02-051_p1.jpg"
+    }
+]

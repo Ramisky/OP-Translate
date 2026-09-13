@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 2 seconds."
-}
+[
+    {
+        "card_name": "Edward.Newgate (001)",
+        "set_name": "Paramount War",
+        "card_text": "[End of Your Turn] Add 1 card from the top of your Life cards to your hand.",
+        "set_id": "OP-02",
+        "rarity": "L",
+        "card_set_id": "OP02-001",
+        "card_color": "Red",
+        "card_type": "Leader",
+        "life": "6",
+        "card_cost": null,
+        "card_power": "6000",
+        "sub_types": "The Four Emperors Whitebeard Pirates",
+        "counter_amount": null,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP02-001",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP02-001.jpg"
+    },
+    {
+        "card_name": "Edward.Newgate (001) (Alternate Art)",
+        "set_name": "Paramount War",
+        "card_text": "[End of Your Turn] Add 1 card from the top of your Life cards to your hand.",
+        "set_id": "OP-02",
+        "rarity": "L",
+        "card_set_id": "OP02-001",
+        "card_color": "Red",
+        "card_type": "Leader",
+        "life": "6",
+        "card_cost": null,
+        "card_power": "6000",
+        "sub_types": "The Four Emperors Whitebeard Pirates",
+        "counter_amount": null,
+        "attribute": "Special",
+        "date_scraped": "2026-08-23",
+        "card_image_id": "OP02-001_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP02-001_p1.jpg"
+    }
+]

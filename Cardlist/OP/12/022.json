@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 113 seconds."
-}
+[
+    {
+        "card_name": "Inuarashi",
+        "set_name": "Legacy of the Master",
+        "card_text": "[Activate: Main] You may rest this Character: Up to 1 of your opponent's rested Characters with a cost of 5 or less will not become active in your opponent's next Refresh Phase.",
+        "set_id": "OP-12",
+        "rarity": "C",
+        "card_set_id": "OP12-022",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "7000",
+        "sub_types": "Land of Wano Minks The Akazaya Nine",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP12-022",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP12-022_eOT3zft.jpg"
+    }
+]

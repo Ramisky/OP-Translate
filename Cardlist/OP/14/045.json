@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 72 seconds."
-}
+[
+    {
+        "card_name": "Kuroobi",
+        "set_name": "The Azure Sea's Seven",
+        "card_text": "When a card is trashed from your hand by an effect, this Character gains [Rush] during this turn.\n(This card can attack on the turn in which it is played.)\n[On K.O.] Draw 1 card.",
+        "set_id": "OP14-EB04",
+        "rarity": "UC",
+        "card_set_id": "OP14-045",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "3000",
+        "sub_types": "Fish-Man The Sun Pirates",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP14-045",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP14-045_xmKCcQ7.jpg"
+    }
+]

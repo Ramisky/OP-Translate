@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 68 seconds."
-}
+[
+    {
+        "card_name": "Absalom",
+        "set_name": "Wings of the Captain",
+        "card_text": "[On Play] You may return 2 cards from your trash to the bottom of your deck in any order: K.O. up to 1 Character with a cost of 2 or less.",
+        "set_id": "OP-06",
+        "rarity": "R",
+        "card_set_id": "OP06-081",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Thriller Bark Pirates",
+        "counter_amount": 1000,
+        "attribute": "Ranged",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP06-081",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP06-081.jpg"
+    },
+    {
+        "card_name": "Absalom (Alternate Art)",
+        "set_name": "Wings of the Captain",
+        "card_text": "[On Play] You may return 2 cards from your trash to the bottom of your deck in any order: K.O. up to 1 Character with a cost of 2 or less.",
+        "set_id": "OP-06",
+        "rarity": "R",
+        "card_set_id": "OP06-081",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Thriller Bark Pirates",
+        "counter_amount": 1000,
+        "attribute": "Ranged",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP06-081_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP06-081_p1.jpg"
+    }
+]

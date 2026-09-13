@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 169 seconds."
-}
+[
+    {
+        "card_name": "Gotti",
+        "set_name": "A Fist of Divine Speed",
+        "card_text": "[When Attacking] You may trash 1 \"Firetank Pirates\" type card from your hand: Return up to 1 Character with a cost of 1 or less to the owner's hand or place it at the bottom of their deck.",
+        "set_id": "OP-11",
+        "rarity": "C",
+        "card_set_id": "OP11-050",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "Firetank Pirates",
+        "counter_amount": 2000,
+        "attribute": "Ranged",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP11-050",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP11-050.jpg"
+    }
+]

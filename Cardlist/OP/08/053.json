@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 201 seconds."
-}
+[
+    {
+        "card_name": "Thank You...for Loving Me!!",
+        "set_name": "Two Legends",
+        "card_text": "[Main] If your Leader's type includes \"Whitebeard Piratess\", look at 3 cards from the top of your deck; reveal up to 1 card with a type including \"Whitebeard Piratess\" or [Monkey.D.Luffy] and add it to your hand. Then, place the rest at the top or bottom of your deck in any order. [Trigger] Draw 1 card.",
+        "set_id": "OP-08",
+        "rarity": "R",
+        "card_set_id": "OP08-053",
+        "card_color": "Blue",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "Whitebeard Pirates",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-053",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-053.jpg"
+    }
+]

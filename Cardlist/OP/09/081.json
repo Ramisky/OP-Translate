@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 22 seconds."
-}
+[
+    {
+        "card_name": "Marshall.D.Teach (081) (Parallel)",
+        "set_name": "Emperors in the New World",
+        "card_text": "Your [On Play] effects are negated.\n[Activate: Main] You may trash 1 card from your hand: Your opponent's [On Play] effects are negated until the end of your opponent's next turn.",
+        "set_id": "OP-09",
+        "rarity": "L",
+        "card_set_id": "OP09-081",
+        "card_color": "Black",
+        "card_type": "Leader",
+        "life": "5",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Blackbeard Pirates The Four Emperors",
+        "counter_amount": null,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-081_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-081_p1.jpg"
+    },
+    {
+        "card_name": "Marshall.D.Teach (081)",
+        "set_name": "Emperors in the New World",
+        "card_text": "Your [On Play] effects are negated.\n[Activate: Main] You may trash 1 card from your hand: Your opponent's [On Play] effects are negated until the end of your opponent's next turn.",
+        "set_id": "OP-09",
+        "rarity": "L",
+        "card_set_id": "OP09-081",
+        "card_color": "Black",
+        "card_type": "Leader",
+        "life": "5",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Blackbeard Pirates The Four Emperors",
+        "counter_amount": null,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-081",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-081.jpg"
+    }
+]

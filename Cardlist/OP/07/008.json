@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 19 seconds."
-}
+[
+    {
+        "card_name": "Mr. Tanaka",
+        "set_name": "500 Years in the Future",
+        "card_text": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [Trigger] Play this card.",
+        "set_id": "OP-07",
+        "rarity": "UC",
+        "card_set_id": "OP07-008",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "3000",
+        "sub_types": "FILM Grantesoro",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP07-008",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-008.jpg"
+    }
+]

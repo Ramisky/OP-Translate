@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 1 second."
-}
+[
+    {
+        "card_name": "Issho",
+        "set_name": "Kingdoms of Intrigue",
+        "card_text": "[DON!! x1] [Your Turn] Give all of your opponent's Characters -1 cost. [End of Your Turn] (1) (You may rest the specified number of DON!! cards in your cost area.): Set up to 1 of your Characters with a cost of 5 or less as active.",
+        "set_id": "OP-04",
+        "rarity": "L",
+        "card_set_id": "OP04-020",
+        "card_color": "Green Black",
+        "card_type": "Leader",
+        "life": "4",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Navy",
+        "counter_amount": null,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP04-020",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP04-020.jpg"
+    },
+    {
+        "card_name": "Issho (Alternate Art)",
+        "set_name": "Kingdoms of Intrigue",
+        "card_text": "[DON!! x1] [Your Turn] Give all of your opponent's Characters -1 cost. [End of Your Turn] (1) (You may rest the specified number of DON!! cards in your cost area.): Set up to 1 of your Characters with a cost of 5 or less as active.",
+        "set_id": "OP-04",
+        "rarity": "L",
+        "card_set_id": "OP04-020",
+        "card_color": "Green Black",
+        "card_type": "Leader",
+        "life": "4",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Navy",
+        "counter_amount": null,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP04-020_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP04-020_p1.jpg"
+    }
+]

@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 104 seconds."
-}
+[
+    {
+        "card_name": "ROOM",
+        "set_name": "Royal Blood",
+        "card_text": "[Counter] If you have 1 or less Life cards, up to 1 of your Leader or Character cards gains +3000 power during this battle. Then, set up to 1 of your Characters with a cost of 5 or less as active.\n[Trigger] Draw 1 card.",
+        "set_id": "OP-10",
+        "rarity": "UC",
+        "card_set_id": "OP10-117",
+        "card_color": "Yellow",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "Heart Pirates Supernovas",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP10-117",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP10-117.jpg"
+    }
+]

@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 17 seconds."
-}
+[
+    {
+        "card_name": "Sphinx",
+        "set_name": "Paramount War",
+        "card_text": "NULL",
+        "set_id": "OP-02",
+        "rarity": "C",
+        "card_set_id": "OP02-088",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "6000",
+        "sub_types": "Animal Impel Down",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP02-088",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP02-088.jpg"
+    }
+]

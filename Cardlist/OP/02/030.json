@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 7 seconds."
-}
+[
+    {
+        "card_name": "Kouzuki Oden",
+        "set_name": "Paramount War",
+        "card_text": "[Activate:Main] [Once Per Turn] (3) (You may rest the specified number of DON!! cards in your cost area.): Set this Character as active. [On K.O.] Play up to 1 green \"Land of Wano\" type Character card with a cost of 3 from your deck. Then, shuffle your deck.",
+        "set_id": "OP-02",
+        "rarity": "SR",
+        "card_set_id": "OP02-030",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "8",
+        "card_power": "8000",
+        "sub_types": "Land of Wano Kouzuki Clan",
+        "counter_amount": 0,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP02-030",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP02-030.jpg"
+    },
+    {
+        "card_name": "Kouzuki Oden (Alternate Art)",
+        "set_name": "Paramount War",
+        "card_text": "[Activate:Main] [Once Per Turn] (3) (You may rest the specified number of DON!! cards in your cost area.): Set this Character as active. [On K.O.] Play up to 1 green \"Land of Wano\" type Character card with a cost of 3 from your deck. Then, shuffle your deck.",
+        "set_id": "OP-02",
+        "rarity": "SR",
+        "card_set_id": "OP02-030",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "8",
+        "card_power": "8000",
+        "sub_types": "Land of Wano Kouzuki Clan",
+        "counter_amount": 0,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP02-030_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP02-030_p1.jpg"
+    }
+]

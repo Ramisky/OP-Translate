@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 147 seconds."
-}
+[
+    {
+        "card_name": "The One Who Is the Most Free Is the Pirate King!!!",
+        "set_name": "Carrying On His Will",
+        "card_text": "[Main] Look at 5 cards from the top of your deck; reveal up to 1 \"Supernovas\" type Character card and add it to your hand. Then, place the rest at the bottom of your deck in any order.\n[Trigger] Activate this card's [Main] effect.",
+        "set_id": "OP-13",
+        "rarity": "UC",
+        "card_set_id": "OP13-116",
+        "card_color": "Yellow",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "Straw Hat Crew Supernovas",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP13-116",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP13-116_yr69sF2.jpg"
+    }
+]

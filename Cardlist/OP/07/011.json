@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 88 seconds."
-}
+[
+    {
+        "card_name": "Bluejam",
+        "set_name": "500 Years in the Future",
+        "card_text": "[DON!! x1][When Attacking] K.O. up to 1 of your opponent's Characters with 2000 power or less.",
+        "set_id": "OP-07",
+        "rarity": "C",
+        "card_set_id": "OP07-011",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Goa Kingdom Bluejam Pirates",
+        "counter_amount": 1000,
+        "attribute": "Ranged",
+        "date_scraped": "2026-09-06",
+        "card_image_id": "OP07-011",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-011.jpg"
+    }
+]

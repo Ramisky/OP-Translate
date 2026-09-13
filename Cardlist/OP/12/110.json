@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 251 seconds."
-}
+[
+    {
+        "card_name": "Buffalo",
+        "set_name": "Legacy of the Master",
+        "card_text": null,
+        "set_id": "OP-12",
+        "rarity": "C",
+        "card_set_id": "OP12-110",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "5000",
+        "sub_types": "Donquixote Pirates",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP12-110",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP12-110_BSlmvNZ.jpg"
+    }
+]

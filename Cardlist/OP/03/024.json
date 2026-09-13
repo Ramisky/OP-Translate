@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 1 second."
-}
+[
+    {
+        "card_name": "Gin",
+        "set_name": "Pillars of Strength",
+        "card_text": "[On Play] If your Leader has the [East Blue] type, rest up to 2 of your opponent's Characters with a cost of 4 or less.",
+        "set_id": "OP-03",
+        "rarity": "R",
+        "card_set_id": "OP03-024",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Krieg Pirates East Blue",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP03-024",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP03-024.jpg"
+    },
+    {
+        "card_name": "Gin (Alternate Art)",
+        "set_name": "Pillars of Strength",
+        "card_text": "[On Play] If your Leader has the [East Blue] type, rest up to 2 of your opponent's Characters with a cost of 4 or less.",
+        "set_id": "OP-03",
+        "rarity": "R",
+        "card_set_id": "OP03-024",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Krieg Pirates East Blue",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP03-024_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP03-024_p1.jpg"
+    }
+]

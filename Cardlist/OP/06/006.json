@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 11 seconds."
-}
+[
+    {
+        "card_name": "Saga",
+        "set_name": "Wings of the Captain",
+        "card_text": "[DON!! x1][When Attacking] This Character gains +1000 power until the start of your next turn. Then, trash 1 of your [FILM] type Characters at the end of this turn.",
+        "set_id": "OP-06",
+        "rarity": "UC",
+        "card_set_id": "OP06-006",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "FILM Asuka Island",
+        "counter_amount": 2000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP06-006",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP06-006.jpg"
+    }
+]

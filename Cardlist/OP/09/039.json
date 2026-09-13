@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 26 seconds."
-}
+[
+    {
+        "card_name": "Gum-Gum Cuatro Jet Cross Shock Bazooka",
+        "set_name": "Emperors in the New World",
+        "card_text": "[Counter] If your Leader has the \"ODYSSEY\" type and you have 2 or more rested Characters, up to 1 of your Leader or Character cards gains +2000 power during this turn.\n[Trigger] K.O. up to 1 of your opponent's rested Characters with a cost of 4 or less.",
+        "set_id": "OP-09",
+        "rarity": "R",
+        "card_set_id": "OP09-039",
+        "card_color": "Green",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "Straw Hat Crew Supernovas ODYSSEY",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-039",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-039.jpg"
+    }
+]

@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 142 seconds."
-}
+[
+    {
+        "card_name": "Barrier-Barrier Pistol",
+        "set_name": "Royal Blood",
+        "card_text": "[Main] Place up to 1 of your opponent's Characters with 6000 power or less at the bottom of the owner's deck.\n[Trigger] Activate this card's [Main] effect.",
+        "set_id": "OP-10",
+        "rarity": "C",
+        "card_set_id": "OP10-060",
+        "card_color": "Blue",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "5",
+        "card_power": null,
+        "sub_types": "Dressrosa Barto Club",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP10-060",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP10-060.jpg"
+    }
+]

@@ -1,3 +1,59 @@
-{
-    "detail": "Request was throttled. Expected available in 157 seconds."
-}
+[
+    {
+        "card_name": "Kalgara (098)",
+        "set_name": "Two Legends",
+        "card_text": "[DON!! x1] [When Attacking] Play up to 1 {Shandian Warrior} type Character card from your hand with a cost equal to or less than the number of DON!! cards on your field. If you do, add 1 card from the top of your Life cards to your hand.",
+        "set_id": "OP-08",
+        "rarity": "L",
+        "card_set_id": "OP08-098",
+        "card_color": "Yellow",
+        "card_type": "Leader",
+        "life": "5",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Sky Island Shandian Warrior Jaya",
+        "counter_amount": null,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-098",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-098.jpg"
+    },
+    {
+        "card_name": "Kalgara (098) (Parallel)",
+        "set_name": "Two Legends",
+        "card_text": "[DON!! x1] [When Attacking] Play up to 1 {Shandian Warrior} type Character card from your hand with a cost equal to or less than the number of DON!! cards on your field. If you do, add 1 card from the top of your Life cards to your hand.",
+        "set_id": "OP-08",
+        "rarity": "L",
+        "card_set_id": "OP08-098",
+        "card_color": "Yellow",
+        "card_type": "Leader",
+        "life": "5",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Sky Island Shandian Warrior Jaya",
+        "counter_amount": null,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-098_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-098_p1.jpg"
+    },
+    {
+        "card_name": "Kalgara (SPR)",
+        "set_name": "Extra Booster: Anime 25th Collection",
+        "card_text": "[DON!! x1] [When Attacking] Play up to 1 \"Shandian Warrior\" type Character card from your hand with a cost equal to or less than the number of DON!! cards on your field. If you do, add 1 card from the top of your Life cards to your hand.",
+        "set_id": "EB-02",
+        "rarity": "L",
+        "card_set_id": "OP08-098",
+        "card_color": "Yellow",
+        "card_type": "Leader",
+        "life": "5",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Sky Island Shandian Warrior Jaya",
+        "counter_amount": null,
+        "attribute": "Slash",
+        "date_scraped": "2025-06-29",
+        "card_image_id": "OP08-098_p2",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-098_p2.jpg"
+    }
+]

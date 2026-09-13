@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 25 seconds."
-}
+[
+    {
+        "card_name": "Nico Robin (062)",
+        "set_name": "Emperors in the New World",
+        "card_text": "[Banish] (When this card deals damage, the target card is trashed without activating its Trigger.)\n[When Attacking] You may trash 1 card with a [Trigger] from your hand: Add up to 1 DON!! card from your DON!! deck and rest it.",
+        "set_id": "OP-09",
+        "rarity": "L",
+        "card_set_id": "OP09-062",
+        "card_color": "Purple Yellow",
+        "card_type": "Leader",
+        "life": "4",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Straw Hat Crew",
+        "counter_amount": null,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-062",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-062.jpg"
+    },
+    {
+        "card_name": "Nico Robin (062) (Parallel)",
+        "set_name": "Emperors in the New World",
+        "card_text": "[Banish] (When this card deals damage, the target card is trashed without activating its Trigger.)\n[When Attacking] You may trash 1 card with a [Trigger] from your hand: Add up to 1 DON!! card from your DON!! deck and rest it.",
+        "set_id": "OP-09",
+        "rarity": "L",
+        "card_set_id": "OP09-062",
+        "card_color": "Purple Yellow",
+        "card_type": "Leader",
+        "life": "4",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Straw Hat Crew",
+        "counter_amount": null,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-062_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-062_p1.jpg"
+    }
+]

@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 14 seconds."
-}
+[
+    {
+        "card_name": "Koala",
+        "set_name": "The Azure Sea's Seven",
+        "card_text": "[Activate: Main] You may trash this Character: Up to 1 of your {Fish-Man} or {Merfolk} type Leader or Character cards gains +2000 power during this turn.",
+        "set_id": "OP14-EB04",
+        "rarity": "UC",
+        "card_set_id": "OP14-046",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "0",
+        "sub_types": "Foolshout Island",
+        "counter_amount": 2000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP14-046",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP14-046_tPRD8Rh.jpg"
+    }
+]

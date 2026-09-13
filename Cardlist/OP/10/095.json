@@ -1,3 +1,59 @@
-{
-    "detail": "Request was throttled. Expected available in 135 seconds."
-}
+[
+    {
+        "card_name": "Roronoa Zoro (095)",
+        "set_name": "Royal Blood",
+        "card_text": "[On Play] You may rest 1 of your \"Dressrosa\" type Leader or Stage cards: K.O. up to 1 of your opponent's Characters with a cost of 4 or less. Then, trash 2 cards from the top of your deck.",
+        "set_id": "OP-10",
+        "rarity": "R",
+        "card_set_id": "OP10-095",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "6000",
+        "sub_types": "Straw Hat Crew Supernovas Dressrosa",
+        "counter_amount": 0,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP10-095",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP10-095.jpg"
+    },
+    {
+        "card_name": "Roronoa Zoro - OP10-095 (Alternate Art)",
+        "set_name": "Premium Booster -The Best- Vol. 2",
+        "card_text": "[On Play] You may rest 1 of your \"Dressrosa\" type Leader or Stage cards: K.O. up to 1 of your opponent's Characters with a cost of 4 or less. Then, trash 2 cards from the top of your deck.",
+        "set_id": "PRB-02",
+        "rarity": "R",
+        "card_set_id": "OP10-095",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "6000",
+        "sub_types": "Straw Hat Crew Supernovas Dressrosa",
+        "counter_amount": 0,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP10-095_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP10-095_p1.jpg"
+    },
+    {
+        "card_name": "Roronoa Zoro - OP10-095 (Reprint)",
+        "set_name": "Premium Booster -The Best- Vol. 2",
+        "card_text": "[On Play] You may rest 1 of your \"Dressrosa\" type Leader or Stage cards: K.O. up to 1 of your opponent's Characters with a cost of 4 or less. Then, trash 2 cards from the top of your deck.Disclaimer: This card was reprinted from the original set with changes to the copyright information (Note: the original print did not include \"EN\" at the end of the copyright).",
+        "set_id": "PRB-02",
+        "rarity": "R",
+        "card_set_id": "OP10-095",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "6000",
+        "sub_types": "Straw Hat Crew Supernovas Dressrosa",
+        "counter_amount": 0,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP10-095_r1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP10-095_r1.jpg"
+    }
+]

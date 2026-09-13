@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 184 seconds."
-}
+[
+    {
+        "card_name": "Magura",
+        "set_name": "Paramount War",
+        "card_text": "[On Play] Up to 1 of your red Characters with a cost of 1 gains +3000 power during this turn.",
+        "set_id": "OP-02",
+        "rarity": "C",
+        "card_set_id": "OP02-016",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "2000",
+        "sub_types": "Mountain Bandits",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP02-016",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP02-016.jpg"
+    }
+]

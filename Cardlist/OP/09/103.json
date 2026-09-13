@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 5 seconds."
-}
+[
+    {
+        "card_name": "Koala",
+        "set_name": "Emperors in the New World",
+        "card_text": "[Blocker]\n[On Play] You may add 1 card from the top or bottom of your Life cards to your hand: Play up to 1 \"Revolutionary Army\" type Character card with a cost of 4 or less from your hand. If you do, draw 1 card.",
+        "set_id": "OP-09",
+        "rarity": "SR",
+        "card_set_id": "OP09-103",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "6000",
+        "sub_types": "Revolutionary Army",
+        "counter_amount": 0,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-103",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-103.jpg"
+    },
+    {
+        "card_name": "Koala (Parallel)",
+        "set_name": "Emperors in the New World",
+        "card_text": "[Blocker]\n[On Play] You may add 1 card from the top or bottom of your Life cards to your hand: Play up to 1 \"Revolutionary Army\" type Character card with a cost of 4 or less from your hand. If you do, draw 1 card.",
+        "set_id": "OP-09",
+        "rarity": "SR",
+        "card_set_id": "OP09-103",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "6000",
+        "sub_types": "Revolutionary Army",
+        "counter_amount": 0,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-103_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-103_p1.jpg"
+    }
+]

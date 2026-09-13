@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 207 seconds."
-}
+[
+    {
+        "card_name": "Magellan (071)",
+        "set_name": "Paramount War",
+        "card_text": "[Your Turn] [Once Per Turn] When a DON!! card on your field is returned to your DON!! deck, this Leader gains +1000 power during this turn.",
+        "set_id": "OP-02",
+        "rarity": "L",
+        "card_set_id": "OP02-071",
+        "card_color": "Purple",
+        "card_type": "Leader",
+        "life": "5",
+        "card_cost": null,
+        "card_power": "6000",
+        "sub_types": "Impel Down",
+        "counter_amount": null,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP02-071",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP02-071.jpg"
+    },
+    {
+        "card_name": "Magellan (071) (Alternate Art)",
+        "set_name": "Paramount War",
+        "card_text": "[Your Turn] [Once Per Turn] When a DON!! card on your field is returned to your DON!! deck, this Leader gains +1000 power during this turn.",
+        "set_id": "OP-02",
+        "rarity": "L",
+        "card_set_id": "OP02-071",
+        "card_color": "Purple",
+        "card_type": "Leader",
+        "life": "5",
+        "card_cost": null,
+        "card_power": "6000",
+        "sub_types": "Impel Down",
+        "counter_amount": null,
+        "attribute": "Special",
+        "date_scraped": "2026-09-02",
+        "card_image_id": "OP02-071_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP02-071_p1.jpg"
+    }
+]

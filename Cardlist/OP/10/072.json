@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 101 seconds."
-}
+[
+    {
+        "card_name": "Donquixote Rosinante",
+        "set_name": "Royal Blood",
+        "card_text": "[On Play] You may trash 1 Event from your hand: Draw 2 cards.\n[End of Your Turn] If you have 7 or more DON!! cards on your field, set up to 2 of your DON!! cards as active.",
+        "set_id": "OP-10",
+        "rarity": "SR",
+        "card_set_id": "OP10-072",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Donquixote Pirates Navy",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP10-072",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP10-072.jpg"
+    },
+    {
+        "card_name": "Donquixote Rosinante (Parallel)",
+        "set_name": "Royal Blood",
+        "card_text": "[On Play] You may trash 1 Event from your hand: Draw 2 cards.\n[End of Your Turn] If you have 7 or more DON!! cards on your field, set up to 2 of your DON!! cards as active.",
+        "set_id": "OP-10",
+        "rarity": "SR",
+        "card_set_id": "OP10-072",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Donquixote Pirates Navy",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP10-072_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP10-072_p1.jpg"
+    }
+]

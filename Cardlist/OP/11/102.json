@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 156 seconds."
-}
+[
+    {
+        "card_name": "Camie",
+        "set_name": "A Fist of Divine Speed",
+        "card_text": "[Your Turn] [Once Per Turn] This effect can be activated when your opponent activates an Event or [Trigger]. If your opponent has 2 or more Life cards, trash 1 card from the top of each of your and your opponent's Life cards.",
+        "set_id": "OP-11",
+        "rarity": "UC",
+        "card_set_id": "OP11-102",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "1000",
+        "sub_types": "Merfolk Fish-Man Island",
+        "counter_amount": 2000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP11-102",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP11-102.jpg"
+    }
+]

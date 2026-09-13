@@ -1,3 +1,59 @@
-{
-    "detail": "Request was throttled. Expected available in 1 second."
-}
+[
+    {
+        "card_name": "Donquixote Rosinante",
+        "set_name": "Kingdoms of Intrigue",
+        "card_text": "[Opponent's Turn] If this Character is rested, your active Characters with a base cost of 5 cannot be K.O.'d by effects. [On Play] You may rest this Character: Play up to 1 green Character card with a cost of 5 from your hand.",
+        "set_id": "OP-04",
+        "rarity": "SEC",
+        "card_set_id": "OP04-119",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "8",
+        "card_power": "8000",
+        "sub_types": "Donquixote Pirates Navy",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP04-119",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP04-119.jpg"
+    },
+    {
+        "card_name": "Donquixote Rosinante (Alternate Art)",
+        "set_name": "Kingdoms of Intrigue",
+        "card_text": "[Opponent's Turn] If this Character is rested, your active Characters with a base cost of 5 cannot be K.O.'d by effects. [On Play] You may rest this Character: Play up to 1 green Character card with a cost of 5 from your hand.",
+        "set_id": "OP-04",
+        "rarity": "SEC",
+        "card_set_id": "OP04-119",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "8",
+        "card_power": "8000",
+        "sub_types": "Donquixote Pirates Navy",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP04-119_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP04-119_p1.jpg"
+    },
+    {
+        "card_name": "Donquixote Rosinante (SP)",
+        "set_name": "Emperors in the New World",
+        "card_text": "[Opponent's Turn] If this Character is rested, your active Characters with a base cost of 5 cannot be K.O.'d by effects.\n[On Play] You may rest this Character: Play up to 1 green Character card with a cost of 5 from your hand.",
+        "set_id": "OP-09",
+        "rarity": "SEC",
+        "card_set_id": "OP04-119",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "8",
+        "card_power": "8000",
+        "sub_types": "Donquixote Pirates Navy",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP04-119_p2",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP04-119_p2.jpg"
+    }
+]

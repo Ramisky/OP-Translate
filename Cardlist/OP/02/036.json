@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 208 seconds."
-}
+[
+    {
+        "card_name": "Nami",
+        "set_name": "Paramount War",
+        "card_text": "[On Play]/[When Attacking] (1) (You may rest the specified number of DON!! cards in your cost area.): Look at 3 cards from the top of your deck; reveal up to 1 \"FILM\" type card other than [Nami] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+        "set_id": "OP-02",
+        "rarity": "SR",
+        "card_set_id": "OP02-036",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "5000",
+        "sub_types": "Film Straw Hat Crew",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP02-036",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP02-036.jpg"
+    },
+    {
+        "card_name": "Nami (Alternate Art)",
+        "set_name": "Paramount War",
+        "card_text": "[On Play]/[When Attacking] (1) (You may rest the specified number of DON!! cards in your cost area.): Look at 3 cards from the top of your deck; reveal up to 1 \"FILM\" type card other than [Nami] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+        "set_id": "OP-02",
+        "rarity": "SR",
+        "card_set_id": "OP02-036",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "5000",
+        "sub_types": "Film Straw Hat Crew",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP02-036_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP02-036_p1.jpg"
+    }
+]

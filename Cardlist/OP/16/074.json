@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 71 seconds."
-}
+[
+    {
+        "card_name": "Magellan",
+        "set_name": "The Time of Battle",
+        "card_text": "[On Play] If your Leader has the {Impel Down} type, your opponent returns 1 DON!! card from their field to their DON!! deck.\n[On K.O.] Your opponent returns 4 DON!! cards from their field to their DON!! deck.",
+        "set_id": "OP-16",
+        "rarity": "C",
+        "card_set_id": "OP16-074",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "8",
+        "card_power": "10000",
+        "sub_types": "Impel Down",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP16-074",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP16-074_PFe95iK.jpg"
+    }
+]

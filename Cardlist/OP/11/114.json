@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 155 seconds."
-}
+[
+    {
+        "card_name": "Gum-Gum Fire-Fist Pistol Red Hawk",
+        "set_name": "A Fist of Divine Speed",
+        "card_text": "[Main] You may rest 3 of your DON!! cards: If you and your opponent have a total of 5 or more Life cards, K.O. up to 1 of your opponent's Characters with a base cost of 5 or less.\n[Counter] Up to 1 of your Leader gains +3000 power during this battle.",
+        "set_id": "OP-11",
+        "rarity": "R",
+        "card_set_id": "OP11-114",
+        "card_color": "Yellow",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "Straw Hat Crew",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP11-114",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP11-114.jpg"
+    },
+    {
+        "card_name": "Gum-Gum Fire-Fist Pistol Red Hawk (Alternate Art)",
+        "set_name": "A Fist of Divine Speed",
+        "card_text": "[Main] You may rest 3 of your DON!! cards: If you and your opponent have a total of 5 or more Life cards, K.O. up to 1 of your opponent's Characters with a base cost of 5 or less.\n[Counter] Up to 1 of your Leader gains +3000 power during this battle.",
+        "set_id": "OP-11",
+        "rarity": "R",
+        "card_set_id": "OP11-114",
+        "card_color": "Yellow",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "Straw Hat Crew",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP11-114_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP11-114_p1.jpg"
+    }
+]

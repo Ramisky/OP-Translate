@@ -1,3 +1,59 @@
-{
-    "detail": "Request was throttled. Expected available in 68 seconds."
-}
+[
+    {
+        "card_name": "Slave Arrow",
+        "set_name": "500 Years in the Future",
+        "card_text": "[Counter] You may return 1 of your Characters with a cost of 2 or more to the owner's hand: Up to 1 of your Leader or Character cards gains +4000 power during this battle. [Trigger] Draw 2 cards and place 2 cards from your hand at the bottom of your deck in any order.",
+        "set_id": "OP-07",
+        "rarity": "UC",
+        "card_set_id": "OP07-056",
+        "card_color": "Blue",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "Kuja Pirates The Seven Warlords of the Sea",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP07-056",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-056.jpg"
+    },
+    {
+        "card_name": "Slave Arrow (Pirate Foil)",
+        "set_name": "Premium Booster -The Best- Vol. 2",
+        "card_text": "[Counter] You may return 1 of your Characters with a cost of 2 or more to the owner's hand: Up to 1 of your Leader or Character cards gains +4000 power during this battle.[Trigger] Draw 2 cards and place 2 cards from your hand at the bottom of your deck in any order.",
+        "set_id": "PRB-02",
+        "rarity": "UC",
+        "card_set_id": "OP07-056",
+        "card_color": "Blue",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "Kuja Pirates The Seven Warlords of the Sea",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP07-056_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-056_p1.jpg"
+    },
+    {
+        "card_name": "Slave Arrow (Reprint)",
+        "set_name": "Premium Booster -The Best- Vol. 2",
+        "card_text": "[Counter] You may return 1 of your Characters with a cost of 2 or more to the owner's hand: Up to 1 of your Leader or Character cards gains +4000 power during this battle.[Trigger] Draw 2 cards and place 2 cards from your hand at the bottom of your deck in any order.Disclaimer: This card was reprinted from the original set with changes to the copyright information (Note: the original print did not include \"EN\" at the end of the copyright).",
+        "set_id": "PRB-02",
+        "rarity": "UC",
+        "card_set_id": "OP07-056",
+        "card_color": "Blue",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "Kuja Pirates The Seven Warlords of the Sea",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP07-056_r1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-056_r1.jpg"
+    }
+]

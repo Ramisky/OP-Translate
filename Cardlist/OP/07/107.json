@@ -1,3 +1,59 @@
-{
-    "detail": "Request was throttled. Expected available in 46 seconds."
-}
+[
+    {
+        "card_name": "Franky",
+        "set_name": "500 Years in the Future",
+        "card_text": "[Trigger] Draw 1 card. Then, if you have 1 or less Life cards, play this card.",
+        "set_id": "OP-07",
+        "rarity": "R",
+        "card_set_id": "OP07-107",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Straw Hat Crew Egghead",
+        "counter_amount": 2000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP07-107",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-107.jpg"
+    },
+    {
+        "card_name": "Franky (Parallel)",
+        "set_name": "500 Years in the Future",
+        "card_text": "[Trigger] Draw 1 card. Then, if you have 1 or less Life cards, play this card.",
+        "set_id": "OP-07",
+        "rarity": "R",
+        "card_set_id": "OP07-107",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Straw Hat Crew Egghead",
+        "counter_amount": 2000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP07-107_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-107_p1.jpg"
+    },
+    {
+        "card_name": "Franky - OP07-107 (Reprint)",
+        "set_name": "Premium Booster -The Best- Vol. 2",
+        "card_text": "[Trigger] Draw 1 card. Then, if you have 1 or less Life cards, play this card.Disclaimer: This card was reprinted from the original set with changes to the copyright information (Note: the original print did not include \"EN\" at the end of the copyright).",
+        "set_id": "PRB-02",
+        "rarity": "R",
+        "card_set_id": "OP07-107",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Straw Hat Crew Egghead",
+        "counter_amount": 2000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP07-107_r1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-107_r1.jpg"
+    }
+]

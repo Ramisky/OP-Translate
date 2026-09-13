@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 13 seconds."
-}
+[
+    {
+        "card_name": "Wyper",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "[On Play] You may turn 1 card from the top of your Life cards face-up: Give all of your opponent's Characters 2000 power during this turn. Then, K.O. all of your opponent's Characters with 0 power or less.\n[Activate: Main] [Once Per Turn] Give up to 1 rested DON!! card to 1 of your {Sky Island} type Leader or Character cards.",
+        "set_id": "OP15-EB04",
+        "rarity": "SR",
+        "card_set_id": "OP15-114",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Sky Island Shandian Warrior",
+        "counter_amount": 1000,
+        "attribute": "Ranged",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP15-114",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP15-114_W7W9iZq.jpg"
+    },
+    {
+        "card_name": "Wyper (Alternate Art)",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "[On Play] You may turn 1 card from the top of your Life cards face-up: Give all of your opponent's Characters 2000 power during this turn. Then, K.O. all of your opponent's Characters with 0 power or less.\n[Activate: Main] [Once Per Turn] Give up to 1 rested DON!! card to 1 of your {Sky Island} type Leader or Character cards.",
+        "set_id": "OP15-EB04",
+        "rarity": "SR",
+        "card_set_id": "OP15-114",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Sky Island Shandian Warrior",
+        "counter_amount": 1000,
+        "attribute": "Ranged",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP15-114_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP15-114_p1_pjA9nX3.jpg"
+    }
+]

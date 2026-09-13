@@ -1,3 +1,59 @@
-{
-    "detail": "Request was throttled. Expected available in 57 seconds."
-}
+[
+    {
+        "card_name": "Gecko Moria (080) (Alternate Art)",
+        "set_name": "Wings of the Captain",
+        "card_text": "[DON!!\u00d71] [When Attacking] 2 (You may rest the specified number of DON!! cards in your cost area.) You may trash 1 card from your hand: Trash 2 cards from the top of your deck and play up to 1 \"Thriller Bark Pirates\" type Character card with a cost of 4 or less from your trash.",
+        "set_id": "OP-06",
+        "rarity": "L",
+        "card_set_id": "OP06-080",
+        "card_color": "Black",
+        "card_type": "Leader",
+        "life": "5",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "The Seven Warlords of the Sea Thriller Bark Pirates",
+        "counter_amount": null,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP06-080_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP06-080_p1.jpg"
+    },
+    {
+        "card_name": "Gecko Moria (080)",
+        "set_name": "Wings of the Captain",
+        "card_text": "[DON!!\u00d71] [When Attacking] 2 (You may rest the specified number of DON!! cards in your cost area.) You may trash 1 card from your hand: Trash 2 cards from the top of your deck and play up to 1 \"Thriller Bark Pirates\" type Character card with a cost of 4 or less from your trash.",
+        "set_id": "OP-06",
+        "rarity": "L",
+        "card_set_id": "OP06-080",
+        "card_color": "Black",
+        "card_type": "Leader",
+        "life": "5",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "The Seven Warlords of the Sea Thriller Bark Pirates",
+        "counter_amount": null,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP06-080",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP06-080.jpg"
+    },
+    {
+        "card_name": "Gecko Moria (SPR)",
+        "set_name": "Extra Booster: Anime 25th Collection",
+        "card_text": "[DON!! x1] [When Attacking] 2 (You may rest the specified number of DON!! cards in your cost area.) You may trash 1 card from your hand: Trash 2 cards from the top of your deck and play up to 1 \"Thriller Bark Pirates\" type Character card with a cost of 4 or less from your trash.",
+        "set_id": "EB-02",
+        "rarity": "L",
+        "card_set_id": "OP06-080",
+        "card_color": "Black",
+        "card_type": "Leader",
+        "life": "5",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "The Seven Warlords of the Sea Thriller Bark Pirates",
+        "counter_amount": null,
+        "attribute": "Special",
+        "date_scraped": "2025-06-29",
+        "card_image_id": "OP06-080_p2",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP06-080_p2.jpg"
+    }
+]

@@ -1,3 +1,59 @@
-{
-    "detail": "Request was throttled. Expected available in 51 seconds."
-}
+[
+    {
+        "card_name": "Jewelry Bonney (019)",
+        "set_name": "500 Years in the Future",
+        "card_text": "[On Your Opponent's Attack] [Once Per Turn] (1) (You may rest the specified number of DON!! cards in your cost area.): Rest up to 1 of your opponent's Leader or Character cards.",
+        "set_id": "OP-07",
+        "rarity": "L",
+        "card_set_id": "OP07-019",
+        "card_color": "Green",
+        "card_type": "Leader",
+        "life": "5",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Bonney Pirates Supernovas",
+        "counter_amount": null,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP07-019",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-019.jpg"
+    },
+    {
+        "card_name": "Jewelry Bonney (019) (Parallel)",
+        "set_name": "500 Years in the Future",
+        "card_text": "[On Your Opponent's Attack] [Once Per Turn] (1) (You may rest the specified number of DON!! cards in your cost area.): Rest up to 1 of your opponent's Leader or Character cards.",
+        "set_id": "OP-07",
+        "rarity": "L",
+        "card_set_id": "OP07-019",
+        "card_color": "Green",
+        "card_type": "Leader",
+        "life": "5",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Bonney Pirates Supernovas",
+        "counter_amount": null,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP07-019_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-019_p1.jpg"
+    },
+    {
+        "card_name": "Jewelry Bonney (SPR)",
+        "set_name": "Extra Booster: Anime 25th Collection",
+        "card_text": "[On Your Opponent's Attack] [Once Per Turn] 1 (You may rest the specified number of DON!! cards in your cost area.): Rest up to 1 of your opponent's Leader or Character cards.",
+        "set_id": "EB-02",
+        "rarity": "L",
+        "card_set_id": "OP07-019",
+        "card_color": "Green",
+        "card_type": "Leader",
+        "life": "5",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Bonney Pirates Supernovas",
+        "counter_amount": null,
+        "attribute": "Special",
+        "date_scraped": "2025-06-29",
+        "card_image_id": "OP07-019_p2",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-019_p2.jpg"
+    }
+]

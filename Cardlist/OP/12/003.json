@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 125 seconds."
-}
+[
+    {
+        "card_name": "Crocus",
+        "set_name": "Legacy of the Master",
+        "card_text": "[On K.O.] You may reveal 2 Events from your hand: Play up to 1 red Character card with 3000 power or less from your hand.",
+        "set_id": "OP-12",
+        "rarity": "UC",
+        "card_set_id": "OP12-003",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "3000",
+        "sub_types": "Former Roger Pirates",
+        "counter_amount": 1000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP12-003",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP12-003_ZvQRE7Y.jpg"
+    }
+]

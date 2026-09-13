@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 91 seconds."
-}
+[
+    {
+        "card_name": "I Re-Quasar Helllp!!",
+        "set_name": "500 Years in the Future",
+        "card_text": "[Counter] If you have 2 or less Life cards, up to 1 of your Leader or Character cards gains +3000 power during this battle. [Trigger] Play up to 1 of your [Egghead] type Character cards with a cost of 5 or less from your trash.",
+        "set_id": "OP-07",
+        "rarity": "C",
+        "card_set_id": "OP07-115",
+        "card_color": "Yellow",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "Scientist Egghead",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP07-115",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-115.jpg"
+    }
+]

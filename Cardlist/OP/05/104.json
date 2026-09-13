@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 68 seconds."
-}
+[
+    {
+        "card_name": "Conis",
+        "set_name": "Awakening of the New Era",
+        "card_text": "[On Play] You may place 1 of your Stages at the bottom of your deck: Draw 1 card and trash 1 card from your hand.",
+        "set_id": "OP-05",
+        "rarity": "UC",
+        "card_set_id": "OP05-104",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "0",
+        "sub_types": "Sky Island",
+        "counter_amount": 2000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP05-104",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP05-104.jpg"
+    }
+]

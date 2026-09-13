@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 66 seconds."
-}
+[
+    {
+        "card_name": "Pythagoras",
+        "set_name": "500 Years in the Future",
+        "card_text": "[On K.O.] If you have 2 or less Life cards, play up to 1 {Egghead} type Character card with a cost of 4 or less from your trash rested. [Trigger] If your Leader is [Vegapunk], play this card.",
+        "set_id": "OP-07",
+        "rarity": "UC",
+        "card_set_id": "OP07-105",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Scientist Egghead",
+        "counter_amount": 1000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP07-105",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-105.jpg"
+    }
+]

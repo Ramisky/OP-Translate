@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 2 seconds."
-}
+[
+    {
+        "card_name": "Sanji",
+        "set_name": "The World's Strongest Warriors",
+        "card_text": "If there is a Character with a cost of 12 or more, this Character gains +3000 power.\n[On Play] Draw 2 cards and trash 2 cards from your hand.",
+        "set_id": "OP-17",
+        "rarity": "C",
+        "card_set_id": "OP17-082",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "2000",
+        "sub_types": "Straw Hat Crew Elbaph",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP17-082",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP17-082_OkH7zEG.jpg"
+    }
+]

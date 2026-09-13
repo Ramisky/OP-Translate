@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 17 seconds."
-}
+[
+    {
+        "card_name": "Dr. Hogback",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "[On Play] If your Leader has the {Thriller Bark Pirates} type, trash 5 cards from the top of your deck.\n[On K.O.] If you have 6 or less cards in your hand, draw 1 card.",
+        "set_id": "OP15-EB04",
+        "rarity": "C",
+        "card_set_id": "OP15-084",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "2000",
+        "sub_types": "Thriller Bark Pirates",
+        "counter_amount": 1000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP15-084",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP15-084_NsxRq49.jpg"
+    }
+]

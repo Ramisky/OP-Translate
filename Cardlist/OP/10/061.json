@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 128 seconds."
-}
+[
+    {
+        "card_name": "Special Long-Range Attack!! Bagworm",
+        "set_name": "Royal Blood",
+        "card_text": "[Main] Draw 1 card. Then, return up to 1 of your opponent's Characters with a cost of 2 or less to the owner's hand.\n[Trigger] Return up to 1 Character with a cost of 2 or less to the owner's hand.",
+        "set_id": "OP-10",
+        "rarity": "UC",
+        "card_set_id": "OP10-061",
+        "card_color": "Blue",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "3",
+        "card_power": null,
+        "sub_types": "Straw Hat Crew Dressrosa",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP10-061",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP10-061.jpg"
+    }
+]

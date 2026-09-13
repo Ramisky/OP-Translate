@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 155 seconds."
-}
+[
+    {
+        "card_name": "Vinsmoke Reiju",
+        "set_name": "A Fist of Divine Speed",
+        "card_text": "[On Play] If your Leader has the \"The Vinsmoke Family\" type, look at 5 cards from the top of your deck; reveal up to 1 card with a type including \"GERMA\" and add it to your hand. Then, trash the rest.",
+        "set_id": "OP-11",
+        "rarity": "R",
+        "card_set_id": "OP11-047",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "The Vinsmoke Family GERMA 66",
+        "counter_amount": 2000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP11-047",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP11-047.jpg"
+    },
+    {
+        "card_name": "Vinsmoke Reiju (Alternate Art)",
+        "set_name": "A Fist of Divine Speed",
+        "card_text": "[On Play] If your Leader has the \"The Vinsmoke Family\" type, look at 5 cards from the top of your deck; reveal up to 1 card with a type including \"GERMA\" and add it to your hand. Then, trash the rest.",
+        "set_id": "OP-11",
+        "rarity": "R",
+        "card_set_id": "OP11-047",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "The Vinsmoke Family GERMA 66",
+        "counter_amount": 2000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP11-047_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP11-047_p1.jpg"
+    }
+]

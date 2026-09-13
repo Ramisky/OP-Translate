@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 75 seconds."
-}
+[
+    {
+        "card_name": "Trafalgar Law (047)",
+        "set_name": "500 Years in the Future",
+        "card_text": "[Activate: Main] You may return this Character to the owner's hand: If your opponent has 6 or more cards in their hand, your opponent places 1 card from their hand at the bottom of their deck.",
+        "set_id": "OP-07",
+        "rarity": "R",
+        "card_set_id": "OP07-047",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "4000",
+        "sub_types": "Heart Pirates The Seven Warlords of the Sea",
+        "counter_amount": 2000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP07-047",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-047.jpg"
+    },
+    {
+        "card_name": "Trafalgar Law (047) (Parallel)",
+        "set_name": "500 Years in the Future",
+        "card_text": "[Activate: Main] You may return this Character to the owner's hand: If your opponent has 6 or more cards in their hand, your opponent places 1 card from their hand at the bottom of their deck.",
+        "set_id": "OP-07",
+        "rarity": "R",
+        "card_set_id": "OP07-047",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "4000",
+        "sub_types": "Heart Pirates The Seven Warlords of the Sea",
+        "counter_amount": 2000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP07-047_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-047_p1.jpg"
+    }
+]

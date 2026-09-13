@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 71 seconds."
-}
+[
+    {
+        "card_name": "Itomimizu",
+        "set_name": "500 Years in the Future",
+        "card_text": "[Activate: Main][Once Per Turn] If your Leader has the [Foxy Pirates] type and you have no other [Itomimizu], add up to 1 DON!! card from your DON!! deck and rest it.",
+        "set_id": "OP-07",
+        "rarity": "UC",
+        "card_set_id": "OP07-060",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "0",
+        "sub_types": "Foxy Pirates",
+        "counter_amount": 1000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP07-060",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-060.jpg"
+    }
+]

@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 104 seconds."
-}
+[
+    {
+        "card_name": "Sanji",
+        "set_name": "Royal Blood",
+        "card_text": "[Your Turn] This Character gains +3000 power.\n[On K.O.] Draw 1 card.",
+        "set_id": "OP-10",
+        "rarity": "SR",
+        "card_set_id": "OP10-005",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "3000",
+        "sub_types": "Straw Hat Crew Punk Hazard",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP10-005",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP10-005.jpg"
+    },
+    {
+        "card_name": "Sanji (Parallel)",
+        "set_name": "Royal Blood",
+        "card_text": "[Your Turn] This Character gains +3000 power.\n[On K.O.] Draw 1 card.",
+        "set_id": "OP-10",
+        "rarity": "SR",
+        "card_set_id": "OP10-005",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "3000",
+        "sub_types": "Straw Hat Crew Punk Hazard",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP10-005_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP10-005_p1.jpg"
+    }
+]

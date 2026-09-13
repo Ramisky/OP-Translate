@@ -1,3 +1,59 @@
-{
-    "detail": "Request was throttled. Expected available in 31 seconds."
-}
+[
+    {
+        "card_name": "Gecko Moria (086)",
+        "set_name": "Wings of the Captain",
+        "card_text": "[On Play] Choose up to 1 Character card with a cost of 4 or less and up to 1 Character card with a cost of 2 or less from your trash. Play 1 card and play the other card rested.",
+        "set_id": "OP-06",
+        "rarity": "SR",
+        "card_set_id": "OP06-086",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "8",
+        "card_power": "9000",
+        "sub_types": "The Seven Warlords of the Sea Thriller Bark Pirates",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP06-086",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP06-086.jpg"
+    },
+    {
+        "card_name": "Gecko Moria (086) (Alternate Art)",
+        "set_name": "Wings of the Captain",
+        "card_text": "[On Play] Choose up to 1 Character card with a cost of 4 or less and up to 1 Character card with a cost of 2 or less from your trash. Play 1 card and play the other card rested.",
+        "set_id": "OP-06",
+        "rarity": "SR",
+        "card_set_id": "OP06-086",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "8",
+        "card_power": "9000",
+        "sub_types": "The Seven Warlords of the Sea Thriller Bark Pirates",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP06-086_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP06-086_p1.jpg"
+    },
+    {
+        "card_name": "Gecko Moria (Alternate Art)",
+        "set_name": "Premium Booster -The Best-",
+        "card_text": "[On Play] Choose up to 1 Character card with a cost of 4 or less and up to 1 Character card with a cost of 2 or less from your trash. Play 1 card and play the other card rested.",
+        "set_id": "PRB-01",
+        "rarity": "SR",
+        "card_set_id": "OP06-086",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "8",
+        "card_power": "9000",
+        "sub_types": "The Seven Warlords of the Sea Thriller Bark Pirates",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP06-086_p3",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP06-086_p3.jpg"
+    }
+]

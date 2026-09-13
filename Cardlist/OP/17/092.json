@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 18 seconds."
-}
+[
+    {
+        "card_name": "Brogy",
+        "set_name": "The World's Strongest Warriors",
+        "card_text": "This Character gains +12 cost. [On Play] If your Leader has the {Elbaph} type, play up to 1 [Dorry] with a cost of 5 or less from your hand or trash. Then, you cannot play Character cards during this turn.",
+        "set_id": "OP-17",
+        "rarity": "UC",
+        "card_set_id": "OP17-092",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "5000",
+        "sub_types": "Giant Elbaph Giant Pirates",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP17-092",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP17-092.jpg"
+    }
+]

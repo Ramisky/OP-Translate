@@ -1,3 +1,59 @@
-{
-    "detail": "Request was throttled. Expected available in 247 seconds."
-}
+[
+    {
+        "card_name": "Tony Tony.Chopper (001)",
+        "set_name": "Two Legends",
+        "card_text": "[Activate:Main] [Once Per Turn] Give up to 3 of your [Animal] or [Drum Kingdom] type Characters up to 1 rested DON!! card each.",
+        "set_id": "OP-08",
+        "rarity": "L",
+        "card_set_id": "OP08-001",
+        "card_color": "Green Red",
+        "card_type": "Leader",
+        "life": "1",
+        "card_cost": null,
+        "card_power": "4",
+        "sub_types": "5000",
+        "counter_amount": null,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-001",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-001.jpg"
+    },
+    {
+        "card_name": "Tony Tony.Chopper (001) (Parallel)",
+        "set_name": "Two Legends",
+        "card_text": "[Activate:Main] [Once Per Turn] Give up to 3 of your [Animal] or [Drum Kingdom] type Characters up to 1 rested DON!! card each.",
+        "set_id": "OP-08",
+        "rarity": "L",
+        "card_set_id": "OP08-001",
+        "card_color": "Green Red",
+        "card_type": "Leader",
+        "life": "4",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Animal Straw Hat Crew Drum Kingdom",
+        "counter_amount": null,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-001_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-001_p1.jpg"
+    },
+    {
+        "card_name": "Tony Tony.Chopper (SPR)",
+        "set_name": "Extra Booster: Anime 25th Collection",
+        "card_text": "[Activate: Main] [Once Per Turn] Give up to 3 of your \"Animal\" or \"Drum Kingdom\" type Characters up to 1 rested DON!! card each.",
+        "set_id": "EB-02",
+        "rarity": "L",
+        "card_set_id": "OP08-001",
+        "card_color": "Green Red",
+        "card_type": "Leader",
+        "life": "4",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Animal Straw Hat Crew Drum Kingdom",
+        "counter_amount": null,
+        "attribute": "Strike",
+        "date_scraped": "2025-06-29",
+        "card_image_id": "OP08-001_p2",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-001_p2.jpg"
+    }
+]

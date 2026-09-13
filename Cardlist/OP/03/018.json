@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 1 second."
-}
+[
+    {
+        "card_name": "Fire Fist",
+        "set_name": "Pillars of Strength",
+        "card_text": "[Main] You may trash 1 Event from your hand: K.O. up to 1 of your opponent's Characters with 5000 power or less and up to 1 of your opponent's Characters with 4000 power or less. [Trigger] K.O. up to 1 of your opponent's Characters with 5000 power or less.",
+        "set_id": "OP-03",
+        "rarity": "R",
+        "card_set_id": "OP03-018",
+        "card_color": "Red",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "3",
+        "card_power": null,
+        "sub_types": "Whitebeard Pirates",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP03-018",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP03-018.jpg"
+    },
+    {
+        "card_name": "Fire Fist (Alternate Art)",
+        "set_name": "Pillars of Strength",
+        "card_text": "[Main] You may trash 1 Event from your hand: K.O. up to 1 of your opponent's Characters with 5000 power or less and up to 1 of your opponent's Characters with 4000 power or less. [Trigger] K.O. up to 1 of your opponent's Characters with 5000 power or less.",
+        "set_id": "OP-03",
+        "rarity": "R",
+        "card_set_id": "OP03-018",
+        "card_color": "Red",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "3",
+        "card_power": null,
+        "sub_types": "Whitebeard Pirates",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP03-018_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP03-018_p1.jpg"
+    }
+]

@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 21 seconds."
-}
+[
+    {
+        "card_name": "Hajrudin",
+        "set_name": "The World's Strongest Warriors",
+        "card_text": null,
+        "set_id": "OP-17",
+        "rarity": "C",
+        "card_set_id": "OP17-088",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "7",
+        "card_power": "8000",
+        "sub_types": "Giant Elbaph New Giant Pirates",
+        "counter_amount": 2000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP17-088",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP17-088_0WWmZGn.jpg"
+    },
+    {
+        "card_name": "Hajrudin (Pandaman Art)",
+        "set_name": "The World's Strongest Warriors",
+        "card_text": null,
+        "set_id": "OP-17",
+        "rarity": "C",
+        "card_set_id": "OP17-088",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "7",
+        "card_power": "8000",
+        "sub_types": "Giant New Giant Pirates Elbaph",
+        "counter_amount": 2000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP17-088",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP17-088_vJX5HMj.jpg"
+    }
+]

@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 127 seconds."
-}
+[
+    {
+        "card_name": "Gum-Gum Elephant Gatling",
+        "set_name": "A Fist of Divine Speed",
+        "card_text": "[Main] You may rest 1 of your DON!! cards: Rest up to 1 of your opponent's Characters with a cost of 5 or less.\n[Counter] Up to 1 of your Leader gains +3000 power during this battle.",
+        "set_id": "OP-11",
+        "rarity": "R",
+        "card_set_id": "OP11-038",
+        "card_color": "Green",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "Straw Hat Crew Supernovas Fish-Man Island",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP11-038",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP11-038.jpg"
+    }
+]

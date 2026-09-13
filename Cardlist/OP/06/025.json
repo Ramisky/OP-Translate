@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 44 seconds."
-}
+[
+    {
+        "card_name": "Camie",
+        "set_name": "Wings of the Captain",
+        "card_text": "[On Play] Look at 4 cards from the top of your deck; reveal up to 1 \"Fish-Man\" or \"Merfolk\" type card other than [Camie] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+        "set_id": "OP-06",
+        "rarity": "R",
+        "card_set_id": "OP06-025",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "2000",
+        "sub_types": "Merfolk",
+        "counter_amount": 1000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP06-025",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP06-025.jpg"
+    },
+    {
+        "card_name": "Camie (Alternate Art)",
+        "set_name": "Wings of the Captain",
+        "card_text": "[On Play] Look at 4 cards from the top of your deck; reveal up to 1 \"Fish-Man\" or \"Merfolk\" type card other than [Camie] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+        "set_id": "OP-06",
+        "rarity": "R",
+        "card_set_id": "OP06-025",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "2000",
+        "sub_types": "Merfolk",
+        "counter_amount": 1000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP06-025_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP06-025_p1.jpg"
+    }
+]

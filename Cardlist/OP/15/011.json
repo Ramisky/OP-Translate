@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 27 seconds."
-}
+[
+    {
+        "card_name": "Pearl",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "[Opponent's Turn] If your Leader has the {East Blue} type, this Character gains [Blocker] and +2000 power. [On K.O.] If your Leader has the {East Blue} type, K.O. up to 1 of your opponent's Characters with 6000 base power or less.",
+        "set_id": "OP15-EB04",
+        "rarity": "R",
+        "card_set_id": "OP15-011",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "4000",
+        "sub_types": "Krieg Pirates East Blue",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP15-011",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP15-011.jpg"
+    }
+]

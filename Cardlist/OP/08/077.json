@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 157 seconds."
-}
+[
+    {
+        "card_name": "Conquest of the Sea",
+        "set_name": "Two Legends",
+        "card_text": "[Main] DON!! 2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your Leader has the [Animal Kingdom Pirates] or [Big Mom Pirates] type, K.O. up to 2 of your opponent's Characters with a cost of 6 or less.",
+        "set_id": "OP-08",
+        "rarity": "R",
+        "card_set_id": "OP08-077",
+        "card_color": "Purple",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "6",
+        "card_power": null,
+        "sub_types": "Animal Kingdom Pirates The Four Emperors Big Mom Pirates",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-077",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-077.jpg"
+    }
+]

@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 126 seconds."
-}
+[
+    {
+        "card_name": "Donquixote Doflamingo",
+        "set_name": "Legacy of the Master",
+        "card_text": "If you have 2 or less Life cards, this Character gains [Rush].\n(This card can attack on the turn in which it is played.)\n[Opponent's Turn] [On K.O.] Add up to 1 card from the top of your deck to the top of your Life cards.",
+        "set_id": "OP-12",
+        "rarity": "R",
+        "card_set_id": "OP12-107",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "8",
+        "card_power": "8000",
+        "sub_types": "Donquixote Pirates The Seven Warlords of the Sea",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP12-107",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP12-107_OigcNUa.jpg"
+    }
+]

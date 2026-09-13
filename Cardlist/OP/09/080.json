@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 10 seconds."
-}
+[
+    {
+        "card_name": "Thousand Sunny",
+        "set_name": "Emperors in the New World",
+        "card_text": "[Opponent's Turn] You may rest this Stage: When your \"Straw Hat Crew\" type Character is removed from the field by your opponent's effect, add up to 1 DON!! card from your DON!! deck and rest it.",
+        "set_id": "OP-09",
+        "rarity": "C",
+        "card_set_id": "OP09-080",
+        "card_color": "Purple",
+        "card_type": "Stage",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "Straw Hat Crew",
+        "counter_amount": 0,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-080",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-080.jpg"
+    }
+]

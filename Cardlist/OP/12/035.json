@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 134 seconds."
-}
+[
+    {
+        "card_name": "Morgan",
+        "set_name": "Legacy of the Master",
+        "card_text": null,
+        "set_id": "OP-12",
+        "rarity": "C",
+        "card_set_id": "OP12-035",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "5000",
+        "sub_types": "Navy East Blue",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP12-035",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP12-035_49npQPJ.jpg"
+    }
+]

@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 88 seconds."
-}
+[
+    {
+        "card_name": "Monkey.D.Luffy - OP14-34",
+        "set_name": "The Azure Sea's Seven",
+        "card_text": "[Your Turn] All of your green {Straw Hat Crew} type Characters with a base cost of 4 or more gain +1000 power.\n[Once Per Turn] If your {Straw Hat Crew} type Character would be K.O.'d by your opponent's effect, you may rest 1 of your Characters instead.",
+        "set_id": "OP14-EB04",
+        "rarity": "R",
+        "card_set_id": "OP14-034",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "3000",
+        "sub_types": "FILM Straw Hat Crew Supernovas",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP14-034",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP14-034_Y1ZmlfE.jpg"
+    }
+]

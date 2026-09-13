@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 168 seconds."
-}
+[
+    {
+        "card_name": "Tashigi",
+        "set_name": "A Fist of Divine Speed",
+        "card_text": "[Activate: Main] You may rest this Character: If your Leader has the \"Navy\" type, up to 1 of your \"Navy\" type Characters gains +2000 power during this turn.",
+        "set_id": "OP-11",
+        "rarity": "C",
+        "card_set_id": "OP11-007",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "1000",
+        "sub_types": "Navy",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP11-007",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP11-007.jpg"
+    }
+]

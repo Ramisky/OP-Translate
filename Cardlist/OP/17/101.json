@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 173 seconds."
-}
+[
+    {
+        "card_name": "Caribou",
+        "set_name": "The World's Strongest Warriors",
+        "card_text": "[Activate: Main] [Once Per Turn] You may add 1 card from the top of your Life cards to your hand: Give up to 1 of your opponent's Characters 3000 power during this turn.\n[Trigger] You may trash 1 card from your hand: K.O. up to 1 of your opponent's Characters with a cost of 5 or less.",
+        "set_id": "OP-17",
+        "rarity": "C",
+        "card_set_id": "OP17-101",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Supernovas Caribou Pirates",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP17-101",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP17-101_JFEnFaR.jpg"
+    }
+]

@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 95 seconds."
-}
+[
+    {
+        "card_name": "Belo Betty",
+        "set_name": "Legacy of the Master",
+        "card_text": "[When Attacking] You may trash 2 cards from the top of your deck: Give up to 1 of your opponent's Characters 2 cost during this turn.",
+        "set_id": "OP-12",
+        "rarity": "C",
+        "card_set_id": "OP12-090",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "Revolutionary Army",
+        "counter_amount": 2000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP12-090",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP12-090_6FBx0Eu.jpg"
+    }
+]

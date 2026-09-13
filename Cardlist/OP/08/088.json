@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 179 seconds."
-}
+[
+    {
+        "card_name": "Duval",
+        "set_name": "Two Legends",
+        "card_text": "[On Play] Up to 1 of your Characters gains +1 cost until the end of your opponent's next turn.",
+        "set_id": "OP-08",
+        "rarity": "UC",
+        "card_set_id": "OP08-088",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "2000",
+        "sub_types": "The Flying Fish Riders",
+        "counter_amount": 2000,
+        "attribute": "Ranged",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-088",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-088.jpg"
+    }
+]

@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 103 seconds."
-}
+[
+    {
+        "card_name": "Lord of the Coast",
+        "set_name": "A Fist of Divine Speed",
+        "card_text": "[On Play] Up to 1 of your opponent's rested Characters will not become active in your opponent's next Refresh Phase.\n[Trigger] K.O. up to 1 of your opponent's rested Characters with a cost of 3 or less.",
+        "set_id": "OP-11",
+        "rarity": "R",
+        "card_set_id": "OP11-028",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "East Blue Neptunian",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP11-028",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP11-028.jpg"
+    }
+]

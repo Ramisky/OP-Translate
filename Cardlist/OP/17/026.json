@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 21 seconds."
-}
+[
+    {
+        "card_name": "Fugar",
+        "set_name": "The World's Strongest Warriors",
+        "card_text": "[When Attacking] If your Leader has the {Red-Haired Pirates} type, rest up to 1 of your opponent's Characters with a cost of 2 or less.  [On K.O.] Draw 1 card.",
+        "set_id": "OP-17",
+        "rarity": "UC",
+        "card_set_id": "OP17-026",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "2000",
+        "sub_types": "Red-Haired Pirates Allies",
+        "counter_amount": 2000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP17-026",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP17-026.jpg"
+    }
+]

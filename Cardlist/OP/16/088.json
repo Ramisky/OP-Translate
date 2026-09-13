@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 93 seconds."
-}
+[
+    {
+        "card_name": "Shimotsuki Ushimaru",
+        "set_name": "The Time of Battle",
+        "card_text": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+        "set_id": "OP-16",
+        "rarity": "C",
+        "card_set_id": "OP16-088",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "2000",
+        "sub_types": "Land of Wano",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP16-088",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP16-088_ZjPh991.jpg"
+    }
+]

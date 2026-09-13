@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 129 seconds."
-}
+[
+    {
+        "card_name": "Brochette Blow",
+        "set_name": "Legacy of the Master",
+        "card_text": "[Main] If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, draw 1 card. Then, give up to 1 of your opponent's Characters 3000 power during this turn.",
+        "set_id": "OP-12",
+        "rarity": "UC",
+        "card_set_id": "OP12-078",
+        "card_color": "Purple",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "3",
+        "card_power": null,
+        "sub_types": "Straw Hat Crew",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP12-078",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP12-078_KdXKDX5.jpg"
+    }
+]

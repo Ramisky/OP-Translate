@@ -1,3 +1,59 @@
-{
-    "detail": "Request was throttled. Expected available in 18 seconds."
-}
+[
+    {
+        "card_name": "Enel (OP15-118)",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "If you have 6 or less DON!! cards on your field, this Character cannot be removed from the field by your opponent's effects and gains +2000 power.\n[On Play] DON!! 1: Look at 5 cards from the top of your deck and add up to 1 card to your hand. Then, place the rest at the bottom of your deck in any order, and trash 1 card from your hand.",
+        "set_id": "OP15-EB04",
+        "rarity": "SEC",
+        "card_set_id": "OP15-118",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "8000",
+        "sub_types": "Sky Island",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP15-118",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP15-118_GppZ8HC.jpg"
+    },
+    {
+        "card_name": "Enel (OP15-118) (Alternate Art)",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "If you have 6 or less DON!! cards on your field, this Character cannot be removed from the field by your opponent's effects and gains +2000 power.\n[On Play] DON!! 1: Look at 5 cards from the top of your deck and add up to 1 card to your hand. Then, place the rest at the bottom of your deck in any order, and trash 1 card from your hand.",
+        "set_id": "OP15-EB04",
+        "rarity": "SEC",
+        "card_set_id": "OP15-118",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "8000",
+        "sub_types": "Sky Island",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP15-118_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP15-118_p1_PvQXjBT.jpg"
+    },
+    {
+        "card_name": "Enel (OP15-118) (Manga)",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "If you have 6 or less DON!! cards on your field, this Character cannot be removed from the field by your opponent's effects and gains +2000 power.[On Play] DON!! 1: Look at 5 cards from the top of your deck and add up to 1 card to your hand. Then, place the rest at the bottom of your deck in any order, and trash 1 card from your hand.",
+        "set_id": "OP15-EB04",
+        "rarity": "SEC",
+        "card_set_id": "OP15-118",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "8000",
+        "sub_types": "Sky Island",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP15-118_p2",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP15-118_p2.jpg"
+    }
+]

@@ -1,3 +1,59 @@
-{
-    "detail": "Request was throttled. Expected available in 83 seconds."
-}
+[
+    {
+        "card_name": "Sabo (001)",
+        "set_name": "Awakening of the New Era",
+        "card_text": "[DON!! x1][Opponent's Turn][Once Per Turn] If your Character with 5000 power or more would be K.O.'d, you may give that Character -1000 power during this turn instead of that Character being K.O.'d.",
+        "set_id": "OP-05",
+        "rarity": "L",
+        "card_set_id": "OP05-001",
+        "card_color": "Red Black",
+        "card_type": "Leader",
+        "life": "4",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Revolutionary Army",
+        "counter_amount": null,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP05-001",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP05-001.jpg"
+    },
+    {
+        "card_name": "Sabo (001) (Alternate Art)",
+        "set_name": "Awakening of the New Era",
+        "card_text": "[DON!! x1][Opponent's Turn][Once Per Turn] If your Character with 5000 power or more would be K.O.'d, you may give that Character -1000 power during this turn instead of that Character being K.O.'d",
+        "set_id": "OP-05",
+        "rarity": "L",
+        "card_set_id": "OP05-001",
+        "card_color": "Red Black",
+        "card_type": "Leader",
+        "life": "4",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Revolutionary Army",
+        "counter_amount": null,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP05-001_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP05-001_p1.jpg"
+    },
+    {
+        "card_name": "Sabo (SPR)",
+        "set_name": "Extra Booster: Anime 25th Collection",
+        "card_text": "[DON!! x1] [Opponent's Turn] [Once Per Turn] If your Character with 5000 power or more would be K.O.'d, you may give that Character 1000 power during this turn instead of that Character being K.O.'d.",
+        "set_id": "EB-02",
+        "rarity": "L",
+        "card_set_id": "OP05-001",
+        "card_color": "Red Black",
+        "card_type": "Leader",
+        "life": "4",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Revolutionary Army",
+        "counter_amount": null,
+        "attribute": "Special",
+        "date_scraped": "2025-06-29",
+        "card_image_id": "OP05-001_p2",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP05-001_p2.jpg"
+    }
+]

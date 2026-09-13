@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 102 seconds."
-}
+[
+    {
+        "card_name": "Miss Olive",
+        "set_name": "The Time of Battle",
+        "card_text": "[Blocker]\n\n[On Play] You may return 1 of your Characters with a cost of 2 or more to the owner's hand: Draw 2 cards and trash 1 card from your hand.",
+        "set_id": "OP-16",
+        "rarity": "UC",
+        "card_set_id": "OP16-050",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Impel Down",
+        "counter_amount": 1000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP16-050",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP16-050_fP39R54.jpg"
+    }
+]

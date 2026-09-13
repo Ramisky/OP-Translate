@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 168 seconds."
-}
+[
+    {
+        "card_name": "Otama",
+        "set_name": "Carrying On His Will",
+        "card_text": "[On Play] If you have 3 or less Life cards, draw 2 cards and trash 1 card from your hand.",
+        "set_id": "OP-13",
+        "rarity": "R",
+        "card_set_id": "OP13-043",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "0",
+        "sub_types": "Land of Wano",
+        "counter_amount": 2000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP13-043",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP13-043_ARa00EL.jpg"
+    }
+]

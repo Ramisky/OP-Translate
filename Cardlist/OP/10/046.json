@@ -1,3 +1,59 @@
-{
-    "detail": "Request was throttled. Expected available in 154 seconds."
-}
+[
+    {
+        "card_name": "Kyros",
+        "set_name": "Royal Blood",
+        "card_text": "[On Play] Return up to 1 Character with a cost of 5 or less to the owner's hand.",
+        "set_id": "OP-10",
+        "rarity": "SR",
+        "card_set_id": "OP10-046",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "7",
+        "card_power": "9000",
+        "sub_types": "Dressrosa",
+        "counter_amount": 0,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP10-046",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP10-046.jpg"
+    },
+    {
+        "card_name": "Kyros (Parallel)",
+        "set_name": "Royal Blood",
+        "card_text": "[On Play] Return up to 1 Character with a cost of 5 or less to the owner's hand.",
+        "set_id": "OP-10",
+        "rarity": "SR",
+        "card_set_id": "OP10-046",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "7",
+        "card_power": "9000",
+        "sub_types": "Dressrosa",
+        "counter_amount": 0,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP10-046_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP10-046_p1.jpg"
+    },
+    {
+        "card_name": "Kyros (Reprint)",
+        "set_name": "Premium Booster -The Best- Vol. 2",
+        "card_text": "[On Play] Return up to 1 Character with a cost of 5 or less to the owner's hand.Disclaimer: This card was reprinted from the original set with changes to the copyright information (Note: the original print did not include \"EN\" at the end of the copyright).",
+        "set_id": "PRB-02",
+        "rarity": "SR",
+        "card_set_id": "OP10-046",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "7",
+        "card_power": "9000",
+        "sub_types": "Dressrosa",
+        "counter_amount": 0,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP10-046_r1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP10-046_r1.jpg"
+    }
+]

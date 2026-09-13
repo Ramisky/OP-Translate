@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 117 seconds."
-}
+[
+    {
+        "card_name": "Mr.9",
+        "set_name": "The Azure Sea's Seven",
+        "card_text": null,
+        "set_id": "OP14-EB04",
+        "rarity": "C",
+        "card_set_id": "OP14-095",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Baroque Works",
+        "counter_amount": 2000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP14-095",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP14-095_7WebqGU.jpg"
+    }
+]

@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 77 seconds."
-}
+[
+    {
+        "card_name": "Sakazuki",
+        "set_name": "Awakening of the New Era",
+        "card_text": "[Activate:Main][Once Per Turn] You may trash 1 card from your hand: Draw 1 card. [When Attacking] Give up to 1 of your opponent's Characters -1 cost during this turn.",
+        "set_id": "OP-05",
+        "rarity": "L",
+        "card_set_id": "OP05-041",
+        "card_color": "Blue Black",
+        "card_type": "Leader",
+        "life": "4",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Navy",
+        "counter_amount": null,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP05-041",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP05-041.jpg"
+    },
+    {
+        "card_name": "Sakazuki (Alternate Art)",
+        "set_name": "Awakening of the New Era",
+        "card_text": "[Activate:Main][Once Per Turn] You may trash 1 card from your hand: Draw 1 card. [When Attacking] Give up to 1 of your opponent's Characters -1 cost during this turn.",
+        "set_id": "OP-05",
+        "rarity": "L",
+        "card_set_id": "OP05-041",
+        "card_color": "Blue Black",
+        "card_type": "Leader",
+        "life": "4",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Navy",
+        "counter_amount": null,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP05-041_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP05-041_p1.jpg"
+    }
+]

@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 4 seconds."
-}
+[
+    {
+        "card_name": "Kaya",
+        "set_name": "Pillars of Strength",
+        "card_text": "[On Play] Draw 2 cards and trash 2 cards from your hand.",
+        "set_id": "OP-03",
+        "rarity": "R",
+        "card_set_id": "OP03-044",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "0",
+        "sub_types": "East Blue",
+        "counter_amount": 2000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP03-044",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP03-044.jpg"
+    },
+    {
+        "card_name": "Kaya (Reprint)",
+        "set_name": "Premium Booster -The Best- Vol. 2",
+        "card_text": "[On Play] Draw 2 cards and trash 2 cards from your hand.Disclaimer: This card was reprinted from the original set with changes to the copyright information (Note: the original print did not include \"EN\" at the end of the copyright) and the Artist Credit (Note: there is no pencil design on top of the artist name).",
+        "set_id": "PRB-02",
+        "rarity": "R",
+        "card_set_id": "OP03-044",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "0",
+        "sub_types": "East Blue",
+        "counter_amount": 2000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP03-044_r1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP03-044_r1.jpg"
+    }
+]

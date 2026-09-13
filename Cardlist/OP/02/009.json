@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 182 seconds."
-}
+[
+    {
+        "card_name": "Squard",
+        "set_name": "Paramount War",
+        "card_text": "[On Play] If your Leader's type includes \"Whitebeard Pirates\", give up to 1 of your opponent's Characters -4000 power during this turn and add 1 card from the top of your Life cards to your hand.",
+        "set_id": "OP-02",
+        "rarity": "UC",
+        "card_set_id": "OP02-009",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "5000",
+        "sub_types": "Whitebeard Pirates Allies",
+        "counter_amount": 0,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP02-009",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP02-009.jpg"
+    },
+    {
+        "card_name": "Squard (Box Topper)",
+        "set_name": "Paramount War",
+        "card_text": "[On Play] If your Leader's type includes \"Whitebeard Pirates\", give up to 1 of your opponent's Characters -4000 power during this turn and add 1 card from the top of your Life cards to your hand.",
+        "set_id": "OP-02",
+        "rarity": "UC",
+        "card_set_id": "OP02-009",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "5000",
+        "sub_types": "Whitebeard Pirates Allies",
+        "counter_amount": 0,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP02-009_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP02-009_p1.jpg"
+    }
+]

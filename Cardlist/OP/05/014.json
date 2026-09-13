@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 48 seconds."
-}
+[
+    {
+        "card_name": "Pell",
+        "set_name": "Awakening of the New Era",
+        "card_text": "[DON!! x1][When Attacking] Give up to 1 of your opponent's Characters -2000 power during this turn.",
+        "set_id": "OP-05",
+        "rarity": "C",
+        "card_set_id": "OP05-014",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "Alabasta",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP05-014",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP05-014.jpg"
+    }
+]

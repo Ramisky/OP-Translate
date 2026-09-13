@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 193 seconds."
-}
+[
+    {
+        "card_name": "Douglas Bullet",
+        "set_name": "Paramount War",
+        "card_text": "[On Play] DON!! -1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+        "set_id": "OP-02",
+        "rarity": "UC",
+        "card_set_id": "OP02-079",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "FILM The Pirates Fest",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP02-079",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP02-079.jpg"
+    }
+]

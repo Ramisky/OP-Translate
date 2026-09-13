@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 142 seconds."
-}
+[
+    {
+        "card_name": "X Calibur",
+        "set_name": "A Fist of Divine Speed",
+        "card_text": "[Main] Give up to 2 of your opponent's Characters 2000 power during this turn. Then, up to 1 of your \"Navy\" type Characters gains +1000 power during this turn.\n[Trigger] K.O. up to 1 of your opponent's Characters with 4000 power or less.",
+        "set_id": "OP-11",
+        "rarity": "UC",
+        "card_set_id": "OP11-020",
+        "card_color": "Red",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "2",
+        "card_power": null,
+        "sub_types": "Drake Pirates Navy SWORD",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP11-020",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP11-020.jpg"
+    }
+]

@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 1 second."
-}
+[
+    {
+        "card_name": "Otama",
+        "set_name": "Kingdoms of Intrigue",
+        "card_text": "[On Play] Add up to 1 of your opponent's [Animal] or [SMILE] type Characters with a cost of 3 or less to the top of your opponent's Life cards face-up.",
+        "set_id": "OP-04",
+        "rarity": "C",
+        "card_set_id": "OP04-097",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "0",
+        "sub_types": "Land of Wano",
+        "counter_amount": 1000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP04-097",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP04-097.jpg"
+    }
+]

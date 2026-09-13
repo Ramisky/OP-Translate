@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 82 seconds."
-}
+[
+    {
+        "card_name": "Shadows Asgard",
+        "set_name": "Wings of the Captain",
+        "card_text": "[Main] / [Counter] Your Leader gains +1000 power during this turn. Then, you may K.O. any number of your [Thriller Bark Pirates] type Characters with a cost of 2 or less. Your Leader gains an additional +1000 power during this turn for every Character K.O.'d.\n[Trigger] Draw 2 cards and trash 1 card from your hand.",
+        "set_id": "OP-06",
+        "rarity": "UC",
+        "card_set_id": "OP06-095",
+        "card_color": "Black",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "2",
+        "card_power": null,
+        "sub_types": "The Seven Warlords of the Sea Thriller Bark Pirates",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP06-095",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP06-095.jpg"
+    }
+]

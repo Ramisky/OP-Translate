@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 53 seconds."
-}
+[
+    {
+        "card_name": "Oro Jackson",
+        "set_name": "Carrying On His Will",
+        "card_text": "[Once Per Turn] When your Character with a type including \"Roger Pirates\" is removed from the field by your opponent's effect, add up to 1 DON!! card from your DON!! deck and rest it.",
+        "set_id": "OP-13",
+        "rarity": "C",
+        "card_set_id": "OP13-078",
+        "card_color": "Purple",
+        "card_type": "Stage",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "Roger Pirates",
+        "counter_amount": 0,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP13-078",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP13-078_HORRusH.jpg"
+    }
+]

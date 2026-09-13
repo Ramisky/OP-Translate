@@ -1,3 +1,59 @@
-{
-    "detail": "Request was throttled. Expected available in 75 seconds."
-}
+[
+    {
+        "card_name": "Hody Jones (020) (Alternate Art)",
+        "set_name": "Wings of the Captain",
+        "card_text": "[Activate:Main] You may rest this Leader: Rest up to 1 of your opponent's DON!! cards or Characters with a cost of 3 or less. Then, you cannot add Life cards to your hand using your own effects during this turn.",
+        "set_id": "OP-06",
+        "rarity": "L",
+        "card_set_id": "OP06-020",
+        "card_color": "Green",
+        "card_type": "Leader",
+        "life": "5",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Fish-Man New Fish-Man Pirates",
+        "counter_amount": null,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP06-020_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP06-020_p1.jpg"
+    },
+    {
+        "card_name": "Hody Jones (020)",
+        "set_name": "Wings of the Captain",
+        "card_text": "[Activate:Main] You may rest this Leader: Rest up to 1 of your opponent's DON!! cards or Characters with a cost of 3 or less. Then, you cannot add Life cards to your hand using your own effects during this turn.",
+        "set_id": "OP-06",
+        "rarity": "L",
+        "card_set_id": "OP06-020",
+        "card_color": "Green",
+        "card_type": "Leader",
+        "life": "5",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Fish-Man New Fish-Man Pirates",
+        "counter_amount": null,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP06-020",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP06-020.jpg"
+    },
+    {
+        "card_name": "Hody Jones (SPR)",
+        "set_name": "Extra Booster: Anime 25th Collection",
+        "card_text": "[Activate: Main] You may rest this Leader: Rest up to 1 of your opponent's DON!! cards or Characters with a cost of 3 or less. Then, you cannot add Life cards to your hand using your own effects during this turn.",
+        "set_id": "EB-02",
+        "rarity": "L",
+        "card_set_id": "OP06-020",
+        "card_color": "Green",
+        "card_type": "Leader",
+        "life": "5",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Fish-Man New Fish-Man Pirates",
+        "counter_amount": null,
+        "attribute": "Strike",
+        "date_scraped": "2025-06-29",
+        "card_image_id": "OP06-020_p2",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP06-020_p2.jpg"
+    }
+]

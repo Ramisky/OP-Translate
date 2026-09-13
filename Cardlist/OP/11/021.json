@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 151 seconds."
-}
+[
+    {
+        "card_name": "Jinbe (021) (Alternate Art)",
+        "set_name": "A Fist of Divine Speed",
+        "card_text": "[End of Your Turn] If you have 6 or less cards in your hand, set up to 1 of your \"Fish-Man\" or \"Merfolk\" type Characters and up to 1 of your DON!! cards as active.",
+        "set_id": "OP-11",
+        "rarity": "L",
+        "card_set_id": "OP11-021",
+        "card_color": "Green",
+        "card_type": "Leader",
+        "life": "5",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Fish-Man Straw Hat Crew",
+        "counter_amount": null,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP11-021_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP11-021_p1.jpg"
+    },
+    {
+        "card_name": "Jinbe (021)",
+        "set_name": "A Fist of Divine Speed",
+        "card_text": "[End of Your Turn] If you have 6 or less cards in your hand, set up to 1 of your \"Fish-Man\" or \"Merfolk\" type Characters and up to 1 of your DON!! cards as active.",
+        "set_id": "OP-11",
+        "rarity": "L",
+        "card_set_id": "OP11-021",
+        "card_color": "Green",
+        "card_type": "Leader",
+        "life": "5",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Fish-Man Straw Hat Crew",
+        "counter_amount": null,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP11-021",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP11-021.jpg"
+    }
+]

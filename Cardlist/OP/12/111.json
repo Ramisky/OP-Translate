@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 124 seconds."
-}
+[
+    {
+        "card_name": "Baby 5 (111)",
+        "set_name": "Legacy of the Master",
+        "card_text": null,
+        "set_id": "OP-12",
+        "rarity": "C",
+        "card_set_id": "OP12-111",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "4000",
+        "sub_types": "Donquixote Pirates",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP12-111",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP12-111_qzpq8Mp.jpg"
+    }
+]

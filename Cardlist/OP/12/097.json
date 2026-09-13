@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 257 seconds."
-}
+[
+    {
+        "card_name": "Captains Assembled",
+        "set_name": "Legacy of the Master",
+        "card_text": "[Main] Look at 3 cards from the top of your deck; reveal up to 1 \"Revolutionary Army\" type card other than [Captains Assembled] and add it to your hand. Then, trash the rest.\n[Trigger] Activate this card's [Main] effect.",
+        "set_id": "OP-12",
+        "rarity": "R",
+        "card_set_id": "OP12-097",
+        "card_color": "Black",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "Revolutionary Army",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP12-097",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP12-097_ylCZoU2.jpg"
+    }
+]

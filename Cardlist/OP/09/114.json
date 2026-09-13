@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 1 second."
-}
+[
+    {
+        "card_name": "Lindbergh",
+        "set_name": "Emperors in the New World",
+        "card_text": "[On Play] If you and your opponent have a total of 5 or less Life cards, K.O. up to 1 of your opponent's Characters with 2000 power or less.\n[Trigger] If you and your opponent have a total of 5 or less Life cards, play this card.",
+        "set_id": "OP-09",
+        "rarity": "C",
+        "card_set_id": "OP09-114",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "Minks Revolutionary Army",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-114",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-114.jpg"
+    }
+]

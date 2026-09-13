@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 14 seconds."
-}
+[
+    {
+        "card_name": "Cavendish",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "If you have 4 or more Events in your trash, this Character gains +2000 power.",
+        "set_id": "OP15-EB04",
+        "rarity": "UC",
+        "card_set_id": "OP15-006",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "4000",
+        "sub_types": "Beautiful Pirates Dressrosa",
+        "counter_amount": 2000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP15-006",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP15-006_9i9slYu.jpg"
+    }
+]

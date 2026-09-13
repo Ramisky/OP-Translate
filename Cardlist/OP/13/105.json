@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 192 seconds."
-}
+[
+    {
+        "card_name": "Kouzuki Momonosuke",
+        "set_name": "Carrying On His Will",
+        "card_text": "[On Play] Look at all of your Life cards and place them back in your Life area in any order.",
+        "set_id": "OP-13",
+        "rarity": "C",
+        "card_set_id": "OP13-105",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "0",
+        "sub_types": "Land of Wano Kouzuki Clan",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP13-105",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP13-105_QxnP6lI.jpg"
+    }
+]

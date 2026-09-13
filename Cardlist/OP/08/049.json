@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 206 seconds."
-}
+[
+    {
+        "card_name": "Speed Jil",
+        "set_name": "Two Legends",
+        "card_text": "[On Play] Reveal 1 card from the top of your deck and place it at the top or bottom of your deck. If the revealed card's type includes \"Whitebeard Piratess\", this Character gains [Rush] during this turn. (This card can attack on the turn in which it is played.)",
+        "set_id": "OP-08",
+        "rarity": "C",
+        "card_set_id": "OP08-049",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Whitebeard Pirates",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-049",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-049.jpg"
+    }
+]

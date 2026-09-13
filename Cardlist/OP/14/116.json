@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 75 seconds."
-}
+[
+    {
+        "card_name": "Salamander",
+        "set_name": "The Azure Sea's Seven",
+        "card_text": "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, play up to 1 {Amazon Lily} or {Kuja Pirates} type Character card with a cost of 4 or less from your hand.\n[Trigger] Draw 1 card.",
+        "set_id": "OP14-EB04",
+        "rarity": "C",
+        "card_set_id": "OP14-116",
+        "card_color": "Yellow",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "4",
+        "card_power": null,
+        "sub_types": "Kuja Pirates",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP14-116",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP14-116_Xw9UNHY.jpg"
+    }
+]

@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 1 second."
-}
+[
+    {
+        "card_name": "Charlotte Daifuku",
+        "set_name": "The World's Strongest Warriors",
+        "card_text": "[Trigger] Play this card.",
+        "set_id": "OP-17",
+        "rarity": "UC",
+        "card_set_id": "OP17-107",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "Big Mom Pirates",
+        "counter_amount": 2000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP17-107",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP17-107_DB546DI.jpg"
+    },
+    {
+        "card_name": "Charlotte Daifuku (Pandaman Art)",
+        "set_name": "The World's Strongest Warriors",
+        "card_text": "[Trigger] Play this card.",
+        "set_id": "OP-17",
+        "rarity": "UC",
+        "card_set_id": "OP17-107",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "Big Mom Pirates",
+        "counter_amount": 2000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP17-107",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP17-107_CxokFcf.jpg"
+    }
+]

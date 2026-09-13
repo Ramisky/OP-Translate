@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 14 seconds."
-}
+[
+    {
+        "card_name": "Fiery Doll",
+        "set_name": "Pillars of Strength",
+        "card_text": "[Main] Your Leader gains +4000 power during this turn. [Trigger] Give up to 1 of your opponent's Leader or Character cards -10000 power during this turn.",
+        "set_id": "OP-03",
+        "rarity": "C",
+        "card_set_id": "OP03-019",
+        "card_color": "Red",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "2",
+        "card_power": null,
+        "sub_types": "Whitebeard Pirates",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP03-019",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP03-019.jpg"
+    }
+]

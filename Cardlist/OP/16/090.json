@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 33 seconds."
-}
+[
+    {
+        "card_name": "Tony Tony.Chopper",
+        "set_name": "The Time of Battle",
+        "card_text": "[On Play] Draw 2 cards and trash 2 cards from your hand. Then, K.O. up to 1 of your opponent's Characters with a cost of 1 or less.",
+        "set_id": "OP-16",
+        "rarity": "C",
+        "card_set_id": "OP16-090",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "Animal Land of Wano Straw Hat Crew",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP16-090",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP16-090_z6lRinU.jpg"
+    }
+]

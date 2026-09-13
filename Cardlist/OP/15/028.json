@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 10 seconds."
-}
+[
+    {
+        "card_name": "Meowban Brothers",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "[On Play] If your Leader has the {East Blue} type, give up to 1 DON!! card from your opponent's cost area to 1 of your opponent's Characters.",
+        "set_id": "OP15-EB04",
+        "rarity": "UC",
+        "card_set_id": "OP15-028",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "2000",
+        "sub_types": "East Blue Black Cat Pirates",
+        "counter_amount": 2000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP15-028",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP15-028.jpg"
+    }
+]

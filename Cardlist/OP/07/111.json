@@ -1,3 +1,59 @@
-{
-    "detail": "Request was throttled. Expected available in 43 seconds."
-}
+[
+    {
+        "card_name": "Lilith",
+        "set_name": "500 Years in the Future",
+        "card_text": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 [Egghead] type card other than [Lilith] and add it to your hand. Then, place the rest at the bottom of your deck in any order. [Trigger] If your Leader is [Vegapunk], play this card.",
+        "set_id": "OP-07",
+        "rarity": "SR",
+        "card_set_id": "OP07-111",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "5000",
+        "sub_types": "Scientist Egghead",
+        "counter_amount": 0,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP07-111",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-111.jpg"
+    },
+    {
+        "card_name": "Lilith (Parallel)",
+        "set_name": "500 Years in the Future",
+        "card_text": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 [Egghead] type card other than [Lilith] and add it to your hand. Then, place the rest at the bottom of your deck in any order. [Trigger] If your Leader is [Vegapunk], play this card.",
+        "set_id": "OP-07",
+        "rarity": "SR",
+        "card_set_id": "OP07-111",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "5000",
+        "sub_types": "Scientist Egghead",
+        "counter_amount": 0,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP07-111_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-111_p1.jpg"
+    },
+    {
+        "card_name": "Lilith - OP07-111 (SP)",
+        "set_name": "Carrying On His Will",
+        "card_text": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 [Egghead] type card other than [Lilith] and add it to your hand. Then, place the rest at the bottom of your deck in any order.[Trigger] If your Leader is [Vegapunk], play this card.",
+        "set_id": "OP-13",
+        "rarity": "SR",
+        "card_set_id": "OP07-111",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "5000",
+        "sub_types": "Scientist Egghead",
+        "counter_amount": 0,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP07-111_p2",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-111_p2.jpg"
+    }
+]

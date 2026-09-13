@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 65 seconds."
-}
+[
+    {
+        "card_name": "Stick-Stickem Meteora",
+        "set_name": "Awakening of the New Era",
+        "card_text": "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, K.O. up to 1 of your opponent's rested Characters with a cost of 3 or less. [Trigger] K.O. up to 1 of your opponent's rested Characters with a cost of 5 or less.",
+        "set_id": "OP-05",
+        "rarity": "UC",
+        "card_set_id": "OP05-039",
+        "card_color": "Green",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "2",
+        "card_power": null,
+        "sub_types": "Donquixote Pirates",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP05-039",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP05-039.jpg"
+    }
+]

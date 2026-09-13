@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 236 seconds."
-}
+[
+    {
+        "card_name": "Charlotte Katakuri (062)",
+        "set_name": "Two Legends",
+        "card_text": "[Activate:Main] You may trash this Character: If your Leader has the {Big Mom Pirates} type, play up to 1 [Charlotte Katakuri] from your hand with a cost of 3 or more that is equal to or less than the number of DON!! cards on your opponent's field.",
+        "set_id": "OP-08",
+        "rarity": "UC",
+        "card_set_id": "OP08-062",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "3000",
+        "sub_types": "Big Mom Pirates",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-062",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-062.jpg"
+    }
+]

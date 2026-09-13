@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 238 seconds."
-}
+[
+    {
+        "card_name": "Electrical Luna",
+        "set_name": "Two Legends",
+        "card_text": "[Main] All of your opponent's rested Characters with a cost of 7 or less will not become active in your opponent's next Refresh Phase. [Trigger] Rest up to 1 of your opponent's Characters.",
+        "set_id": "OP-08",
+        "rarity": "R",
+        "card_set_id": "OP08-036",
+        "card_color": "Green",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "3",
+        "card_power": null,
+        "sub_types": "Minks",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-036",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-036.jpg"
+    }
+]

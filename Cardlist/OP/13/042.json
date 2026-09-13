@@ -1,3 +1,59 @@
-{
-    "detail": "Request was throttled. Expected available in 48 seconds."
-}
+[
+    {
+        "card_name": "Edward.Newgate",
+        "set_name": "Carrying On His Will",
+        "card_text": "[Blocker]\n[On Play] Draw 2 cards and trash 1 card from your hand. Then, give your Leader and 1 Character up to 2 rested DON!! cards each.",
+        "set_id": "OP-13",
+        "rarity": "SR",
+        "card_set_id": "OP13-042",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "10",
+        "card_power": "12000",
+        "sub_types": "The Four Emperors Whitebeard Pirates",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP13-042",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP13-042_cORQUwo.jpg"
+    },
+    {
+        "card_name": "Edward.Newgate (Alternate Art)",
+        "set_name": "Carrying On His Will",
+        "card_text": "[Blocker]\n[On Play] Draw 2 cards and trash 1 card from your hand. Then, give your Leader and 1 Character up to 2 rested DON!! cards each.",
+        "set_id": "OP-13",
+        "rarity": "SR",
+        "card_set_id": "OP13-042",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "10",
+        "card_power": "12000",
+        "sub_types": "The Four Emperors Whitebeard Pirates",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP13-042_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP13-042_p1_WwBji85.jpg"
+    },
+    {
+        "card_name": "Edward.Newgate (SP)",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "[Blocker][On Play] Draw 2 cards and trash 1 card from your hand. Then, give your Leader and 1 Character up to 2 rested DON!! cards each.",
+        "set_id": "OP15-EB04",
+        "rarity": "SR",
+        "card_set_id": "OP13-042",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "10",
+        "card_power": "12000",
+        "sub_types": "The Four Emperors Whitebeard Pirates",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP13-042_p2",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP13-042_p2.jpg"
+    }
+]

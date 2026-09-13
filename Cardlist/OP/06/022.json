@@ -1,3 +1,59 @@
-{
-    "detail": "Request was throttled. Expected available in 52 seconds."
-}
+[
+    {
+        "card_name": "Yamato",
+        "set_name": "Wings of the Captain",
+        "card_text": "[Double Attack] (This card deals 2 damage.)\n[Activate:Main] [Once Per Turn] If your opponent has 3 or less Life cards, give up to 2 rested DON!! cards to 1 of your Characters.",
+        "set_id": "OP-06",
+        "rarity": "L",
+        "card_set_id": "OP06-022",
+        "card_color": "Green Yellow",
+        "card_type": "Leader",
+        "life": "4",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Land of Wano",
+        "counter_amount": null,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP06-022",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP06-022.jpg"
+    },
+    {
+        "card_name": "Yamato (Alternate Art)",
+        "set_name": "Wings of the Captain",
+        "card_text": "[Double Attack] (This card deals 2 damage.)\n[Activate:Main] [Once Per Turn] If your opponent has 3 or less Life cards, give up to 2 rested DON!! cards to 1 of your Characters.",
+        "set_id": "OP-06",
+        "rarity": "L",
+        "card_set_id": "OP06-022",
+        "card_color": "Green Yellow",
+        "card_type": "Leader",
+        "life": "4",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Land of Wano",
+        "counter_amount": null,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP06-022_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP06-022_p1.jpg"
+    },
+    {
+        "card_name": "Yamato (SPR)",
+        "set_name": "Extra Booster: Anime 25th Collection",
+        "card_text": "[Double Attack] (This card deals 2 damage.)[Activate: Main] [Once Per Turn] If your opponent has 3 or less Life cards, give up to 2 rested DON!! cards to 1 of your Characters.",
+        "set_id": "EB-02",
+        "rarity": "L",
+        "card_set_id": "OP06-022",
+        "card_color": "Green Yellow",
+        "card_type": "Leader",
+        "life": "4",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Land of Wano",
+        "counter_amount": null,
+        "attribute": "Strike",
+        "date_scraped": "2025-06-29",
+        "card_image_id": "OP06-022_p2",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP06-022_p2.jpg"
+    }
+]

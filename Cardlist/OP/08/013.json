@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 212 seconds."
-}
+[
+    {
+        "card_name": "Robson",
+        "set_name": "Two Legends",
+        "card_text": "[DON!! x2] This Character gains [Rush]. (This card can attack on the turn in which it is played.)",
+        "set_id": "OP-08",
+        "rarity": "UC",
+        "card_set_id": "OP08-013",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "Animal Drum Kingdom",
+        "counter_amount": 1000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-013",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-013.jpg"
+    }
+]

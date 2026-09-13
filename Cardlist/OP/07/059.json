@@ -1,3 +1,59 @@
-{
-    "detail": "Request was throttled. Expected available in 35 seconds."
-}
+[
+    {
+        "card_name": "Foxy (059)",
+        "set_name": "500 Years in the Future",
+        "card_text": "[When Attacking] DON!! -3 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If you have 3 or more [Foxy Pirates] type Characters, select your opponent's rested Leader and up to 1 Character card. The selected cards will not become active in your opponent's next Refresh Phase.",
+        "set_id": "OP-07",
+        "rarity": "L",
+        "card_set_id": "OP07-059",
+        "card_color": "Purple",
+        "card_type": "Leader",
+        "life": "5",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Foxy Pirates",
+        "counter_amount": null,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP07-059",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-059.jpg"
+    },
+    {
+        "card_name": "Foxy (059) (Parallel)",
+        "set_name": "500 Years in the Future",
+        "card_text": "[When Attacking] DON!! -3 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If you have 3 or more [Foxy Pirates] type Characters, select your opponent's rested Leader and up to 1 Character card. The selected cards will not become active in your opponent's next Refresh Phase.",
+        "set_id": "OP-07",
+        "rarity": "L",
+        "card_set_id": "OP07-059",
+        "card_color": "Purple",
+        "card_type": "Leader",
+        "life": "5",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Foxy Pirates",
+        "counter_amount": null,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP07-059_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-059_p1.jpg"
+    },
+    {
+        "card_name": "Foxy (SPR)",
+        "set_name": "Extra Booster: Anime 25th Collection",
+        "card_text": "[When Attacking] DON!! 3 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If you have 3 or more \"Foxy Pirates\" type Characters, select your opponent's rested Leader and up to 1 Character card. The selected cards will not become active in your opponent's next Refresh Phase.",
+        "set_id": "EB-02",
+        "rarity": "L",
+        "card_set_id": "OP07-059",
+        "card_color": "Purple",
+        "card_type": "Leader",
+        "life": "5",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Foxy Pirates",
+        "counter_amount": null,
+        "attribute": "Special",
+        "date_scraped": "2025-06-29",
+        "card_image_id": "OP07-059_p2",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-059_p2.jpg"
+    }
+]

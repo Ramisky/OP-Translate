@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 41 seconds."
-}
+[
+    {
+        "card_name": "Speed Jil",
+        "set_name": "The Time of Battle",
+        "card_text": "[On Play] You may trash 1 Character card with 8000 power from your hand: This Character gains [Rush] and +2000 power until the end of your opponent's next End Phase.",
+        "set_id": "OP-16",
+        "rarity": "C",
+        "card_set_id": "OP16-009",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Whitebeard Pirates",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP16-009",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP16-009_c9szVFX.jpg"
+    }
+]

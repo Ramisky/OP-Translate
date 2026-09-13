@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 197 seconds."
-}
+[
+    {
+        "card_name": "Charlotte Linlin (Parallel)",
+        "set_name": "Two Legends",
+        "card_text": "[On Play] DON!! 1, You may trash 1 card from your hand: Add up to 1 card from the top of your deck to the top of your Life cards. Then, add up to 1 of your opponent's Characters with a cost of 6 or less to the top or bottom of your opponent's Life cards face-up.",
+        "set_id": "OP-08",
+        "rarity": "SR",
+        "card_set_id": "OP08-069",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "9",
+        "card_power": "9000",
+        "sub_types": "Big Mom Pirates Former Rocks Pirates",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-069_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-069_p1.jpg"
+    },
+    {
+        "card_name": "Charlotte Linlin",
+        "set_name": "Two Legends",
+        "card_text": "[On Play] DON!! 1, You may trash 1 card from your hand: Add up to 1 card from the top of your deck to the top of your Life cards. Then, add up to 1 of your opponent's Characters with a cost of 6 or less to the top or bottom of your opponent's Life cards face-up.",
+        "set_id": "OP-08",
+        "rarity": "SR",
+        "card_set_id": "OP08-069",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "9",
+        "card_power": "9000",
+        "sub_types": "Big Mom Pirates Former Rocks Pirates",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-069",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-069.jpg"
+    }
+]

@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 155 seconds."
-}
+[
+    {
+        "card_name": "Hibari",
+        "set_name": "A Fist of Divine Speed",
+        "card_text": "[On Play] Give up to 1 of your opponent's Characters 2000 power during this turn.\n[When Attacking] This Character gains +1000 power during this turn. Then, up to 1 of your \"Navy\" type Leader can also attack active Characters during this turn.",
+        "set_id": "OP-11",
+        "rarity": "SR",
+        "card_set_id": "OP11-010",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Navy SWORD",
+        "counter_amount": 0,
+        "attribute": "Ranged",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP11-010",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP11-010.jpg"
+    },
+    {
+        "card_name": "Hibari (Alternate Art)",
+        "set_name": "A Fist of Divine Speed",
+        "card_text": "[On Play] Give up to 1 of your opponent's Characters 2000 power during this turn.\n[When Attacking] This Character gains +1000 power during this turn. Then, up to 1 of your \"Navy\" type Leader can also attack active Characters during this turn.",
+        "set_id": "OP-11",
+        "rarity": "SR",
+        "card_set_id": "OP11-010",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Navy SWORD",
+        "counter_amount": 0,
+        "attribute": "Ranged",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP11-010_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP11-010_p1.jpg"
+    }
+]

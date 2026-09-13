@@ -1,3 +1,59 @@
-{
-    "detail": "Request was throttled. Expected available in 30 seconds."
-}
+[
+    {
+        "card_name": "Basil Hawkins",
+        "set_name": "500 Years in the Future",
+        "card_text": "If your Leader has the [Supernovas] type, this Character gains [Blocker]. (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [Once Per Turn] If this Character would be removed from the field by your opponent's effect, you may rest 1 of your opponent's Characters instead.",
+        "set_id": "OP-07",
+        "rarity": "SR",
+        "card_set_id": "OP07-029",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "7000",
+        "sub_types": "Hawkins Pirates Supernovas",
+        "counter_amount": 0,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP07-029",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-029.jpg"
+    },
+    {
+        "card_name": "Basil Hawkins (Parallel)",
+        "set_name": "500 Years in the Future",
+        "card_text": "If your Leader has the [Supernovas] type, this Character gains [Blocker]. (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [Once Per Turn] If this Character would be removed from the field by your opponent's effect, you may rest 1 of your opponent's Characters instead.",
+        "set_id": "OP-07",
+        "rarity": "SR",
+        "card_set_id": "OP07-029",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "7000",
+        "sub_types": "Hawkins Pirates Supernovas",
+        "counter_amount": 0,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP07-029_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-029_p1.jpg"
+    },
+    {
+        "card_name": "Basil Hawkins - OP07-029 (Reprint)",
+        "set_name": "Premium Booster -The Best- Vol. 2",
+        "card_text": "If your Leader has the [Supernovas] type, this Character gains [Blocker]. (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[Once Per Turn] If this Character would be removed from the field by your opponent's effect, you may rest 1 of your opponent's Characters instead.Disclaimer: This card was reprinted from the original set with changes to the copyright information (Note: the original print did not include \"EN\" at the end of the copyright).",
+        "set_id": "PRB-02",
+        "rarity": "SR",
+        "card_set_id": "OP07-029",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "0",
+        "sub_types": "Hawkins Pirates Supernovas",
+        "counter_amount": 0,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP07-029_r1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-029_r1.jpg"
+    }
+]

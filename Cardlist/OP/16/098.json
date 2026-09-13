@@ -1,3 +1,59 @@
-{
-    "detail": "Request was throttled. Expected available in 72 seconds."
-}
+[
+    {
+        "card_name": "Yamato (098)",
+        "set_name": "The Time of Battle",
+        "card_text": "[On Play] Draw 1 card and trash 1 card from your hand.\n[Activate:Main] You may trash this Character: Play up to 1 black [Yamato] with a cost of 8 from your trash.",
+        "set_id": "OP-16",
+        "rarity": "SR",
+        "card_set_id": "OP16-098",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "5000",
+        "sub_types": "Land of Wano",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP16-098",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP16-098_9dRdXcD.jpg"
+    },
+    {
+        "card_name": "Yamato (098) (Alternate Art)",
+        "set_name": "The Time of Battle",
+        "card_text": "[On Play] Draw 1 card and trash 1 card from your hand.\n[Activate:Main] You may trash this Character: Play up to 1 black [Yamato] with a cost of 8 from your trash.",
+        "set_id": "OP-16",
+        "rarity": "SR",
+        "card_set_id": "OP16-098",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "5000",
+        "sub_types": "Land of Wano",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP16-098_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP16-098_p1_MKyDUP9.jpg"
+    },
+    {
+        "card_name": "Yamato (OP16-098) (SP)",
+        "set_name": "The World's Strongest Warriors",
+        "card_text": "[On Play] Draw 1 card and trash 1 card from your hand.[Activate:Main] You may trash this Character: Play up to 1 black [Yamato] with a cost of 8 from your trash.",
+        "set_id": "OP-17",
+        "rarity": "SR",
+        "card_set_id": "OP16-098",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "5000",
+        "sub_types": "Land of Wano",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP16-098_p2",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP16-098_p2.jpg"
+    }
+]

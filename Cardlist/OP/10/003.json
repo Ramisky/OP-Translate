@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 119 seconds."
-}
+[
+    {
+        "card_name": "Sugar (003) (Parallel)",
+        "set_name": "Royal Blood",
+        "card_text": "[End of Your Turn] If you have a {Donquixote Pirates} type Character with 6000 power or more, set up to 1 of your DON!! cards as active.[Opponent's Turn] [Once Per Turn] When you activate an Event, add up to 1 DON!! card from your DON!! deck and set it as active.",
+        "set_id": "OP-10",
+        "rarity": "L",
+        "card_set_id": "OP10-003",
+        "card_color": "Purple Red",
+        "card_type": "Leader",
+        "life": "4",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Donquixote Pirates",
+        "counter_amount": null,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP10-003_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP10-003_p1.jpg"
+    },
+    {
+        "card_name": "Sugar (003)",
+        "set_name": "Royal Blood",
+        "card_text": "[End of Your Turn] If you have a {Donquixote Pirates} type Character with 6000 power or more, set up to 1 of your DON!! cards as active.[Opponent's Turn] [Once Per Turn] When you activate an Event, add up to 1 DON!! card from your DON!! deck and set it as active.",
+        "set_id": "OP-10",
+        "rarity": "L",
+        "card_set_id": "OP10-003",
+        "card_color": "Purple Red",
+        "card_type": "Leader",
+        "life": "4",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Donquixote Pirates",
+        "counter_amount": null,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP10-003",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP10-003.jpg"
+    }
+]

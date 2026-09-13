@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 50 seconds."
-}
+[
+    {
+        "card_name": "Trafalgar Law (068)",
+        "set_name": "The Time of Battle",
+        "card_text": "[On Play] Add up to 1 DON!! card from your DON!! deck and set it as active.\n[When Attacking] If your Leader has the {Donquixote Pirates} type, this Character gains +3000 power during this turn.",
+        "set_id": "OP-16",
+        "rarity": "C",
+        "card_set_id": "OP16-068",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "3000",
+        "sub_types": "Donquixote Pirates",
+        "counter_amount": 1000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP16-068",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP16-068_hzWatDT.jpg"
+    }
+]

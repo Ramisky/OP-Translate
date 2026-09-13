@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 29 seconds."
-}
+[
+    {
+        "card_name": "Riku Doldo III",
+        "set_name": "Awakening of the New Era",
+        "card_text": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] / [On K.O.] Up to 1 of your [Dressrosa] type Characters gains +2000 power during this turn.",
+        "set_id": "OP-05",
+        "rarity": "C",
+        "card_set_id": "OP05-090",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Dressrosa",
+        "counter_amount": 1000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP05-090",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP05-090.jpg"
+    }
+]

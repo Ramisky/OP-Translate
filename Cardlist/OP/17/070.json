@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 22 seconds."
-}
+[
+    {
+        "card_name": "Scratchmen Apoo",
+        "set_name": "The World's Strongest Warriors",
+        "card_text": null,
+        "set_id": "OP-17",
+        "rarity": "C",
+        "card_set_id": "OP17-070",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "7000",
+        "sub_types": "On-Air Pirates Animal Kingdom Pirates",
+        "counter_amount": 2000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP17-070",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP17-070_jak5ROy.jpg"
+    },
+    {
+        "card_name": "Scratchmen Apoo (Pandaman Art)",
+        "set_name": "The World's Strongest Warriors",
+        "card_text": null,
+        "set_id": "OP-17",
+        "rarity": "C",
+        "card_set_id": "OP17-070",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "7000",
+        "sub_types": "Animal Kingdom Pirates On-Air Pirates",
+        "counter_amount": 2000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP17-070",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP17-070_4dV6yml.jpg"
+    }
+]

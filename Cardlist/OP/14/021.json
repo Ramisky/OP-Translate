@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 123 seconds."
-}
+[
+    {
+        "card_name": "Issho - OP14-021",
+        "set_name": "The Azure Sea's Seven",
+        "card_text": "[Your Turn] When this Character becomes rested, you may add 1 card from the top of your Life cards to your hand. If you do, up to 1 of your opponent's rested Characters or Stages will not become active in your opponent's next Refresh Phase.",
+        "set_id": "OP14-EB04",
+        "rarity": "C",
+        "card_set_id": "OP14-021",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "7000",
+        "sub_types": "Navy Dressrosa",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP14-021",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP14-021_LI6cqx3.jpg"
+    }
+]

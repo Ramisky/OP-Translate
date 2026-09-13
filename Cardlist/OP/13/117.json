@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 31 seconds."
-}
+[
+    {
+        "card_name": "Gum-Gum Dawn Stamp",
+        "set_name": "Carrying On His Will",
+        "card_text": "[Main] You may turn 1 card from the top of your Life cards face-up: K.O. up to 1 of your opponent's Characters with a base cost of 6 or less.\n[Trigger] Draw 1 card.",
+        "set_id": "OP-13",
+        "rarity": "R",
+        "card_set_id": "OP13-117",
+        "card_color": "Yellow",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "5",
+        "card_power": null,
+        "sub_types": "Straw Hat Crew The Four Emperors Egghead",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP13-117",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP13-117_6Nnfp7Z.jpg"
+    }
+]

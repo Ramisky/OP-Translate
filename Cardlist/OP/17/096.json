@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 183 seconds."
-}
+[
+    {
+        "card_name": "I'm Luffy!! The Man Who Will Be King of the Pirates!!",
+        "set_name": "The World's Strongest Warriors",
+        "card_text": "[Counter] If there is a Character with a cost of 12 or more, up to 1 of your Leader or Characters gains +4000 power during this battle.\n[Trigger] Add up to 1 {Elbaph} type card from your trash to your hand.",
+        "set_id": "OP-17",
+        "rarity": "R",
+        "card_set_id": "OP17-096",
+        "card_color": "Black",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "Elbaph The Four Emperors Straw Hat Crew",
+        "counter_amount": 0,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP17-096",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP17-096_Mukh9zl.jpg"
+    }
+]

@@ -1,3 +1,59 @@
-{
-    "detail": "Request was throttled. Expected available in 7 seconds."
-}
+[
+    {
+        "card_name": "Perona",
+        "set_name": "Emperors in the New World",
+        "card_text": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 [Dracule Mihawk] or \"Thriller Bark Pirates\" type card and add it to your hand. Then, place the rest at the bottom of your deck in any order and trash 1 card from your hand.",
+        "set_id": "OP-09",
+        "rarity": "R",
+        "card_set_id": "OP09-034",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "2000",
+        "sub_types": "Thriller Bark Pirates Muggy Kingdom",
+        "counter_amount": 2000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-034",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-034.jpg"
+    },
+    {
+        "card_name": "Perona (Parallel)",
+        "set_name": "Emperors in the New World",
+        "card_text": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 [Dracule Mihawk] or \"Thriller Bark Pirates\" type card and add it to your hand. Then, place the rest at the bottom of your deck in any order and trash 1 card from your hand.",
+        "set_id": "OP-09",
+        "rarity": "R",
+        "card_set_id": "OP09-034",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "2000",
+        "sub_types": "Thriller Bark Pirates Muggy Kingdom",
+        "counter_amount": 2000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-034_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-034_p1.jpg"
+    },
+    {
+        "card_name": "Perona - OP09-034",
+        "set_name": "Extra Booster: One Piece Heroines Edition",
+        "card_text": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 [Dracule Mihawk] or \"Thriller Bark Pirates\" type card and add it to your hand. Then, place the rest at the bottom of your deck in any order and trash 1 card from your hand.",
+        "set_id": "EB-03",
+        "rarity": "R",
+        "card_set_id": "OP09-034",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "2000",
+        "sub_types": "Thriller Bark Pirates Muggy Kingdom",
+        "counter_amount": 2000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-08",
+        "card_image_id": "EB03_OP09-034_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB03_OP09-034_p1.jpg"
+    }
+]

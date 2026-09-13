@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 54 seconds."
-}
+[
+    {
+        "card_name": "Jewelry Bonney (108)",
+        "set_name": "Carrying On His Will",
+        "card_text": "[On Play] If your Leader has the \"Egghead\" type, this Character gains [Rush] during this turn. Then, your opponent adds 1 card from the top of their Life cards to their hand.\n[Trigger] If you have 1 or less Life cards, rest up to 1 of your opponent's Characters with a cost of 7 or less.",
+        "set_id": "OP-13",
+        "rarity": "SR",
+        "card_set_id": "OP13-108",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "9",
+        "card_power": "10000",
+        "sub_types": "Bonney Pirates Egghead",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP13-108",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP13-108_MzSUtnf.jpg"
+    },
+    {
+        "card_name": "Jewelry Bonney (108) (Alternate Art)",
+        "set_name": "Carrying On His Will",
+        "card_text": "[On Play] If your Leader has the \"Egghead\" type, this Character gains [Rush] during this turn. Then, your opponent adds 1 card from the top of their Life cards to their hand.\n[Trigger] If you have 1 or less Life cards, rest up to 1 of your opponent's Characters with a cost of 7 or less.",
+        "set_id": "OP-13",
+        "rarity": "SR",
+        "card_set_id": "OP13-108",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "9",
+        "card_power": "10000",
+        "sub_types": "Bonney Pirates Egghead",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP13-108_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP13-108_p1_L2qVa00.jpg"
+    }
+]

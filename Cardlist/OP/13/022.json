@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 162 seconds."
-}
+[
+    {
+        "card_name": "Windmill Village",
+        "set_name": "Carrying On His Will",
+        "card_text": "[Activate: Main] You may rest this Stage: Up to 1 of your Characters with 2000 base power or less gains +1000 power during this turn.",
+        "set_id": "OP-13",
+        "rarity": "C",
+        "card_set_id": "OP13-022",
+        "card_color": "Red",
+        "card_type": "Stage",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "Windmill Village",
+        "counter_amount": 0,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP13-022",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP13-022_HfJTKSB.jpg"
+    }
+]

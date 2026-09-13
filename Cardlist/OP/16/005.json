@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 47 seconds."
-}
+[
+    {
+        "card_name": "Thatch",
+        "set_name": "The Time of Battle",
+        "card_text": "If you have a Character with 8000 power or more and a type including \"Whitebeard Pirates\" give this card in your hand -3 cost.\n\n[Blocker]",
+        "set_id": "OP-16",
+        "rarity": "UC",
+        "card_set_id": "OP16-005",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "8",
+        "card_power": "8000",
+        "sub_types": "Whitebeard Pirates",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP16-005",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP16-005_edjwiya.jpg"
+    }
+]

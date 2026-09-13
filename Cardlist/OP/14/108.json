@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 109 seconds."
-}
+[
+    {
+        "card_name": "Silvers Rayleigh",
+        "set_name": "The Azure Sea's Seven",
+        "card_text": "[On Play] If your Leader is multicolored and your opponent has 3 or less Life cards, K.O. up to 1 of your opponent's Characters with 7000 base power or less.\n[Trigger] Activate this card's [On Play] effect.",
+        "set_id": "OP14-EB04",
+        "rarity": "R",
+        "card_set_id": "OP14-108",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "6000",
+        "sub_types": "Former Roger Pirates",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP14-108",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP14-108_Mz6fBUS.jpg"
+    },
+    {
+        "card_name": "Silvers Rayleigh (OP14-108) (SP)",
+        "set_name": "The World's Strongest Warriors",
+        "card_text": "[On Play] If your Leader is multicolored and your opponent has 3 or less Life cards, K.O. up to 1 of your opponent's Characters with 7000 base power or less.[Trigger] Activate this card's [On Play] effect.",
+        "set_id": "OP-17",
+        "rarity": "R",
+        "card_set_id": "OP14-108",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "6000",
+        "sub_types": "Former Roger Pirates",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP14-108_p3",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP14-108_p3.jpg"
+    }
+]

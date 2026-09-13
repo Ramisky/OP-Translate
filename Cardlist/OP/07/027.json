@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 81 seconds."
-}
+[
+    {
+        "card_name": "Jinbe (027)",
+        "set_name": "500 Years in the Future",
+        "card_text": "NULL",
+        "set_id": "OP-07",
+        "rarity": "C",
+        "card_set_id": "OP07-027",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "6000",
+        "sub_types": "Fish-Man The Sun Pirates",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP07-027",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-027.jpg"
+    }
+]

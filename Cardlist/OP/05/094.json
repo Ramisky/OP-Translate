@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 79 seconds."
-}
+[
+    {
+        "card_name": "Haute Couture Patch Work",
+        "set_name": "Awakening of the New Era",
+        "card_text": "[Main] Give up to 1 of your opponent's Characters -3 cost during this turn. Then, up to 1 of your opponent's Characters with a cost of 0 will not become active in the next Refresh Phase. [Trigger] Draw 2 cards and trash 1 card from your hand.",
+        "set_id": "OP-05",
+        "rarity": "R",
+        "card_set_id": "OP05-094",
+        "card_color": "Black",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "Dressrosa The Tontattas",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP05-094",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP05-094.jpg"
+    }
+]

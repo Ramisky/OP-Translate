@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 87 seconds."
-}
+[
+    {
+        "card_name": "Doc Q",
+        "set_name": "The Time of Battle",
+        "card_text": "[On K.O.] If your Leader has the {Blackbeard Pirates} type, draw 1 card and K.O. up to 2 of your opponent's Characters with a cost of 1 or less.\n[Trigger] Activate this card's [On K.O.] effect.",
+        "set_id": "OP-16",
+        "rarity": "UC",
+        "card_set_id": "OP16-109",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "0",
+        "sub_types": "Blackbeard Pirates",
+        "counter_amount": 2000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP16-109",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP16-109_thoYpS1.jpg"
+    }
+]

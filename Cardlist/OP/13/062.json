@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 53 seconds."
-}
+[
+    {
+        "card_name": "Crocus",
+        "set_name": "Carrying On His Will",
+        "card_text": "[On Play] If you have any DON!! cards given, add up to 1 DON!! card from your DON!! deck and set it as active.\n[When Attacking] Return up to 1 of your opponent's Characters with a base power of 3000 or less to the owner's hand.",
+        "set_id": "OP-13",
+        "rarity": "UC",
+        "card_set_id": "OP13-062",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Roger Pirates",
+        "counter_amount": 1000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP13-062",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP13-062_SRuM73G.jpg"
+    }
+]

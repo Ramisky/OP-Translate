@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 72 seconds."
-}
+[
+    {
+        "card_name": "Cavendish",
+        "set_name": "The Azure Sea's Seven",
+        "card_text": "If this Character has 5000 power or more, this Character gains [Rush].\n(This card can attack on the turn in which it is played.)",
+        "set_id": "OP14-EB04",
+        "rarity": "UC",
+        "card_set_id": "OP14-004",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "2000",
+        "sub_types": "Beautiful Pirates Supernovas Dressrosa",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP14-004",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP14-004_22P8Eg4.jpg"
+    }
+]

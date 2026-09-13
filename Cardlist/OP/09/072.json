@@ -1,3 +1,59 @@
-{
-    "detail": "Request was throttled. Expected available in 1 second."
-}
+[
+    {
+        "card_name": "Franky",
+        "set_name": "Emperors in the New World",
+        "card_text": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)\n[On Play] DON!! 2, You may trash 1 card from your hand: Draw 2 cards.",
+        "set_id": "OP-09",
+        "rarity": "SR",
+        "card_set_id": "OP09-072",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Straw Hat Crew",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-072",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-072.jpg"
+    },
+    {
+        "card_name": "Franky (Parallel)",
+        "set_name": "Emperors in the New World",
+        "card_text": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)\n[On Play] DON!! 2, You may trash 1 card from your hand: Draw 2 cards.",
+        "set_id": "OP-09",
+        "rarity": "SR",
+        "card_set_id": "OP09-072",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Straw Hat Crew",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-072_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-072_p1.jpg"
+    },
+    {
+        "card_name": "Franky - OP09-072 (Reprint)",
+        "set_name": "Premium Booster -The Best- Vol. 2",
+        "card_text": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] DON!! 2, You may trash 1 card from your hand: Draw 2 cards.Disclaimer: This card was reprinted from the original set with changes to the copyright information (Note: the original print did not include \"EN\" at the end of the copyright).",
+        "set_id": "PRB-02",
+        "rarity": "SR",
+        "card_set_id": "OP09-072",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Straw Hat Crew",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-072_r1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-072_r1.jpg"
+    }
+]

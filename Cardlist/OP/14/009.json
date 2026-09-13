@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 79 seconds."
-}
+[
+    {
+        "card_name": "Trafalgar Law - OP14-009 (Alternate Art)",
+        "set_name": "The Azure Sea's Seven",
+        "card_text": "[Rush]\n[On Your Opponent's Attack] [Once Per Turn] You may trash 2 cards from your hand: Select your Leader and 1 Character. Swap the base power of the selected cards with each other during this battle.",
+        "set_id": "OP14-EB04",
+        "rarity": "SR",
+        "card_set_id": "OP14-009",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "9",
+        "card_power": "10000",
+        "sub_types": "Heart Pirates Supernovas The Seven Warlords of the Sea",
+        "counter_amount": 0,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP14-009_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP14-009_p1_xfgCC7W.jpg"
+    },
+    {
+        "card_name": "Trafalgar Law - OP14-009",
+        "set_name": "The Azure Sea's Seven",
+        "card_text": "[Rush] [On Your Opponent's Attack] [Once Per Turn] You may trash 2 cards from your hand: Select your Leader and 1 Character. Swap the base power of the selected cards with each other during this battle.",
+        "set_id": "OP14-EB04",
+        "rarity": "SR",
+        "card_set_id": "OP14-009",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "9",
+        "card_power": "10000",
+        "sub_types": "Heart Pirates Supernovas The Seven Warlords of the Sea",
+        "counter_amount": 0,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP14-009",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP14-009_PbcDe5b.jpg"
+    }
+]

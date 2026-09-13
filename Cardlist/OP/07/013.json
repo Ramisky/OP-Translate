@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 27 seconds."
-}
+[
+    {
+        "card_name": "Masked Deuce",
+        "set_name": "500 Years in the Future",
+        "card_text": "[On Play] If your Leader is [Portgas.D.Ace], look at 5 cards from the top of your deck; reveal up to 1 [Portgas.D.Ace] or red Event and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+        "set_id": "OP-07",
+        "rarity": "UC",
+        "card_set_id": "OP07-013",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "2000",
+        "sub_types": "Spade Pirates",
+        "counter_amount": 1000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP07-013",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-013.jpg"
+    }
+]

@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 106 seconds."
-}
+[
+    {
+        "card_name": "Kikunojo - OP14-023",
+        "set_name": "The Azure Sea's Seven",
+        "card_text": "[End of Your Turn] Set this Character as active.",
+        "set_id": "OP14-EB04",
+        "rarity": "R",
+        "card_set_id": "OP14-023",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "2000",
+        "sub_types": "Land of Wano The Akazaya Nine",
+        "counter_amount": 2000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP14-023",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP14-023_Y94eMhK.jpg"
+    }
+]

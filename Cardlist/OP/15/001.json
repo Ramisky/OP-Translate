@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 8 seconds."
-}
+[
+    {
+        "card_name": "Krieg (OP15-001)",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "[DON!! x1] [Opponent's Turn] If the only Characters on your field are {East Blue} type Characters, give all of your opponent's Characters -2000 power.\n[Activate: Main] [Once Per Turn] Rest up to 1 of your opponent's Characters that has 2 or more DON!! cards given.",
+        "set_id": "OP15-EB04",
+        "rarity": "L",
+        "card_set_id": "OP15-001",
+        "card_color": "Green Red",
+        "card_type": "Leader",
+        "life": "4",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Krieg Pirates East Blue",
+        "counter_amount": 0,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP15-001",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP15-001_YhftEiD.jpg"
+    },
+    {
+        "card_name": "Krieg (OP15-001) (Alternate Art)",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "[DON!! x1] [Opponent's Turn] If the only Characters on your field are {East Blue} type Characters, give all of your opponent's Characters -2000 power.\n[Activate: Main] [Once Per Turn] Rest up to 1 of your opponent's Characters that has 2 or more DON!! cards given.",
+        "set_id": "OP15-EB04",
+        "rarity": "L",
+        "card_set_id": "OP15-001",
+        "card_color": "Green Red",
+        "card_type": "Leader",
+        "life": "4",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Krieg Pirates East Blue",
+        "counter_amount": 0,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP15-001_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP15-001_p1_v0n0iIW.jpg"
+    }
+]

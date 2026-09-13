@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 60 seconds."
-}
+[
+    {
+        "card_name": "Ratchet",
+        "set_name": "Wings of the Captain",
+        "card_text": "[On Your Opponent's Attack] You may trash any number of [FILM] type cards from your hand. Your Leader or 1 of your Characters gains +1000 power during this battle for every card trashed.",
+        "set_id": "OP-06",
+        "rarity": "C",
+        "card_set_id": "OP06-014",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "0",
+        "sub_types": "FILM Mecha Island",
+        "counter_amount": 1000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-08",
+        "card_image_id": "OP06-014",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP06-014.jpg"
+    }
+]

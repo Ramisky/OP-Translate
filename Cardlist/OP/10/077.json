@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 129 seconds."
-}
+[
+    {
+        "card_name": "Bellamy",
+        "set_name": "Royal Blood",
+        "card_text": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)\n[On Block] You may rest 2 of your DON!! cards: Add up to 1 DON!! card from your DON!! deck and set it as active.",
+        "set_id": "OP-10",
+        "rarity": "C",
+        "card_set_id": "OP10-077",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "Donquixote Pirates",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP10-077",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP10-077.jpg"
+    }
+]

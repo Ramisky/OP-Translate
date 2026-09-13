@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 187 seconds."
-}
+[
+    {
+        "card_name": "Wanda",
+        "set_name": "Paramount War",
+        "card_text": "[On Play] Play up to 1 [Minks] type Character card other than [Wanda] with a cost of 3 or less from your hand.",
+        "set_id": "OP-02",
+        "rarity": "C",
+        "card_set_id": "OP02-044",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "3000",
+        "sub_types": "Minks",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP02-044",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP02-044.jpg"
+    }
+]

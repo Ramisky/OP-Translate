@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 132 seconds."
-}
+[
+    {
+        "card_name": "Vito",
+        "set_name": "A Fist of Divine Speed",
+        "card_text": "[On Play] You may trash 1 \"Firetank Pirates\" type card from your hand: This Character gains [Rush] during this turn.\n(This card can attack on the turn in which it is played.)",
+        "set_id": "OP-11",
+        "rarity": "C",
+        "card_set_id": "OP11-042",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "Firetank Pirates",
+        "counter_amount": 1000,
+        "attribute": "Ranged",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP11-042",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP11-042.jpg"
+    }
+]

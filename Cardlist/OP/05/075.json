@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 41 seconds."
-}
+[
+    {
+        "card_name": "Mr.1 (Daz.Bonez)",
+        "set_name": "Awakening of the New Era",
+        "card_text": "[On Your Opponent's Attack][Once Per Turn] DON!! -1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Play up to 1 [Baroque Works] type Character card with a cost of 3 or less from your hand.",
+        "set_id": "OP-05",
+        "rarity": "C",
+        "card_set_id": "OP05-075",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "1000",
+        "sub_types": "Baroque Works",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP05-075",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP05-075.jpg"
+    }
+]

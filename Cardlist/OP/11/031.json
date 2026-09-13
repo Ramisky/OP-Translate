@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 165 seconds."
-}
+[
+    {
+        "card_name": "Jinbe (031)",
+        "set_name": "A Fist of Divine Speed",
+        "card_text": "[On Play] If your Leader has the \"Fish-Man\" or \"Merfolk\" type, rest up to 1 of your opponent's Characters with a cost of 5 or less.\n[Activate: Main] [Once Per Turn] Up to 1 of your \"Fish-Man\" or \"Merfolk\" type Characters can attack Characters on the turn in which it is played.",
+        "set_id": "OP-11",
+        "rarity": "SR",
+        "card_set_id": "OP11-031",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "8000",
+        "sub_types": "The Sun Pirates Merfolk Fish-Man Island",
+        "counter_amount": 0,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP11-031",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP11-031.jpg"
+    },
+    {
+        "card_name": "Jinbe (031) (Alternate Art)",
+        "set_name": "A Fist of Divine Speed",
+        "card_text": "[On Play] If your Leader has the \"Fish-Man\" or \"Merfolk\" type, rest up to 1 of your opponent's Characters with a cost of 5 or less.\n[Activate: Main] [Once Per Turn] Up to 1 of your \"Fish-Man\" or \"Merfolk\" type Characters can attack Characters on the turn in which it is played.",
+        "set_id": "OP-11",
+        "rarity": "SR",
+        "card_set_id": "OP11-031",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "8000",
+        "sub_types": "The Sun Pirates Merfolk Fish-Man Island",
+        "counter_amount": 0,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP11-031_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP11-031_p1.jpg"
+    }
+]

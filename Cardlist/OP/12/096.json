@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 245 seconds."
-}
+[
+    {
+        "card_name": "Ursa Shock",
+        "set_name": "Legacy of the Master",
+        "card_text": "[Main] K.O. up to 1 of your opponent's Characters with a cost of 4 or less. If you have a Character with a cost of 8 or more, you may select your opponent's Character with a cost of 6 or less instead.\n[Trigger] Draw 1 card and trash 1 card from the top of your deck.",
+        "set_id": "OP-12",
+        "rarity": "C",
+        "card_set_id": "OP12-096",
+        "card_color": "Black",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "4",
+        "card_power": null,
+        "sub_types": "Revolutionary Army The Seven Warlords of the Sea",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP12-096",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP12-096_aSd4d9r.jpg"
+    }
+]

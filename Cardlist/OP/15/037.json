@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 11 seconds."
-}
+[
+    {
+        "card_name": "The Outcome Will Tell Us Who's Strong and Who's Weak",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "[Main] Look at 5 cards from the top of your deck; reveal up to 1 {East Blue} type card other than [The Outcome Will Tell Us Who's Strong and Who's Weak] and add it to your hand. Then, place the rest at the bottom of your deck in any order. [Trigger] Draw 1 card.",
+        "set_id": "OP15-EB04",
+        "rarity": "UC",
+        "card_set_id": "OP15-037",
+        "card_color": "Green",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "Krieg Pirates East Blue",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP15-037",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP15-037.jpg"
+    }
+]

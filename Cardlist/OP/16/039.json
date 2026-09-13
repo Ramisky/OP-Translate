@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 66 seconds."
-}
+[
+    {
+        "card_name": "Gum-Gum Twin Jet Pistol",
+        "set_name": "The Time of Battle",
+        "card_text": "[Main] Up to 1 of your [Monkey.D.Luffy] cards gains [Double Attack] during this turn. Then, if your Leader has the {Impel Down} type, rest up to 2 of your opponent's Characters with a cost or 3 or less.\n\n[Trigger] Rest your opponent's Leader.",
+        "set_id": "OP-16",
+        "rarity": "C",
+        "card_set_id": "OP16-039",
+        "card_color": "Green",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "Straw Hat Crew Impel Down",
+        "counter_amount": 0,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP16-039",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP16-039_WF7t9zU.jpg"
+    }
+]

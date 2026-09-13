@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 93 seconds."
-}
+[
+    {
+        "card_name": "Inazuma",
+        "set_name": "Royal Blood",
+        "card_text": "[DON!! x1] [When Attacking] Rest up to 1 of your opponent's Characters with a cost equal to or less than the total of your and your opponent's Life cards.\n[Trigger] If your Leader has the \"Revolutionary Army\" type and you and your opponent have a total of 5 or less Life cards, play this card.",
+        "set_id": "OP-10",
+        "rarity": "C",
+        "card_set_id": "OP10-100",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Revolutionary Army",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP10-100",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP10-100.jpg"
+    }
+]

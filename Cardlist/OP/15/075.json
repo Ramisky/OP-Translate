@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 29 seconds."
-}
+[
+    {
+        "card_name": "El Thor",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "[Main] DON!! 1: If your Leader is [Enel], up to 1 of your Leader or Character cards gains +1000 power during this turn. Then, K.O. up to 1 of your opponent's Characters with 3000 power or less.\n[Counter] Up to 1 of your [Enel] cards gains +2000 power during this battle.",
+        "set_id": "OP15-EB04",
+        "rarity": "UC",
+        "card_set_id": "OP15-075",
+        "card_color": "Purple",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "0",
+        "card_power": null,
+        "sub_types": "Sky Island",
+        "counter_amount": 0,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP15-075",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP15-075_59TqCZv.jpg"
+    }
+]

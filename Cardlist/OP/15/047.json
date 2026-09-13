@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 16 seconds."
-}
+[
+    {
+        "card_name": "Sanji (OP15-047)",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)\n[On Play] Up to 1 of your Characters gains [Unblockable] during this turn.\n(This card cannot be blocked.)",
+        "set_id": "OP15-EB04",
+        "rarity": "R",
+        "card_set_id": "OP15-047",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "Straw Hat Crew Dressrosa",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP15-047",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP15-047_bjNeD0t.jpg"
+    },
+    {
+        "card_name": "Sanji (OP15-047) (Alternate Art)",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)\n[On Play] Up to 1 of your Characters gains [Unblockable] during this turn.\n(This card cannot be blocked.)",
+        "set_id": "OP15-EB04",
+        "rarity": "R",
+        "card_set_id": "OP15-047",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "Straw Hat Crew Dressrosa",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP15-047_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP15-047_p1_70z00wN.jpg"
+    }
+]

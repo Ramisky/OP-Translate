@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 172 seconds."
-}
+[
+    {
+        "card_name": "Minokoala",
+        "set_name": "Paramount War",
+        "card_text": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On K.O.] If your Leader has the [Impel Down] type, add up to 1 DON!! card from your DON!! deck and rest it.",
+        "set_id": "OP-02",
+        "rarity": "UC",
+        "card_set_id": "OP02-086",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Impel Down Jailer Beast",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP02-086",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP02-086.jpg"
+    },
+    {
+        "card_name": "Minokoala (Box Topper)",
+        "set_name": "Paramount War",
+        "card_text": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On K.O.] If your Leader has the [Impel Down] type, add up to 1 DON!! card from your DON!! deck and rest it.",
+        "set_id": "OP-02",
+        "rarity": "UC",
+        "card_set_id": "OP02-086",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Impel Down Jailer Beast",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP02-086_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP02-086_p1.jpg"
+    }
+]

@@ -1,3 +1,59 @@
-{
-    "detail": "Request was throttled. Expected available in 126 seconds."
-}
+[
+    {
+        "card_name": "Zeus",
+        "set_name": "A Fist of Divine Speed",
+        "card_text": "[On Play] You may add 1 card from the top or bottom of your Life cards to your hand: K.O. up to 1 of your opponent's Characters with a cost of 5 or less.",
+        "set_id": "OP-11",
+        "rarity": "R",
+        "card_set_id": "OP11-106",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "2000",
+        "sub_types": "Big Mom Pirates Homies",
+        "counter_amount": 2000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP11-106",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP11-106.jpg"
+    },
+    {
+        "card_name": "Zeus (Alternate Art)",
+        "set_name": "A Fist of Divine Speed",
+        "card_text": "[On Play] You may add 1 card from the top or bottom of your Life cards to your hand: K.O. up to 1 of your opponent's Characters with a cost of 5 or less.",
+        "set_id": "OP-11",
+        "rarity": "R",
+        "card_set_id": "OP11-106",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "2000",
+        "sub_types": "Big Mom Pirates Homies",
+        "counter_amount": 2000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP11-106_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP11-106_p1.jpg"
+    },
+    {
+        "card_name": "Zeus (SP)",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "[On Play] You may add 1 card from the top or bottom of your Life cards to your hand: K.O. up to 1 of your opponent's Characters with a cost of 5 or less.",
+        "set_id": "OP15-EB04",
+        "rarity": "R",
+        "card_set_id": "OP11-106",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "2000",
+        "sub_types": "Big Mom Pirates Homies",
+        "counter_amount": 2000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP11-106_p2",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP11-106_p2.jpg"
+    }
+]

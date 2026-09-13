@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 137 seconds."
-}
+[
+    {
+        "card_name": "Streusen",
+        "set_name": "A Fist of Divine Speed",
+        "card_text": "[Activate: Main] [Once Per Turn] DON!! 1, You may rest this Character: Choose a cost and reveal 1 card from the top of your opponent's deck. If the revealed card has the chosen cost, rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+        "set_id": "OP-11",
+        "rarity": "C",
+        "card_set_id": "OP11-074",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "3000",
+        "sub_types": "Big Mom Pirates",
+        "counter_amount": 2000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP11-074",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP11-074.jpg"
+    }
+]

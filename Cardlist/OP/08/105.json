@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 246 seconds."
-}
+[
+    {
+        "card_name": "Jewelry Bonney (Parallel)",
+        "set_name": "Two Legends",
+        "card_text": "[DON!! x1] [Your Turn] [Once Per Turn] When a card is removed from your opponent's Life cards, draw 2 cards and trash 1 card from your hand. [Trigger] Draw 2 cards and trash 1 card from your hand.",
+        "set_id": "OP-08",
+        "rarity": "SR",
+        "card_set_id": "OP08-105",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "Bonney Pirates Egghead",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-105_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-105_p1.jpg"
+    },
+    {
+        "card_name": "Jewelry Bonney",
+        "set_name": "Two Legends",
+        "card_text": "[DON!! x1] [Your Turn] [Once Per Turn] When a card is removed from your opponent's Life cards, draw 2 cards and trash 1 card from your hand. [Trigger] Draw 2 cards and trash 1 card from your hand.",
+        "set_id": "OP-08",
+        "rarity": "SR",
+        "card_set_id": "OP08-105",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "Bonney Pirates Egghead",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-105",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-105.jpg"
+    }
+]

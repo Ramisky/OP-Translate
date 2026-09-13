@@ -1,3 +1,59 @@
-{
-    "detail": "Request was throttled. Expected available in 189 seconds."
-}
+[
+    {
+        "card_name": "Gum-Gum Rain",
+        "set_name": "Paramount War",
+        "card_text": "[Counter] You may trash 1 card from your hand: Up to 1 of your Leader or Character cards gains +3000 power during this battle. [Trigger] Return up to 1 Character with a cost of 2 or less to the owner's hand.",
+        "set_id": "OP-02",
+        "rarity": "R",
+        "card_set_id": "OP02-068",
+        "card_color": "Blue",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "0",
+        "card_power": null,
+        "sub_types": "Straw Hat Crew Impel Down",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP02-068",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP02-068.jpg"
+    },
+    {
+        "card_name": "Gum-Gum Rain (Reprint)",
+        "set_name": "Premium Booster -The Best- Vol. 2",
+        "card_text": "[Counter] You may trash 1 card from your hand: Up to 1 of your Leader or Character cards gains +3000 power during this battle.[Trigger] Return up to 1 Character with a cost of 2 or less to the owner's hand.Disclaimer: This card was reprinted from the original set with changes to the copyright information (Note: the original print did not include \"EN\" at the end of the copyright).",
+        "set_id": "PRB-02",
+        "rarity": "R",
+        "card_set_id": "OP02-068",
+        "card_color": "Blue",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "0",
+        "card_power": null,
+        "sub_types": "Straw Hat Crew Impel Down",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP02-068_r1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP02-068_r1.jpg"
+    },
+    {
+        "card_name": "Gum-Gum Rain (Alternate Art)",
+        "set_name": "Premium Booster -The Best- Vol. 2",
+        "card_text": "[Counter] You may trash 1 card from your hand: Up to 1 of your Leader or Character cards gains +3000 power during this battle.[Trigger] Return up to 1 Character with a cost of 2 or less to the owner's hand.",
+        "set_id": "PRB-02",
+        "rarity": "R",
+        "card_set_id": "OP02-068",
+        "card_color": "Blue",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "0",
+        "card_power": null,
+        "sub_types": "Straw Hat Crew Impel Down",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP02-068_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP02-068_p1.jpg"
+    }
+]

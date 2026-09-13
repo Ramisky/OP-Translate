@@ -1,3 +1,59 @@
-{
-    "detail": "Request was throttled. Expected available in 15 seconds."
-}
+[
+    {
+        "card_name": "My Era...Begins!!",
+        "set_name": "Emperors in the New World",
+        "card_text": "[Main] Look at 3 cards from the top of your deck; reveal up to 1 \"Blackbeard Pirates\" type card other than [My Era...Begins!!] and add it to your hand. Then, trash the rest.\n[Trigger] Activate this card's [Main] effect.",
+        "set_id": "OP-09",
+        "rarity": "R",
+        "card_set_id": "OP09-096",
+        "card_color": "Black",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "Blackbeard Pirates",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-096",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-096.jpg"
+    },
+    {
+        "card_name": "My Era...Begins!! (Reprint)",
+        "set_name": "Premium Booster -The Best- Vol. 2",
+        "card_text": "[Main] Look at 3 cards from the top of your deck; reveal up to 1 \"Blackbeard Pirates\" type card other than [My Era...Begins!!] and add it to your hand. Then, trash the rest.[Trigger] Activate this card's [Main] effect.Disclaimer: This card was reprinted from the original set with changes to the copyright information (Note: the original print did not include \"EN\" at the end of the copyright).",
+        "set_id": "PRB-02",
+        "rarity": "R",
+        "card_set_id": "OP09-096",
+        "card_color": "Black",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "Blackbeard Pirates",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-096_r1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-096_r1.jpg"
+    },
+    {
+        "card_name": "My Era...Begins!! (Manga)",
+        "set_name": "Premium Booster -The Best- Vol. 2",
+        "card_text": "[Main] Look at 3 cards from the top of your deck; reveal up to 1 \"Blackbeard Pirates\" type card other than [My Era...Begins!!] and add it to your hand. Then, trash the rest.[Trigger] Activate this card's [Main] effect.",
+        "set_id": "PRB-02",
+        "rarity": "R",
+        "card_set_id": "OP09-096",
+        "card_color": "Black",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "Blackbeard Pirates",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2025-10-14",
+        "card_image_id": "OP09-096_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-096_p1.jpg"
+    }
+]

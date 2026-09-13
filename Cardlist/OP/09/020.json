@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 36 seconds."
-}
+[
+    {
+        "card_name": "Come On!! We'll Fight You!!",
+        "set_name": "Emperors in the New World",
+        "card_text": "[Main] Look at 5 cards from the top of your deck; reveal up to 1 \"Red-Haired Pirates\" type card other than [Come On!! We'll Fight You!!] and add it to your hand. Then, place the rest at the bottom of your deck in any order.\n[Trigger] Draw 1 card.",
+        "set_id": "OP-09",
+        "rarity": "R",
+        "card_set_id": "OP09-020",
+        "card_color": "Red",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "The Four Emperors Red-Haired Pirates",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-020",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-020.jpg"
+    },
+    {
+        "card_name": "Come On!! We'll Fight You!! (Manga)",
+        "set_name": "Premium Booster -The Best- Vol. 2",
+        "card_text": "[Main] Look at 5 cards from the top of your deck; reveal up to 1 \"Red-Haired Pirates\" type card other than [Come On!! We'll Fight You!!] and add it to your hand. Then, place the rest at the bottom of your deck in any order.[Trigger] Draw 1 card.",
+        "set_id": "PRB-02",
+        "rarity": "R",
+        "card_set_id": "OP09-020",
+        "card_color": "Red",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "The Four Emperors Red-Haired Pirates",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2025-10-14",
+        "card_image_id": "OP09-020_r2",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-020_r2.jpg"
+    }
+]

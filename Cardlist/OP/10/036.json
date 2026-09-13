@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 129 seconds."
-}
+[
+    {
+        "card_name": "Perona (036)",
+        "set_name": "Royal Blood",
+        "card_text": "[Your Turn] [Once Per Turn] If a Character is rested by your effect, set up to 1 of your DON!! cards as active.",
+        "set_id": "OP-10",
+        "rarity": "C",
+        "card_set_id": "OP10-036",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Thriller Bark Pirates ODYSSEY Muggy Kingdom",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP10-036",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP10-036.jpg"
+    }
+]

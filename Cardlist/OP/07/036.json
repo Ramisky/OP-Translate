@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 55 seconds."
-}
+[
+    {
+        "card_name": "Demonic Aura Nine-Sword Style Asura Demon Nine Flash",
+        "set_name": "500 Years in the Future",
+        "card_text": "[Main] Up to 1 of your Leader or Character cards gains +3000 power during this turn. Then, you may rest 1 of your Characters with a cost of 3 or more. If you do, rest up to 1 of your opponent's Characters with a cost of 5 or less. [Trigger] Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+        "set_id": "OP-07",
+        "rarity": "R",
+        "card_set_id": "OP07-036",
+        "card_color": "Green",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "2",
+        "card_power": null,
+        "sub_types": "Straw Hat Crew Supernovas",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP07-036",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-036.jpg"
+    }
+]

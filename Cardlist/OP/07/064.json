@@ -1,3 +1,59 @@
-{
-    "detail": "Request was throttled. Expected available in 23 seconds."
-}
+[
+    {
+        "card_name": "Sanji",
+        "set_name": "500 Years in the Future",
+        "card_text": "If the number of DON!! cards on your field is at least 2 less than the number on your opponent's field, give this card in your hand -3 cost. [Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+        "set_id": "OP-07",
+        "rarity": "SR",
+        "card_set_id": "OP07-064",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "6000",
+        "sub_types": "Straw Hat Crew",
+        "counter_amount": 2000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP07-064",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-064.jpg"
+    },
+    {
+        "card_name": "Sanji (Parallel)",
+        "set_name": "500 Years in the Future",
+        "card_text": "If the number of DON!! cards on your field is at least 2 less than the number on your opponent's field, give this card in your hand -3 cost. [Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+        "set_id": "OP-07",
+        "rarity": "SR",
+        "card_set_id": "OP07-064",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "6000",
+        "sub_types": "Straw Hat Crew",
+        "counter_amount": 2000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP07-064_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-064_p1.jpg"
+    },
+    {
+        "card_name": "Sanji (Reprint)",
+        "set_name": "Premium Booster -The Best- Vol. 2",
+        "card_text": "If the number of DON!! cards on your field is at least 2 less than the number on your opponent's field, give this card in your hand -3 cost.[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)Disclaimer: This card was reprinted from the original set with changes to the copyright information (Note: the original print did not include \"EN\" at the end of the copyright).",
+        "set_id": "PRB-02",
+        "rarity": "SR",
+        "card_set_id": "OP07-064",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "6000",
+        "sub_types": "Straw Hat Crew",
+        "counter_amount": 0,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP07-064_r1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-064_r1.jpg"
+    }
+]

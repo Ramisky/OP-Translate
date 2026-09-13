@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 185 seconds."
-}
+[
+    {
+        "card_name": "Meteor Fist",
+        "set_name": "Carrying On His Will",
+        "card_text": "[Main] Give up to 1 of your opponent's Characters 5000 power during this turn.\n[Trigger] Activate this card's [Main] effect.",
+        "set_id": "OP-13",
+        "rarity": "UC",
+        "card_set_id": "OP13-020",
+        "card_color": "Red",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "3",
+        "card_power": null,
+        "sub_types": "Navy",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP13-020",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP13-020_3lFUhF1.jpg"
+    }
+]

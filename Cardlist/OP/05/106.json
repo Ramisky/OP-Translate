@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 244 seconds."
-}
+[
+    {
+        "card_name": "Shura",
+        "set_name": "Awakening of the New Era",
+        "card_text": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 [Sky Island] type card other than [Shura] and add it to your hand. Then, place the rest at the bottom of your deck in any order. [Trigger] Play this card.",
+        "set_id": "OP-05",
+        "rarity": "R",
+        "card_set_id": "OP05-106",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "2000",
+        "sub_types": "Sky Island Vassals",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP05-106",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP05-106.jpg"
+    }
+]

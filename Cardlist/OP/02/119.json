@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 211 seconds."
-}
+[
+    {
+        "card_name": "Meteor Volcano",
+        "set_name": "Paramount War",
+        "card_text": "[Main] K.O. up to 1 of your opponent's Characters with a cost of 1 or less. [Trigger] Draw 2 cards and trash 1 card from your hand.",
+        "set_id": "OP-02",
+        "rarity": "R",
+        "card_set_id": "OP02-119",
+        "card_color": "Black",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "2",
+        "card_power": null,
+        "sub_types": "Navy",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP02-119",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP02-119.jpg"
+    }
+]

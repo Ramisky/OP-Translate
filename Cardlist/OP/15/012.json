@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 11 seconds."
-}
+[
+    {
+        "card_name": "Buggy",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "[When Attacking] Give up to 1 rested DON!! card to its owner's Leader or 1 of their Characters.\n[On K.O.] Draw 1 card.",
+        "set_id": "OP15-EB04",
+        "rarity": "C",
+        "card_set_id": "OP15-012",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "Buggy Pirates East Blue",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP15-012",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP15-012_NMvHtDd.jpg"
+    }
+]

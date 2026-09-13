@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 140 seconds."
-}
+[
+    {
+        "card_name": "Roronoa Zoro (020)",
+        "set_name": "Legacy of the Master",
+        "card_text": "[DON!! x3] [Activate: Main] [Once Per Turn] If this Leader battles your opponent's Character during this turn, set this Leader as active. Then, this Leader cannot attack your opponent's Characters with a base cost of 7 or less during this turn.",
+        "set_id": "OP-12",
+        "rarity": "L",
+        "card_set_id": "OP12-020",
+        "card_color": "Green",
+        "card_type": "Leader",
+        "life": "5",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Straw Hat Crew Supernovas",
+        "counter_amount": null,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP12-020",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP12-020_9afESv6.jpg"
+    },
+    {
+        "card_name": "Roronoa Zoro (020) (Alternate Art)",
+        "set_name": "Legacy of the Master",
+        "card_text": "[DON!! x3] [Activate: Main] [Once Per Turn] If this Leader battles your opponent's Character during this turn, set this Leader as active. Then, this Leader cannot attack your opponent's Characters with a base cost of 7 or less during this turn.",
+        "set_id": "OP-12",
+        "rarity": "L",
+        "card_set_id": "OP12-020",
+        "card_color": "Green",
+        "card_type": "Leader",
+        "life": "5",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Straw Hat Crew Supernovas",
+        "counter_amount": null,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP12-020_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP12-020_p1_jkzz1zC.jpg"
+    }
+]

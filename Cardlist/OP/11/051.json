@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 153 seconds."
-}
+[
+    {
+        "card_name": "Sanji",
+        "set_name": "A Fist of Divine Speed",
+        "card_text": "When this Character is K.O.'d by your opponent's effect, look at 5 cards from the top of your deck and play up to 1 \"Straw Hat Crew\" type Character card with a cost of 5 or less. Then, place the rest at the bottom of your deck in any order.\n[On Play] Return up to 1 Character with 5000 base power or less to the owner's hand.",
+        "set_id": "OP-11",
+        "rarity": "SR",
+        "card_set_id": "OP11-051",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "7000",
+        "sub_types": "Straw Hat Crew The Vinsmoke Family",
+        "counter_amount": 0,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP11-051",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP11-051.jpg"
+    },
+    {
+        "card_name": "Sanji (Alternate Art)",
+        "set_name": "A Fist of Divine Speed",
+        "card_text": "When this Character is K.O.'d by your opponent's effect, look at 5 cards from the top of your deck and play up to 1 \"Straw Hat Crew\" type Character card with a cost of 5 or less. Then, place the rest at the bottom of your deck in any order.\n[On Play] Return up to 1 Character with 5000 base power or less to the owner's hand.",
+        "set_id": "OP-11",
+        "rarity": "SR",
+        "card_set_id": "OP11-051",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "7000",
+        "sub_types": "Straw Hat Crew The Vinsmoke Family",
+        "counter_amount": 0,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP11-051_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP11-051_p1.jpg"
+    }
+]

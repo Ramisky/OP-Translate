@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 148 seconds."
-}
+[
+    {
+        "card_name": "Koby (001) (Alternate Art)",
+        "set_name": "A Fist of Divine Speed",
+        "card_text": "Your \"SWORD\" type Characters can attack Characters on the turn in which they are played.\n[Once Per Turn] If your \"Navy\" type Character with 7000 base power or less would be removed from the field by your opponent's effect, you may place 3 cards from your trash at the bottom of your deck in any order instead.",
+        "set_id": "OP-11",
+        "rarity": "L",
+        "card_set_id": "OP11-001",
+        "card_color": "Red Black",
+        "card_type": "Leader",
+        "life": "4",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Navy SWORD",
+        "counter_amount": null,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP11-001_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP11-001_p1.jpg"
+    },
+    {
+        "card_name": "Koby (001)",
+        "set_name": "A Fist of Divine Speed",
+        "card_text": "Your \"SWORD\" type Characters can attack Characters on the turn in which they are played.\n[Once Per Turn] If your \"Navy\" type Character with 7000 base power or less would be removed from the field by your opponent's effect, you may place 3 cards from your trash at the bottom of your deck in any order instead.",
+        "set_id": "OP-11",
+        "rarity": "L",
+        "card_set_id": "OP11-001",
+        "card_color": "Red Black",
+        "card_type": "Leader",
+        "life": "4",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Navy SWORD",
+        "counter_amount": null,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP11-001",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP11-001.jpg"
+    }
+]

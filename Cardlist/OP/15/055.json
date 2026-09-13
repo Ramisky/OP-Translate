@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 38 seconds."
-}
+[
+    {
+        "card_name": "Go Ahead and Use 'Em, Mr. Luffy!!!",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "[Main] Choose one:\n\u2022 Draw 2 cards.\n\u2022 Up to 1 of your {Dressrosa} type Characters gains [Blocker] until the end of your opponent's next End Phase.",
+        "set_id": "OP15-EB04",
+        "rarity": "R",
+        "card_set_id": "OP15-055",
+        "card_color": "Blue",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "3",
+        "card_power": null,
+        "sub_types": "Dressrosa Barto Club",
+        "counter_amount": 0,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP15-055",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP15-055_iMV74yV.jpg"
+    }
+]

@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 102 seconds."
-}
+[
+    {
+        "card_name": "Nami (033)",
+        "set_name": "Royal Blood",
+        "card_text": "[On Play] If you have 2 or more rested \"ODYSSEY\" type Characters, up to 1 of your opponent's rested DON!! cards will not become active in your opponent's next Refresh Phase.",
+        "set_id": "OP-10",
+        "rarity": "UC",
+        "card_set_id": "OP10-033",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "2000",
+        "sub_types": "Straw Hat Crew ODYSSEY",
+        "counter_amount": 2000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP10-033",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP10-033.jpg"
+    }
+]

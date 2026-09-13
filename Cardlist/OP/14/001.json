@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 118 seconds."
-}
+[
+    {
+        "card_name": "Trafalgar Law - OP14-001",
+        "set_name": "The Azure Sea's Seven",
+        "card_text": "[Activate:Main] [Once Per Turn] Select 2 of your {Supernovas} or {Heart Pirates} type Characters. Swap the base power of the selected Characters with each other during this turn.",
+        "set_id": "OP14-EB04",
+        "rarity": "L",
+        "card_set_id": "OP14-001",
+        "card_color": "Red",
+        "card_type": "Leader",
+        "life": "5",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Heart Pirates Supernovas The Seven Warlords of the Sea",
+        "counter_amount": null,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP14-001",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP14-001_rxvzQZQ.jpg"
+    },
+    {
+        "card_name": "Trafalgar Law - OP14-001 (Alternate Art)",
+        "set_name": "The Azure Sea's Seven",
+        "card_text": "[Activate:Main] [Once Per Turn] Select 2 of your {Supernovas} or {Heart Pirates} type Characters. Swap the base power of the selected Characters with each other during this turn.",
+        "set_id": "OP14-EB04",
+        "rarity": "L",
+        "card_set_id": "OP14-001",
+        "card_color": "Red",
+        "card_type": "Leader",
+        "life": "5",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Heart Pirates Supernovas The Seven Warlords of the Sea",
+        "counter_amount": null,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP14-001_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP14-001_p1_TH0mi0Y.jpg"
+    }
+]

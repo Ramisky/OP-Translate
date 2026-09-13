@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 97 seconds."
-}
+[
+    {
+        "card_name": "Marshall.D.Teach (119)",
+        "set_name": "The Time of Battle",
+        "card_text": "[On Play] Look at 3 cards from the top of your deck; add up to 1 card to the top of your Life cards. Then, place the rest at the bottom of your deck in any order.\n[Trigger] Negate the effect of up to 1 of your opponent's Characters during this turn. Then, K.O. up to 1 of your opponent's Characters with a cost of 5 or less.",
+        "set_id": "OP-16",
+        "rarity": "SEC",
+        "card_set_id": "OP16-119",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "8",
+        "card_power": "10000",
+        "sub_types": "Blackbeard Pirates The Seven Warlords of the Sea",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP16-119",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP16-119_48YgI3E.jpg"
+    },
+    {
+        "card_name": "Marshall.D.Teach (119) (Alternate Art)",
+        "set_name": "The Time of Battle",
+        "card_text": "[On Play] Look at 3 cards from the top of your deck; add up to 1 card to the top of your Life cards. Then, place the rest at the bottom of your deck in any order.\n[Trigger] Negate the effect of up to 1 of your opponent's Characters during this turn. Then, K.O. up to 1 of your opponent's Characters with a cost of 5 or less.",
+        "set_id": "OP-16",
+        "rarity": "SEC",
+        "card_set_id": "OP16-119",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "8",
+        "card_power": "10000",
+        "sub_types": "Blackbeard Pirates The Seven Warlords of the Sea",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP16-119_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP16-119_p1_pI48EHO.jpg"
+    }
+]

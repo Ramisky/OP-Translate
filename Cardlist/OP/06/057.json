@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 76 seconds."
-}
+[
+    {
+        "card_name": "But I Will Never Doubt a Woman's Tears!!!!",
+        "set_name": "Wings of the Captain",
+        "card_text": "[Main] Up to 1 of your Leader or Character cards gains +1000 power during this turn. Then, reveal 1 card from the top of your deck, play up to 1 Character card with a cost of 2, and place the rest at the top or bottom of your deck.\n[Trigger] Play up to 1 Character card with a cost of 2 from your hand.",
+        "set_id": "OP-06",
+        "rarity": "C",
+        "card_set_id": "OP06-057",
+        "card_color": "Blue",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "Straw Hat Crew Dressrosa",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP06-057",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP06-057.jpg"
+    }
+]

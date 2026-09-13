@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 186 seconds."
-}
+[
+    {
+        "card_name": "Byrnndi World",
+        "set_name": "Paramount War",
+        "card_text": "[Activate:Main] DON!! -8 (You may return the specified number of DON!! cards from your field to your DON!! deck.): This Character gains +792000 power during this turn.",
+        "set_id": "OP-02",
+        "rarity": "UC",
+        "card_set_id": "OP02-082",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "8",
+        "card_power": "8000",
+        "sub_types": "World Pirates",
+        "counter_amount": 0,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP02-082",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP02-082.jpg"
+    }
+]

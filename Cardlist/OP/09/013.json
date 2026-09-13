@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 7 seconds."
-}
+[
+    {
+        "card_name": "Yasopp",
+        "set_name": "Emperors in the New World",
+        "card_text": "[On Play] Up to 1 of your Leader gains +1000 power until the end of your opponent's next turn.\n[DON!! x1] [When Attacking] Give up to 1 of your opponent's Characters 1000 power during this turn.",
+        "set_id": "OP-09",
+        "rarity": "R",
+        "card_set_id": "OP09-013",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Red-Haired Pirates",
+        "counter_amount": 1000,
+        "attribute": "Ranged",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-013",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-013.jpg"
+    },
+    {
+        "card_name": "Yasopp (SP)",
+        "set_name": "Legacy of the Master",
+        "card_text": "[On Play] Up to 1 of your Leader gains +1000 power until the end of your opponent's next turn.\n[DON!! x1] [When Attacking] Give up to 1 of your opponent's Characters 1000 power during this turn.",
+        "set_id": "OP-12",
+        "rarity": "R",
+        "card_set_id": "OP09-013",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Red-Haired Pirates",
+        "counter_amount": 1000,
+        "attribute": "Ranged",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-013_p2",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-013_p2_jLoDhNS.jpg"
+    }
+]

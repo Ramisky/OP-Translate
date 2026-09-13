@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 12 seconds."
-}
+[
+    {
+        "card_name": "Edison",
+        "set_name": "500 Years in the Future",
+        "card_text": "[On Play] If you have 2 or less Life cards, draw 2 cards and trash 2 card from your hand. [Trigger] If your Leader is [Vegapunk], play this card.",
+        "set_id": "OP-07",
+        "rarity": "C",
+        "card_set_id": "OP07-100",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Scientist Egghead",
+        "counter_amount": 2000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP07-100",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-100.jpg"
+    }
+]

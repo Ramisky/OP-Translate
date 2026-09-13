@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 142 seconds."
-}
+[
+    {
+        "card_name": "Edward.Newgate",
+        "set_name": "Two Legends",
+        "card_text": "[On Play] If your Leader's type includes \"Whitebeard Piratess\" and you have 2 or less Life cards, select all of your opponent's Characters on their field. Until the end of your opponent's next turn, none of the selected Characters can attack unless your opponent trashes 2 cards from their hand whenever they attack.",
+        "set_id": "OP-08",
+        "rarity": "SR",
+        "card_set_id": "OP08-043",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "10",
+        "card_power": "12000",
+        "sub_types": "The Four Emperors Whitebeard Pirates",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-043",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-043.jpg"
+    },
+    {
+        "card_name": "Edward.Newgate (Parallel)",
+        "set_name": "Two Legends",
+        "card_text": "[On Play] If your Leader's type includes \"Whitebeard Piratess\" and you have 2 or less Life cards, select all of your opponent's Characters on their field. Until the end of your opponent's next turn, none of the selected Characters can attack unless your opponent trashes 2 cards from their hand whenever they attack.",
+        "set_id": "OP-08",
+        "rarity": "SR",
+        "card_set_id": "OP08-043",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "10",
+        "card_power": "12000",
+        "sub_types": "The Four Emperors Whitebeard Pirates",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-043_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-043_p1.jpg"
+    }
+]

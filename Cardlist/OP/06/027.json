@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 102 seconds."
-}
+[
+    {
+        "card_name": "Gyro",
+        "set_name": "Wings of the Captain",
+        "card_text": "[On K.O.] Rest up to 1 of your opponent's Characters with a cost of 3 or less.",
+        "set_id": "OP-06",
+        "rarity": "C",
+        "card_set_id": "OP06-027",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "2000",
+        "sub_types": "Gyro Pirates",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-10",
+        "card_image_id": "OP06-027",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP06-027.jpg"
+    }
+]

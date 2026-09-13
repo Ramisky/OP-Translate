@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 256 seconds."
-}
+[
+    {
+        "card_name": "Luffy Is the Man Who Will Become the King of Pirates!!!",
+        "set_name": "Legacy of the Master",
+        "card_text": "[Main] Set your [Roronoa Zoro] Leader as active.\n[Trigger] Up to 1 of your Leader or Character cards gains +1000 power during this turn.",
+        "set_id": "OP-12",
+        "rarity": "R",
+        "card_set_id": "OP12-039",
+        "card_color": "Green",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "3",
+        "card_power": null,
+        "sub_types": "Straw Hat Crew",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP12-039",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP12-039_yJsfGbX.jpg"
+    }
+]

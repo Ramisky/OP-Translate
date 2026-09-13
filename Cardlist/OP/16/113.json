@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 84 seconds."
-}
+[
+    {
+        "card_name": "Boa Marigold",
+        "set_name": "The Time of Battle",
+        "card_text": "If you have 2 or less Life cards, this Character gains [Blocker].\n[Trigger] If your Leader has the {Kuja Pirates} type, play this card.",
+        "set_id": "OP-16",
+        "rarity": "UC",
+        "card_set_id": "OP16-113",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "5000",
+        "sub_types": "Kuja Pirates",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP16-113",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP16-113_8vbsbG3.jpg"
+    }
+]

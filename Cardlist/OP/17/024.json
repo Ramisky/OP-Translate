@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 164 seconds."
-}
+[
+    {
+        "card_name": "Howling Gab",
+        "set_name": "The World's Strongest Warriors",
+        "card_text": "[Banish] (When this card deals damage, the target card is trashed without activating its Trigger.) [On Play] Rest up to 1 of your opponent's Characters.",
+        "set_id": "OP-17",
+        "rarity": "C",
+        "card_set_id": "OP17-024",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "8",
+        "card_power": "8000",
+        "sub_types": "Red-Haired Pirates",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP17-024",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP17-024.jpg"
+    }
+]

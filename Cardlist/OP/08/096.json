@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 221 seconds."
-}
+[
+    {
+        "card_name": "People's Dreams Don't Ever End!!",
+        "set_name": "Two Legends",
+        "card_text": "[Counter] Trash 1 card from the top of your deck. If the trashed card has a cost of 6 or more, up to 1 of your Leader or Character cards gains +5000 power during this battle. [Trigger] Play up to 1 black Character card with a cost of 3 or less from your trash.",
+        "set_id": "OP-08",
+        "rarity": "C",
+        "card_set_id": "OP08-096",
+        "card_color": "Black",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "Blackbeard Pirates",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-096",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-096.jpg"
+    }
+]

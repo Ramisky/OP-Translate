@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 90 seconds."
-}
+[
+    {
+        "card_name": "Donquixote Doflamingo (047)",
+        "set_name": "The Time of Battle",
+        "card_text": "[Activate:Main] You may rest this Character: If your opponent has 8 or more cards in their hand, they place 2 cards from their hand at the bottom of their deck in any order.",
+        "set_id": "OP-16",
+        "rarity": "C",
+        "card_set_id": "OP16-047",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "0",
+        "sub_types": "Donquixote Pirates Impel Down",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP16-047",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP16-047_DRprBdq.jpg"
+    }
+]

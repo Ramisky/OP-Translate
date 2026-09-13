@@ -1,3 +1,59 @@
-{
-    "detail": "Request was throttled. Expected available in 87 seconds."
-}
+[
+    {
+        "card_name": "Perona (021)",
+        "set_name": "Wings of the Captain",
+        "card_text": "[Activate:Main] [Once Per Turn] Choose one:\n\u2022 Rest up to 1 of your opponent's Characters with a cost of 4 or less.\n\u2022 Give up to 1 of your opponent's Characters -1 cost tot your opponent's during this turn.",
+        "set_id": "OP-06",
+        "rarity": "L",
+        "card_set_id": "OP06-021",
+        "card_color": "Green Black",
+        "card_type": "Leader",
+        "life": "4",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Thriller Bark Pirates",
+        "counter_amount": null,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP06-021",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP06-021.jpg"
+    },
+    {
+        "card_name": "Perona (021) (Alternate Art)",
+        "set_name": "Wings of the Captain",
+        "card_text": "[Activate:Main] [Once Per Turn] Choose one:\n\u2022 Rest up to 1 of your opponent's Characters with a cost of 4 or less.\n\u2022 Give up to 1 of your opponent's Characters -1 cost tot your opponent's during this turn.",
+        "set_id": "OP-06",
+        "rarity": "L",
+        "card_set_id": "OP06-021",
+        "card_color": "Green Black",
+        "card_type": "Leader",
+        "life": "4",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Thriller Bark Pirates",
+        "counter_amount": null,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP06-021_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP06-021_p1.jpg"
+    },
+    {
+        "card_name": "Perona (SPR)",
+        "set_name": "Extra Booster: Anime 25th Collection",
+        "card_text": "[Activate: Main] [Once Per Turn] Choose one:\u2022 Rest up to 1 of your opponent's Characters with a cost of 4 or less.\u2022 Give up to 1 of your opponent's Characters 1 cost during this turn.",
+        "set_id": "EB-02",
+        "rarity": "L",
+        "card_set_id": "OP06-021",
+        "card_color": "Green Black",
+        "card_type": "Leader",
+        "life": "4",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Thriller Bark Pirates",
+        "counter_amount": null,
+        "attribute": "Special",
+        "date_scraped": "2025-06-29",
+        "card_image_id": "OP06-021_p2",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP06-021_p2.jpg"
+    }
+]

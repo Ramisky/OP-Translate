@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 186 seconds."
-}
+[
+    {
+        "card_name": "Crocodile (067)",
+        "set_name": "Romance Dawn",
+        "card_text": "[Banish] (When this card deals damage, the target card is trashed without activating its Trigger.) [DON!! x1] Give blue Events in your hand -1 cost.",
+        "set_id": "OP-01",
+        "rarity": "SR",
+        "card_set_id": "OP01-067",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "7",
+        "card_power": "7000",
+        "sub_types": "Baroque Works The Seven Warlords of the Sea",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP01-067",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP01-067.jpg"
+    },
+    {
+        "card_name": "Crocodile (067) (Parallel)",
+        "set_name": "Romance Dawn",
+        "card_text": "[Banish] (When this card deals damage, the target card is trashed without activating its Trigger.) [DON!! x1] Give blue Events in your hand -1 cost.",
+        "set_id": "OP-01",
+        "rarity": "SR",
+        "card_set_id": "OP01-067",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "7",
+        "card_power": "7000",
+        "sub_types": "Baroque Works The Seven Warlords of the Sea",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP01-067_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP01-067_p1.jpg"
+    }
+]

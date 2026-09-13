@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 1 second."
-}
+[
+    {
+        "card_name": "There's No Authority in the World That Lasts Forever!!!",
+        "set_name": "The World's Strongest Warriors",
+        "card_text": "[Main] You may rest 1 of your DON!! cards: Up to 1 of your [Rocks.D.Xebec] gains [Unblockable] during this turn.\n\n[Counter] Up to 1 of your Leader with a type including \"Rocks Pirates\" or up to 1 of your Character with a type including \"Rocks Pirates\" gains +2000 power during this battle.",
+        "set_id": "OP-17",
+        "rarity": "R",
+        "card_set_id": "OP17-055",
+        "card_color": "Blue",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "0",
+        "card_power": null,
+        "sub_types": "Rocks Pirates",
+        "counter_amount": 0,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP17-055",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP17-055_gAXVxvh.jpg"
+    }
+]

@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 168 seconds."
-}
+[
+    {
+        "card_name": "Charlotte Linlin (049)",
+        "set_name": "The World's Strongest Warriors",
+        "card_text": "[On Play] Your opponent chooses one:\n\u2022 Draw 2 cards.\n\u2022 Your opponent trashes 2 cards from their hand.\n[On Your Opponent's Attack] [Once Per Turn] You may trash 1 card from your hand: Up to 1 of your Leader or Characters gains +1000 power during this battle.",
+        "set_id": "OP-17",
+        "rarity": "R",
+        "card_set_id": "OP17-049",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "7000",
+        "sub_types": "Rocks Pirates",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP17-049",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP17-049_r2FuHxT.jpg"
+    },
+    {
+        "card_name": "Charlotte Linlin (049) (Alternate Art)",
+        "set_name": "The World's Strongest Warriors",
+        "card_text": "[On Play] Your opponent chooses one:\n\u2022 Draw 2 cards.\n\u2022 Your opponent trashes 2 cards from their hand.\n[On Your Opponent's Attack] [Once Per Turn] You may trash 1 card from your hand: Up to 1 of your Leader or Characters gains +1000 power during this battle.",
+        "set_id": "OP-17",
+        "rarity": "R",
+        "card_set_id": "OP17-049",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "7000",
+        "sub_types": "Rocks Pirates",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP17-049_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP17-049_p1_aPY9o8c.jpg"
+    }
+]

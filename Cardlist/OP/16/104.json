@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 76 seconds."
-}
+[
+    {
+        "card_name": "Catarina Devon",
+        "set_name": "The Time of Battle",
+        "card_text": "[When Attacking] Select up to 1 of your opponent's Characters. This Character's base power becomes the same as the selected Character's power during this turn.\n[Trigger] Draw 1 card and play up to 1 {Blackbeard Pirates} type Character with a cost of 1 from your trash.",
+        "set_id": "OP-16",
+        "rarity": "R",
+        "card_set_id": "OP16-104",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "3000",
+        "sub_types": "Blackbeard Pirates Impel Down",
+        "counter_amount": 2000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP16-104",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP16-104_c2RAjOp.jpg"
+    }
+]

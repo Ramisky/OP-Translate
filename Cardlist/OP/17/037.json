@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 12 seconds."
-}
+[
+    {
+        "card_name": "Are You That Afraid of the New Era?!",
+        "set_name": "The World's Strongest Warriors",
+        "card_text": "[Main] Look at 5 cards from the top of your deck; reveal up to 1 card with a type including \"Red-Haired Pirates\" and add it to your hand. Then, place the rest at the bottom of your deck in any order.\n[Counter] You may rest 1 of your cards: Up to 1 of your Leader or Characters gains +3000 power during this battle.",
+        "set_id": "OP-17",
+        "rarity": "R",
+        "card_set_id": "OP17-037",
+        "card_color": "Green",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "The Four Emperors Red-Haired Pirates",
+        "counter_amount": 0,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP17-037",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP17-037_9tYgBFD.jpg"
+    },
+    {
+        "card_name": "Are You That Afraid of the New Era?! (Alternate Art)",
+        "set_name": "The World's Strongest Warriors",
+        "card_text": "[Main] Look at 5 cards from the top of your deck; reveal up to 1 card with a type including \"Red-Haired Pirates\" and add it to your hand. Then, place the rest at the bottom of your deck in any order.\n[Counter] You may rest 1 of your cards: Up to 1 of your Leader or Characters gains +3000 power during this battle.",
+        "set_id": "OP-17",
+        "rarity": "R",
+        "card_set_id": "OP17-037",
+        "card_color": "Green",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "The Four Emperors Red-Haired Pirates",
+        "counter_amount": 0,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP17-037_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP17-037_p1_VxNp1el.jpg"
+    }
+]

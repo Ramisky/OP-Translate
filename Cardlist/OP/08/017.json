@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 248 seconds."
-}
+[
+    {
+        "card_name": "I'd Never Shoot You!!!!",
+        "set_name": "Two Legends",
+        "card_text": "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, give up to 1 of your opponent's Leader or Character cards 1000 power during this turn. [Trigger] Up to 1 of your Leader or Character cards gains +1000 power during this turn.",
+        "set_id": "OP-08",
+        "rarity": "C",
+        "card_set_id": "OP08-017",
+        "card_color": "Red",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "2",
+        "card_power": null,
+        "sub_types": "Drum Kingdom",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-017",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-017.jpg"
+    }
+]

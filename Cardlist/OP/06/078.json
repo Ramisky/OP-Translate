@@ -1,3 +1,59 @@
-{
-    "detail": "Request was throttled. Expected available in 68 seconds."
-}
+[
+    {
+        "card_name": "GERMA 66",
+        "set_name": "Wings of the Captain",
+        "card_text": "[Main] Look at 5 cards from the top of your deck; reveal up to 1 card with a type including \"GERMA\" other than [GERMA 66] and add it to your hand. Then, place the rest at the bottom of your deck in any order.\n[Trigger] Draw 1 card.",
+        "set_id": "OP-06",
+        "rarity": "UC",
+        "card_set_id": "OP06-078",
+        "card_color": "Purple",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "The Vinsmoke Family GERMA 66",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP06-078",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP06-078.jpg"
+    },
+    {
+        "card_name": "GERMA 66 (Pirate Foil)",
+        "set_name": "Premium Booster -The Best- Vol. 2",
+        "card_text": "[Main] Look at 5 cards from the top of your deck; reveal up to 1 card with a type including \"GERMA\" other than [GERMA 66] and add it to your hand. Then, place the rest at the bottom of your deck in any order.[Trigger] Draw 1 card.",
+        "set_id": "PRB-02",
+        "rarity": "UC",
+        "card_set_id": "OP06-078",
+        "card_color": "Purple",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "The Vinsmoke Family GERMA 66",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP06-078_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP06-078_p1.jpg"
+    },
+    {
+        "card_name": "GERMA 66 (Reprint)",
+        "set_name": "Premium Booster -The Best- Vol. 2",
+        "card_text": "[Main] Look at 5 cards from the top of your deck; reveal up to 1 card with a type including \"GERMA\" other than [GERMA 66] and add it to your hand. Then, place the rest at the bottom of your deck in any order.[Trigger] Draw 1 card.Disclaimer: This card was reprinted from the original set with changes to the copyright information (Note: the original print did not include \"EN\" at the end of the copyright).",
+        "set_id": "PRB-02",
+        "rarity": "UC",
+        "card_set_id": "OP06-078",
+        "card_color": "Purple",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "The Vinsmoke Family GERMA 66",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP06-078_r1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP06-078_r1.jpg"
+    }
+]

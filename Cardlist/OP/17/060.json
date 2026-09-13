@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 11 seconds."
-}
+[
+    {
+        "card_name": "Ulti & Page One",
+        "set_name": "The World's Strongest Warriors",
+        "card_text": "[On Play] If your Leader has the {Animal Kingdom Pirates} type, add up to 1 DON!! card as active from your DON!! deck. Then, K.O. up to 1 of your opponent's Characters with 3000 power or less.",
+        "set_id": "OP-17",
+        "rarity": "R",
+        "card_set_id": "OP17-060",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "6000",
+        "sub_types": "Animal Kingdom Pirates",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP17-060",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP17-060_IaCz1jQ.jpg"
+    }
+]

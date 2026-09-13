@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 117 seconds."
-}
+[
+    {
+        "card_name": "Ms. All Sunday",
+        "set_name": "Legacy of the Master",
+        "card_text": "[On Play] K.O. up to 1 of your opponent's Characters with a cost of 3 or less. Then, your opponent may add 1 DON!! card from their DON!! deck and set it as active.\n[Trigger] DON!! 1: Play this card.",
+        "set_id": "OP-12",
+        "rarity": "C",
+        "card_set_id": "OP12-075",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Baroque Works",
+        "counter_amount": 1000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP12-075",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP12-075_de0O1c3.jpg"
+    }
+]

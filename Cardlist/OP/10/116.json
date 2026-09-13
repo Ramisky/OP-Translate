@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 94 seconds."
-}
+[
+    {
+        "card_name": "Damned Punk",
+        "set_name": "Royal Blood",
+        "card_text": "[Main] Look at up to 1 card from the top of your or your opponent's Life cards and place it at the top or bottom of the Life cards. Then, K.O. up to 1 of your opponent's Characters with a cost of 5 or less.\n[Trigger] Draw 2 cards and trash 1 card from your hand.",
+        "set_id": "OP-10",
+        "rarity": "R",
+        "card_set_id": "OP10-116",
+        "card_color": "Yellow",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "4",
+        "card_power": null,
+        "sub_types": "Kid Pirates Supernovas",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP10-116",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP10-116.jpg"
+    }
+]

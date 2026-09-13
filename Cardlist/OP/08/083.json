@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 245 seconds."
-}
+[
+    {
+        "card_name": "Sheepshead",
+        "set_name": "Two Legends",
+        "card_text": "[DON!! x1] [Your Turn] Give all of your opponent's Characters 1 cost.",
+        "set_id": "OP-08",
+        "rarity": "UC",
+        "card_set_id": "OP08-083",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "3000",
+        "sub_types": "Animal Kingdom Pirates SMILE",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-083",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-083.jpg"
+    }
+]

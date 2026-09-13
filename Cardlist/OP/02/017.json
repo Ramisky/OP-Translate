@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 190 seconds."
-}
+[
+    {
+        "card_name": "Masked Deuce",
+        "set_name": "Paramount War",
+        "card_text": "[DON!! x2] [When Attacking] K.O. up to 1 of your opponent's Characters with 2000 power or less.",
+        "set_id": "OP-02",
+        "rarity": "R",
+        "card_set_id": "OP02-017",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "3000",
+        "sub_types": "Spade Pirates",
+        "counter_amount": 2000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP02-017",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP02-017.jpg"
+    },
+    {
+        "card_name": "Masked Deuce (Alternate Art)",
+        "set_name": "Paramount War",
+        "card_text": "[DON!! x2] [When Attacking] K.O. up to 1 of your opponent's Characters with 2000 power or less.",
+        "set_id": "OP-02",
+        "rarity": "R",
+        "card_set_id": "OP02-017",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "3000",
+        "sub_types": "Spade Pirates",
+        "counter_amount": 2000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP02-017_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP02-017_p1.jpg"
+    }
+]

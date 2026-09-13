@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 27 seconds."
-}
+[
+    {
+        "card_name": "Inazuma",
+        "set_name": "Paramount War",
+        "card_text": "If you have 1 or less cards in your hand, this Character gains +2000 power. [Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+        "set_id": "OP-02",
+        "rarity": "R",
+        "card_set_id": "OP02-050",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Revolutionary Army Impel Down",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP02-050",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP02-050.jpg"
+    }
+]

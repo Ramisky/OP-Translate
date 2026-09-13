@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 97 seconds."
-}
+[
+    {
+        "card_name": "Kotori",
+        "set_name": "Awakening of the New Era",
+        "card_text": "[On Play] If you have [Hotori], K.O. up to 1 of your opponent's Characters with a cost equal to or less than the number of your opponent's Life cards.",
+        "set_id": "OP-05",
+        "rarity": "UC",
+        "card_set_id": "OP05-103",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "3000",
+        "sub_types": "Sky Island",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP05-103",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP05-103.jpg"
+    }
+]

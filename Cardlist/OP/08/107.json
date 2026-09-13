@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 147 seconds."
-}
+[
+    {
+        "card_name": "Nitro",
+        "set_name": "Two Legends",
+        "card_text": "[Activate: Main] You may rest this Character: Up to 1 of your [Charlotte Pudding] cards gains +2000 power during this turn.",
+        "set_id": "OP-08",
+        "rarity": "C",
+        "card_set_id": "OP08-107",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "2000",
+        "sub_types": "Big Mom Pirates Homies",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-107",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-107.jpg"
+    }
+]

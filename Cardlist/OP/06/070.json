@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 104 seconds."
-}
+[
+    {
+        "card_name": "Eldoraggo",
+        "set_name": "Wings of the Captain",
+        "card_text": null,
+        "set_id": "OP-06",
+        "rarity": "C",
+        "card_set_id": "OP06-070",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "7000",
+        "sub_types": "FILM Eldoraggo Crew",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP06-070",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP06-070.jpg"
+    }
+]

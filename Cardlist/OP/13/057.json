@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 61 seconds."
-}
+[
+    {
+        "card_name": "If I Bowed Down to Power, What's the Point in Living?",
+        "set_name": "Carrying On His Will",
+        "card_text": "[Main] You may rest 1 of your DON!! cards: If you have 1 or less Life cards, your opponent cannot activate [Blocker] whenever your Leader attacks during this turn.\n[Counter] Your Leader gains +3000 power during this battle.",
+        "set_id": "OP-13",
+        "rarity": "R",
+        "card_set_id": "OP13-057",
+        "card_color": "Blue",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "Whitebeard Pirates",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP13-057",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP13-057_eVMqv9V.jpg"
+    }
+]

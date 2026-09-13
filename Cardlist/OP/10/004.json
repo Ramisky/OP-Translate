@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 94 seconds."
-}
+[
+    {
+        "card_name": "Vergo",
+        "set_name": "Royal Blood",
+        "card_text": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Punk Hazard} type card other than [Vergo] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+        "set_id": "OP-10",
+        "rarity": "R",
+        "card_set_id": "OP10-004",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "2000",
+        "sub_types": "Donquixote Pirates Navy Punk Hazard",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP10-004",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP10-004.jpg"
+    }
+]

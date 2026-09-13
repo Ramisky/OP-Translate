@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 16 seconds."
-}
+[
+    {
+        "card_name": "Tony Tony.Chopper",
+        "set_name": "The World's Strongest Warriors",
+        "card_text": "[On Play] If there is a Character with a cost of 12 or more, up to 1 of your Characters gains [Unblockable] during this turn.\n(This card cannot be blocked.)",
+        "set_id": "OP-17",
+        "rarity": "UC",
+        "card_set_id": "OP17-084",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "2000",
+        "sub_types": "Animal Straw Hat Crew Elbaph",
+        "counter_amount": 2000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP17-084",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP17-084_JM5DAVg.jpg"
+    }
+]

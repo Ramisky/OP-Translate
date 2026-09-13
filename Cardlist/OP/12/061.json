@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 263 seconds."
-}
+[
+    {
+        "card_name": "Donquixote Rosinante (061) (Alternate Art)",
+        "set_name": "Legacy of the Master",
+        "card_text": "[Once Per Turn] If your [Trafalgar Law] would be K.O.'d, you may add 1 card from the top of your Life cards to your hand instead.\n[Activate: Main] [Once Per Turn] DON!! 1: The next time you play [Trafalgar Law] with a cost of 4 or more from your hand during this turn, the cost will be reduced by 2.",
+        "set_id": "OP-12",
+        "rarity": "L",
+        "card_set_id": "OP12-061",
+        "card_color": "Purple Yellow",
+        "card_type": "Leader",
+        "life": "4",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Donquixote Pirates Navy",
+        "counter_amount": null,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP12-061_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP12-061_p1_dkgb1AW.jpg"
+    },
+    {
+        "card_name": "Donquixote Rosinante (061)",
+        "set_name": "Legacy of the Master",
+        "card_text": "[Once Per Turn] If your [Trafalgar Law] would be K.O.'d, you may add 1 card from the top of your Life cards to your hand instead.\n[Activate: Main] [Once Per Turn] DON!! 1: The next time you play [Trafalgar Law] with a cost of 4 or more from your hand during this turn, the cost will be reduced by 2.",
+        "set_id": "OP-12",
+        "rarity": "L",
+        "card_set_id": "OP12-061",
+        "card_color": "Purple Yellow",
+        "card_type": "Leader",
+        "life": "4",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Donquixote Pirates Navy",
+        "counter_amount": null,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP12-061",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP12-061_JDvg2fl.jpg"
+    }
+]

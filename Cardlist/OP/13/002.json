@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 170 seconds."
-}
+[
+    {
+        "card_name": "Portgas.D.Ace (002)",
+        "set_name": "Carrying On His Will",
+        "card_text": "[On Your Opponent's Attack] [Once Per Turn] You may trash 1 card from your hand: Give up to 1 of your opponent's Leader or Character cards 2000 power during this battle.\n[DON!! x1] [Once Per Turn] When you take damage or your Character with 6000 base power or more is K.O.'d, draw 1 card.",
+        "set_id": "OP-13",
+        "rarity": "L",
+        "card_set_id": "OP13-002",
+        "card_color": "Blue Red",
+        "card_type": "Leader",
+        "life": "3",
+        "card_cost": null,
+        "card_power": "6000",
+        "sub_types": "Whitebeard Pirates",
+        "counter_amount": null,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP13-002",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP13-002_sy67sYO.jpg"
+    },
+    {
+        "card_name": "Portgas.D.Ace (002) (Alternate Art)",
+        "set_name": "Carrying On His Will",
+        "card_text": "[On Your Opponent's Attack] [Once Per Turn] You may trash 1 card from your hand: Give up to 1 of your opponent's Leader or Character cards 2000 power during this battle.\n[DON!! x1] [Once Per Turn] When you take damage or your Character with 6000 base power or more is K.O.'d, draw 1 card.",
+        "set_id": "OP-13",
+        "rarity": "L",
+        "card_set_id": "OP13-002",
+        "card_color": "Blue Red",
+        "card_type": "Leader",
+        "life": "3",
+        "card_cost": null,
+        "card_power": "6000",
+        "sub_types": "Whitebeard Pirates",
+        "counter_amount": null,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP13-002_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP13-002_p1_9XMhMTI.jpg"
+    }
+]

@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 195 seconds."
-}
+[
+    {
+        "card_name": "Gum-Gum Gatling Gun",
+        "set_name": "Carrying On His Will",
+        "card_text": "[Main] Give up to 1 rested DON!! card to 1 of your [Monkey.D.Luffy] cards. Then, give up to 1 of your opponent's Characters 2000 power during this turn.\n[Trigger] Give up to 1 of your opponent's Characters 2000 power during this turn.",
+        "set_id": "OP-13",
+        "rarity": "C",
+        "card_set_id": "OP13-021",
+        "card_color": "Red",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "Straw Hat Crew",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP13-021",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP13-021_coQV5ky.jpg"
+    }
+]

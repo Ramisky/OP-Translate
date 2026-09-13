@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 169 seconds."
-}
+[
+    {
+        "card_name": "You're Just Not My Type!",
+        "set_name": "A Fist of Divine Speed",
+        "card_text": "[Counter] If your Leader is [Shirahoshi], up to 1 of your Leader or Character cards gains +4000 power during this battle.\n[Trigger] K.O. up to 1 of your opponent's Characters with a cost of 2 or less.",
+        "set_id": "OP-11",
+        "rarity": "UC",
+        "card_set_id": "OP11-115",
+        "card_color": "Yellow",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "Merfolk Fish-Man Island",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP11-115",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP11-115.jpg"
+    }
+]

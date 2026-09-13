@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 17 seconds."
-}
+[
+    {
+        "card_name": "Brook (OP15-032)",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "[On Play] Rest up to 1 of your opponent's cards.\n[Activate: Main] You may trash this Character: If your Leader has the {Straw Hat Crew} type, set up to 1 of your Characters with a base cost of 8 or less as active.",
+        "set_id": "OP15-EB04",
+        "rarity": "SR",
+        "card_set_id": "OP15-032",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "6000",
+        "sub_types": "Straw Hat Crew",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP15-032",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP15-032_UuYezw2.jpg"
+    },
+    {
+        "card_name": "Brook (OP15-032) (Alternate Art)",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "[On Play] Rest up to 1 of your opponent's cards.\n[Activate: Main] You may trash this Character: If your Leader has the {Straw Hat Crew} type, set up to 1 of your Characters with a base cost of 8 or less as active.",
+        "set_id": "OP15-EB04",
+        "rarity": "SR",
+        "card_set_id": "OP15-032",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "6000",
+        "sub_types": "Straw Hat Crew",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP15-032_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP15-032_p1_LgM6irK.jpg"
+    }
+]

@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 177 seconds."
-}
+[
+    {
+        "card_name": "Nico Robin",
+        "set_name": "The World's Strongest Warriors",
+        "card_text": "If there is a Character with a cost of 12 or more, this Character gains +3000 power. [On Play] If there is a Character with a cost of 12 or more, give up to 1 of your opponent's Characters -3000 poser during this turn.",
+        "set_id": "OP-17",
+        "rarity": "R",
+        "card_set_id": "OP17-087",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "2000",
+        "sub_types": "Straw Hat Crew Elbaph",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP17-087",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP17-087_SEvUdS3.jpg"
+    },
+    {
+        "card_name": "Nico Robin (Alternate Art)",
+        "set_name": "The World's Strongest Warriors",
+        "card_text": "If there is a Character with a cost of 12 or more, this Character gains +3000 power. [On Play] If there is a Character with a cost of 12 or more, give up to 1 of your opponent's Characters -3000 poser during this turn.",
+        "set_id": "OP-17",
+        "rarity": "R",
+        "card_set_id": "OP17-087",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "2000",
+        "sub_types": "Straw Hat Crew Elbaph",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP17-087_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP17-087_p1_OMnxKwP.jpg"
+    }
+]

@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 1 second."
-}
+[
+    {
+        "card_name": "Usopp (024)",
+        "set_name": "Emperors in the New World",
+        "card_text": "[On Play] If you have 2 or more rested Characters, draw 2 cards and trash 2 cards from your hand.",
+        "set_id": "OP-09",
+        "rarity": "C",
+        "card_set_id": "OP09-024",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Straw Hat Crew ODYSSEY",
+        "counter_amount": 1000,
+        "attribute": "Ranged",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-024",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-024.jpg"
+    }
+]

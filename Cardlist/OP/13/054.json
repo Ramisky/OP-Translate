@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 48 seconds."
-}
+[
+    {
+        "card_name": "Yamato",
+        "set_name": "Carrying On His Will",
+        "card_text": "[On Play] If you have 3 or less Life cards, draw 2 cards. Then, give up to 1 rested DON!! card to your Leader.",
+        "set_id": "OP-13",
+        "rarity": "SR",
+        "card_set_id": "OP13-054",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Land of Wano",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP13-054",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP13-054_3WUipek.jpg"
+    },
+    {
+        "card_name": "Yamato (Alternate Art)",
+        "set_name": "Carrying On His Will",
+        "card_text": "[On Play] If you have 3 or less Life cards, draw 2 cards. Then, give up to 1 rested DON!! card to your Leader.",
+        "set_id": "OP-13",
+        "rarity": "SR",
+        "card_set_id": "OP13-054",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Land of Wano",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP13-054_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP13-054_p1_70Fwd6z.jpg"
+    }
+]

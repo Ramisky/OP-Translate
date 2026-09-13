@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 79 seconds."
-}
+[
+    {
+        "card_name": "The Ark Noah",
+        "set_name": "Wings of the Captain",
+        "card_text": "[On Play] Rest all of your opponent's Characters.\n[Trigger] Play this card.",
+        "set_id": "OP-06",
+        "rarity": "C",
+        "card_set_id": "OP06-041",
+        "card_color": "Green",
+        "card_type": "Stage",
+        "life": null,
+        "card_cost": "6",
+        "card_power": null,
+        "sub_types": "Fish-Man Island",
+        "counter_amount": 0,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP06-041",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP06-041.jpg"
+    }
+]

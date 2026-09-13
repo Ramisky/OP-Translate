@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 92 seconds."
-}
+[
+    {
+        "card_name": "Tsuru",
+        "set_name": "The Time of Battle",
+        "card_text": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Navy} type card, add it to your hand and place the rest at the bottom of your deck in any order. Then, trash 1 card from your hand.",
+        "set_id": "OP-16",
+        "rarity": "UC",
+        "card_set_id": "OP16-067",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "2000",
+        "sub_types": "Navy",
+        "counter_amount": 2000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP16-067",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP16-067_1NGQGA1.jpg"
+    }
+]

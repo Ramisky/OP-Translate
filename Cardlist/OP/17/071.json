@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 22 seconds."
-}
+[
+    {
+        "card_name": "Who's.Who",
+        "set_name": "The World's Strongest Warriors",
+        "card_text": "[On Play] DON!! -1: K.O. up to 2 of your opponent's Characters with a cost of 2 or less.\n[Trigger] Play this card.",
+        "set_id": "OP-17",
+        "rarity": "C",
+        "card_set_id": "OP17-071",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "3000",
+        "sub_types": "Animal Kingdom Pirates Former CP9",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP17-071",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP17-071_zQ4nkXT.jpg"
+    }
+]

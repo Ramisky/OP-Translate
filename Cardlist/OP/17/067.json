@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 21 seconds."
-}
+[
+    {
+        "card_name": "Kurozumi Kanjuro",
+        "set_name": "The World's Strongest Warriors",
+        "card_text": "[On Play] DON!! 1: If you have a Character with a cost of 10 or more, rest up to 1 of your opponent's Characters.",
+        "set_id": "OP-17",
+        "rarity": "C",
+        "card_set_id": "OP17-067",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "3000",
+        "sub_types": "Land of Wano Kurozumi Clan",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP17-067",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP17-067_rJxiZQl.jpg"
+    }
+]

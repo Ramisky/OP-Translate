@@ -1,3 +1,59 @@
-{
-    "detail": "Request was throttled. Expected available in 64 seconds."
-}
+[
+    {
+        "card_name": "Gamma Knife",
+        "set_name": "Awakening of the New Era",
+        "card_text": "[Main] DON!! -1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Give up to 1 of your opponent's Characters -5000 power during this turn. [Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
+        "set_id": "OP-05",
+        "rarity": "C",
+        "card_set_id": "OP05-077",
+        "card_color": "Purple",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "2",
+        "card_power": null,
+        "sub_types": "Heart Pirates",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP05-077",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP05-077.jpg"
+    },
+    {
+        "card_name": "Gamma Knife (Pirate Foil)",
+        "set_name": "Premium Booster -The Best- Vol. 2",
+        "card_text": "[Main] DON!! -1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Give up to 1 of your opponent's Characters -5000 power during this turn.[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
+        "set_id": "PRB-02",
+        "rarity": "C",
+        "card_set_id": "OP05-077",
+        "card_color": "Purple",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "2",
+        "card_power": null,
+        "sub_types": "Heart Pirates",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP05-077_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP05-077_p1.jpg"
+    },
+    {
+        "card_name": "Gamma Knife (Reprint)",
+        "set_name": "Premium Booster -The Best- Vol. 2",
+        "card_text": "[Main] DON!! -1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Give up to 1 of your opponent's Characters -5000 power during this turn.[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.Disclaimer: This card was reprinted from the original set with changes to the copyright information (Note: the original print did not include \"EN\" at the end of the copyright).",
+        "set_id": "PRB-02",
+        "rarity": "C",
+        "card_set_id": "OP05-077",
+        "card_color": "Purple",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "2",
+        "card_power": null,
+        "sub_types": "Heart Pirates",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP05-077_r1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP05-077_r1.jpg"
+    }
+]

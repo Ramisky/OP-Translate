@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 180 seconds."
-}
+[
+    {
+        "card_name": "Bepo",
+        "set_name": "Carrying On His Will",
+        "card_text": "[End of Your Turn] Set this Character or up to 1 of your DON!! cards as active.",
+        "set_id": "OP-13",
+        "rarity": "C",
+        "card_set_id": "OP13-035",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "7000",
+        "sub_types": "FILM Heart Pirates Minks",
+        "counter_amount": 0,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP13-035",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP13-035_hbo71ZB.jpg"
+    }
+]

@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 65 seconds."
-}
+[
+    {
+        "card_name": "Gecko Moria (083)",
+        "set_name": "500 Years in the Future",
+        "card_text": "[Activate: Main] You may place 4 [Thriller Bark Pirates] type cards from your trash at the bottom of your deck in any order: This Character gains [Banish] and +1000 power during this turn. (When this card deals damage, the target card is trashed without activating its Trigger.)",
+        "set_id": "OP-07",
+        "rarity": "UC",
+        "card_set_id": "OP07-083",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "The Seven Warlords of the Sea Thriller Bark Pirates",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP07-083",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP07-083.jpg"
+    }
+]

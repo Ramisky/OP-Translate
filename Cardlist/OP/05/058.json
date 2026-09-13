@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 256 seconds."
-}
+[
+    {
+        "card_name": "It's a Waste of Human Life!!",
+        "set_name": "Awakening of the New Era",
+        "card_text": "[Main] Place all Characters with a cost of 3 or less at the bottom of the owner's deck. Then, you and your opponent trash cards from your hands until you each have 5 cards in your hands. [Trigger] Place all Characters with a cost of 2 or less at the bottom of the owner's deck.",
+        "set_id": "OP-05",
+        "rarity": "C",
+        "card_set_id": "OP05-058",
+        "card_color": "Blue",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "8",
+        "card_power": null,
+        "sub_types": "Navy",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP05-058",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP05-058.jpg"
+    }
+]

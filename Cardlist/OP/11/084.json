@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 156 seconds."
-}
+[
+    {
+        "card_name": "Kuzan",
+        "set_name": "A Fist of Divine Speed",
+        "card_text": "[On Play] Trash 3 cards from the top of your deck.\n[When Attacking] Up to 1 of your \"Navy\" type Leader or Character cards can also attack active Characters during this turn.",
+        "set_id": "OP-11",
+        "rarity": "R",
+        "card_set_id": "OP11-084",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Navy",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP11-084",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP11-084.jpg"
+    },
+    {
+        "card_name": "Kuzan (Alternate Art)",
+        "set_name": "A Fist of Divine Speed",
+        "card_text": "[On Play] Trash 3 cards from the top of your deck.\n[When Attacking] Up to 1 of your \"Navy\" type Leader or Character cards can also attack active Characters during this turn.",
+        "set_id": "OP-11",
+        "rarity": "R",
+        "card_set_id": "OP11-084",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Navy",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP11-084_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP11-084_p1.jpg"
+    }
+]

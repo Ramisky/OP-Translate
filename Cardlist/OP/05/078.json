@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 66 seconds."
-}
+[
+    {
+        "card_name": "Punk Rotten",
+        "set_name": "Awakening of the New Era",
+        "card_text": "[Main] DON!! -1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Up to 1 of your [Kid Pirates] type Leader or Character cards gains +5000 power during this turn. [Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
+        "set_id": "OP-05",
+        "rarity": "UC",
+        "card_set_id": "OP05-078",
+        "card_color": "Purple",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "2",
+        "card_power": null,
+        "sub_types": "Kid Pirates",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP05-078",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP05-078.jpg"
+    }
+]

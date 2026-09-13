@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 4 seconds."
-}
+[
+    {
+        "card_name": "Smoker (102)",
+        "set_name": "Paramount War",
+        "card_text": "This Character cannot be K.O.'d by effects. [When Attacking] If there is a Character with a cost of 0, this Character gains +2000 power during this battle.",
+        "set_id": "OP-02",
+        "rarity": "R",
+        "card_set_id": "OP02-102",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "Navy",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP02-102",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP02-102.jpg"
+    }
+]

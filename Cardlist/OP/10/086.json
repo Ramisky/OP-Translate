@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 92 seconds."
-}
+[
+    {
+        "card_name": "Shiryu",
+        "set_name": "Royal Blood",
+        "card_text": "[Opponent's Turn] This Character gains +2000 power.\n[Activate: Main] [Once Per Turn] If your Leader has the \"Blackbeard Pirates\" type, and this Character was played on this turn, K.O. up to 1 of your opponent's Characters with a base cost of 3 or less.",
+        "set_id": "OP-10",
+        "rarity": "R",
+        "card_set_id": "OP10-086",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Blackbeard Pirates",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP10-086",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP10-086.jpg"
+    }
+]

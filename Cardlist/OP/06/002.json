@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 61 seconds."
-}
+[
+    {
+        "card_name": "Inazuma",
+        "set_name": "Wings of the Captain",
+        "card_text": "If this Character has 7000 power or more, this Character gains [Banish].\n(When this card deals damage, the target card is trashed without activating its Trigger.)",
+        "set_id": "OP-06",
+        "rarity": "C",
+        "card_set_id": "OP06-002",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Revolutionary Army",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP06-002",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP06-002.jpg"
+    }
+]
