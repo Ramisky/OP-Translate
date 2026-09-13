@@ -20,6 +20,7 @@ IMAGE_START_X = 0
 IMAGE_START_Y = 500
 IMAGE_END_X = 600
 IMAGE_END_Y = 838
+DPI_DEFAULT = 240
 
 # Enum class for Release Types
 class Release(Enum):
@@ -104,7 +105,7 @@ def findDownloadedImages(tempFolder: str) -> list[str]:
     cards.sort()
     return cards
 
-def combineImagesToA4(image_paths, dpi=300, cols=3, rows=7):
+def combineImagesToA4(image_paths, dpi=DPI_DEFAULT, cols=3, rows=7):
     # A4 dimensions in pixels at given DPI (Standard A4: 8.27 x 11.69 inches)
     a4_width = int(8.27 * dpi)
     a4_height = int(11.69 * dpi)
@@ -130,7 +131,7 @@ def combineImagesToA4(image_paths, dpi=300, cols=3, rows=7):
 
     return canvas
 
-def combineA4ToPDF(images, output_pdf_path, dpi=300):
+def combineA4ToPDF(images, output_pdf_path, dpi=DPI_DEFAULT):
     images[0].save(
         output_pdf_path, 
         "PDF", 
