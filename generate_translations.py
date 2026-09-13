@@ -232,8 +232,9 @@ if __name__ == "__main__":
         while True:
             main(tmpdir)  # The temp folder persists across these runs
             
-            user_choice = input("\nDo you want to add another card? (y/n): ").strip().lower()
-            if user_choice not in ('y', 'yes'):
+            while (user_input := input("\nDo you want to add another card? (y/n): ").strip().lower()) not in ('y', 'n', 'yes', 'no'):
+                print("Invalid choice!")
+            if user_input in ('y', 'yes'):
                 combineImages(tmpdir)
                 break
                 
