@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Jewelry Bonney (Heroines Battle Pack)",
+        "set_name": "One Piece Promotion Cards",
+        "card_text": "[DON!!x2] [Opponent's Turn] This Character gains [Blocker] and +2000 power.[Trigger] K.O up to 1 of your opponent's Characters with a cost of 3 or less.",
+        "set_id": "P",
+        "rarity": "PR",
+        "card_set_id": "P-113",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "4000",
+        "sub_types": "Bonney Pirates",
+        "counter_amount": 2000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "P-113_pr1",
+        "card_image": "https://www.optcgapi.com/media/static/Card_Images/Jewelry_Bonney_Heroines_Battle_Pack_img.jpg"
+    },
+    {
+        "card_name": "Jewelry Bonney (Heroines Battle Winner Pack)",
+        "set_name": "One Piece Promotion Cards",
+        "card_text": "[DON!!x2] [Opponent's Turn] This Character gains [Blocker] and +2000 power.\n[Trigger] K.O up to 1 of your opponent's Characters with a cost of 3 or less.",
+        "set_id": "P",
+        "rarity": "PR",
+        "card_set_id": "P-113",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "4000",
+        "sub_types": "Bonney Pirates",
+        "counter_amount": 2000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "P-113",
+        "card_image": "https://www.optcgapi.com/media/static/Card_Images/Jewelry_Bonney_Heroines_Battle_Winner_Pack_img.jpg"
+    }
+]

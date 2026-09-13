@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 2025 seconds."
-}
+[
+    {
+        "card_name": "Shanks (020) (Alternate Art)",
+        "set_name": "The World's Strongest Warriors",
+        "card_text": "[Activate: Main] [Once Per Turn] You may trash 1 card from your hand or rest 1 of your DON!! cards: Up to 1 of your opponent's rested Characters will not become active in your opponent's next Refresh Phase.",
+        "set_id": "OP-17",
+        "rarity": "L",
+        "card_set_id": "OP17-020",
+        "card_color": "Green",
+        "card_type": "Leader",
+        "life": "5",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "The Four Emperors Red-Haired Pirates",
+        "counter_amount": 0,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP17-020_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP17-020_p1_GddFLIb.jpg"
+    },
+    {
+        "card_name": "Shanks (020)",
+        "set_name": "The World's Strongest Warriors",
+        "card_text": "[Activate: Main] [Once Per Turn] You may trash 1 card from your hand or rest 1 of your DON!! cards: Up to 1 of your opponent's rested Characters will not become active in your opponent's next Refresh Phase.",
+        "set_id": "OP-17",
+        "rarity": "L",
+        "card_set_id": "OP17-020",
+        "card_color": "Green",
+        "card_type": "Leader",
+        "life": "5",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "The Four Emperors Red-Haired Pirates",
+        "counter_amount": 0,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP17-020",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP17-020_C3FdLNk.jpg"
+    }
+]

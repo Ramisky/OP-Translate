@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 1134 seconds."
-}
+[
+    {
+        "card_name": "Ulti",
+        "set_name": "Kingdoms of Intrigue",
+        "card_text": "[DON!! x1] [When Attacking] Return up to 1 Character with a cost of 2 or less to the owner's hand or the bottom of their deck.",
+        "set_id": "OP-04",
+        "rarity": "R",
+        "card_set_id": "OP04-043",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "Animal Kingdom Pirates",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP04-043",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP04-043.jpg"
+    }
+]

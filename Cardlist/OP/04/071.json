@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 1271 seconds."
-}
+[
+    {
+        "card_name": "Mr.4 (Babe)",
+        "set_name": "Kingdoms of Intrigue",
+        "card_text": "[On Your Opponent's Attack] DON!! -1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): This Character gains [Blocker] and +1000 power during this battle. (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+        "set_id": "OP-04",
+        "rarity": "UC",
+        "card_set_id": "OP04-071",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Baroque Works",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP04-071",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP04-071.jpg"
+    }
+]

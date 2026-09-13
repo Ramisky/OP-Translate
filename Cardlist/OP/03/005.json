@@ -1,21 +1,3 @@
-[
-    {
-        "card_name": "Thatch",
-        "set_name": "Pillars of Strength",
-        "card_text": "[Activate:Main] [Once Per Turn] This Character gains +2000 power during this turn. Then, trash this Character at the end of this turn.",
-        "set_id": "OP-03",
-        "rarity": "UC",
-        "card_set_id": "OP03-005",
-        "card_color": "Red",
-        "card_type": "Character",
-        "life": null,
-        "card_cost": "1",
-        "card_power": "2000",
-        "sub_types": "Whitebeard Pirates",
-        "counter_amount": 1000,
-        "attribute": "Slash",
-        "date_scraped": "2026-09-07",
-        "card_image_id": "OP03-005",
-        "card_image": "https://optcgapi.com/media/static/Card_Images/OP03-005.jpg"
-    }
-]
+{
+    "detail": "Request was throttled. Expected available in 2 seconds."
+}

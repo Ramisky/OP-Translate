@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 1243 seconds."
-}
+[
+    {
+        "card_name": "Kuro",
+        "set_name": "Kingdoms of Intrigue",
+        "card_text": "NULL",
+        "set_id": "OP-04",
+        "rarity": "C",
+        "card_set_id": "OP04-023",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "8000",
+        "sub_types": "East Blue Black Cat Pirates",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP04-023",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP04-023.jpg"
+    }
+]

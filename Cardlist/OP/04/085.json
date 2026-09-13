@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 1186 seconds."
-}
+[
+    {
+        "card_name": "Suleiman",
+        "set_name": "Kingdoms of Intrigue",
+        "card_text": "[On Play] [When Attacking] If your Leader has the [Dressrosa] type, give up to 1 of your opponent's Characters -2 cost during this turn. Then, trash 1 card from the top of your deck.",
+        "set_id": "OP-04",
+        "rarity": "UC",
+        "card_set_id": "OP04-085",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "Dressrosa",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP04-085",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP04-085.jpg"
+    }
+]

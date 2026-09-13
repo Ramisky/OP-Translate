@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 188 seconds."
-}
+[
+    {
+        "card_name": "Kalgara",
+        "set_name": "Legacy of the Master",
+        "card_text": "[Your Turn] When a card is removed from your or your opponent's Life cards, draw 1 card. Then, you cannot draw cards using your own effects during this turn.",
+        "set_id": "OP-12",
+        "rarity": "R",
+        "card_set_id": "OP12-099",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Sky Island Shandian Warrior Jaya",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP12-099",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP12-099_Vd5ewuR.jpg"
+    }
+]

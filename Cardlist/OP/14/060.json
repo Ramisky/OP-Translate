@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 1240 seconds."
-}
+[
+    {
+        "card_name": "Donquixote Doflamingo - OP14-060 (Alternate Art)",
+        "set_name": "The Azure Sea's Seven",
+        "card_text": "[On Your Opponent's Attack] [Once Per Turn] DON!! -1: Select your Leader or 1 of your {Donquixote Pirates} type Characters. Change the attack target to the selected card.",
+        "set_id": "OP14-EB04",
+        "rarity": "L",
+        "card_set_id": "OP14-060",
+        "card_color": "Purple",
+        "card_type": "Leader",
+        "life": "5",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Donquixote Pirates The Seven Warlords of the Sea",
+        "counter_amount": null,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP14-060_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP14-060_p1.jpg"
+    },
+    {
+        "card_name": "Donquixote Doflamingo - OP14-060",
+        "set_name": "The Azure Sea's Seven",
+        "card_text": "[On Your Opponent's Attack] [Once Per Turn] DON!! -1: Select your Leader or 1 of your {Donquixote Pirates} type Characters. Change the attack target to the selected card.",
+        "set_id": "OP14-EB04",
+        "rarity": "L",
+        "card_set_id": "OP14-060",
+        "card_color": "Purple",
+        "card_type": "Leader",
+        "life": "5",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Donquixote Pirates The Seven Warlords of the Sea",
+        "counter_amount": null,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP14-060",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP14-060_q0evlPP.jpg"
+    }
+]

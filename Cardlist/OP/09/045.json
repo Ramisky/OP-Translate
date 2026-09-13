@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 455 seconds."
-}
+[
+    {
+        "card_name": "Cabaji",
+        "set_name": "Emperors in the New World",
+        "card_text": "If you have a [Buggy] or [Mohji] Character, this Character cannot be K.O.'d in battle.",
+        "set_id": "OP-09",
+        "rarity": "UC",
+        "card_set_id": "OP09-045",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "5000",
+        "sub_types": "Cross Guild",
+        "counter_amount": 2000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-045",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-045.jpg"
+    }
+]

@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 1336 seconds."
-}
+[
+    {
+        "card_name": "Out-of-the-Bag",
+        "set_name": "Pillars of Strength",
+        "card_text": "[Main] You may rest 1 of your [East Blue] type Characters: Set up to 1 of your [Kuro] cards as active. [Trigger] K.O. up to 1 of your opponent's rested Characters with a cost of 3 or less.",
+        "set_id": "OP-03",
+        "rarity": "C",
+        "card_set_id": "OP03-036",
+        "card_color": "Green",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "3",
+        "card_power": null,
+        "sub_types": "NULL",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP03-036",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP03-036.jpg"
+    }
+]

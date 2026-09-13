@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 2414 seconds."
-}
+[
+    {
+        "card_name": "Orlumbus",
+        "set_name": "Kingdoms of Intrigue",
+        "card_text": "[Activate:Main] [Once Per Turn] Give up to 1 of your opponent's Characters -4 cost during this turn and trash 2 cards from the top of your deck. Then, K.O. 1 of your [Dressrosa] type Characters.",
+        "set_id": "OP-04",
+        "rarity": "C",
+        "card_set_id": "OP04-079",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Dressrosa Yonta Maria Fleet",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP04-079",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP04-079.jpg"
+    }
+]

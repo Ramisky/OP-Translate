@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 2416 seconds."
-}
+[
+    {
+        "card_name": "The Weak Do Not Have the Right to Choose How They Die!!!",
+        "set_name": "Kingdoms of Intrigue",
+        "card_text": "[Main] / [Counter] Rest up to 1 of your opponent's Leader or Character cards. Then, K.O. up to 1 of your opponent's rested Characters with a cost of 6 or less. [Trigger] Set up to 5 of your DON!! cards as active.",
+        "set_id": "OP-04",
+        "rarity": "C",
+        "card_set_id": "OP04-038",
+        "card_color": "Green",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "5",
+        "card_power": null,
+        "sub_types": "Donquixote Pirates The Seven Warlords of the Sea",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP04-038",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP04-038.jpg"
+    }
+]

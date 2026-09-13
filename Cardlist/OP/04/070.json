@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 1274 seconds."
-}
+[
+    {
+        "card_name": "Mr.3 (Galdino)",
+        "set_name": "Kingdoms of Intrigue",
+        "card_text": "[On Your Opponent's Attack] [Once Per Turn] DON!! -1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Give up to 1 of your opponent's Characters -1000 power during this turn.",
+        "set_id": "OP-04",
+        "rarity": "UC",
+        "card_set_id": "OP04-070",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "Baroque Works",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP04-070",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP04-070.jpg"
+    }
+]

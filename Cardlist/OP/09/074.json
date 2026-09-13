@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 495 seconds."
-}
+[
+    {
+        "card_name": "Bepo",
+        "set_name": "Emperors in the New World",
+        "card_text": "[Your Turn] [Once Per Turn] When a DON!! card on your field is returned to your DON!! deck, up to 1 of your Leader or Character cards gains +1000 power during this turn.",
+        "set_id": "OP-09",
+        "rarity": "C",
+        "card_set_id": "OP09-074",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "2000",
+        "sub_types": "Heart Pirates Minks",
+        "counter_amount": 2000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-074",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-074.jpg"
+    }
+]

@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 88 seconds."
-}
+[
+    {
+        "card_name": "Kuzan (040)",
+        "set_name": "Legacy of the Master",
+        "card_text": "When a card is trashed from your hand by your \"Navy\" type card's effect, draw cards equal to the number of cards trashed.",
+        "set_id": "OP-12",
+        "rarity": "L",
+        "card_set_id": "OP12-040",
+        "card_color": "Blue",
+        "card_type": "Leader",
+        "life": "5",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Navy",
+        "counter_amount": null,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP12-040",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP12-040_3FpZfZ6.jpg"
+    },
+    {
+        "card_name": "Kuzan (040) (Alternate Art)",
+        "set_name": "Legacy of the Master",
+        "card_text": "When a card is trashed from your hand by your \"Navy\" type card's effect, draw cards equal to the number of cards trashed.",
+        "set_id": "OP-12",
+        "rarity": "L",
+        "card_set_id": "OP12-040",
+        "card_color": "Blue",
+        "card_type": "Leader",
+        "life": "5",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Navy",
+        "counter_amount": null,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP12-040_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP12-040_p1_IOHOSfT.jpg"
+    }
+]

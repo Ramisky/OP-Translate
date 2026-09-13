@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Monkey.D.Luffy (Bandai Card Games Fest 24-25)",
+        "set_name": "One Piece Promotion Cards",
+        "card_text": null,
+        "set_id": "P",
+        "rarity": "PR",
+        "card_set_id": "P-080",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "7",
+        "card_power": "9000",
+        "sub_types": "Straw Hat Crew The Four Emperors Egghead",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "P-080",
+        "card_image": null
+    }
+]

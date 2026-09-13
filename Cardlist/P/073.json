@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Sabo (Premium Card Collection -Best Selection Vol. 3-)",
+        "set_name": "One Piece Promotion Cards",
+        "card_text": "[Activate:Main][Once Per Turn] You may add 1 card from the top or bottom of your Life cards to your hand: This character gains +1000 power during this turn.",
+        "set_id": "P",
+        "rarity": "PR",
+        "card_set_id": "P-073",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "5000",
+        "sub_types": "Revolutionary Army Dressrosa",
+        "counter_amount": 2000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "P-073_pr1",
+        "card_image": "https://www.optcgapi.com/media/static/Card_Images/Sabo_Premium_Card_Collection_-Best_Selection_Vol._3-_img.jpg"
+    },
+    {
+        "card_name": "Sabo (Tin Pack Set Vol. 2)",
+        "set_name": "One Piece Promotion Cards",
+        "card_text": "[Activate:Main][Once Per Turn] You may add 1 card from the top or bottom of your Life cards to your hand: This character gains +1000 power during this turn.",
+        "set_id": "P",
+        "rarity": "PR",
+        "card_set_id": "P-073",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "5000",
+        "sub_types": "Revolutionary Army Dressrosa",
+        "counter_amount": 2000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "P-073",
+        "card_image": "https://www.optcgapi.com/media/static/Card_Images/Sabo_Tin_Pack_Set_Vol._2_img.jpg"
+    }
+]

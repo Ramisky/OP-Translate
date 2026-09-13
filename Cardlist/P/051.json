@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Shanks (Premium Card Collection -Live Action Edition-)",
+        "set_name": "One Piece Promotion Cards",
+        "card_text": "[When Attacking] You may trash any number of cards from your hand. This Character gains +1000 power during this battle for every card trashed.",
+        "set_id": "P",
+        "rarity": "PR",
+        "card_set_id": "P-051",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "7",
+        "card_power": "9000",
+        "sub_types": "Red-Haired Pirates",
+        "counter_amount": 0,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "P-051_pr1",
+        "card_image": "https://www.optcgapi.com/media/static/Card_Images/Shanks_Premium_Card_Collection_-Live_Action_Edition-_img.jpg"
+    },
+    {
+        "card_name": "Shanks (Sealed Battle Kit Vol. 1)",
+        "set_name": "One Piece Promotion Cards",
+        "card_text": "[When Attacking] You may trash any number of cards from your hand. This Character gains +1000 power during this battle for every card trashed.",
+        "set_id": "P",
+        "rarity": "PR",
+        "card_set_id": "P-051",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "7",
+        "card_power": "9000",
+        "sub_types": "Red-Haired Pirates",
+        "counter_amount": 0,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "P-051",
+        "card_image": null
+    }
+]

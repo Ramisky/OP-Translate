@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 2439 seconds."
-}
+[
+    {
+        "card_name": "Apis",
+        "set_name": "Kingdoms of Intrigue",
+        "card_text": "[On Play] You may trash 2 cards from your hand: Look at 5 cards from the top of your deck; reveal up to 1 [East Blue] type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+        "set_id": "OP-04",
+        "rarity": "C",
+        "card_set_id": "OP04-041",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "0",
+        "sub_types": "East Blue",
+        "counter_amount": 2000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP04-041",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP04-041.jpg"
+    }
+]

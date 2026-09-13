@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 1086 seconds."
-}
+[
+    {
+        "card_name": "Saint Charlos",
+        "set_name": "Awakening of the New Era",
+        "card_text": "[Your Turn] If the only Characters on your field are [Celestial Dragons] type Characters, give all of your opponent's Characters -4 cost.",
+        "set_id": "OP-05",
+        "rarity": "C",
+        "card_set_id": "OP05-084",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "0",
+        "sub_types": "Celestial Dragons",
+        "counter_amount": 1000,
+        "attribute": "Ranged",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP05-084",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP05-084.jpg"
+    }
+]

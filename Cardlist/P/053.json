@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Nami (Sealed Battle Kit Vol. 1)",
+        "set_name": "One Piece Promotion Cards",
+        "card_text": "[On Play] If you have 3 or less cards in your hand, return up to 1 of your opponent's Characters with a cost of 3 or less to the owner's hand.",
+        "set_id": "P",
+        "rarity": "PR",
+        "card_set_id": "P-053",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "1000",
+        "sub_types": "Straw Hat Crew",
+        "counter_amount": 2000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "P-053_pr1",
+        "card_image": "https://www.optcgapi.com/media/static/Card_Images/Nami_Sealed_Battle_Kit_Vol._1_img.jpg"
+    },
+    {
+        "card_name": "Nami (Premium Card Collection -Live Action Edition-)",
+        "set_name": "One Piece Promotion Cards",
+        "card_text": "[On Play] If you have 3 or less cards in your hand, return up to 1 of your opponent's Characters with a cost of 3 or less to the owner's hand.",
+        "set_id": "P",
+        "rarity": "PR",
+        "card_set_id": "P-053",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "1000",
+        "sub_types": "Straw Hat Crew",
+        "counter_amount": 2000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "P-053",
+        "card_image": "https://www.optcgapi.com/media/static/Card_Images/Nami_Premium_Card_Collection_-Live_Action_Edition-_img.jpg"
+    }
+]

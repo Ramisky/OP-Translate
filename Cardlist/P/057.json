@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Fleeting Lullaby (Starter Deck 11: Uta Deck Battle)",
+        "set_name": "One Piece Promotion Cards",
+        "card_text": "[Main] If your Leader is [Uta], up to 2 of your opponent's rested Characters with a cost of 4 or less will not become active in your opponent's next Refresh Phase.\n[Trigger] Activate this card's [Main] effect.",
+        "set_id": "P",
+        "rarity": "PR",
+        "card_set_id": "P-057",
+        "card_color": "Green",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "3",
+        "card_power": null,
+        "sub_types": "FILM Music",
+        "counter_amount": 0,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "P-057",
+        "card_image": "https://www.optcgapi.com/media/static/Card_Images/Fleeting_Lullaby_Starter_Deck_11_Uta_Deck_Battle_img.jpg"
+    }
+]

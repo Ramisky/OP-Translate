@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Usopp (Premium Card Collection -Live Action Edition-)",
+        "set_name": "One Piece Promotion Cards",
+        "card_text": "[On Play] Look at 5 cards from the top of your deck and place them at the top or bottom of the deck in any order.",
+        "set_id": "P",
+        "rarity": "PR",
+        "card_set_id": "P-049",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "3000",
+        "sub_types": "Straw Hat Crew",
+        "counter_amount": 1000,
+        "attribute": "Ranged",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "P-049_pr1",
+        "card_image": "https://www.optcgapi.com/media/static/Card_Images/Usopp_Premium_Card_Collection_-Live_Action_Edition-_img.jpg"
+    },
+    {
+        "card_name": "Usopp (Sealed Battle Kit Vol. 1)",
+        "set_name": "One Piece Promotion Cards",
+        "card_text": "[On Play] Look at 5 cards from the top of your deck and place them at the top or bottom of the deck in any order.",
+        "set_id": "P",
+        "rarity": "PR",
+        "card_set_id": "P-049",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "3000",
+        "sub_types": "Straw Hat Crew",
+        "counter_amount": 1000,
+        "attribute": "Ranged",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "P-049",
+        "card_image": null
+    }
+]

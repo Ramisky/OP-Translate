@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Monkey.D.Luffy (Event Pack Vol. 8)",
+        "set_name": "One Piece Promotion Cards",
+        "card_text": "[When Attacking] DON!! -10 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Set this character as active.",
+        "set_id": "P",
+        "rarity": "PR",
+        "card_set_id": "P-099",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "10",
+        "card_power": "12000",
+        "sub_types": "Straw Hat Crew The Four Emperors",
+        "counter_amount": 0,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "P-099",
+        "card_image": "https://www.optcgapi.com/media/static/Card_Images/Monkey.D.Luffy_Event_Pack_Vol._8_img.jpg"
+    }
+]

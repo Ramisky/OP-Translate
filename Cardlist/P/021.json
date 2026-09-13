@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Benn.Beckman (One Piece Film Red)",
+        "set_name": "One Piece Promotion Cards",
+        "card_text": null,
+        "set_id": "P",
+        "rarity": "PR",
+        "card_set_id": "P-021",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "7",
+        "card_power": "9000",
+        "sub_types": "Film Red-Haired Pirates",
+        "counter_amount": 1000,
+        "attribute": "Ranged",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "P-021",
+        "card_image": "https://www.optcgapi.com/media/static/Card_Images/Benn.Beckman_One_Piece_Film_Red_img.jpg"
+    }
+]

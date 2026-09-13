@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 543 seconds."
-}
+[
+    {
+        "card_name": "Jinbe",
+        "set_name": "Two Legends",
+        "card_text": "[DON!! x1] [When Attacking] If you have a Character with a cost of 8 or more, K.O. up to 1 of your opponent's Characters with a cost of 4 or less.",
+        "set_id": "OP-08",
+        "rarity": "UC",
+        "card_set_id": "OP08-085",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Fish-Man Straw Hat Crew",
+        "counter_amount": 0,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-085",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-085.jpg"
+    }
+]

@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 1287 seconds."
-}
+[
+    {
+        "card_name": "Minorhinoceros",
+        "set_name": "Pillars of Strength",
+        "card_text": "[On K.O.] If your Leader has the [Impel Down] type, draw 2 cards and trash 1 card from your hand.",
+        "set_id": "OP-03",
+        "rarity": "C",
+        "card_set_id": "OP03-069",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "5000",
+        "sub_types": "Impel Down Jailer Beast",
+        "counter_amount": 0,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP03-069",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP03-069.jpg"
+    }
+]

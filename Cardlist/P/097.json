@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Shanks (Event Pack Vol. 8)",
+        "set_name": "One Piece Promotion Cards",
+        "card_text": "[On Play]/[When Attacking] Your opponent cannot activate [Blocker] during this turn.",
+        "set_id": "P",
+        "rarity": "PR",
+        "card_set_id": "P-097",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "10",
+        "card_power": "12000",
+        "sub_types": "The Four Emperors Red-Haired Pirates",
+        "counter_amount": 0,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "P-097",
+        "card_image": "https://www.optcgapi.com/media/static/Card_Images/Shanks_Event_Pack_Vol._8_img.jpg"
+    }
+]

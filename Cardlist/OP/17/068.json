@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 807 seconds."
-}
+[
+    {
+        "card_name": "Sasaki",
+        "set_name": "The World's Strongest Warriors",
+        "card_text": "[When Attacking] You may trash 2 cards from your hand: If your Leader has the {Animal Kingdom Pirates} type, add up to 2 DON!! cards as rested from your DON!! deck.",
+        "set_id": "OP-17",
+        "rarity": "C",
+        "card_set_id": "OP17-068",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "Animal Kingdom Pirates",
+        "counter_amount": 2000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP17-068",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP17-068_AuVwHbX.jpg"
+    }
+]

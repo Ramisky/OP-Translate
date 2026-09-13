@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Portgas.D.Ace (Pirates Party 2026 Vol. 1)",
+        "set_name": "One Piece Promotion Cards",
+        "card_text": null,
+        "set_id": "P",
+        "rarity": "PR",
+        "card_set_id": "P-119",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "6000",
+        "sub_types": "Whitebeard Pirates",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "P-119",
+        "card_image": "https://www.optcgapi.com/media/static/Card_Images/Portgas.D.Ace_Pirates_Party_2026_Vol._1_img.jpg"
+    }
+]

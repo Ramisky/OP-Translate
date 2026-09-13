@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 2021 seconds."
-}
+[
+    {
+        "card_name": "Nami (023)",
+        "set_name": "The World's Strongest Warriors",
+        "card_text": "If one of your {East Blue} or {Straw Hat Crew} type Characters would be K.O.'d, you may rest this Character instead.",
+        "set_id": "OP-17",
+        "rarity": "UC",
+        "card_set_id": "OP17-023",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "1000",
+        "sub_types": "East Blue Straw Hat Crew",
+        "counter_amount": 2000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP17-023",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP17-023_LyVnUXp.jpg"
+    }
+]

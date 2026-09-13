@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 1131 seconds."
-}
+[
+    {
+        "card_name": "Gyats",
+        "set_name": "Kingdoms of Intrigue",
+        "card_text": "[On Play] Up to 1 of your [Dressrosa] type Characters can also attack active Characters during this turn.",
+        "set_id": "OP-04",
+        "rarity": "UC",
+        "card_set_id": "OP04-080",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "1000",
+        "sub_types": "Dressrosa",
+        "counter_amount": 2000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP04-080",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP04-080.jpg"
+    }
+]

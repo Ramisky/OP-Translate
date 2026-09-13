@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 193 seconds."
-}
+[
+    {
+        "card_name": "Sengoku",
+        "set_name": "Legacy of the Master",
+        "card_text": "[On Play] You may trash 1 card from your hand: Look at 5 cards from the top of your deck; reveal up to 2 \"Navy\" type cards other than [Sengoku] and add them to your hand. Then, place the rest at the bottom of your deck in any order.",
+        "set_id": "OP-12",
+        "rarity": "R",
+        "card_set_id": "OP12-047",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "3000",
+        "sub_types": "Navy",
+        "counter_amount": 1000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP12-047",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP12-047_w4gHtKY.jpg"
+    }
+]

@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 536 seconds."
-}
+[
+    {
+        "card_name": "Pedro",
+        "set_name": "Two Legends",
+        "card_text": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On K.O.] Choose one: \u2022 Rest up to 1 of your opponent's DON!! cards. \u2022 K.O. up to 1 of your opponent's rested Characters with a cost of 6 or less.",
+        "set_id": "OP-08",
+        "rarity": "R",
+        "card_set_id": "OP08-030",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Minks",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-030",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-030.jpg"
+    },
+    {
+        "card_name": "Pedro (Parallel)",
+        "set_name": "Two Legends",
+        "card_text": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On K.O.] Choose one: \u2022 Rest up to 1 of your opponent's DON!! cards. \u2022 K.O. up to 1 of your opponent's rested Characters with a cost of 6 or less.",
+        "set_id": "OP-08",
+        "rarity": "R",
+        "card_set_id": "OP08-030",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Minks",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-030_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-030_p1.jpg"
+    }
+]

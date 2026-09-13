@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 508 seconds."
-}
+[
+    {
+        "card_name": "Shanks (001)",
+        "set_name": "Emperors in the New World",
+        "card_text": "[Once Per Turn] This effect can be activated when your opponent attacks. Give up to 1 of your opponent's Leader or Character cards 1000 power during this turn.",
+        "set_id": "OP-09",
+        "rarity": "L",
+        "card_set_id": "OP09-001",
+        "card_color": "Red",
+        "card_type": "Leader",
+        "life": "5",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "The Four Emperors Red-Haired Pirates",
+        "counter_amount": null,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-001",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-001.jpg"
+    },
+    {
+        "card_name": "Shanks (001) (Parallel)",
+        "set_name": "Emperors in the New World",
+        "card_text": "[Once Per Turn] This effect can be activated when your opponent attacks. Give up to 1 of your opponent's Leader or Character cards 1000 power during this turn.",
+        "set_id": "OP-09",
+        "rarity": "L",
+        "card_set_id": "OP09-001",
+        "card_color": "Red",
+        "card_type": "Leader",
+        "life": "5",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "The Four Emperors Red-Haired Pirates",
+        "counter_amount": null,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-001_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-001_p1.jpg"
+    }
+]

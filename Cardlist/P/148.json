@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Mr.3 (Galdino) - P-148 (Premium Card Collection -Live Action Edition Vol.2 Baroque Works-)",
+        "set_name": "One Piece Promotion Cards",
+        "card_text": "[Blocker]\n[Activate:Main] [Once Per Turn] If there is a Character with a cost of 0 or with a cost of 8 or more, give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+        "set_id": "P",
+        "rarity": "PR",
+        "card_set_id": "P-148",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Baroque Works",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-05-18",
+        "card_image_id": "P-148",
+        "card_image": "https://www.optcgapi.com/media/static/Card_Images/Mr.3_Galdino_-_P-148_Premium_Card_Collection_-Live_Action_Edition_Vol_gZNeIXW.jpg"
+    }
+]

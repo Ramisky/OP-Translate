@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Smoker (Pre-Release)",
+        "set_name": "One Piece Promotion Cards",
+        "card_text": "[DON!! x1] This Character cannot be K.O.'d in battle by Characters without the \"Special\" attribute.",
+        "set_id": "P",
+        "rarity": "PR",
+        "card_set_id": "P-025",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "5000",
+        "sub_types": "Navy",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "P-025_pr1",
+        "card_image": "https://www.optcgapi.com/media/static/Card_Images/Smoker_Pre-Release_img.jpg"
+    },
+    {
+        "card_name": "Smoker (Pre-Release) [Winner]",
+        "set_name": "One Piece Promotion Cards",
+        "card_text": "[DON!! x1] This Character cannot be K.O.'d in battle by Characters without the \"Special\" attribute.",
+        "set_id": "P",
+        "rarity": "PR",
+        "card_set_id": "P-025",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "5000",
+        "sub_types": "Navy",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-08",
+        "card_image_id": "P-025",
+        "card_image": "https://www.optcgapi.com/media/static/Card_Images/Smoker_Pre-Release_Winner_img.jpg"
+    }
+]

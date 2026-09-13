@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 716 seconds."
-}
+[
+    {
+        "card_name": "Rockstar",
+        "set_name": "The World's Strongest Warriors",
+        "card_text": "[Activate: Main] [Once Per Turn] If your opponent's Leader has 6000 power or more, set up to 1 of your DON!! cards as active. Then, your {Red-Haired Pirates} type Leader's base power becomes 6000 until the end of your opponent's next End Phase.",
+        "set_id": "OP-17",
+        "rarity": "C",
+        "card_set_id": "OP17-034",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Red-Haired Pirates",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP17-034",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP17-034_GeKuUHN.jpg"
+    }
+]

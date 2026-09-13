@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 552 seconds."
-}
+[
+    {
+        "card_name": "Never Underestimate the Power of Miracles!!",
+        "set_name": "Emperors in the New World",
+        "card_text": "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle.\n[Trigger] Play up to 1 \"Revolutionary Army\" type Character card with a cost of 4 or less from your hand.",
+        "set_id": "OP-09",
+        "rarity": "C",
+        "card_set_id": "OP09-116",
+        "card_color": "Yellow",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "Revolutionary Army",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-116",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-116.jpg"
+    }
+]

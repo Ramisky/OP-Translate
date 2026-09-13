@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 1187 seconds."
-}
+[
+    {
+        "card_name": "Queen (046)",
+        "set_name": "Kingdoms of Intrigue",
+        "card_text": "[On Play] If your Leader has the [Animal Kingdom Pirates] type, look at 7 cards from the top of your deck; reveal a total of 2 [Plague Rounds] or [Ice Oni] cards and add them to your hand. Then, place the rest at the bottom of your deck in any order.",
+        "set_id": "OP-04",
+        "rarity": "UC",
+        "card_set_id": "OP04-046",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Animal Kingdom Pirates",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP04-046",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP04-046.jpg"
+    }
+]

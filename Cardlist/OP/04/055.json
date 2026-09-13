@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 1137 seconds."
-}
+[
+    {
+        "card_name": "Plague Rounds",
+        "set_name": "Kingdoms of Intrigue",
+        "card_text": "[Main] You may trash 1 [Ice Oni] from your hand and place 1 Character with a cost of 4 or less at the bottom of the owner's deck: Play 1 [Ice Oni] from your trash. [Trigger] Activate this card's [Main] effect.",
+        "set_id": "OP-04",
+        "rarity": "C",
+        "card_set_id": "OP04-055",
+        "card_color": "Blue",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "2",
+        "card_power": null,
+        "sub_types": "Animal Kingdom Pirates",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP04-055",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP04-055.jpg"
+    }
+]

@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 1255 seconds."
-}
+[
+    {
+        "card_name": "Happiness Punch",
+        "set_name": "Kingdoms of Intrigue",
+        "card_text": "[Counter] Give up to 1 of your opponent's Leader or Character cards -2000 power during this turn. Then, if your Leader is active, give up to 1 of your opponent's Leader or Character cards -1000 power during this turn.",
+        "set_id": "OP-04",
+        "rarity": "C",
+        "card_set_id": "OP04-017",
+        "card_color": "Red",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "Alabasta Straw Hat Crew",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP04-017",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP04-017.jpg"
+    }
+]

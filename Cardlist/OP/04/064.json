@@ -1,3 +1,59 @@
-{
-    "detail": "Request was throttled. Expected available in 1212 seconds."
-}
+[
+    {
+        "card_name": "Ms. All Sunday",
+        "set_name": "Kingdoms of Intrigue",
+        "card_text": "[On Play] Add up to 1 DON!! card from your DON!! deck and rest it. Then, if you have 6 or more DON!! cards on your field, draw 1 card. [Trigger] DON!! -2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Play this card.",
+        "set_id": "OP-04",
+        "rarity": "SR",
+        "card_set_id": "OP04-064",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "5000",
+        "sub_types": "Baroque Works",
+        "counter_amount": 0,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP04-064",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP04-064.jpg"
+    },
+    {
+        "card_name": "Ms. All Sunday (Alternate Art)",
+        "set_name": "Kingdoms of Intrigue",
+        "card_text": "[On Play] Add up to 1 DON!! card from your DON!! deck and rest it. Then, if you have 6 or more DON!! cards on your field, draw 1 card. [Trigger] DON!! -2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Play this card.",
+        "set_id": "OP-04",
+        "rarity": "SR",
+        "card_set_id": "OP04-064",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "5000",
+        "sub_types": "Baroque Works",
+        "counter_amount": 0,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP04-064_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP04-064_p1.jpg"
+    },
+    {
+        "card_name": "Ms. All Sunday (SP)",
+        "set_name": "Wings of the Captain",
+        "card_text": "[On Play] Add up to 1 DON!! card from your DON!! deck and rest it. Then, if you have 6 or more DON!! cards on your field, draw 1 card.\n[Trigger] DON!! -2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Play this card.",
+        "set_id": "OP-06",
+        "rarity": "SR",
+        "card_set_id": "OP04-064",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "5000",
+        "sub_types": "Baroque Works",
+        "counter_amount": 0,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP04-064_p2",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP04-064_p2.jpg"
+    }
+]

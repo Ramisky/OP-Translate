@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Monkey.D.Luffy (Starter Deck 11: Uta Deck Battle)",
+        "set_name": "One Piece Promotion Cards",
+        "card_text": null,
+        "set_id": "P",
+        "rarity": "PR",
+        "card_set_id": "P-061",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "8",
+        "card_power": "10000",
+        "sub_types": "FILM Straw Hat Crew",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "P-061_pr1",
+        "card_image": "https://www.optcgapi.com/media/static/Card_Images/Monkey.D.Luffy_Starter_Deck_11_Uta_Deck_Battle_img.jpg"
+    },
+    {
+        "card_name": "Monkey.D.Luffy (Starter Deck 11: Uta Deck Battle) [Winner]",
+        "set_name": "One Piece Promotion Cards",
+        "card_text": null,
+        "set_id": "P",
+        "rarity": "PR",
+        "card_set_id": "P-061",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "8",
+        "card_power": "10000",
+        "sub_types": "FILM Straw Hat Crew",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-07-19",
+        "card_image_id": "P-061",
+        "card_image": "https://www.optcgapi.com/media/static/Card_Images/Monkey.D.Luffy_Starter_Deck_11_Uta_Deck_Battle_Winner_img.jpg"
+    }
+]

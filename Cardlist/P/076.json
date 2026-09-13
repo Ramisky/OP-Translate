@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Sakazuki (Pirates Party Vol. 7)",
+        "set_name": "One Piece Promotion Cards",
+        "card_text": "[Activate:Main][Once Per Turn] You may trash 1 [Navy] type card from your hand: Give up to 1 of your opponent's Characters -1 cost during this turn.",
+        "set_id": "P",
+        "rarity": "PR",
+        "card_set_id": "P-076",
+        "card_color": "Blue Black",
+        "card_type": "Leader",
+        "life": "4",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Navy",
+        "counter_amount": 0,
+        "attribute": "Special Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "P-076",
+        "card_image": "https://www.optcgapi.com/media/static/Card_Images/Sakazuki_Pirates_Party_Vol._7_img.jpg"
+    }
+]

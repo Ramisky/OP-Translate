@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Dracule Mihawk (Premium Card Collection -Live Action Edition-)",
+        "set_name": "One Piece Promotion Cards",
+        "card_text": "[DON!! x1] This Character cannot be K.O.'d in battle by \"Slash\" attribute cards.",
+        "set_id": "P",
+        "rarity": "PR",
+        "card_set_id": "P-052",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "7000",
+        "sub_types": "The Seven Warlords of the Sea",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "P-052_pr1",
+        "card_image": null
+    },
+    {
+        "card_name": "Dracule Mihawk (Sealed Battle Kit Vol. 1)",
+        "set_name": "One Piece Promotion Cards",
+        "card_text": "[DON!! x1] This Character cannot be K.O.'d in battle by \"Slash\" attribute cards.",
+        "set_id": "P",
+        "rarity": "PR",
+        "card_set_id": "P-052",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "7000",
+        "sub_types": "The Seven Warlords of the Sea",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "P-052",
+        "card_image": null
+    }
+]

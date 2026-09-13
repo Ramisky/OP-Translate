@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Girl (OP14 Release Event)",
+        "set_name": "One Piece Promotion Cards",
+        "card_text": "[On Play] Draw 1 card and trash 1 card from your hand.[Activate:Main] [Once Per Turn] Give up to 1 rested DON!! card to 1 of your [Nami] cards",
+        "set_id": "P",
+        "rarity": "PR",
+        "card_set_id": "P-096",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "0",
+        "sub_types": "Sabaody Archipelago",
+        "counter_amount": 1000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "P-096_pr1",
+        "card_image": "https://www.optcgapi.com/media/static/Card_Images/Girl_OP14_Release_Event_img.jpg"
+    },
+    {
+        "card_name": "Girl (OP14 Release Event Winner)",
+        "set_name": "One Piece Promotion Cards",
+        "card_text": "[On Play] Draw 1 card and trash 1 card from your hand.\n[Activate:Main] [Once Per Turn] Give up to 1 rested DON!! card to 1 of your [Nami] cards",
+        "set_id": "P",
+        "rarity": "PR",
+        "card_set_id": "P-096",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "0",
+        "sub_types": "Sabaody Archipelago",
+        "counter_amount": 1000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "P-096",
+        "card_image": "https://www.optcgapi.com/media/static/Card_Images/Girl_OP14_Release_Event_Winner_img.jpg"
+    }
+]

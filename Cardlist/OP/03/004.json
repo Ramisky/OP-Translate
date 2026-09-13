@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 2479 seconds."
-}
+[
+    {
+        "card_name": "Curiel",
+        "set_name": "Pillars of Strength",
+        "card_text": "This Character cannot attack a Leader on the turn in which it is played. [DON!! x1] This Character gains [Rush]. (This card can attack on the turn in which it is played.)",
+        "set_id": "OP-03",
+        "rarity": "C",
+        "card_set_id": "OP03-004",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "Whitebeard Pirates",
+        "counter_amount": 1000,
+        "attribute": "Ranged",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP03-004",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP03-004.jpg"
+    }
+]

@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 522 seconds."
-}
+[
+    {
+        "card_name": "Jinbe",
+        "set_name": "Emperors in the New World",
+        "card_text": null,
+        "set_id": "OP-09",
+        "rarity": "C",
+        "card_set_id": "OP09-067",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "7",
+        "card_power": "9000",
+        "sub_types": "Fish-Man Straw Hat Crew",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-067",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-067.jpg"
+    }
+]

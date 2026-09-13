@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 1358 seconds."
-}
+[
+    {
+        "card_name": "Jerry",
+        "set_name": "Pillars of Strength",
+        "card_text": "NULL",
+        "set_id": "OP-03",
+        "rarity": "C",
+        "card_set_id": "OP03-084",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "4000",
+        "sub_types": "CP6",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP03-084",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP03-084.jpg"
+    }
+]

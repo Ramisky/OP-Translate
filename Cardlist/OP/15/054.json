@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 150 seconds."
-}
+[
+    {
+        "card_name": "And No One Else Can Have It! It's Our Memento of Him",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "[Main] If your Leader is [Lucy], choose one:\n\u2022 Draw 2 cards and trash 1 card from your hand. Then, play up to 1 {Dressrosa} type Character card with a cost of 4 or less from your hand.\n\u2022 Return up to 1 Stage to the owner's hand.",
+        "set_id": "OP15-EB04",
+        "rarity": "C",
+        "card_set_id": "OP15-054",
+        "card_color": "Blue",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "4",
+        "card_power": null,
+        "sub_types": "Revolutionary Army Dressrosa",
+        "counter_amount": 0,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP15-054",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP15-054_i7afLoR.jpg"
+    }
+]

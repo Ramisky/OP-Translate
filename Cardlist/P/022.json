@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Monkey.D.Luffy (One Piece Film Red)",
+        "set_name": "One Piece Promotion Cards",
+        "card_text": null,
+        "set_id": "P",
+        "rarity": "PR",
+        "card_set_id": "P-022",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "6000",
+        "sub_types": "Film Straw Hat Crew Supernovas",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "P-022_pr1",
+        "card_image": "https://www.optcgapi.com/media/static/Card_Images/Monkey.D.Luffy_One_Piece_Film_Red_img.jpg"
+    },
+    {
+        "card_name": "Monkey.D.Luffy (Premium Card Collection -ONE PIECE FILM RED Edition-)",
+        "set_name": "One Piece Promotion Cards",
+        "card_text": null,
+        "set_id": "P",
+        "rarity": "PR",
+        "card_set_id": "P-022",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "6000",
+        "sub_types": "FILM Straw Hat Crew Supernovas",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "P-022",
+        "card_image": "https://www.optcgapi.com/media/static/Card_Images/Monkey.D.Luffy_Premium_Card_Collection_-ONE_PIECE_FILM_RED_Edition-_img.jpg"
+    }
+]

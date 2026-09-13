@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Buggy (OP10 Release Event)",
+        "set_name": "One Piece Promotion Cards",
+        "card_text": "This Character cannot attack.\nIf your Leader is [Buggy], all Characters with a cost of 3 or 4 cannot attack.\n[On Play] Play up to 1 \"Cross Guild\" type Character card with a cost of 6 or less from your hand.",
+        "set_id": "P",
+        "rarity": "PR",
+        "card_set_id": "P-084",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "7",
+        "card_power": "8000",
+        "sub_types": "The Four Emperors Cross Guild",
+        "counter_amount": 0,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "P-084",
+        "card_image": null
+    }
+]

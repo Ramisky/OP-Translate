@@ -1,3 +1,59 @@
-{
-    "detail": "Request was throttled. Expected available in 509 seconds."
-}
+[
+    {
+        "card_name": "Mr.3(Galdino)",
+        "set_name": "Emperors in the New World",
+        "card_text": "[On Play] Look at 4 cards from the top of your deck; reveal up to 1 \"Cross Guild\" type card or card with a type including \"Baroque Works\" other than [Mr.3(Galdino)] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+        "set_id": "OP-09",
+        "rarity": "R",
+        "card_set_id": "OP09-056",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "2000",
+        "sub_types": "Former Baroque Works Cross Guild",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-056",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-056.jpg"
+    },
+    {
+        "card_name": "Mr.3(Galdino) - OP09-056 (Alternate Art)",
+        "set_name": "Premium Booster -The Best- Vol. 2",
+        "card_text": "[On Play] Look at 4 cards from the top of your deck; reveal up to 1 \"Cross Guild\" type card or card with a type including \"Baroque Works\" other than [Mr.3(Galdino)] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+        "set_id": "PRB-02",
+        "rarity": "R",
+        "card_set_id": "OP09-056",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "2000",
+        "sub_types": "Former Baroque Works Cross Guild",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-056_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-056_p1.jpg"
+    },
+    {
+        "card_name": "Mr.3(Galdino) - OP09-056 (Reprint)",
+        "set_name": "Premium Booster -The Best- Vol. 2",
+        "card_text": "[On Play] Look at 4 cards from the top of your deck; reveal up to 1 \"Cross Guild\" type card or card with a type including \"Baroque Works\" other than [Mr.3(Galdino)] and add it to your hand. Then, place the rest at the bottom of your deck in any order.Disclaimer: This card was reprinted from the original set with changes to the copyright information (Note: the original print did not include \"EN\" at the end of the copyright).",
+        "set_id": "PRB-02",
+        "rarity": "R",
+        "card_set_id": "OP09-056",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "2000",
+        "sub_types": "Former Baroque Works Cross Guild",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-056_r2",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-056_r2.jpg"
+    }
+]

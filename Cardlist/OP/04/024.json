@@ -1,3 +1,59 @@
-{
-    "detail": "Request was throttled. Expected available in 2395 seconds."
-}
+[
+    {
+        "card_name": "Sugar",
+        "set_name": "Kingdoms of Intrigue",
+        "card_text": "[Opponent's Turn] [Once Per Turn] When your opponent plays a Character, if your Leader has the [Donquixote Pirates] type, rest up to 1 of your opponent's Characters. Then, rest this Character. [On Play] Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+        "set_id": "OP-04",
+        "rarity": "SR",
+        "card_set_id": "OP04-024",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "0",
+        "sub_types": "Donquixote Pirates",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP04-024",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP04-024.jpg"
+    },
+    {
+        "card_name": "Sugar (Alternate Art)",
+        "set_name": "Kingdoms of Intrigue",
+        "card_text": "[Opponent's Turn] [Once Per Turn] When your opponent plays a Character, if your Leader has the [Donquixote Pirates] type, rest up to 1 of your opponent's Characters. Then, rest this Character. [On Play] Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+        "set_id": "OP-04",
+        "rarity": "SR",
+        "card_set_id": "OP04-024",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "0",
+        "sub_types": "Donquixote Pirates",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP04-024_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP04-024_p1.jpg"
+    },
+    {
+        "card_name": "Sugar (SP)",
+        "set_name": "Wings of the Captain",
+        "card_text": "[Opponent's Turn][Once Per Turn] When your opponent plays a Character, if your Leader has the [Donquixote Pirates] type, rest up to 1 of your opponent's Characters. Then, rest this Character.\n[On Play] Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+        "set_id": "OP-06",
+        "rarity": "SR",
+        "card_set_id": "OP04-024",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "0",
+        "sub_types": "Donquixote Pirates",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP04-024_p2",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP04-024_p2.jpg"
+    }
+]

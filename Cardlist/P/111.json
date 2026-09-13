@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Nico Robin (Heroines Battle Pack)",
+        "set_name": "One Piece Promotion Cards",
+        "card_text": "[Once Per Turn] If your {Straw Hat Crew} type Character would be removed from the field by your opponent's effect, you may rest 1 of your DON!! cards instead.",
+        "set_id": "P",
+        "rarity": "PR",
+        "card_set_id": "P-111",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "Straw Hat Crew",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "P-111_pr1",
+        "card_image": "https://www.optcgapi.com/media/static/Card_Images/Nico_Robin_Heroines_Battle_Pack_img.jpg"
+    },
+    {
+        "card_name": "Nico Robin (Heroines Battle Winner Pack)",
+        "set_name": "One Piece Promotion Cards",
+        "card_text": "[Once Per Turn] If your {Straw Hat Crew} type Character would be removed from the field by your opponent's effect, you may rest 1 of your DON!! cards instead.",
+        "set_id": "P",
+        "rarity": "PR",
+        "card_set_id": "P-111",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "Straw Hat Crew",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "P-111",
+        "card_image": "https://www.optcgapi.com/media/static/Card_Images/Nico_Robin_Heroines_Battle_Winner_Pack_img.jpg"
+    }
+]

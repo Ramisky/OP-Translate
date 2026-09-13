@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 2450 seconds."
-}
+[
+    {
+        "card_name": "Flapping Thread",
+        "set_name": "Kingdoms of Intrigue",
+        "card_text": "[Counter] If your Leader has the [Donquixote Pirates] type, up to 1 of your Leader or Character cards gains +2000 power during this turn. [Trigger] K.O. up to 1 of your opponent's rested Characters with a cost of 4 or less.",
+        "set_id": "OP-04",
+        "rarity": "UC",
+        "card_set_id": "OP04-037",
+        "card_color": "Green",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "2",
+        "card_power": null,
+        "sub_types": "Donquixote Pirates The Seven Warlords of the Sea",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP04-037",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP04-037.jpg"
+    }
+]

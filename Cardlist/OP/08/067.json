@@ -1,3 +1,59 @@
-{
-    "detail": "Request was throttled. Expected available in 537 seconds."
-}
+[
+    {
+        "card_name": "Charlotte Pudding (067)",
+        "set_name": "Two Legends",
+        "card_text": "[Your Turn] [Once Per Turn] When a DON!! card on your field is returned to your DON!! deck, add up to 1 DON!! card from your DON!! deck and rest it.",
+        "set_id": "OP-08",
+        "rarity": "R",
+        "card_set_id": "OP08-067",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "Big Mom Pirates",
+        "counter_amount": 1000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-067",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-067.jpg"
+    },
+    {
+        "card_name": "Charlotte Pudding (067) (Parallel)",
+        "set_name": "Two Legends",
+        "card_text": "[Your Turn] [Once Per Turn] When a DON!! card on your field is returned to your DON!! deck, add up to 1 DON!! card from your DON!! deck and rest it.",
+        "set_id": "OP-08",
+        "rarity": "R",
+        "card_set_id": "OP08-067",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "Big Mom Pirates",
+        "counter_amount": 1000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-067_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-067_p1.jpg"
+    },
+    {
+        "card_name": "Charlotte Pudding - OP08-067 (Reprint)",
+        "set_name": "Premium Booster -The Best- Vol. 2",
+        "card_text": "[Your Turn] [Once Per Turn] When a DON!! card on your field is returned to your DON!! deck, add up to 1 DON!! card from your DON!! deck and rest it.Disclaimer: This card was reprinted from the original set with changes to the copyright information (Note: the original print did not include \"EN\" at the end of the copyright).",
+        "set_id": "PRB-02",
+        "rarity": "R",
+        "card_set_id": "OP08-067",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "Big Mom Pirates",
+        "counter_amount": 1000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-067_r1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-067_r1.jpg"
+    }
+]

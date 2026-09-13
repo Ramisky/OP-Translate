@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 85 seconds."
-}
+[
+    {
+        "card_name": "Sentomaru",
+        "set_name": "Legacy of the Master",
+        "card_text": "[Trigger] K.O. up to 1 of your opponent's Characters with a cost of 4 or less.",
+        "set_id": "OP-12",
+        "rarity": "C",
+        "card_set_id": "OP12-104",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Navy Egghead",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP12-104",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP12-104_PtP8riJ.jpg"
+    }
+]

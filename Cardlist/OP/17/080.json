@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 2003 seconds."
-}
+[
+    {
+        "card_name": "Usopp",
+        "set_name": "The World's Strongest Warriors",
+        "card_text": "If there is a Character with a cost of 12 or more, this Character gains +3000 power.\n[On Play] Look at 3 cards from the top of your deck; reveal up to 1 {Elbaph} type card and add it to your hand. Then, trash the rest.",
+        "set_id": "OP-17",
+        "rarity": "SR",
+        "card_set_id": "OP17-080",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "2000",
+        "sub_types": "Straw Hat Crew Elbaph",
+        "counter_amount": 1000,
+        "attribute": "Ranged",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP17-080",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP17-080_x0kiaW9.jpg"
+    },
+    {
+        "card_name": "Usopp (Alternate Art)",
+        "set_name": "The World's Strongest Warriors",
+        "card_text": "If there is a Character with a cost of 12 or more, this Character gains +3000 power.\n[On Play] Look at 3 cards from the top of your deck; reveal up to 1 {Elbaph} type card and add it to your hand. Then, trash the rest.",
+        "set_id": "OP-17",
+        "rarity": "SR",
+        "card_set_id": "OP17-080",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "2000",
+        "sub_types": "Straw Hat Crew Elbaph",
+        "counter_amount": 1000,
+        "attribute": "Ranged",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP17-080_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP17-080_p1_xOpBgGZ.jpg"
+    }
+]

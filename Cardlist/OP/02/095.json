@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 991 seconds."
-}
+[
+    {
+        "card_name": "Onigumo",
+        "set_name": "Paramount War",
+        "card_text": "If there is a Character with a cost of 0, this Character gains [Banish]. (When this card deals damage, the target card is trashed without activating its Trigger.)",
+        "set_id": "OP-02",
+        "rarity": "UC",
+        "card_set_id": "OP02-095",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Navy",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP02-095",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP02-095.jpg"
+    }
+]

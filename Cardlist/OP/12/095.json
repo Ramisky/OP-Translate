@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 182 seconds."
-}
+[
+    {
+        "card_name": "Lindbergh",
+        "set_name": "Legacy of the Master",
+        "card_text": "If your Leader has the \"Revolutionary Army\" type, this Character gains +4 cost.\n[On Play] Draw 1 card and trash 1 card from your hand.",
+        "set_id": "OP-12",
+        "rarity": "C",
+        "card_set_id": "OP12-095",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Minks Revolutionary Army",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP12-095",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP12-095_o52Jkiu.jpg"
+    }
+]

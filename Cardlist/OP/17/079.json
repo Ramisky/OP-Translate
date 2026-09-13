@@ -1,3 +1,59 @@
-{
-    "detail": "Request was throttled. Expected available in 813 seconds."
-}
+[
+    {
+        "card_name": "Monkey.D.Luffy (079)",
+        "set_name": "The World's Strongest Warriors",
+        "card_text": "All of your Characters with a cost of 12 or more gain [Blocker].(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+        "set_id": "OP-17",
+        "rarity": "L",
+        "card_set_id": "OP17-079",
+        "card_color": "Black",
+        "card_type": "Leader",
+        "life": "5",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Straw Hat Crew The Four Emperors Elbaph",
+        "counter_amount": 0,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP17-079",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP17-079_NMMHO3F.jpg"
+    },
+    {
+        "card_name": "Monkey.D.Luffy (079) (Alternate Art)",
+        "set_name": "The World's Strongest Warriors",
+        "card_text": "All of your Characters with a cost of 12 or more gain [Blocker].(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+        "set_id": "OP-17",
+        "rarity": "L",
+        "card_set_id": "OP17-079",
+        "card_color": "Black",
+        "card_type": "Leader",
+        "life": "5",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Straw Hat Crew The Four Emperors Elbaph",
+        "counter_amount": 0,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP17-079_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP17-079_p1_DB0IOsB.jpg"
+    },
+    {
+        "card_name": "Monkey.D.Luffy (079) (Super Leader Alternate Art)",
+        "set_name": "The World's Strongest Warriors",
+        "card_text": "All of your Characters with a cost of 12 or more gain [Blocker].(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+        "set_id": "OP-17",
+        "rarity": "L",
+        "card_set_id": "OP17-079",
+        "card_color": "Black",
+        "card_type": "Leader",
+        "life": "5",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Straw Hat Crew The Four Emperors Elbaph",
+        "counter_amount": 0,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP17-079_p2",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP17-079_p2.jpg"
+    }
+]

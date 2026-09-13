@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 2465 seconds."
-}
+[
+    {
+        "card_name": "Miss.Valentine(Mikita)",
+        "set_name": "Kingdoms of Intrigue",
+        "card_text": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 card with a type including \"Baroque Works\" and add it to your hand. Then, place the rest at the bottom of your deck in any order. [Trigger] DON!! -1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Play this card.",
+        "set_id": "OP-04",
+        "rarity": "R",
+        "card_set_id": "OP04-066",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "2000",
+        "sub_types": "Baroque Works",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP04-066",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP04-066.jpg"
+    }
+]

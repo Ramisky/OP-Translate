@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Shanks (Premium Card Collection -ONE PIECE FILM RED Edition-)",
+        "set_name": "One Piece Promotion Cards",
+        "card_text": null,
+        "set_id": "P",
+        "rarity": "PR",
+        "card_set_id": "P-016",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "8",
+        "card_power": "10000",
+        "sub_types": "FILM The Four Emperors Red-Haired Pirates",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "P-016_pr1",
+        "card_image": "https://www.optcgapi.com/media/static/Card_Images/Shanks_Premium_Card_Collection_-ONE_PIECE_FILM_RED_Edition-_img.jpg"
+    },
+    {
+        "card_name": "Shanks (One Piece Film Red)",
+        "set_name": "One Piece Promotion Cards",
+        "card_text": null,
+        "set_id": "P",
+        "rarity": "PR",
+        "card_set_id": "P-016",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "8",
+        "card_power": "10000",
+        "sub_types": "Film The Four Emperors Red-Haired Pirates",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "P-016",
+        "card_image": "https://www.optcgapi.com/media/static/Card_Images/Shanks_One_Piece_Film_Red_img.jpg"
+    }
+]

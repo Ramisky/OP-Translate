@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Boa Hancock (Sealed Battle 2024 Vol. 2)",
+        "set_name": "One Piece Promotion Cards",
+        "card_text": "[Your Turn] If you have 5 or less cards in your hand, all of your [Kuja Pirates] type Characters gain +1000 power.",
+        "set_id": "P",
+        "rarity": "PR",
+        "card_set_id": "P-066",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Kuja Pirates The Seven Warlords of the Sea",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "P-066",
+        "card_image": "https://www.optcgapi.com/media/static/Card_Images/Boa_Hancock_Sealed_Battle_2024_Vol._2_img.jpg"
+    }
+]

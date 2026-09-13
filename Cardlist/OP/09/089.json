@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 1810 seconds."
-}
+[
+    {
+        "card_name": "Stronger",
+        "set_name": "Emperors in the New World",
+        "card_text": "[Activate: Main] You may trash 1 card from your hand and trash this Character: If your Leader has the \"Blackbeard Pirates\" type, draw 1 card. Then, give up to 1 of your opponent's Characters \u20132 cost during this turn.",
+        "set_id": "OP-09",
+        "rarity": "UC",
+        "card_set_id": "OP09-089",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "0",
+        "sub_types": "Animal Blackbeard Pirates",
+        "counter_amount": 2000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-089",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-089.jpg"
+    }
+]

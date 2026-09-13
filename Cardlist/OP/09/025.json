@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 1750 seconds."
-}
+[
+    {
+        "card_name": "Crocodile (025)",
+        "set_name": "Emperors in the New World",
+        "card_text": "If your Leader has the \"ODYSSEY\" type, this Character cannot be K.O.'d in battle by Leaders.",
+        "set_id": "OP-09",
+        "rarity": "UC",
+        "card_set_id": "OP09-025",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Baroque Works The Seven Warlords of the Sea ODYSSEY",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-025",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-025.jpg"
+    }
+]

@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 2434 seconds."
-}
+[
+    {
+        "card_name": "Tom",
+        "set_name": "Kingdoms of Intrigue",
+        "card_text": "[Activate:Main] You may trash this Character: If your Leader has the [Water Seven] type, add up to 1 DON!! card from your DON!! deck and rest it.",
+        "set_id": "OP-04",
+        "rarity": "C",
+        "card_set_id": "OP04-061",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "Fish-Man Water Seven",
+        "counter_amount": 1000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP04-061",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP04-061.jpg"
+    }
+]

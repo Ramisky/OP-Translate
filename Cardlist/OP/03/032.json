@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 2486 seconds."
-}
+[
+    {
+        "card_name": "Buggy (Dash Pack)",
+        "set_name": "Kingdoms of Intrigue",
+        "card_text": "This Character cannot be K.O.'d in battle by \"Slash\" attribute cards.",
+        "set_id": "OP-04",
+        "rarity": "C",
+        "card_set_id": "OP03-032",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "5000",
+        "sub_types": "Buggy Pirates East Blue",
+        "counter_amount": 0,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP03-032_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP03-032_p1.jpg"
+    },
+    {
+        "card_name": "Buggy (032)",
+        "set_name": "Pillars of Strength",
+        "card_text": "This Character cannot be K.O.'d in battle by \"Slash\" attribute cards.",
+        "set_id": "OP-03",
+        "rarity": "C",
+        "card_set_id": "OP03-032",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "5000",
+        "sub_types": "Buggy Pirates East Blue",
+        "counter_amount": 0,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP03-032",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP03-032_EIda3bg.jpg"
+    }
+]

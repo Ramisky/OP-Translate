@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 1728 seconds."
-}
+[
+    {
+        "card_name": "Tristan",
+        "set_name": "Two Legends",
+        "card_text": "NULL",
+        "set_id": "OP-08",
+        "rarity": "C",
+        "card_set_id": "OP08-027",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "3000",
+        "sub_types": "Minks",
+        "counter_amount": 1000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-027",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-027.jpg"
+    }
+]

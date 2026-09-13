@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 1730 seconds."
-}
+[
+    {
+        "card_name": "Miyagi",
+        "set_name": "Two Legends",
+        "card_text": "[On Play] Set up to 1 of your [Minks] type Characters with a cost of 2 or less as active.",
+        "set_id": "OP-08",
+        "rarity": "C",
+        "card_set_id": "OP08-031",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "1000",
+        "sub_types": "Minks",
+        "counter_amount": 1000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-031",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-031.jpg"
+    }
+]

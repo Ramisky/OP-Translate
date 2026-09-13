@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 1222 seconds."
-}
+[
+    {
+        "card_name": "Nez-Palm Cannon",
+        "set_name": "Kingdoms of Intrigue",
+        "card_text": "[Counter] Up to 1 of your Leader or Character cards gains +6000 power during this battle. Then, if you have 2 or less Life cards, add up to 1 DON!! card from your DON!! deck and rest it. [Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
+        "set_id": "OP-04",
+        "rarity": "UC",
+        "card_set_id": "OP04-075",
+        "card_color": "Purple",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "3",
+        "card_power": null,
+        "sub_types": "Baroque Works",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP04-075",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP04-075.jpg"
+    }
+]

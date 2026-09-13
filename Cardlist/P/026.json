@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Morgan (Pirates Party Vol. 2)",
+        "set_name": "One Piece Promotion Cards",
+        "card_text": "[When Attacking] Give up to 1 of your opponent's Characters -3 cost during this turn.",
+        "set_id": "P",
+        "rarity": "PR",
+        "card_set_id": "P-026",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Navy",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "P-026",
+        "card_image": "https://www.optcgapi.com/media/static/Card_Images/Morgan_Pirates_Party_Vol._2_img.jpg"
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Tony Tony.Chopper - P-138 (Premium Card Collection -Live Action Edition Vol.2 Straw Hat Crew-)",
+        "set_name": "One Piece Promotion Cards",
+        "card_text": "[Opponent's Turn] This Character gains +2000 power.",
+        "set_id": "P",
+        "rarity": "PR",
+        "card_set_id": "P-138",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "Animal Straw Hat Crew",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-05-18",
+        "card_image_id": "P-138",
+        "card_image": null
+    }
+]

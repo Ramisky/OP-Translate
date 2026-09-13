@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 2456 seconds."
-}
+[
+    {
+        "card_name": "Stussy",
+        "set_name": "Kingdoms of Intrigue",
+        "card_text": "[On Play] Look at 3 cards from the top of your deck and play up to 1 Character card with a type including \"CP\" other than [Stussy] and a cost of 2 or less. Then, trash the rest.",
+        "set_id": "OP-04",
+        "rarity": "C",
+        "card_set_id": "OP04-084",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "3000",
+        "sub_types": "CP0",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP04-084",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP04-084.jpg"
+    }
+]

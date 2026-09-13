@@ -1,3 +1,59 @@
-{
-    "detail": "Request was throttled. Expected available in 1748 seconds."
-}
+[
+    {
+        "card_name": "Nico Robin (033)",
+        "set_name": "Emperors in the New World",
+        "card_text": "[On Play] If you have 2 or more rested Characters, none of your \"ODYSSEY\" or \"Straw Hat Crew\" type Characters can be K.O.'d by effects until the end of your opponent's next turn.",
+        "set_id": "OP-09",
+        "rarity": "C",
+        "card_set_id": "OP09-033",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Straw Hat Crew ODYSSEY",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-033",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-033.jpg"
+    },
+    {
+        "card_name": "Nico Robin - OP09-033 (Pirate Foil)",
+        "set_name": "Premium Booster -The Best- Vol. 2",
+        "card_text": "[On Play] If you have 2 or more rested Characters, none of your \"ODYSSEY\" or \"Straw Hat Crew\" type Characters can be K.O.'d by effects until the end of your opponent's next turn.",
+        "set_id": "PRB-02",
+        "rarity": "C",
+        "card_set_id": "OP09-033",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Straw Hat Crew ODYSSEY",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-033_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-033_p1.jpg"
+    },
+    {
+        "card_name": "Nico Robin - OP09-033 (Reprint)",
+        "set_name": "Premium Booster -The Best- Vol. 2",
+        "card_text": "[On Play] If you have 2 or more rested Characters, none of your \"ODYSSEY\" or \"Straw Hat Crew\" type Characters can be K.O.'d by effects until the end of your opponent's next turn.Disclaimer: This card was reprinted from the original set with changes to the copyright information (Note: the original print did not include \"EN\" at the end of the copyright).",
+        "set_id": "PRB-02",
+        "rarity": "C",
+        "card_set_id": "OP09-033",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Straw Hat Crew ODYSSEY",
+        "counter_amount": 1000,
+        "attribute": "Straw Hat Crew ODYSSEY",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-033",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-033_r1.jpg"
+    }
+]

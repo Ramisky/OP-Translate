@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 1349 seconds."
-}
+[
+    {
+        "card_name": "Kuro",
+        "set_name": "Pillars of Strength",
+        "card_text": "[Activate:Main] (3) (You may rest the specified number of DON!! cards in your cost area.) You may rest 2 of your [East Blue] type Characters: Set this Leader as active, and rest up to 1 of your opponent's Characters with a cost of 5 or less.",
+        "set_id": "OP-03",
+        "rarity": "L",
+        "card_set_id": "OP03-021",
+        "card_color": "Green",
+        "card_type": "Leader",
+        "life": "5",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "East Blue Black Cat Pirates",
+        "counter_amount": null,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP03-021",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP03-021.jpg"
+    },
+    {
+        "card_name": "Kuro (Alternate Art)",
+        "set_name": "Pillars of Strength",
+        "card_text": "[Activate:Main] (3) (You may rest the specified number of DON!! cards in your cost area.) You may rest 2 of your [East Blue] type Characters: Set this Leader as active, and rest up to 1 of your opponent's Characters with a cost of 5 or less.",
+        "set_id": "OP-03",
+        "rarity": "L",
+        "card_set_id": "OP03-021",
+        "card_color": "Green",
+        "card_type": "Leader",
+        "life": "5",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "East Blue Black Cat Pirates",
+        "counter_amount": null,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP03-021_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP03-021_p1.jpg"
+    }
+]

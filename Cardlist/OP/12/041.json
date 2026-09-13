@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 1368 seconds."
-}
+[
+    {
+        "card_name": "Sanji (041)",
+        "set_name": "Legacy of the Master",
+        "card_text": "[Activate: Main] [Once Per Turn] DON!! 1: Activate up to 1 \"Straw Hat Crew\" type Event with a base cost of 3 or less from your hand.\n[When Attacking] If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, add up to 1 DON!! card from your DON!! deck and rest it.",
+        "set_id": "OP-12",
+        "rarity": "L",
+        "card_set_id": "OP12-041",
+        "card_color": "Blue Purple",
+        "card_type": "Leader",
+        "life": "4",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Straw Hat Crew The Vinsmoke Family",
+        "counter_amount": null,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP12-041",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP12-041_nYyGxXh.jpg"
+    },
+    {
+        "card_name": "Sanji (041) (Alternate Art)",
+        "set_name": "Legacy of the Master",
+        "card_text": "[Activate: Main] [Once Per Turn] DON!! 1: Activate up to 1 \"Straw Hat Crew\" type Event with a base cost of 3 or less from your hand.\n[When Attacking] If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, add up to 1 DON!! card from your DON!! deck and rest it.",
+        "set_id": "OP-12",
+        "rarity": "L",
+        "card_set_id": "OP12-041",
+        "card_color": "Blue Purple",
+        "card_type": "Leader",
+        "life": "4",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Straw Hat Crew The Vinsmoke Family",
+        "counter_amount": null,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP12-041_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP12-041_p1_qrKax4r.jpg"
+    }
+]

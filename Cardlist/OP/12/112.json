@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 178 seconds."
-}
+[
+    {
+        "card_name": "Baby 5 (112)",
+        "set_name": "Legacy of the Master",
+        "card_text": "[Trigger] If your Leader is multicolored, draw 2 cards.",
+        "set_id": "OP-12",
+        "rarity": "R",
+        "card_set_id": "OP12-112",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Donquixote Pirates",
+        "counter_amount": 2000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP12-112",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP12-112_a2eW3y8.jpg"
+    }
+]

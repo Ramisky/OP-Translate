@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "The World's Continuation (Starter Deck 11: Uta Deck Battle)",
+        "set_name": "One Piece Promotion Cards",
+        "card_text": "[Counter] If your Leader is [Uta], you may return any number of Characters on your field to the owner's hand. Up to 1 of your Leader or Character cards gains +2000 power during this battle for every returned Character.",
+        "set_id": "P",
+        "rarity": "PR",
+        "card_set_id": "P-059",
+        "card_color": "Green",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "2",
+        "card_power": null,
+        "sub_types": "FILM Music",
+        "counter_amount": 0,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "P-059",
+        "card_image": "https://www.optcgapi.com/media/static/Card_Images/The_Worlds_Continuation_Starter_Deck_11_Uta_Deck_Battle_img.jpg"
+    }
+]

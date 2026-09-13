@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 540 seconds."
-}
+[
+    {
+        "card_name": "Basil Hawkins",
+        "set_name": "Two Legends",
+        "card_text": "NULL",
+        "set_id": "OP-08",
+        "rarity": "C",
+        "card_set_id": "OP08-089",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "7",
+        "card_power": "9000",
+        "sub_types": "Animal Kingdom Pirates Hawkins Pirates",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-089",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-089.jpg"
+    }
+]

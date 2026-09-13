@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 147 seconds."
-}
+[
+    {
+        "card_name": "Lucy",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "[When Attacking]/[On Your Opponent's Attack] You may trash any number of Event or Stage cards from your hand. This Leader gains +1000 power during this battle for every card trashed.\n[Activate: Main] [Once Per Turn] If you have activated an Event with a base cost of 3 or more during this turn, draw 1 card.",
+        "set_id": "OP15-EB04",
+        "rarity": "L",
+        "card_set_id": "OP15-002",
+        "card_color": "Blue Red",
+        "card_type": "Leader",
+        "life": "4",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Revolutionary Army Dressrosa",
+        "counter_amount": 0,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP15-002",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP15-002_9JJSMVX.jpg"
+    },
+    {
+        "card_name": "Lucy (Alternate Art)",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "[When Attacking]/[On Your Opponent's Attack] You may trash any number of Event or Stage cards from your hand. This Leader gains +1000 power during this battle for every card trashed.\n[Activate: Main] [Once Per Turn] If you have activated an Event with a base cost of 3 or more during this turn, draw 1 card.",
+        "set_id": "OP15-EB04",
+        "rarity": "L",
+        "card_set_id": "OP15-002",
+        "card_color": "Blue Red",
+        "card_type": "Leader",
+        "life": "4",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Revolutionary Army Dressrosa",
+        "counter_amount": 0,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP15-002_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP15-002_p1_bm75Dds.jpg"
+    }
+]

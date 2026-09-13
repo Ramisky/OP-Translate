@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 1998 seconds."
-}
+[
+    {
+        "card_name": "X.Drake",
+        "set_name": "The World's Strongest Warriors",
+        "card_text": "[On Play] DON!! 2: Trash 1 card from your opponent's hand.",
+        "set_id": "OP-17",
+        "rarity": "C",
+        "card_set_id": "OP17-075",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "2000",
+        "sub_types": "Navy Drake Pirates Animal Kingdom Pirates",
+        "counter_amount": 2000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP17-075",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP17-075_06daLQe.jpg"
+    }
+]

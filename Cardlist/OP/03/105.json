@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 1346 seconds."
-}
+[
+    {
+        "card_name": "Charlotte Oven",
+        "set_name": "Pillars of Strength",
+        "card_text": "[DON!! x1] [When Attacking] You may trash 1 card with a [Trigger] from your hand: This Character gains +3000 power during this battle.",
+        "set_id": "OP-03",
+        "rarity": "UC",
+        "card_set_id": "OP03-105",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "Big Mom Pirates",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP03-105",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP03-105.jpg"
+    }
+]

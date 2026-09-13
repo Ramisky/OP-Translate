@@ -1,3 +1,59 @@
-{
-    "detail": "Request was throttled. Expected available in 2492 seconds."
-}
+[
+    {
+        "card_name": "Gum-Gum Jet Gatling",
+        "set_name": "Pillars of Strength",
+        "card_text": "[Counter] You may trash 1 card from your hand: Up to 1 of your Leader or Character cards gains +3000 power during this battle. [Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
+        "set_id": "OP-03",
+        "rarity": "R",
+        "card_set_id": "OP03-072",
+        "card_color": "Purple",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "0",
+        "card_power": null,
+        "sub_types": "Straw Hat Crew Water Seven",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP03-072",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP03-072.jpg"
+    },
+    {
+        "card_name": "Gum-Gum Jet Gatling (Reprint)",
+        "set_name": "Premium Booster -The Best- Vol. 2",
+        "card_text": "[Counter] You may trash 1 card from your hand: Up to 1 of your Leader or Character cards gains +3000 power during this battle.[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.Disclaimer: This card was reprinted from the original set with changes to the copyright information (Note: the original print did not include \"EN\" at the end of the copyright).",
+        "set_id": "PRB-02",
+        "rarity": "R",
+        "card_set_id": "OP03-072",
+        "card_color": "Purple",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "0",
+        "card_power": null,
+        "sub_types": "Straw Hat Crew Water Seven",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP03-072_r1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP03-072_r1.jpg"
+    },
+    {
+        "card_name": "Gum-Gum Jet Gatling (Alternate Art)",
+        "set_name": "Premium Booster -The Best- Vol. 2",
+        "card_text": "[Counter] You may trash 1 card from your hand: Up to 1 of your Leader or Character cards gains +3000 power during this battle.[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
+        "set_id": "PRB-02",
+        "rarity": "R",
+        "card_set_id": "OP03-072",
+        "card_color": "Purple",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "0",
+        "card_power": null,
+        "sub_types": "Straw Hat Crew Water Seven",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP03-072_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP03-072_p1.jpg"
+    }
+]

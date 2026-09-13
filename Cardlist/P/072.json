@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Ryuma (Premium Card Collection -Best Selection Vol. 3-)",
+        "set_name": "One Piece Promotion Cards",
+        "card_text": "[On Play]/[On K.O.] Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+        "set_id": "P",
+        "rarity": "PR",
+        "card_set_id": "P-072",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "6000",
+        "sub_types": "Monsters",
+        "counter_amount": 0,
+        "attribute": "Slash",
+        "date_scraped": "2025-11-12",
+        "card_image_id": "P-072_pr1",
+        "card_image": null
+    },
+    {
+        "card_name": "Ryuma (Oda Stamped Signature) (Premium Card Collection -Best Selection Vol. 3-)",
+        "set_name": "One Piece Promotion Cards",
+        "card_text": "[On Play]/[On K.O.] Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+        "set_id": "P",
+        "rarity": "PR",
+        "card_set_id": "P-072",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "6000",
+        "sub_types": "Monsters",
+        "counter_amount": 0,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "P-072",
+        "card_image": "https://www.optcgapi.com/media/static/Card_Images/Ryuma_Oda_Stamped_Signature_Premium_Card_Collection_-Best_Selection_V_EK0LB7X.jpg"
+    }
+]

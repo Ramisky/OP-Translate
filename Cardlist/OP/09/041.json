@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 1787 seconds."
-}
+[
+    {
+        "card_name": "Soul Franky Swing Arm Boxing Solid",
+        "set_name": "Emperors in the New World",
+        "card_text": "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, if your Leader has the \"ODYSSEY\" type and you have 2 or more rested Characters, set up to 2 of your Characters as active.\n[Trigger] Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+        "set_id": "OP-09",
+        "rarity": "C",
+        "card_set_id": "OP09-041",
+        "card_color": "Green",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "1",
+        "card_power": null,
+        "sub_types": "Straw Hat Crew ODYSSEY",
+        "counter_amount": null,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-041",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-041.jpg"
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Charlotte Smoothie (Event Pack Vol. 7)",
+        "set_name": "One Piece Promotion Cards",
+        "card_text": "[Opponent's Turn] [On K.O.] DON!! -1: Play up to 1 \"Big Mom Pirates\" type Character card with a cost equal to or less than the number of DON!! cards on your opponent's field other than [Charlotte Smoothie] from your hand.",
+        "set_id": "P",
+        "rarity": "PR",
+        "card_set_id": "P-090",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "7",
+        "card_power": "7000",
+        "sub_types": "Big Mom Pirates",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "P-090",
+        "card_image": null
+    }
+]

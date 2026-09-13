@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 2377 seconds."
-}
+[
+    {
+        "card_name": "Trafalgar Law (027)",
+        "set_name": "Awakening of the New Era",
+        "card_text": "[Activate:Main] You may trash this Character: Rest up to 1 of your opponent's Characters with a cost of 3 or less.",
+        "set_id": "OP-05",
+        "rarity": "UC",
+        "card_set_id": "OP05-027",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "2000",
+        "sub_types": "Donquixote Pirates",
+        "counter_amount": 1000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP05-027",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP05-027.jpg"
+    }
+]

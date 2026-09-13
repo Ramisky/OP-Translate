@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 814 seconds."
-}
+[
+    {
+        "card_name": "I Think He's Seen an Ugly Future...",
+        "set_name": "The World's Strongest Warriors",
+        "card_text": "[Main] You may rest 4 of your cards: Rest up to 1 of your opponent's Characters.\n[Counter] You may trash 1 card from your hand: Up to 1 of your Leader or Characters gains +3000 power during this battle.",
+        "set_id": "OP-17",
+        "rarity": "C",
+        "card_set_id": "OP17-038",
+        "card_color": "Green",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "0",
+        "card_power": null,
+        "sub_types": "Red-Haired Pirates",
+        "counter_amount": 0,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP17-038",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP17-038_t90i9Mt.jpg"
+    }
+]

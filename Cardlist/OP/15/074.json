@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 254 seconds."
-}
+[
+    {
+        "card_name": "Varie",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "[Main] DON!! 1: If your Leader is [Enel], draw 1 card. Then, up to 1 of your Characters gains +2 cost until the end of your opponent's next End Phase. [Counter] Up to 1 of your [Enel] cards gains +2000 power during this battle.",
+        "set_id": "OP15-EB04",
+        "rarity": "UC",
+        "card_set_id": "OP15-074",
+        "card_color": "Purple",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "0",
+        "card_power": null,
+        "sub_types": "Sky Island",
+        "counter_amount": 0,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP15-074",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP15-074.jpg"
+    }
+]

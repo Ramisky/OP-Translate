@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 1205 seconds."
-}
+[
+    {
+        "card_name": "Page One",
+        "set_name": "Kingdoms of Intrigue",
+        "card_text": "[DON!! x1] [Once Per Turn] When you activate an Event, draw 1 card. Then, place 1 card from your hand at the bottom of your deck.",
+        "set_id": "OP-04",
+        "rarity": "UC",
+        "card_set_id": "OP04-053",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "6000",
+        "sub_types": "Animal Kingdom Pirates",
+        "counter_amount": 0,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP04-053",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP04-053.jpg"
+    }
+]

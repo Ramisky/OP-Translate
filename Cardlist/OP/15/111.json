@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 150 seconds."
-}
+[
+    {
+        "card_name": "Mont Blanc Noland",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "[DON!! x1] [When Attacking] Up to 1 of your [Kalgara] cards gains [Rush] during this turn.\n(This card can attack on the turn in which it is played.)",
+        "set_id": "OP15-EB04",
+        "rarity": "C",
+        "card_set_id": "OP15-111",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Jaya Botanist",
+        "counter_amount": 2000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP15-111",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP15-111_22YjquQ.jpg"
+    }
+]

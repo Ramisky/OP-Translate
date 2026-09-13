@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 187 seconds."
-}
+[
+    {
+        "card_name": "Ipponmatsu",
+        "set_name": "Legacy of the Master",
+        "card_text": "If your Leader has the (Slash) attribute and you have 6 or more rested DON!! cards, this Character cannot be rested by your opponent's effects.[Blocker]",
+        "set_id": "OP-12",
+        "rarity": "C",
+        "card_set_id": "OP12-021",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "0",
+        "sub_types": "East Blue",
+        "counter_amount": 1000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP12-021",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP12-021_PoXGOE4.jpg"
+    }
+]

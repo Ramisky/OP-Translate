@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 1448 seconds."
-}
+[
+    {
+        "card_name": "Fire Fist",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "[Main] Your Leader gains +3000 power during this turn and give up to 1 of your opponent's Characters -8000 power until the end of your opponent's next End Phase. Then, you may trash 2 cards from your hand. If you do, K.O. up to 1 of your opponent's Characters with 0 power or less.",
+        "set_id": "OP15-EB04",
+        "rarity": "R",
+        "card_set_id": "OP15-020",
+        "card_color": "Red",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "7",
+        "card_power": null,
+        "sub_types": "Revolutionary Army Dressrosa",
+        "counter_amount": 0,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP15-020",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP15-020_gnZjvrN.jpg"
+    }
+]

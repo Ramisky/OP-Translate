@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 518 seconds."
-}
+[
+    {
+        "card_name": "Professor Clover",
+        "set_name": "Emperors in the New World",
+        "card_text": "[On Play] If your Leader is [Nico Robin], look at 3 cards from the top of your deck; reveal up to 1 card with a [Trigger] and add it to your hand. Then, place the rest at the bottom of your deck in any order.[Trigger] Activate this card's [On Play] effect.",
+        "set_id": "OP-09",
+        "rarity": "R",
+        "card_set_id": "OP09-102",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "1",
+        "card_power": "0",
+        "sub_types": "Ohara",
+        "counter_amount": 2000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-102",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-102.jpg"
+    }
+]

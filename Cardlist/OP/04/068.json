@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 1219 seconds."
-}
+[
+    {
+        "card_name": "Yokozuna",
+        "set_name": "Kingdoms of Intrigue",
+        "card_text": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Your Opponent's Attack] DON!! -1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Return up to 1 of your opponent's Characters with a cost of 2 or less to the owner's hand.",
+        "set_id": "OP-04",
+        "rarity": "C",
+        "card_set_id": "OP04-068",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "3000",
+        "sub_types": "Animal Water Seven",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP04-068",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP04-068.jpg"
+    }
+]

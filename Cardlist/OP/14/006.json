@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 1226 seconds."
-}
+[
+    {
+        "card_name": "Shachi & Penguin",
+        "set_name": "The Azure Sea's Seven",
+        "card_text": "[When Attacking] If this Character has 5000 power or more, give up to 1 of your opponent's Characters 2000 power during this turn.",
+        "set_id": "OP14-EB04",
+        "rarity": "C",
+        "card_set_id": "OP14-006",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "2000",
+        "sub_types": "Heart Pirates",
+        "counter_amount": 1000,
+        "attribute": "Ranged",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP14-006",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP14-006_yPlWFhB.jpg"
+    }
+]

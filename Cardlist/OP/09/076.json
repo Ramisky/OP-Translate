@@ -1,3 +1,59 @@
-{
-    "detail": "Request was throttled. Expected available in 606 seconds."
-}
+[
+    {
+        "card_name": "Roronoa Zoro (076)",
+        "set_name": "Emperors in the New World",
+        "card_text": "[On Play] You may return 1 or more DON!! cards from your field to your DON!! deck: Add up to 1 DON!! card from your DON!! deck and set it as active.",
+        "set_id": "OP-09",
+        "rarity": "R",
+        "card_set_id": "OP09-076",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "5000",
+        "sub_types": "Straw Hat Crew",
+        "counter_amount": 0,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-076",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-076.jpg"
+    },
+    {
+        "card_name": "Roronoa Zoro - OP09-076 (Alternate Art)",
+        "set_name": "Premium Booster -The Best- Vol. 2",
+        "card_text": "[On Play] You may return 1 or more DON!! cards from your field to your DON!! deck: Add up to 1 DON!! card from your DON!! deck and set it as active.",
+        "set_id": "PRB-02",
+        "rarity": "R",
+        "card_set_id": "OP09-076",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "5000",
+        "sub_types": "Straw Hat Crew",
+        "counter_amount": 0,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-076_p2",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-076_p2.jpg"
+    },
+    {
+        "card_name": "Roronoa Zoro - OP09-076",
+        "set_name": "Premium Booster -The Best- Vol. 2",
+        "card_text": "[On Play] You may return 1 or more DON!! cards from your field to your DON!! deck: Add up to 1 DON!! card from your DON!! deck and set it as active.Disclaimer: This card was reprinted from the original set with changes to the copyright information (Note: the original print did not include \"EN\" at the end of the copyright).",
+        "set_id": "PRB-02",
+        "rarity": "R",
+        "card_set_id": "OP09-076",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "5000",
+        "sub_types": "Straw Hat Crew",
+        "counter_amount": 0,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-076_r2",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-076_r2.jpg"
+    }
+]

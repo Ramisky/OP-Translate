@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 241 seconds."
-}
+[
+    {
+        "card_name": "Kelly Funk",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "[On Play] Play up to 1 [Bobby Funk] from your hand.",
+        "set_id": "OP15-EB04",
+        "rarity": "C",
+        "card_set_id": "OP15-043",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "3000",
+        "sub_types": "Dressrosa Mogaro Kingdom",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP15-043",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP15-043_OOqOx5V.jpg"
+    }
+]

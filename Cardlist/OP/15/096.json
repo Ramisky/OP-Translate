@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 1427 seconds."
-}
+[
+    {
+        "card_name": "Swallow Bond en Avant",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "[Main] You may rest 1 of your DON!! cards: If your Leader has the {Straw Hat Crew} type, trash 5 cards from the top of your deck.\n[Counter] You may trash 1 card from your hand: Up to 1 of your Leader or Character cards gains +3000 power during this battle.",
+        "set_id": "OP15-EB04",
+        "rarity": "R",
+        "card_set_id": "OP15-096",
+        "card_color": "Black",
+        "card_type": "Event",
+        "life": null,
+        "card_cost": "0",
+        "card_power": null,
+        "sub_types": "Straw Hat Crew",
+        "counter_amount": 0,
+        "attribute": null,
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP15-096",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP15-096_AlG6gfK.jpg"
+    }
+]

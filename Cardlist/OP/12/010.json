@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 98 seconds."
-}
+[
+    {
+        "card_name": "Douglas Bullet",
+        "set_name": "Legacy of the Master",
+        "card_text": null,
+        "set_id": "OP-12",
+        "rarity": "UC",
+        "card_set_id": "OP12-010",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "7000",
+        "sub_types": "FILM The Pirates Fest Former Roger Pirates",
+        "counter_amount": 2000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP12-010",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP12-010_WcE3NpY.jpg"
+    }
+]

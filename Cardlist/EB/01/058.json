@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Mont Blanc Cricket",
+        "set_name": "Extra Booster: Memorial Collection",
+        "card_text": "[DON!! x1] [Your Turn] If you have 2 or less Life cards, this Character gains +2000 power.",
+        "set_id": "EB-01",
+        "rarity": "C",
+        "card_set_id": "EB01-058",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "3000",
+        "sub_types": "Monkey Mountain Alliance",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "EB01-058",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/EB01-058.jpg"
+    }
+]

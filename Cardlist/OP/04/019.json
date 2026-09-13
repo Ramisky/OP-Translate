@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 1240 seconds."
-}
+[
+    {
+        "card_name": "Donquixote Doflamingo (019)",
+        "set_name": "Kingdoms of Intrigue",
+        "card_text": "[End of Your Turn] Set up to 2 of your DON!! cards as active.",
+        "set_id": "OP-04",
+        "rarity": "L",
+        "card_set_id": "OP04-019",
+        "card_color": "Green Purple",
+        "card_type": "Leader",
+        "life": "4",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Donquixote Pirates The Seven Warlords of the Sea",
+        "counter_amount": null,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP04-019",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP04-019.jpg"
+    },
+    {
+        "card_name": "Donquixote Doflamingo (019) (Alternate Art)",
+        "set_name": "Kingdoms of Intrigue",
+        "card_text": "[End of Your Turn] Set up to 2 of your DON!! cards as active.",
+        "set_id": "OP-04",
+        "rarity": "L",
+        "card_set_id": "OP04-019",
+        "card_color": "Green Purple",
+        "card_type": "Leader",
+        "life": "4",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Donquixote Pirates The Seven Warlords of the Sea",
+        "counter_amount": null,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP04-019_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP04-019_p1.jpg"
+    }
+]

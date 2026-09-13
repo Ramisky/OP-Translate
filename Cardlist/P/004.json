@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Crocodile (Promotion Pack 2022)",
+        "set_name": "One Piece Promotion Cards",
+        "card_text": "[DON!! x1] This Character gains [Blocker]\n(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+        "set_id": "P",
+        "rarity": "PR",
+        "card_set_id": "P-004",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Baroque Works The Seven Warlords of the Sea",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "P-004",
+        "card_image": null
+    }
+]

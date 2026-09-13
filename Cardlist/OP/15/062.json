@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 158 seconds."
-}
+[
+    {
+        "card_name": "Captain Seamars",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": null,
+        "set_id": "OP15-EB04",
+        "rarity": "UC",
+        "card_set_id": "OP15-062",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "The Moon Space Pirates",
+        "counter_amount": 2000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP15-062",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP15-062_uz3oxdx.jpg"
+    }
+]

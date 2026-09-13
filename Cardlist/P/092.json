@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Koby (OP12 Release Event)",
+        "set_name": "One Piece Promotion Cards",
+        "card_text": "[Opponent's Turn] Give this Character -3000 power.[When Attacking] If your Leader has the \"Navy\" type, your Leader's base power becomes 7000 until the end of your opponent's next turn.",
+        "set_id": "P",
+        "rarity": "PR",
+        "card_set_id": "P-092",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "7",
+        "card_power": "7000",
+        "sub_types": "Navy SWORD",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "P-092_pr1",
+        "card_image": null
+    },
+    {
+        "card_name": "Koby (Event Pack Vol. 7)",
+        "set_name": "One Piece Promotion Cards",
+        "card_text": "[Opponent's Turn] Give this Character -3000 power.\n[When Attacking] If your Leader has the \"Navy\" type, your Leader's base power becomes 7000 until the end of your opponent's next turn.",
+        "set_id": "P",
+        "rarity": "PR",
+        "card_set_id": "P-092",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "7",
+        "card_power": "7000",
+        "sub_types": "Navy SWORD",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "P-092",
+        "card_image": "https://www.optcgapi.com/media/static/Card_Images/Koby_Event_Pack_Vol._7_img.jpg"
+    }
+]

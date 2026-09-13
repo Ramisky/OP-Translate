@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 182 seconds."
-}
+[
+    {
+        "card_name": "Inazuma",
+        "set_name": "Legacy of the Master",
+        "card_text": null,
+        "set_id": "OP-12",
+        "rarity": "UC",
+        "card_set_id": "OP12-083",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Revolutionary Army",
+        "counter_amount": 2000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP12-083",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP12-083_Qk2gX9w.jpg"
+    }
+]

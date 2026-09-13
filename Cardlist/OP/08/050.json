@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 451 seconds."
-}
+[
+    {
+        "card_name": "Namule",
+        "set_name": "Two Legends",
+        "card_text": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] Draw 2 cards and place 2 cards from your hand at the top or bottom of your deck in any order.",
+        "set_id": "OP-08",
+        "rarity": "C",
+        "card_set_id": "OP08-050",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "2000",
+        "sub_types": "Fish-Man Whitebeard Pirates",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-050",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-050.jpg"
+    }
+]

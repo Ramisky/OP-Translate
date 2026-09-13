@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 247 seconds."
-}
+[
+    {
+        "card_name": "Tony Tony.Chopper (OP15-107)",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": null,
+        "set_id": "OP15-EB04",
+        "rarity": "UC",
+        "card_set_id": "OP15-107",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "6000",
+        "sub_types": "Animal Straw Hat Crew Sky Island",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP15-107",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP15-107_qA62dB5.jpg"
+    }
+]

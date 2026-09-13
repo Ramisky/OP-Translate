@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 145 seconds."
-}
+[
+    {
+        "card_name": "Octoballoon",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "[Trigger] Draw 1 card. Then, play up to 1 yellow Character or Stage card with a cost of 2 or less from your hand.",
+        "set_id": "OP15-EB04",
+        "rarity": "C",
+        "card_set_id": "OP15-106",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "0",
+        "sub_types": "Animal Sky Island",
+        "counter_amount": 1000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP15-106",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP15-106_OMRP1T5.jpg"
+    }
+]

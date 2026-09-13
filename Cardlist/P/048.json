@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Arlong (Premium Card Collection -Live Action Edition-)",
+        "set_name": "One Piece Promotion Cards",
+        "card_text": "[DON!! x1] [When Attacking] If you have 4 or more Life cards, your opponent places 1 card from their hand at the bottom of their deck.",
+        "set_id": "P",
+        "rarity": "PR",
+        "card_set_id": "P-048",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "Fish-Man Arlong Pirates",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "P-048_pr1",
+        "card_image": "https://www.optcgapi.com/media/static/Card_Images/Arlong_Premium_Card_Collection_-Live_Action_Edition-_img.jpg"
+    },
+    {
+        "card_name": "Arlong (Sealed Battle Kit Vol. 1)",
+        "set_name": "One Piece Promotion Cards",
+        "card_text": "[DON!! x1] [When Attacking] If you have 4 or more Life cards, your opponent places 1 card from their hand at the bottom of their deck.",
+        "set_id": "P",
+        "rarity": "PR",
+        "card_set_id": "P-048",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "Fish-Man Arlong Pirates",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "P-048",
+        "card_image": "https://www.optcgapi.com/media/static/Card_Images/Arlong_Sealed_Battle_Kit_Vol._1_img.jpg"
+    }
+]

@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 246 seconds."
-}
+[
+    {
+        "card_name": "Alvida",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "If this Character would be K.O.'d, you may trash 1 Character card with a power of 6000 or less from your hand instead.\n[Activate: Main] [Once Per Turn] You may give 1 of your opponent's rested DON!! cards to 1 of your opponent's Characters: Give up to 1 rested DON!! card to its owner's Leader or 1 of their Characters.",
+        "set_id": "OP15-EB04",
+        "rarity": "R",
+        "card_set_id": "OP15-003",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "East Blue Alvida Pirates",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP15-003",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP15-003_tgjIXHg.jpg"
+    },
+    {
+        "card_name": "Alvida (Alternate Art)",
+        "set_name": "Adventure on Kami's Island",
+        "card_text": "If this Character would be K.O.'d, you may trash 1 Character card with a power of 6000 or less from your hand instead.\n[Activate: Main] [Once Per Turn] You may give 1 of your opponent's rested DON!! cards to 1 of your opponent's Characters: Give up to 1 rested DON!! card to its owner's Leader or 1 of their Characters.",
+        "set_id": "OP15-EB04",
+        "rarity": "R",
+        "card_set_id": "OP15-003",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "East Blue Alvida Pirates",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP15-003_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP15-003_p1_h0AKASO.jpg"
+    }
+]

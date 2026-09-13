@@ -1,3 +1,59 @@
-{
-    "detail": "Request was throttled. Expected available in 1738 seconds."
-}
+[
+    {
+        "card_name": "Jesus Burgess",
+        "set_name": "Emperors in the New World",
+        "card_text": "This Character cannot be K.O.'d by your opponent's effects.\nIf your Leader has the \"Blackbeard Pirates\" type, this Character gains +1000 power for every 4 cards in your trash.",
+        "set_id": "OP-09",
+        "rarity": "R",
+        "card_set_id": "OP09-086",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Blackbeard Pirates",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-086",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-086.jpg"
+    },
+    {
+        "card_name": "Jesus Burgess (Alternate Art)",
+        "set_name": "Premium Booster -The Best- Vol. 2",
+        "card_text": "This Character cannot be K.O.'d by your opponent's effects.If your Leader has the \"Blackbeard Pirates\" type, this Character gains +1000 power for every 4 cards in your trash.",
+        "set_id": "PRB-02",
+        "rarity": "R",
+        "card_set_id": "OP09-086",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Blackbeard Pirates",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-086_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-086_p1.jpg"
+    },
+    {
+        "card_name": "Jesus Burgess (Reprint)",
+        "set_name": "Premium Booster -The Best- Vol. 2",
+        "card_text": "This Character cannot be K.O.'d by your opponent's effects.If your Leader has the \"Blackbeard Pirates\" type, this Character gains +1000 power for every 4 cards in your trash.Disclaimer: This card was reprinted from the original set with changes to the copyright information (Note: the original print did not include \"EN\" at the end of the copyright).",
+        "set_id": "PRB-02",
+        "rarity": "R",
+        "card_set_id": "OP09-086",
+        "card_color": "Black",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Blackbeard Pirates",
+        "counter_amount": 0,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-086_r2",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-086_r2.jpg"
+    }
+]

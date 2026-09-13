@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 1260 seconds."
-}
+[
+    {
+        "card_name": "Crocodile (060)",
+        "set_name": "Kingdoms of Intrigue",
+        "card_text": "[On Play] DON!! -2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your Leader's type includes \"Baroque Works\", add up to 1 card from the top of your deck to the top of your Life cards. [On Your Opponent's Attack] [Once Per Turn] DON!! -1: Draw 1 card and trash 1 card from your hand.",
+        "set_id": "OP-04",
+        "rarity": "SR",
+        "card_set_id": "OP04-060",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "8",
+        "card_power": "9000",
+        "sub_types": "Baroque Works The Seven Warlords of the Sea",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP04-060",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP04-060.jpg"
+    },
+    {
+        "card_name": "Crocodile (060) (Alternate Art)",
+        "set_name": "Kingdoms of Intrigue",
+        "card_text": "[On Play] DON!! -2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your Leader's type includes \"Baroque Works\", add up to 1 card from the top of your deck to the top of your Life cards. [On Your Opponent's Attack] [Once Per Turn] DON!! -1: Draw 1 card and trash 1 card from your hand.",
+        "set_id": "OP-04",
+        "rarity": "SR",
+        "card_set_id": "OP04-060",
+        "card_color": "Purple",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "8",
+        "card_power": "9000",
+        "sub_types": "Baroque Works The Seven Warlords of the Sea",
+        "counter_amount": 0,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP04-060_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP04-060_p1.jpg"
+    }
+]

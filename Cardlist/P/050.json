@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Sanji (Sealed Battle Kit Vol. 1)",
+        "set_name": "One Piece Promotion Cards",
+        "card_text": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[DON!! x1] [Your Turn] If you have 3 or less cards in your hand, this Character gains +4000 power.",
+        "set_id": "P",
+        "rarity": "PR",
+        "card_set_id": "P-050",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "2000",
+        "sub_types": "Straw Hat Crew",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "P-050_pr1",
+        "card_image": "https://www.optcgapi.com/media/static/Card_Images/Sanji_Sealed_Battle_Kit_Vol._1_img.jpg"
+    },
+    {
+        "card_name": "Sanji (Premium Card Collection -Live Action Edition-)",
+        "set_name": "One Piece Promotion Cards",
+        "card_text": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)\n[DON!! x1] [Your Turn] If you have 3 or less cards in your hand, this Character gains +4000 power.",
+        "set_id": "P",
+        "rarity": "PR",
+        "card_set_id": "P-050",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "2000",
+        "sub_types": "Straw Hat Crew",
+        "counter_amount": 1000,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "P-050",
+        "card_image": "https://www.optcgapi.com/media/static/Card_Images/Sanji_Premium_Card_Collection_-Live_Action_Edition-_img.jpg"
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Nami (Heroines Battle Pack)",
+        "set_name": "One Piece Promotion Cards",
+        "card_text": "[On Play] If your Leader is [Nami], give up to 1 rested DON!! card to your Leader. Then, play up to 1 Character card with a cost of 2 or less from your hand.",
+        "set_id": "P",
+        "rarity": "PR",
+        "card_set_id": "P-112",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Straw Hat Crew",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "P-112_pr1",
+        "card_image": "https://www.optcgapi.com/media/static/Card_Images/Nami_Heroines_Battle_Pack_img.jpg"
+    },
+    {
+        "card_name": "Nami (Heroines Battle Winner Pack)",
+        "set_name": "One Piece Promotion Cards",
+        "card_text": "[On Play] If your Leader is [Nami], give up to 1 rested DON!! card to your Leader. Then, play up to 1 Character card with a cost of 2 or less from your hand.",
+        "set_id": "P",
+        "rarity": "PR",
+        "card_set_id": "P-112",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Straw Hat Crew",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "P-112",
+        "card_image": "https://www.optcgapi.com/media/static/Card_Images/Nami_Heroines_Battle_Winner_Pack_img.jpg"
+    }
+]

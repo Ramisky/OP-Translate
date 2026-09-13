@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 2473 seconds."
-}
+[
+    {
+        "card_name": "Hanger",
+        "set_name": "Kingdoms of Intrigue",
+        "card_text": "[Activate:Main] You may trash 1 card from your hand and rest this Character: Draw 1 card.",
+        "set_id": "OP-04",
+        "rarity": "C",
+        "card_set_id": "OP04-050",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "2",
+        "card_power": "0",
+        "sub_types": "East Blue",
+        "counter_amount": 1000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP04-050",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP04-050.jpg"
+    }
+]

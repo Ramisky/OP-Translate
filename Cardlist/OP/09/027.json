@@ -1,3 +1,59 @@
-{
-    "detail": "Request was throttled. Expected available in 619 seconds."
-}
+[
+    {
+        "card_name": "Sabo (027)",
+        "set_name": "Emperors in the New World",
+        "card_text": "[When Attacking] [Once Per Turn] If you have 3 or more rested Characters, draw 1 card.",
+        "set_id": "OP-09",
+        "rarity": "UC",
+        "card_set_id": "OP09-027",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Revolutionary Army ODYSSEY",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-027",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-027.jpg"
+    },
+    {
+        "card_name": "Sabo - OP09-027 (Pirate Foil)",
+        "set_name": "Premium Booster -The Best- Vol. 2",
+        "card_text": "[When Attacking] [Once Per Turn] If you have 3 or more rested Characters, draw 1 card.",
+        "set_id": "PRB-02",
+        "rarity": "UC",
+        "card_set_id": "OP09-027",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Revolutionary Army ODYSSEY",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-027_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-027_p1.jpg"
+    },
+    {
+        "card_name": "Sabo - OP09-027 (Reprint)",
+        "set_name": "Premium Booster -The Best- Vol. 2",
+        "card_text": "[When Attacking] [Once Per Turn] If you have 3 or more rested Characters, draw 1 card.Disclaimer: This card was reprinted from the original set with changes to the copyright information (Note: the original print did not include \"EN\" at the end of the copyright).",
+        "set_id": "PRB-02",
+        "rarity": "UC",
+        "card_set_id": "OP09-027",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Revolutionary Army ODYSSEY",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-027_r1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-027_r1.jpg"
+    }
+]

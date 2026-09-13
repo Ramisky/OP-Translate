@@ -1,3 +1,59 @@
-{
-    "detail": "Request was throttled. Expected available in 608 seconds."
-}
+[
+    {
+        "card_name": "Lim (037)",
+        "set_name": "Emperors in the New World",
+        "card_text": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 \"ODYSSEY\" type card other than [Lim] and add it to your hand. Then, place the rest at the bottom of your deck in any order.\n[End of Your Turn] If you have 3 or more rested Characters, set this Character as active.",
+        "set_id": "OP-09",
+        "rarity": "SR",
+        "card_set_id": "OP09-037",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "5000",
+        "sub_types": "ODYSSEY",
+        "counter_amount": 0,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-037",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-037.jpg"
+    },
+    {
+        "card_name": "Lim (037) (Parallel)",
+        "set_name": "Emperors in the New World",
+        "card_text": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 \"ODYSSEY\" type card other than [Lim] and add it to your hand. Then, place the rest at the bottom of your deck in any order.\n[End of Your Turn] If you have 3 or more rested Characters, set this Character as active.",
+        "set_id": "OP-09",
+        "rarity": "SR",
+        "card_set_id": "OP09-037",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "5000",
+        "sub_types": "ODYSSEY",
+        "counter_amount": 0,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-037_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-037_p1.jpg"
+    },
+    {
+        "card_name": "Lim (SP)",
+        "set_name": "Legacy of the Master",
+        "card_text": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 \"ODYSSEY\" type card other than [Lim] and add it to your hand. Then, place the rest at the bottom of your deck in any order.\n[End of Your Turn] If you have 3 or more rested Characters, set this Character as active.",
+        "set_id": "OP-12",
+        "rarity": "SR",
+        "card_set_id": "OP09-037",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "5000",
+        "sub_types": "ODYSSEY",
+        "counter_amount": 0,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-037_p2",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-037_p2_9ZL08cD.jpg"
+    }
+]

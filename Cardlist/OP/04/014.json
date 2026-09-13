@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 2419 seconds."
-}
+[
+    {
+        "card_name": "Monkey.D.Luffy (014)",
+        "set_name": "Kingdoms of Intrigue",
+        "card_text": "[Banish] (When this card deals damage, the target card is trashed without activating its Trigger.)",
+        "set_id": "OP-04",
+        "rarity": "UC",
+        "card_set_id": "OP04-014",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "8",
+        "card_power": "9000",
+        "sub_types": "Alabasta Straw Hat Crew",
+        "counter_amount": 0,
+        "attribute": "Strike",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP04-014",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP04-014.jpg"
+    }
+]

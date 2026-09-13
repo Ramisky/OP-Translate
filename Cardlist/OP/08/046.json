@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 1732 seconds."
-}
+[
+    {
+        "card_name": "Shakuyaku",
+        "set_name": "Two Legends",
+        "card_text": "[Your Turn] [Once Per Turn] When a Character is removed from the field by your effect, if your opponent has 5 or more cards in their hand, your opponent places 1 card from their hand at the bottom of their deck. Then, rest this Character.",
+        "set_id": "OP-08",
+        "rarity": "R",
+        "card_set_id": "OP08-046",
+        "card_color": "Blue",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "5",
+        "card_power": "6000",
+        "sub_types": "Amazon Lily",
+        "counter_amount": 1000,
+        "attribute": "Wisdom",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP08-046",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP08-046.jpg"
+    }
+]

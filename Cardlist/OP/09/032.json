@@ -1,3 +1,21 @@
-{
-    "detail": "Request was throttled. Expected available in 1744 seconds."
-}
+[
+    {
+        "card_name": "Donquixote Rosinante (032)",
+        "set_name": "Emperors in the New World",
+        "card_text": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)\n[On Your Opponent's Attack] [Once Per Turn] Set this Character as active.",
+        "set_id": "OP-09",
+        "rarity": "UC",
+        "card_set_id": "OP09-032",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "4000",
+        "sub_types": "Donquixote Pirates Navy ODYSSEY",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP09-032",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP09-032.jpg"
+    }
+]

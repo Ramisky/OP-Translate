@@ -1,0 +1,21 @@
+[
+    {
+        "card_name": "Jellyfish Pirates (One Piece Film Red)",
+        "set_name": "One Piece Promotion Cards",
+        "card_text": null,
+        "set_id": "P",
+        "rarity": "PR",
+        "card_set_id": "P-012",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "3",
+        "card_power": "5000",
+        "sub_types": "Film Jellyfish Pirates",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-07",
+        "card_image_id": "P-012",
+        "card_image": "https://www.optcgapi.com/media/static/Card_Images/Jellyfish_Pirates_One_Piece_Film_Red_img.jpg"
+    }
+]

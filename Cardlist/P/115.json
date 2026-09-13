@@ -1,0 +1,40 @@
+[
+    {
+        "card_name": "Boa Hancock (OP15 Release Event)",
+        "set_name": "One Piece Promotion Cards",
+        "card_text": "[On Play] Give up to 1-rested DON!! card to your Leader or 1 of your Characters.[Trigger] Play up to 1 yellow Character card with 5000 power or less and a [Trigger] from your hand.",
+        "set_id": "P",
+        "rarity": "PR",
+        "card_set_id": "P-115",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "7000",
+        "sub_types": "Kuja Pirates The Seven Warlords of the Sea",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "P-115_pr1",
+        "card_image": "https://www.optcgapi.com/media/static/Card_Images/Boa_Hancock_OP15_Release_Event_img.jpg"
+    },
+    {
+        "card_name": "Boa Hancock (OP15 Release Event Winner)",
+        "set_name": "One Piece Promotion Cards",
+        "card_text": "[On Play] Give up to 1-rested DON!! card to your Leader or 1 of your Characters.\n[Trigger] Play up to 1 yellow Character card with 5000 power or less and a [Trigger] from your hand.",
+        "set_id": "P",
+        "rarity": "PR",
+        "card_set_id": "P-115",
+        "card_color": "Yellow",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "6",
+        "card_power": "7000",
+        "sub_types": "Kuja Pirates The Seven Warlords of the Sea",
+        "counter_amount": 1000,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "P-115",
+        "card_image": null
+    }
+]

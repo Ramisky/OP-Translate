@@ -1,3 +1,40 @@
-{
-    "detail": "Request was throttled. Expected available in 1239 seconds."
-}
+[
+    {
+        "card_name": "Crocodile (058)",
+        "set_name": "Kingdoms of Intrigue",
+        "card_text": "[Opponent's Turn] [Once Per Turn] When a DON!! card on your field is returned to your DON!! deck by your effect, add up to 1 DON!! card from your DON!! deck and set it as active.",
+        "set_id": "OP-04",
+        "rarity": "L",
+        "card_set_id": "OP04-058",
+        "card_color": "Purple Yellow",
+        "card_type": "Leader",
+        "life": "4",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Baroque Works The Seven Warlords of the Sea",
+        "counter_amount": null,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP04-058",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP04-058.jpg"
+    },
+    {
+        "card_name": "Crocodile (058) (Alternate Art)",
+        "set_name": "Kingdoms of Intrigue",
+        "card_text": "[Opponent's Turn] [Once Per Turn] When a DON!! card on your field is returned to your DON!! deck by your effect, add up to 1 DON!! card from your DON!! deck and set it as active.",
+        "set_id": "OP-04",
+        "rarity": "L",
+        "card_set_id": "OP04-058",
+        "card_color": "Purple Yellow",
+        "card_type": "Leader",
+        "life": "4",
+        "card_cost": null,
+        "card_power": "5000",
+        "sub_types": "Baroque Works The Seven Warlords of the Sea",
+        "counter_amount": null,
+        "attribute": "Special",
+        "date_scraped": "2026-09-12",
+        "card_image_id": "OP04-058_p1",
+        "card_image": "https://optcgapi.com/media/static/Card_Images/OP04-058_p1.jpg"
+    }
+]
