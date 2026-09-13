@@ -3,6 +3,8 @@
 import requests
 import json
 import os
+import time
+import re
 
 from pathlib import Path
 
@@ -25,7 +27,34 @@ def remove_subfield_recursively(data, target_key) -> json:
         for item in data:
             remove_subfield_recursively(item, target_key)
     return data
+
+def make_api_call(url, max_retries=3):
+    retries = 0
     
+    while retries < max_retries:
+        response = requests.get(url)
+        
+        # Check if the response is JSON
+        try:
+            data = response.json()
+        except ValueError:
+            # Not a JSON response, return the text or handle error
+            return response.text
+
+        # Check if the response is a throttle message
+        if isinstance(data, dict) and "detail" in data and "Request was throttled" in data["detail"]:
+            # Extract the wait time (e.g., 180) from the string using regex
+            match = re.search(r"Expected available in (\d+) seconds", data["detail"])
+            if match:
+                wait_time = int(match.group(1))
+                print(f"Throttled! Waiting {wait_time} seconds before retrying...")
+                time.sleep(wait_time)
+                retries += 1
+                continue  # Loop back and retry the request
+                
+        return data  # Return successful data if not throttled
+        
+    raise Exception("Max retries exceeded due to API throttling.")
 
 def downloadJSONByPath(path: Path) -> json:
     file_name = f"{path.parent.parent.stem}{path.parent.stem}-{path.stem}/"
@@ -38,8 +67,7 @@ def downloadJSONByPath(path: Path) -> json:
         file_name = f"{path.parent.stem}-{path.stem}/"
         URL = os.path.join(P_URL_STEM, file_name)
 
-    response = requests.get(URL)
-    response_text = response.json()
+    response_text = make_api_call(URL)
     response_text = remove_subfield_recursively(response_text, 'inventory_price')
     response_text = remove_subfield_recursively(response_text, 'market_price')
     return response_text
