@@ -42,7 +42,6 @@ def deleteTempFolder(tmpdir: str):
 def selectReleaseType() -> Release:
     while (user_input := input("Enter 'EB', 'OP', 'P', 'PRB', or 'ST': ").strip().upper()) not in ('EB', 'OP', 'P', 'PRB', 'ST'):
         print("Invalid choice!")
-    print(f"You successfully selected: {user_input}")
     return Release[user_input]
 
 # Function for fetching all the release numbers under the type selected
@@ -56,7 +55,6 @@ def grabReleaseNumbers(release: Release) -> list[str]:
 def grabReleaseNumber(releaseNumbers: list[str]) -> str:
     while (user_input := input("Enter Release Number " + releaseNumbers[0] + " -> " + releaseNumbers[-1] + ": " ).strip().upper()) not in releaseNumbers:
         print("Invalid choice!")
-    print(f"You successfully selected: {user_input}")
     return user_input
 
 # Function for fetching all the card numbers under the release number selected
@@ -70,21 +68,12 @@ def grabReleaseCards(release: Release, releaseNumber: str) -> list[str]:
 def grabReleaseCard(releaseCards: list[str]) -> str:
     while (user_input := input("Enter Card Number " + releaseCards[0] + " -> " + releaseCards[-1] + ": " ).strip().upper()) not in releaseCards:
         print("Invalid choice!")
-    print(f"You successfully selected: {user_input}")
     return user_input
 
 def grabNumberOfCard() -> int:
         while (user_input := input("Enter Number of Card to print 1 -> 4: " ).strip().upper()) not in ('1', '2', '3', '4'):
             print("Invalid choice!")
-        print(f"You successfully selected: {user_input}")
         return int(user_input)
-
-# function to combine the image URL
-def formImageURL(releaseType: Release, releaseNumber: str, releaseCard: str) -> str:
-    release = releaseType.name + releaseNumber
-    fullCardNumber = release + "-" + releaseCard
-    imageURL = IMAGE_URL_PREFIX + release + "/" + fullCardNumber + "_EN.webp"
-    return imageURL
 
 # function to download the card image to our temp folder
 def downloadImage(imageURL: str, tmpdir: str, number: int):
@@ -174,7 +163,6 @@ def grabCardArtPairs(releaseType: str, releaseNumber: str, releaseCard: str):
         with open(filename, "r", encoding="utf-8") as file:
             # 2. Parse the JSON safely
             data = json.load(file)
-            print(find_pairs_recursively(data))
             return find_pairs_recursively(data)
 
     except FileNotFoundError:
@@ -184,15 +172,13 @@ def grabCardArtPairs(releaseType: str, releaseNumber: str, releaseCard: str):
         # 3. Handle malformed or corrupted JSON safely without crashing
         print(f"Invalid JSON format. Error on line {e.lineno}, column {e.colno}: {e.msg}")
 
-def pickCardArtPair(cardArtPairs: dict, numberOfCard: int):
+def pickCardArtPair(cardArtPairs: dict):
     print('Pick a Card from the following')
     for i in range(1, len(cardArtPairs.keys()) + 1):
         print (str(i) + ': ' + list(cardArtPairs)[i - 1])
     while (user_input := int(input("Enter Selection: " ).strip().upper())) not in range(1, len(cardArtPairs.keys()) + 1):
         print("Invalid choice!")
-    print(f"You successfully selected: {user_input}")
-    downloadImage(cardArtPairs.get(list(cardArtPairs)[user_input - 1]), tmpdir, numberOfCard)
-
+    return cardArtPairs.get(list(cardArtPairs)[user_input - 1])
 
 def main(tmpdir: str):
     releaseType = selectReleaseType()
@@ -200,13 +186,12 @@ def main(tmpdir: str):
     releaseNumber = grabReleaseNumber(releaseNumbers)
     releaseCards = grabReleaseCards(releaseType, releaseNumber)
     releaseCard = grabReleaseCard(releaseCards)
-    numberOfCard = grabNumberOfCard()
-    imageURL = formImageURL(releaseType, releaseNumber, releaseCard)
     cardArtPairs = grabCardArtPairs(releaseType, releaseNumber, releaseCard)
-    pickCardArtPair(cardArtPairs, numberOfCard)
+    imageURL = pickCardArtPair(cardArtPairs)
+    numberOfCard = grabNumberOfCard()
+    downloadImage(imageURL, tmpdir, numberOfCard)
 
     print(releaseType.name + releaseNumber + "-" + releaseCard)
-    print(imageURL)
 
 if __name__ == "__main__":
     tmpdir = createTempFolder()
