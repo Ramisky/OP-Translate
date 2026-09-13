@@ -183,7 +183,6 @@ def grabCardArtPairs(releaseType: str, releaseNumber: str, releaseCard: str):
     except json.JSONDecodeError as e:
         # 3. Handle malformed or corrupted JSON safely without crashing
         print(f"Invalid JSON format. Error on line {e.lineno}, column {e.colno}: {e.msg}")
-    image_mapping = {card["card_image_id"]: card["card_image"] for card in cards_list}
 
 def pickCardArtPair(cardArtPairs: dict, numberOfCard: int):
     print('Pick a Card from the following')
