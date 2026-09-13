@@ -24,6 +24,7 @@ IMAGE_END_Y = 838
 class Release(Enum):
     EB = "EB"
     OP = "OP"
+    P = "P"
     PRB = "PRB"
     ST = "ST"
 
@@ -39,7 +40,7 @@ def deleteTempFolder(tmpdir: str):
 
 # Function for letting the user pick the Release type, resolves to the Enum
 def selectReleaseType() -> Release:
-    while (user_input := input("Enter 'EB', 'OP', 'PRB', or 'ST': ").strip().upper()) not in ('EB', 'OP', 'PRB', 'ST'):
+    while (user_input := input("Enter 'EB', 'OP', 'P', 'PRB', or 'ST': ").strip().upper()) not in ('EB', 'OP', 'P', 'PRB', 'ST'):
         print("Invalid choice!")
     print(f"You successfully selected: {user_input}")
     return Release[user_input]
