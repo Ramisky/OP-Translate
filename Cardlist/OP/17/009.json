@@ -1,3 +1,23 @@
-{
-    "detail": "Request was throttled. Expected available in 1 second."
-}
+[
+    {
+        "inventory_price": 0.04,
+        "market_price": 0.09,
+        "card_name": "Haruta",
+        "set_name": "The World's Strongest Warriors",
+        "card_text": "[Opponent's Turn] This Character gains +3000 power.\n\n[On Play] K.O. up to 1 of your opponent's Characters with 2000 base power or less.",
+        "set_id": "OP-17",
+        "rarity": "UC",
+        "card_set_id": "OP17-009",
+        "card_color": "Red",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "4",
+        "card_power": "5000",
+        "sub_types": "Whitebeard Pirates",
+        "counter_amount": 1000,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-24",
+        "card_image_id": "OP17-009",
+        "card_image": "https://www.optcgapi.com/media/static/Card_Images/OP17-009_cRtYaCi.jpg"
+    }
+]

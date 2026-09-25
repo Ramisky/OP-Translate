@@ -1,3 +1,65 @@
-{
-    "detail": "Request was throttled. Expected available in 1 second."
-}
+[
+    {
+        "inventory_price": 1.75,
+        "market_price": 3.35,
+        "card_name": "Shanks (022)",
+        "set_name": "The World's Strongest Warriors",
+        "card_text": "[Rush] (This card can attack on the turn in which it is played.)\n[On Play] Set up to 2 of your DON!! cards as active. Then, rest all of your opponent's Characters.",
+        "set_id": "OP-17",
+        "rarity": "SR",
+        "card_set_id": "OP17-022",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "10",
+        "card_power": "12000",
+        "sub_types": "The Four Emperors Red-Haired Pirates",
+        "counter_amount": 0,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-24",
+        "card_image_id": "OP17-022",
+        "card_image": "https://www.optcgapi.com/media/static/Card_Images/OP17-022_sTZjYso.jpg"
+    },
+    {
+        "inventory_price": 34.01,
+        "market_price": 34.05,
+        "card_name": "Shanks (022) (Alternate Art)",
+        "set_name": "The World's Strongest Warriors",
+        "card_text": "[Rush] (This card can attack on the turn in which it is played.)\n[On Play] Set up to 2 of your DON!! cards as active. Then, rest all of your opponent's Characters.",
+        "set_id": "OP-17",
+        "rarity": "SR",
+        "card_set_id": "OP17-022",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "10",
+        "card_power": "12000",
+        "sub_types": "The Four Emperors Red-Haired Pirates",
+        "counter_amount": 0,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-24",
+        "card_image_id": "OP17-022_p1",
+        "card_image": "https://www.optcgapi.com/media/static/Card_Images/OP17-022_p1_KiACYS0.jpg"
+    },
+    {
+        "inventory_price": 1400.0,
+        "market_price": 1502.19,
+        "card_name": "Shanks (022) (Manga)",
+        "set_name": "The World's Strongest Warriors",
+        "card_text": "[Rush] (This card can attack on the turn in which it is played.)[On Play] Set up to 2 of your DON!! cards as active. Then, rest all of your opponent's Characters.",
+        "set_id": "OP-17",
+        "rarity": "SR",
+        "card_set_id": "OP17-022",
+        "card_color": "Green",
+        "card_type": "Character",
+        "life": null,
+        "card_cost": "10",
+        "card_power": "12000",
+        "sub_types": "The Four Emperors Red-Haired Pirates",
+        "counter_amount": 0,
+        "attribute": "Slash",
+        "date_scraped": "2026-09-24",
+        "card_image_id": "OP17-022_p2",
+        "card_image": "https://www.optcgapi.com/media/static/Card_Images/OP17-022_p2.jpg"
+    }
+]
